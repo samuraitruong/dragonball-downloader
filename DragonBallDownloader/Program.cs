@@ -81,7 +81,7 @@ namespace DragonBallDownloader
 
             Parallel.ForEach(loops, new ParallelOptions() {MaxDegreeOfParallelism = options.Thread}, (s, state, index) => {
                 var url = string.Format(series.Url, s);
-                var output = DownloadFile(url, "output").Result;
+                var output = DownloadFile(url, options.Output).Result;
 
             });
 
