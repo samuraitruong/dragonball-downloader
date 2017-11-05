@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonBallDownloader", "DragonBallDownloader\DragonBallDownloader.csproj", "{31ED3CB7-0035-475F-B558-65BE1E1E4C8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".travis", ".travis", "{82095FBD-F045-4D45-B868-07CC826706BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31ED3CB7-0035-475F-B558-65BE1E1E4C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31ED3CB7-0035-475F-B558-65BE1E1E4C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31ED3CB7-0035-475F-B558-65BE1E1E4C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31ED3CB7-0035-475F-B558-65BE1E1E4C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
