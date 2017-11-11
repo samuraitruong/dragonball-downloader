@@ -6,6 +6,9 @@ using System.Collections.Generic;
 using Fclp;
 using System.Linq;
 using System.Threading;
+using System.Net.Http;
+using System.Net.Http.Headers;
+using System.Collections.Concurrent;
 
 namespace DragonBallDownloader
 {
@@ -15,6 +18,7 @@ namespace DragonBallDownloader
         public string Output { get; set; }
         public int Thread { get; set; }
         public string RenameTo { get; set; }
+        public long Buffer { get; set; }
 
         public static FluentCommandLineParser<ApplicationArguments> Setup()
         {
@@ -29,13 +33,18 @@ namespace DragonBallDownloader
             p.Setup(arg => arg.Thread)
              .As('t', "threads")
              .WithDescription("Set number of concurency chapter you want to download. default is 2")
-             .SetDefault(2);
+             .SetDefault(16);
 
             p.Setup(arg => arg.Series)
              .As('s', "series")
              .WithDescription("5 available series are : classic, dragonballz, dragonballgt, dragonballkai, dragonballsuper")
              .SetDefault("classic"); // use
 
+            p.Setup(arg => arg.Buffer)
+            .As('b', "buffer") // define the short and long option name
+            .WithDescription("Set the size of buffer")
+            .SetDefault(1000*1024); 
+            
             p.Setup(arg => arg.RenameTo)
             .As('r', "rename-to")
              .SetDefault("{0:00}.mp4"); // use
@@ -50,8 +59,16 @@ namespace DragonBallDownloader
     }
     class Program
     {
+        static int wTop = 0;
         static void Main(string[] args)
         {
+            string urltest = "http://saiyanwatch.com/videos/dragon-ball/007.mp4";
+            //urltest = "https://cdn.photographylife.com/wp-content/uploads/2012/02/Nikon-D800-Image-Sample-1.jpg";
+            //test/
+
+            //(url, "test", 20);
+            //return;
+
             var parser = ApplicationArguments.Setup();
             parser.HelpOption.ShowHelp((parser.Options));
 
@@ -79,10 +96,11 @@ namespace DragonBallDownloader
 
             var loops = Enumerable.Range(1, series.Chap);
 
-            Parallel.ForEach(loops, new ParallelOptions() {MaxDegreeOfParallelism = options.Thread}, (s, state, index) => {
+            Parallel.ForEach(loops, new ParallelOptions() {MaxDegreeOfParallelism = 1}, (s, state, index) => {
                 var url = string.Format(series.Url, s);
-                var output = DownloadFile(url, options.Output).Result;
+                //var output = DownloadFile(url, options.Output).Result;
 
+                DownloadFileWithMultipleThread(url, options.Output, options.Thread);
             });
 
             //var output = DownloadFile(url, "output").Result;
@@ -90,6 +108,153 @@ namespace DragonBallDownloader
             Console.WriteLine("Cool!!!, All file have been downloaded. please check output folder");
 
         }
+
+        static void WriteStatus(List<int> statuses, ConsoleColor color = ConsoleColor.DarkGreen){
+            Console.SetCursorPosition(0,2);
+            var old = Console.ForegroundColor;
+            int count = 0;
+            foreach (var item in statuses)
+            {
+                Console.ForegroundColor = ConsoleColor.Gray;
+                if (item == 1) Console.ForegroundColor =  ConsoleColor.DarkYellow;
+                if(item == 2 ) Console.ForegroundColor = color;
+                Console.Write("██ ");
+                count++;
+                count = count % 25;
+
+                if (count == 0) Console.WriteLine("");
+
+            }
+            Console.ForegroundColor = old;
+            Console.WriteLine("");
+
+        }
+        static string DownloadFileWithMultipleThread(string url, string folder, int thread = 10)
+        {
+            Console.Clear();
+            string filename = Path.GetFileName(url);
+            string output = Path.Combine(folder, filename);
+
+            if (!Directory.Exists(folder))
+            {
+                Directory.CreateDirectory(folder);
+            }
+            int mb = 1024 * 1000;
+
+            int chunkSize = 1024 * 1000; //1MB
+            int numberOfChunks = 0;
+            double totalSizeBytes = 0;
+            double downloadedBytes = 0;
+
+            using (var webClient = new WebClient())
+            {
+                var stream = webClient.OpenRead(url);
+                totalSizeBytes = Convert.ToInt64(webClient.ResponseHeaders["Content-Length"]);
+                if (File.Exists(output))
+                {
+
+                    var fi = new FileInfo(output);
+                    if (fi.Length == (long)totalSizeBytes)
+                    {
+                        Console.WriteLine($"[{filename}] - Has been downloaded, ignore download this file, using -f or --force to re-download this file.");
+                        return output;
+                    }
+                }
+
+                Console.WriteLine($"Downloading {filename} | Size {totalSizeBytes/mb:0.00} MB ");
+                numberOfChunks = (int)(totalSizeBytes / chunkSize) + (((long)totalSizeBytes % chunkSize != 0) ? 1 : 0);
+            }
+
+            //Initial empty file 
+            var locker = new Object();
+            string tempFile = output + ".chunks";
+
+            using (var fs = new FileStream(tempFile, FileMode.Create, FileAccess.Write, FileShare.None))
+            {
+                fs.SetLength((long)totalSizeBytes);
+            
+
+                ConcurrentDictionary<int, int> chunks = new ConcurrentDictionary<int, int>();
+                for (int i = 1; i <= numberOfChunks; i++)
+                {
+                    chunks.TryAdd(i,0);
+                }
+                var list = chunks.Keys.Select(x => chunks[x]).ToList();
+                WriteStatus(list);
+                var startTime = DateTime.Now;
+
+                Parallel.ForEach(Enumerable.Range(1, numberOfChunks), new ParallelOptions() { MaxDegreeOfParallelism = thread }, (s, state, index) =>
+                {
+                string chunkFileName = output + "." + s;
+                long chunkStart = (s - 1) * chunkSize;
+                long chunkEnd = Math.Min(chunkStart + chunkSize - 1, (long)totalSizeBytes);
+                lock (locker)
+                {
+                    chunks.TryUpdate(s, 1, 0);
+                    list = chunks.Keys.Select(x => chunks[x]).ToList();
+                    WriteStatus(list);
+                }
+
+                var chunkDownload = DownloadChunk(url, chunkStart, chunkEnd, chunkFileName).Result;
+
+                lock (locker)
+                {
+                    downloadedBytes += chunkDownload.Length;
+                    var ts = DateTime.Now - startTime;
+                    var kbs = (downloadedBytes / 1000) / ts.TotalSeconds;
+                        var eta = (totalSizeBytes - downloadedBytes)/1024 / kbs;
+                        Console.SetCursorPosition(0, 1);
+
+                        Console.WriteLine($"#{s} | Received: {downloadedBytes/mb:0.00} MB - {downloadedBytes/totalSizeBytes:P2} | Speed : {kbs:0.00} kbs | ETA: {eta /3600:00}:{eta/60:00}:{eta%60:00}");
+
+                        fs.Seek(chunkStart, SeekOrigin.Begin);
+                        fs.Write(chunkDownload, 0 , chunkDownload.Length);
+                        chunks.TryUpdate(s, 2, 1);
+                        list = chunks.Keys.Select(x => chunks[x]).ToList();
+                        WriteStatus(list);
+
+                    }
+
+                });
+            }
+
+            Console.WriteLine("\r\nFile Download completed.");
+            File.Move(tempFile, output);
+            return output;
+
+        }
+
+        private static async Task<byte[]> DownloadChunk(string url, long chunkStart, long chunkEnd, string chunkFileName, int retry = 3)
+        {
+            byte[] data = null;
+            try
+            {
+
+
+                using (var client = new HttpClient(new HttpClientHandler { AutomaticDecompression = DecompressionMethods.Deflate | DecompressionMethods.GZip })){
+                    var request = new HttpRequestMessage { RequestUri = new Uri(url) };
+                    request.Headers.Range = new RangeHeaderValue(chunkStart, chunkEnd);
+
+                    var response = await client.SendAsync(request);
+                    data = await response.Content.ReadAsByteArrayAsync();
+                }
+            }
+            catch(Exception ex ){
+                if (retry > 0)
+                    return await DownloadChunk(url, chunkStart, chunkEnd, chunkFileName, retry - 1);
+
+                        throw ex;
+            }
+            /*using (var fs = File.OpenWrite(chunkFileName))
+            {
+                
+                fs.Write(data, 0, data.Length);
+            }*/
+            //Console.SetCursorPosition(0, 1);
+            //Console.WriteLine("Chunk #" + chunkFileName  + "[" + data.Length.ToString()+"]");
+            return data;//chunkFileName;
+        }
+
         static async Task<String> DownloadFile(string url, string folder) {
 
             DateTime start = DateTime.Now;

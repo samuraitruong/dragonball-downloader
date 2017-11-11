@@ -2,6 +2,7 @@
 *~
 /output
 /out
+/test
 # build
 [Oo]bj/
 [Bb]in/
@@ -9,6 +10,7 @@ packages/
 TestResults/
 DragonBallDownloader/output/
 DragonBallDownloader/out/
+DragonBallDownloader/test/
 # globs
 Makefile.in
 *.DS_Store
