@@ -59,16 +59,8 @@ namespace DragonBallDownloader
     }
     class Program
     {
-        static int wTop = 0;
         static void Main(string[] args)
         {
-            string urltest = "http://saiyanwatch.com/videos/dragon-ball/007.mp4";
-            //urltest = "https://cdn.photographylife.com/wp-content/uploads/2012/02/Nikon-D800-Image-Sample-1.jpg";
-            //test/
-
-            //(url, "test", 20);
-            //return;
-
             var parser = ApplicationArguments.Setup();
             parser.HelpOption.ShowHelp((parser.Options));
 
@@ -100,10 +92,8 @@ namespace DragonBallDownloader
                 var url = string.Format(series.Url, s);
                 //var output = DownloadFile(url, options.Output).Result;
 
-                DownloadFileWithMultipleThread(url, options.Output, options.Thread);
+                DownloadFileWithMultipleThread(url, options.Output, options.Thread, options.Buffer);
             });
-
-            //var output = DownloadFile(url, "output").Result;
 
             Console.WriteLine("Cool!!!, All file have been downloaded. please check output folder");
 
@@ -129,7 +119,7 @@ namespace DragonBallDownloader
             Console.WriteLine("");
 
         }
-        static string DownloadFileWithMultipleThread(string url, string folder, int thread = 10)
+        static string DownloadFileWithMultipleThread(string url, string folder, int thread = 10, long chunkSize=1024000)
         {
             Console.Clear();
             string filename = Path.GetFileName(url);
@@ -141,7 +131,6 @@ namespace DragonBallDownloader
             }
             int mb = 1024 * 1000;
 
-            int chunkSize = 1024 * 1000; //1MB
             int numberOfChunks = 0;
             double totalSizeBytes = 0;
             double downloadedBytes = 0;
@@ -243,7 +232,7 @@ namespace DragonBallDownloader
                 if (retry > 0)
                     return await DownloadChunk(url, chunkStart, chunkEnd, chunkFileName, retry - 1);
 
-                        throw ex;
+                throw ex;
             }
             /*using (var fs = File.OpenWrite(chunkFileName))
             {
