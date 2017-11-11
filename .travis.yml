@@ -8,6 +8,7 @@ script:
 - echo $TRAVIS_BUILD_DIR
 - dotnet build
 - dotnet publish -c Release -o $TRAVIS_BUILD_DIR/out
+- zip -r $TRAVIS_BUILD_DIR/out/release.zip $TRAVIS_BUILD_DIR/out
 - ls -alt $TRAVIS_BUILD_DIR/out
 deploy:
   skip_cleanup: true
@@ -15,7 +16,7 @@ deploy:
   api_key:
     secure: j2f8EB7vBapK2ET/oM/reHIjUqkTHwgczYhEveGrM9unGoWCkM8gJqA4yD5VCi7rm7Bfn44dKVEUEtNslwVOlQLfmKNvulA5XNpeIR5uXBFsuUd2WpxYDqDokCVh7tlqIsx4ZS2DxYvdDRfFV2cAWlSp6XSAmpG0egH2RJdC6UMWVE9ixeVQXS25T0TWFp+tipgK02ObwtNxvoxqWRr1kzRjVB1uE9QoPGYEYK51PS57foDwrBBrV0aRn9E6TIDBL8LJM6ZJ/NL6JtkA/B2cnHAeI5uRMtY75G5cZir9t+t0rzer7wW35v+fhBgkFvsVc2uHBOFtEFTOPGtpbzViDhEu6sZhXiGZUlcwsXlTozEUb72Q0PCFbcviTs8DaCCCUmt430DYLdO25FKx3Rixb0MKSOsO9GwPbeOEZy6xHHWi/Hn+3MjArgBedP+N3HFXjXbu/DTREnSs/sS7HnysFoMvd6ggdxUHIMbE3M93dEzPAtiD1Pg8wybkmDG1Q3vIBDZTH5uZkJ/F4pUbanahLnXPVciOsNTGCXGvQ/Vo/5UY75Rs+TuxAozQ2ZzN04tMJbGk159a5YYcPUFwkKPdS1XZHr/199Su9gIu6V3roGfdry/MLuUNhb7Ys1E2UxuomZglk48VvjyY8ZqSeD1y7yiOWFIUXUE+WiNTyJP4cwo=
   file_glob: true
-  file: $TRAVIS_BUILD_DIR/out/*.*
+  file: $TRAVIS_BUILD_DIR/out/release.zip
   on:
     branches:
       only:
