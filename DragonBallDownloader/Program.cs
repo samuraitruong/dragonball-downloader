@@ -98,25 +98,28 @@ namespace DragonBallDownloader
             Console.WriteLine("Cool!!!, All file have been downloaded. please check output folder");
 
         }
-
+        private static  Object consoleLocker = new Object();
         static void WriteStatus(List<int> statuses, ConsoleColor color = ConsoleColor.DarkGreen){
-            Console.SetCursorPosition(0,2);
-            var old = Console.ForegroundColor;
-            int count = 0;
-            foreach (var item in statuses)
+            lock (consoleLocker)
             {
-                Console.ForegroundColor = ConsoleColor.Gray;
-                if (item == 1) Console.ForegroundColor =  ConsoleColor.DarkYellow;
-                if(item == 2 ) Console.ForegroundColor = color;
-                Console.Write("██ ");
-                count++;
-                count = count % 25;
+                Console.SetCursorPosition(0, 2);
+                var old = Console.ForegroundColor;
+                int count = 0;
+                foreach (var item in statuses)
+                {
+                    Console.ForegroundColor = ConsoleColor.Gray;
+                    if (item == 1) Console.ForegroundColor = ConsoleColor.DarkYellow;
+                    if (item == 2) Console.ForegroundColor = color;
+                    Console.Write("██ ");
+                    count++;
+                    count = count % 25;
 
-                if (count == 0) Console.WriteLine("");
+                    if (count == 0) Console.WriteLine("");
 
+                }
+                Console.ForegroundColor = old;
+                Console.WriteLine("");
             }
-            Console.ForegroundColor = old;
-            Console.WriteLine("");
 
         }
         static string DownloadFileWithMultipleThread(string url, string folder, int thread = 10, long chunkSize=1024000)
@@ -192,10 +195,12 @@ namespace DragonBallDownloader
                     var ts = DateTime.Now - startTime;
                     var kbs = (downloadedBytes / 1000) / ts.TotalSeconds;
                         var eta = (totalSizeBytes - downloadedBytes)/1024 / kbs;
-                        Console.SetCursorPosition(0, 1);
+                        lock (consoleLocker)
+                        {
+                            Console.SetCursorPosition(0, 1);
 
-                        Console.WriteLine($"#{s} | Received: {downloadedBytes/mb:0.00} MB - {downloadedBytes/totalSizeBytes:P2} | Speed : {kbs:0.00} kbs | ETA: {eta /3600:00}:{eta/60:00}:{eta%60:00}");
-
+                            Console.WriteLine($"#{s} | Received: {downloadedBytes / mb:0.00} MB - {downloadedBytes / totalSizeBytes:P2} | Speed : {kbs:0.00} kbs | ETA: {eta / 3600:00}:{eta / 60:00}:{eta % 60:00}");
+                        }
                         fs.Seek(chunkStart, SeekOrigin.Begin);
                         fs.Write(chunkDownload, 0 , chunkDownload.Length);
                         chunks.TryUpdate(s, 2, 1);
