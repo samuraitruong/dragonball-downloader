@@ -1,3 +1,6 @@
+# console preview
+![https://imgur.com/a/apzNV](https://i.imgur.com/rVncl1E.png)
+
 # dragonball-downloader
 
 dotnet DragonBallDownloader.dll -s dragonbalgt -t 5 -o output
