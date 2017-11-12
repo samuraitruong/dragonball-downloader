@@ -1,3 +1,4 @@
+
 # Autosave files
 *~
 /output
@@ -11,6 +12,7 @@ TestResults/
 DragonBallDownloader/output/
 DragonBallDownloader/out/
 DragonBallDownloader/test/
+DragonBallDownloader/publish/
 # globs
 Makefile.in
 *.DS_Store

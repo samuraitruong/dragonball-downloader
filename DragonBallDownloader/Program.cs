@@ -82,6 +82,11 @@ namespace DragonBallDownloader
                 {"dragonballsuper",new Series() {Url= "http://saiyanwatch.com/videos/dragon-ball-super-sub/{0:000}.mp4", Chap = 113}}
             };
 
+            if (!sources.ContainsKey(options.Series))
+            {
+                Console.WriteLine("series is not valid value. using ? to see detail");
+                return;
+            }
 
             var series = sources[options.Series];
 
@@ -103,7 +108,7 @@ namespace DragonBallDownloader
 
         }
         private static Object consoleLocker = new Object();
-        static void WriteStatus(List<int> statuses, long blockSize ,ConsoleColor color = ConsoleColor.DarkGreen, bool printLegend = false )
+        static void WriteStatus(List<int> statuses, long blockSize, ConsoleColor color = ConsoleColor.DarkGreen, bool printLegend = false, bool toggleBlink = false)
         {
             lock (consoleLocker)
             {
@@ -113,7 +118,7 @@ namespace DragonBallDownloader
                 foreach (var item in statuses)
                 {
                     Console.ForegroundColor = ConsoleColor.Gray;
-                    if (item == 1) Console.ForegroundColor = ConsoleColor.DarkYellow;
+                    if (item == 1) Console.ForegroundColor = toggleBlink? ConsoleColor.Yellow: ConsoleColor.DarkYellow;
                     if (item == 2) Console.ForegroundColor = color;
                     Console.Write("██ ");
                     count++;
@@ -136,11 +141,12 @@ namespace DragonBallDownloader
                     Console.ForegroundColor = color;
                     Console.WriteLine($"██ : Finish");
 
-                    Console.ForegroundColor =  ConsoleColor.DarkMagenta;
+                    Console.ForegroundColor = ConsoleColor.DarkMagenta;
                     Console.WriteLine($"Total chunks: {statuses.Count()}");
 
-                    Console.WriteLine("\r\n\r\n");
                 }
+                Console.WriteLine("\r\n\r\n");
+
                 Console.ForegroundColor = old;
 
             }
@@ -161,11 +167,25 @@ namespace DragonBallDownloader
             return client;
 
         }
+        static async Task BlinkBlock(Func<List<int>> getList, CancellationToken token)
+        {
+            bool flag = false;
+
+            while (true)
+            {
+                token.ThrowIfCancellationRequested();
+                await Task.Delay(1000, token);
+                WriteStatus(getList(),0, toggleBlink: flag);
+                flag = !flag;
+
+            }
+        }
         static string DownloadFileWithMultipleThread(string url, string folder, int thread = 10, long chunkSize = 1024000)
         {
             string filename = Path.GetFileName(url);
             string output = Path.Combine(folder, filename);
-            if (File.Exists(output)) {
+            if (File.Exists(output))
+            {
                 Console.WriteLine($"[{filename}] - Has been downloaded, ignore download this file, using -f or --force to re-download this file.");
                 return output;
             }
@@ -216,6 +236,7 @@ namespace DragonBallDownloader
             //Initial empty file 
             var locker = new Object();
             string tempFile = output + ".chunks";
+            CancellationTokenSource cts = new CancellationTokenSource();
 
             using (var fs = new FileStream(tempFile, FileMode.Create, FileAccess.Write, FileShare.None))
             {
@@ -228,9 +249,10 @@ namespace DragonBallDownloader
                     chunks.TryAdd(i, 0);
                 }
                 var list = chunks.Keys.Select(x => chunks[x]).ToList();
-                WriteStatus(list, chunkSize, printLegend:true);
+                WriteStatus(list, chunkSize, printLegend: true);
                 var startTime = DateTime.Now;
 
+                BlinkBlock(()=> chunks.Keys.Select(x => chunks[x]).ToList(), cts.Token);
 
                 Parallel.ForEach(Enumerable.Range(1, numberOfChunks), new ParallelOptions() { MaxDegreeOfParallelism = thread }, (s, state, index) =>
                 {
@@ -268,7 +290,8 @@ namespace DragonBallDownloader
 
                 });
             }
-
+            cts.Cancel();
+           
             Console.WriteLine("\r\nFile Download completed.");
             File.Move(tempFile, output);
             return output;
@@ -306,7 +329,7 @@ namespace DragonBallDownloader
             //Console.WriteLine("Chunk #" + chunkFileName  + "[" + data.Length.ToString()+"]");
             return data;//chunkFileName;
         }
-
+        #region Download single file with 1 thread, not being used
         static async Task<String> DownloadFile(string url, string folder)
         {
 
@@ -394,6 +417,7 @@ namespace DragonBallDownloader
             return output;
 
         }
+#endregion
     }
 }
 
