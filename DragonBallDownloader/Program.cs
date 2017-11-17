@@ -19,7 +19,7 @@ namespace DragonBallDownloader
         public int Thread { get; set; }
         public string RenameTo { get; set; }
         public long Buffer { get; set; }
-
+        public string Url { get; set; }
         public static FluentCommandLineParser<ApplicationArguments> Setup()
         {
             var p = new FluentCommandLineParser<ApplicationArguments>();
@@ -29,6 +29,12 @@ namespace DragonBallDownloader
              .As('o', "output") // define the short and long option name
              .WithDescription("Set output folder, default to current folder /output")
              .SetDefault("output"); // using the standard fluent Api to declare this Option as required.
+
+             p.Setup(arg => arg.Url)
+             .As('u', "url") // define the short and long option name
+             .WithDescription("Url to download ");
+             
+
 
             p.Setup(arg => arg.Thread)
              .As('t', "threads")
@@ -60,9 +66,9 @@ namespace DragonBallDownloader
     }
     class Program
     {
-
         static void Main(string[] args)
         {
+
             var parser = ApplicationArguments.Setup();
             parser.HelpOption.ShowHelp((parser.Options));
 
@@ -72,14 +78,19 @@ namespace DragonBallDownloader
             {
                 Console.WriteLine("Please proide ", cmds.ErrorText);
             }
-
             var options = parser.Object;
+            
+            if(!String.IsNullOrEmpty(options.Url)) {
+                DownloadFileWithMultipleThread(options.Url, options.Output, options.Thread, options.Buffer);
+
+                return;
+            }
             var sources = new Dictionary<string, Series>() {
                 {"classic",new Series() {Url= "http://saiyanwatch.com/videos/dragon-ball/{0:000}.mp4", Chap = 149}},
                 {"dragonballz",new Series() {Url= "http://saiyanwatch.com/videos/dragon-ball-z/{0:000}.mp4", Chap = 290}},
                 {"dragonballgt",new Series() {Url= "http://saiyanwatch.com/videos/dragon-ball-gt/{0:000}.mp4", Chap = 64}},
                 {"dragonballkai",new Series() {Url= "http://saiyanwatch.com/videos/dragon-ball-kai/{0:000}.mp4", Chap = 167}},
-                {"dragonballsuper",new Series() {Url= "http://saiyanwatch.com/videos/dragon-ball-super-sub/{0:000}.mp4", Chap = 113}}
+                {"dragonballsuper",new Series() {Url= "http://saiyanwatch.com/videos/dragon-ball-super-sub/{0:000}.mp4", Chap = 115}}
             };
 
             if (!sources.ContainsKey(options.Series))
@@ -132,7 +143,7 @@ namespace DragonBallDownloader
                     Console.WriteLine("\r\n\r\n");
 
                     Console.ForegroundColor = ConsoleColor.Gray;
-                    Console.WriteLine($"██ : Block of {blockSize / (1000 * 1024): 0.00} MB");
+                    Console.WriteLine($"██ : Block of {(double)blockSize / (1000 * 1024): 0.00} MB");
 
                     Console.ForegroundColor = ConsoleColor.DarkYellow;
                     Console.WriteLine($"██ : Downloading");
@@ -174,7 +185,7 @@ namespace DragonBallDownloader
             while (true)
             {
                 token.ThrowIfCancellationRequested();
-                await Task.Delay(1000, token);
+                await Task.Delay(1500, token);
                 WriteStatus(getList(),0, toggleBlink: flag);
                 flag = !flag;
 
@@ -184,6 +195,7 @@ namespace DragonBallDownloader
         {
             string filename = Path.GetFileName(url);
             string output = Path.Combine(folder, filename);
+            string logFile = output + ".log";
             if (File.Exists(output))
             {
                 Console.WriteLine($"[{filename}] - Has been downloaded, ignore download this file, using -f or --force to re-download this file.");
@@ -193,6 +205,28 @@ namespace DragonBallDownloader
             {
                 Directory.CreateDirectory(folder);
             }
+
+            List<int> downloadedChunks = new List<int>();
+            double resumeBytes = 0;
+            
+            if (File.Exists(logFile))
+            {
+                var lines = File.ReadAllLines(logFile);
+                if (lines.Length == 0 || Convert.ToInt32(lines[0]) != chunkSize)
+                {
+                    File.Delete(logFile);
+                    File.WriteAllText(logFile, chunkSize.ToString());
+                }
+                else{
+                    downloadedChunks.AddRange(lines.Skip(1).Select(x => Convert.ToInt32(x)));
+                    resumeBytes = downloadedChunks.Count * chunkSize;
+                }
+            }
+            else{
+                File.WriteAllText(logFile, chunkSize.ToString()); 
+            }
+
+
             int mb = 1024 * 1000;
 
             int numberOfChunks = 0;
@@ -205,23 +239,11 @@ namespace DragonBallDownloader
 
             var response = client.SendAsync(request).Result;
 
-            //using (var webClient = new WebClient())
-            //{
-            //  var stream = webClient.OpenRead(url);
             IEnumerable<string> values;
             if (response.Content.Headers.TryGetValues("Content-Length", out values))
             {
                 totalSizeBytes = Convert.ToInt64(values.First());
-                /*if (File.Exists(output))
-                {
-
-                    var fi = new FileInfo(output);
-                    if (fi.Length == (long)totalSizeBytes)
-                    {
-                        Console.WriteLine($"[{filename}] - Has been downloaded, ignore download this file, using -f or --force to re-download this file.");
-                        return output;
-                    }
-                }*/
+                
                 lock (consoleLocker)
                 {
                     Console.Clear();
@@ -238,7 +260,7 @@ namespace DragonBallDownloader
             string tempFile = output + ".chunks";
             CancellationTokenSource cts = new CancellationTokenSource();
 
-            using (var fs = new FileStream(tempFile, FileMode.Create, FileAccess.Write, FileShare.None))
+            using (var fs = new FileStream(tempFile, FileMode.OpenOrCreate, FileAccess.Write, FileShare.None))
             {
                 fs.SetLength((long)totalSizeBytes);
 
@@ -246,7 +268,7 @@ namespace DragonBallDownloader
                 ConcurrentDictionary<int, int> chunks = new ConcurrentDictionary<int, int>();
                 for (int i = 1; i <= numberOfChunks; i++)
                 {
-                    chunks.TryAdd(i, 0);
+                    chunks.TryAdd(i, downloadedChunks.Contains(i)? 2 : 0);
                 }
                 var list = chunks.Keys.Select(x => chunks[x]).ToList();
                 WriteStatus(list, chunkSize, printLegend: true);
@@ -254,7 +276,7 @@ namespace DragonBallDownloader
 
                 BlinkBlock(()=> chunks.Keys.Select(x => chunks[x]).ToList(), cts.Token);
 
-                Parallel.ForEach(Enumerable.Range(1, numberOfChunks), new ParallelOptions() { MaxDegreeOfParallelism = thread }, (s, state, index) =>
+                Parallel.ForEach(Enumerable.Range(1, numberOfChunks).Where(x => !downloadedChunks.Contains(x)), new ParallelOptions() { MaxDegreeOfParallelism = thread }, (s, state, index) =>
                 {
                     string chunkFileName = output + "." + s;
                     long chunkStart = (s - 1) * chunkSize;
@@ -273,18 +295,19 @@ namespace DragonBallDownloader
                         downloadedBytes += chunkDownload.Length;
                         var ts = DateTime.Now - startTime;
                         var kbs = (downloadedBytes / 1000) / ts.TotalSeconds;
-                        var eta = (totalSizeBytes - downloadedBytes) / 1024 / kbs;
+                        var eta = (totalSizeBytes - downloadedBytes-resumeBytes) / 1024 / kbs;
                         lock (consoleLocker)
                         {
                             Console.SetCursorPosition(0, 1);
 
-                            Console.WriteLine($"#{s} | Received: {downloadedBytes / mb:0.00} MB - {downloadedBytes / totalSizeBytes:P2} | Speed : {kbs:0.00} kbs | ETA: {eta / 3600:00}:{eta / 60:00}:{eta % 60:00}");
+                            Console.WriteLine($"#{s:000} | Received: {(downloadedBytes  + resumeBytes)/ mb:0.00} MB - {(downloadedBytes  + resumeBytes) / totalSizeBytes:P2} | Speed : {kbs:0.00} KB/s | ETA: {eta / 3600:00}:{eta / 60:00}:{eta % 60:00}");
                         }
                         fs.Seek(chunkStart, SeekOrigin.Begin);
                         fs.Write(chunkDownload, 0, chunkDownload.Length);
                         chunks.TryUpdate(s, 2, 1);
                         list = chunks.Keys.Select(x => chunks[x]).ToList();
                         WriteStatus(list, chunkSize);
+                        File.AppendAllText(logFile, "\r\n"+s);
 
                     }
 
@@ -294,6 +317,7 @@ namespace DragonBallDownloader
            
             Console.WriteLine("\r\nFile Download completed.");
             File.Move(tempFile, output);
+            File.Delete(logFile);
             return output;
 
         }
