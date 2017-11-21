@@ -119,44 +119,84 @@ namespace DragonBallDownloader
 
         }
         private static Object consoleLocker = new Object();
+        static int start = 0;
+        static int end = 0;
         static void WriteStatus(List<int> statuses, long blockSize, ConsoleColor color = ConsoleColor.DarkGreen, bool printLegend = false, bool toggleBlink = false)
         {
             lock (consoleLocker)
             {
+                int col = Console.WindowWidth;
+                int row = Console.WindowHeight;
+
+                int blockPerRow = col/3;
+                int totalBlockCanDisplay = blockPerRow * (row-6);
+                if(end ==0) end = Math.Min(statuses.Count, totalBlockCanDisplay);
+
+                if(statuses.Count > totalBlockCanDisplay) {
+                    var half = totalBlockCanDisplay/2;
+                    
+                    var lastDownloadItem = statuses.LastIndexOf(1);
+                    if(lastDownloadItem > (totalBlockCanDisplay + start-2)) {
+                        start = statuses.IndexOf(1);
+                        if(start == -1) {
+                            start = statuses.LastIndexOf(2);
+                        }
+                        start = Math.Max(0, start);
+
+                        end = Math.Min(statuses.Count, start + totalBlockCanDisplay);
+                        int index =0;
+                        if(end -start < totalBlockCanDisplay) {
+                            //clear screen
+                            Console.SetCursorPosition(0, 2);
+                            for (var i=0; i< totalBlockCanDisplay; i++)
+                            {
+                                Console.Write("   ");
+                                index++;
+                                index = index % blockPerRow;
+                                if (index == 0) Console.WriteLine("");
+
+                            }
+                        }
+
+                    }
+                } 
                 Console.SetCursorPosition(0, 2);
                 var old = Console.ForegroundColor;
                 int count = 0;
-                foreach (var item in statuses)
+                //Console.Title = $"{start} > xxx < {end} : total canbe {totalBlockCanDisplay}";
+                for (var i=start; i< end; i++)
                 {
+                    
+                    var item = statuses[i];
                     Console.ForegroundColor = ConsoleColor.Gray;
                     if (item == 1) Console.ForegroundColor = toggleBlink? ConsoleColor.Yellow: ConsoleColor.DarkYellow;
                     if (item == 2) Console.ForegroundColor = color;
                     Console.Write("██ ");
                     count++;
-                    count = count % 25;
+                    count = count % blockPerRow;
 
                     if (count == 0) Console.WriteLine("");
 
                 }
                 if (printLegend)
                 {
-                    Console.WriteLine("\r\n\r\n");
+                    Console.WriteLine("\r\n");
 
                     Console.ForegroundColor = ConsoleColor.Gray;
-                    Console.WriteLine($"██ : Block of {(double)blockSize / (1000 * 1024): 0.00} MB");
+                    Console.Write($"██ = {(double)blockSize / (1000 * 1024): 0.00} MB\t");
 
                     Console.ForegroundColor = ConsoleColor.DarkYellow;
-                    Console.WriteLine($"██ : Downloading");
+                    Console.Write($"██ : Downloading\t");
 
 
                     Console.ForegroundColor = color;
-                    Console.WriteLine($"██ : Finish");
+                    Console.Write($"██ : Finished\t");
 
                     Console.ForegroundColor = ConsoleColor.DarkMagenta;
-                    Console.WriteLine($"Total chunks: {statuses.Count()}");
+                    Console.WriteLine($"Chunks: {statuses.Count()}");
 
                 }
-                Console.WriteLine("\r\n\r\n");
+                
 
                 Console.ForegroundColor = old;
 
