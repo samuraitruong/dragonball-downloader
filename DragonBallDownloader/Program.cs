@@ -144,18 +144,10 @@ namespace DragonBallDownloader
                         start = Math.Max(0, start);
 
                         end = Math.Min(statuses.Count, start + totalBlockCanDisplay);
-                        int index =0;
+                        
                         if(end -start < totalBlockCanDisplay) {
-                            //clear screen
-                            Console.SetCursorPosition(0, 2);
-                            for (var i=0; i< totalBlockCanDisplay; i++)
-                            {
-                                Console.Write("   ");
-                                index++;
-                                index = index % blockPerRow;
-                                if (index == 0) Console.WriteLine("");
-
-                            }
+                            end = totalBlockCanDisplay;
+                            start = end - totalBlockCanDisplay;   
                         }
 
                     }
