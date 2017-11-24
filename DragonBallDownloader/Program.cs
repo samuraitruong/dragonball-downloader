@@ -9,7 +9,8 @@ using System.Threading;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Collections.Concurrent;
-
+using Console = Colorful.Console;
+using System.Drawing;
 namespace DragonBallDownloader
 {
     public class ApplicationArguments
@@ -55,7 +56,7 @@ namespace DragonBallDownloader
             .As('r', "rename-to")
              .SetDefault("{0:00}.mp4"); // use
             p.SetupHelp("?", "help")
-          .Callback(text => Console.WriteLine(text));
+          .Callback(text => Console.WriteLine(text, Color.Red));
             return p;
         }
     }
@@ -76,7 +77,7 @@ namespace DragonBallDownloader
 
             if (cmds.HasErrors)
             {
-                Console.WriteLine("Please proide ", cmds.ErrorText);
+                Console.WriteLine("Please provide " + cmds.ErrorText, Color.Red);
             }
             var options = parser.Object;
             
@@ -90,20 +91,20 @@ namespace DragonBallDownloader
                 {"dragonballz",new Series() {Url= "http://saiyanwatch.com/videos/dragon-ball-z/{0:000}.mp4", Chap = 290}},
                 {"dragonballgt",new Series() {Url= "http://saiyanwatch.com/videos/dragon-ball-gt/{0:000}.mp4", Chap = 64}},
                 {"dragonballkai",new Series() {Url= "http://saiyanwatch.com/videos/dragon-ball-kai/{0:000}.mp4", Chap = 167}},
-                {"dragonballsuper",new Series() {Url= "http://saiyanwatch.com/videos/dragon-ball-super-sub/{0:000}.mp4", Chap = 115}}
+                {"dragonballsuper",new Series() {Url= "http://saiyanwatch.com/videos/dragon-ball-super-sub/{0:000}.mp4", Chap = 118}}
             };
 
             if (!sources.ContainsKey(options.Series))
             {
-                Console.WriteLine("series is not valid value. using ? to see detail");
+                Console.WriteLine("series is not valid value. using ? to see detail", Color.Red);
                 return;
             }
 
             var series = sources[options.Series];
 
-            Console.WriteLine("DRAGON BALL MOVIE DOWNLOADER");
-            Console.WriteLine("Series: {0}", options.Series);
-            Console.WriteLine("Total Chapter: {0}", series.Chap);
+            Console.WriteLine("DRAGON BALL MOVIE DOWNLOADER", Color.Azure);
+            Console.WriteLine("Series: {0}", options.Series, Color.DimGray);
+            Console.WriteLine("Total Chapter: {0}", series.Chap, Color.DimGray);
 
             var loops = Enumerable.Range(1, series.Chap);
 
@@ -115,14 +116,15 @@ namespace DragonBallDownloader
                 DownloadFileWithMultipleThread(url, options.Output, options.Thread, options.Buffer);
             });
 
-            Console.WriteLine("Cool!!!, All file have been downloaded. please check output folder");
+            Console.WriteLine("Cool!!!, All file have been downloaded. please check output folder", Color.Green);
 
         }
         private static Object consoleLocker = new Object();
         static int start = 0;
         static int end = 0;
-        static void WriteStatus(List<int> statuses, long blockSize, ConsoleColor color = ConsoleColor.DarkGreen, bool printLegend = false, bool toggleBlink = false)
+        static void WriteStatus(List<int> statuses, long blockSize, bool printLegend = false, bool toggleBlink = false)
         {
+            Color color = Color.DarkGreen;
             lock (consoleLocker)
             {
                 int col = Console.WindowWidth;
@@ -130,8 +132,11 @@ namespace DragonBallDownloader
 
                 int blockPerRow = col/3;
                 int totalBlockCanDisplay = blockPerRow * (row-6);
-                if(end ==0) end = Math.Min(statuses.Count, totalBlockCanDisplay);
+                var old = Console.ForegroundColor;
 
+                if(end ==0) end = Math.Min(statuses.Count, totalBlockCanDisplay);
+            try{
+                
                 if(statuses.Count > totalBlockCanDisplay) {
                     var half = totalBlockCanDisplay/2;
                     
@@ -146,24 +151,22 @@ namespace DragonBallDownloader
                         end = Math.Min(statuses.Count, start + totalBlockCanDisplay);
                         
                         if(end -start < totalBlockCanDisplay) {
-                            end = totalBlockCanDisplay;
+                            end = statuses.Count;
                             start = end - totalBlockCanDisplay;   
                         }
 
                     }
                 } 
                 Console.SetCursorPosition(0, 2);
-                var old = Console.ForegroundColor;
+                
                 int count = 0;
                 //Console.Title = $"{start} > xxx < {end} : total canbe {totalBlockCanDisplay}";
                 for (var i=start; i< end; i++)
                 {
                     
                     var item = statuses[i];
-                    Console.ForegroundColor = ConsoleColor.Gray;
-                    if (item == 1) Console.ForegroundColor = toggleBlink? ConsoleColor.Yellow: ConsoleColor.DarkYellow;
-                    if (item == 2) Console.ForegroundColor = color;
-                    Console.Write("██ ");
+                    if (item == 1) color= toggleBlink? Color.Yellow: Color.DarkOrange;
+                    Console.Write("██ ", color);
                     count++;
                     count = count % blockPerRow;
 
@@ -174,23 +177,24 @@ namespace DragonBallDownloader
                 {
                     Console.WriteLine("\r\n");
 
-                    Console.ForegroundColor = ConsoleColor.Gray;
-                    Console.Write($"██ = {(double)blockSize / (1000 * 1024): 0.00} MB\t");
+                    
+                    Console.Write($"██ = {(double)blockSize / (1000 * 1024): 0.00} MB\t", Color.Gray);
 
-                    Console.ForegroundColor = ConsoleColor.DarkYellow;
-                    Console.Write($"██ : Downloading\t");
+                    Console.Write($"██ : Downloading\t", Color.Yellow);
 
+                    Console.Write($"██ : Finished\t", color);
 
-                    Console.ForegroundColor = color;
-                    Console.Write($"██ : Finished\t");
-
-                    Console.ForegroundColor = ConsoleColor.DarkMagenta;
-                    Console.WriteLine($"Chunks: {statuses.Count()}");
+                    Console.WriteLine($"Chunks: {statuses.Count()}", Color.Magenta);
 
                 }
-                
+            }
+            catch(Exception ex) {
 
+            }
+            finally{
                 Console.ForegroundColor = old;
+                    
+            }
 
             }
 
@@ -218,7 +222,7 @@ namespace DragonBallDownloader
             {
                 token.ThrowIfCancellationRequested();
                 await Task.Delay(1500, token);
-                WriteStatus(getList(),0, toggleBlink: flag);
+                WriteStatus(getList(),0,toggleBlink: flag);
                 flag = !flag;
 
             }
@@ -230,7 +234,7 @@ namespace DragonBallDownloader
             string logFile = output + ".log";
             if (File.Exists(output))
             {
-                Console.WriteLine($"[{filename}] - Has been downloaded, ignore download this file, using -f or --force to re-download this file.");
+                Console.WriteLine($"[{filename}] - Has been downloaded, ignore download this file, using -f or --force to re-download this file.", Color.DimGray);
                 return output;
             }
             if (!Directory.Exists(folder))
@@ -280,7 +284,7 @@ namespace DragonBallDownloader
                 {
                     Console.Clear();
 
-                    Console.WriteLine($"Downloading {filename} | Size {totalSizeBytes / mb:0.00} MB ");
+                    Console.WriteLine($"Downloading {filename} | Size {totalSizeBytes / mb:0.00} MB ", Color.DarkOrange);
                 }
                 numberOfChunks = (int)(totalSizeBytes / chunkSize) + (((long)totalSizeBytes % chunkSize != 0) ? 1 : 0);
             }
