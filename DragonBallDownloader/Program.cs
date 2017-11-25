@@ -122,9 +122,10 @@ namespace DragonBallDownloader
         private static Object consoleLocker = new Object();
         static int start = 0;
         static int end = 0;
+        static DateTime lastStatusUpdate = DateTime.Now;
         static void WriteStatus(List<int> statuses, long blockSize, bool printLegend = false, bool toggleBlink = false)
         {
-            Color color = Color.DarkGreen;
+            lastStatusUpdate = DateTime.Now;
             lock (consoleLocker)
             {
                 int col = Console.WindowWidth;
@@ -132,7 +133,6 @@ namespace DragonBallDownloader
 
                 int blockPerRow = col/3;
                 int totalBlockCanDisplay = blockPerRow * (row-6);
-                var old = Console.ForegroundColor;
 
                 if(end ==0) end = Math.Min(statuses.Count, totalBlockCanDisplay);
             try{
@@ -163,9 +163,12 @@ namespace DragonBallDownloader
                 //Console.Title = $"{start} > xxx < {end} : total canbe {totalBlockCanDisplay}";
                 for (var i=start; i< end; i++)
                 {
-                    
+                    Color color = Color.Black;
                     var item = statuses[i];
-                    if (item == 1) color= toggleBlink? Color.Yellow: Color.DarkOrange;
+                    if (item == 1) color = toggleBlink? Color.Yellow: Color.DarkOrange;
+                    if(item == 0) color =  Color.Gray;
+                    if(item == 2) color = Color.DarkGreen;
+
                     Console.Write("██ ", color);
                     count++;
                     count = count % blockPerRow;
@@ -173,29 +176,25 @@ namespace DragonBallDownloader
                     if (count == 0) Console.WriteLine("");
 
                 }
-                if (printLegend)
-                {
-                    Console.WriteLine("\r\n");
-
-                    
-                    Console.Write($"██ = {(double)blockSize / (1000 * 1024): 0.00} MB\t", Color.Gray);
-
-                    Console.Write($"██ : Downloading\t", Color.Yellow);
-
-                    Console.Write($"██ : Finished\t", color);
-
-                    Console.WriteLine($"Chunks: {statuses.Count()}", Color.Magenta);
-
-                }
+                
             }
             catch(Exception ex) {
 
             }
             finally{
-                Console.ForegroundColor = old;
                     
             }
+            if (printLegend)
+                {
+                    Console.WriteLine("\r\n");
 
+                    Console.Write($"██ = {(double)blockSize / (1000 * 1024): 0.00} MB", Color.Gray);
+                    Console.Write($" x{statuses.Count()}\t", Color.Magenta);
+
+                    Console.Write($"██ : Downloading\t", Color.Yellow);
+
+                    Console.WriteLine($"██ : Finished\t", Color.DarkGreen);
+                }
             }
 
         }
@@ -222,13 +221,17 @@ namespace DragonBallDownloader
             {
                 token.ThrowIfCancellationRequested();
                 await Task.Delay(1500, token);
-                WriteStatus(getList(),0,toggleBlink: flag);
+                if((DateTime.Now - lastStatusUpdate).TotalMilliseconds > 1000){
+                   WriteStatus(getList(),0,toggleBlink: flag);     
+                }
+                
                 flag = !flag;
 
             }
         }
         static string DownloadFileWithMultipleThread(string url, string folder, int thread = 10, long chunkSize = 1024000)
         {
+            
             string filename = Path.GetFileName(url);
             string output = Path.Combine(folder, filename);
             string logFile = output + ".log";
@@ -243,6 +246,8 @@ namespace DragonBallDownloader
             }
 
             List<int> downloadedChunks = new List<int>();
+            start = 0;
+            end = 0;
             double resumeBytes = 0;
             
             if (File.Exists(logFile))
@@ -284,7 +289,7 @@ namespace DragonBallDownloader
                 {
                     Console.Clear();
 
-                    Console.WriteLine($"Downloading {filename} | Size {totalSizeBytes / mb:0.00} MB ", Color.DarkOrange);
+                    Console.WriteLine($"Downloading {filename} | Size {totalSizeBytes / mb:0.00} MB ", Color.DarkMagenta);
                 }
                 numberOfChunks = (int)(totalSizeBytes / chunkSize) + (((long)totalSizeBytes % chunkSize != 0) ? 1 : 0);
             }
@@ -299,7 +304,6 @@ namespace DragonBallDownloader
             using (var fs = new FileStream(tempFile, FileMode.OpenOrCreate, FileAccess.Write, FileShare.None))
             {
                 fs.SetLength((long)totalSizeBytes);
-
 
                 ConcurrentDictionary<int, int> chunks = new ConcurrentDictionary<int, int>();
                 for (int i = 1; i <= numberOfChunks; i++)
@@ -441,7 +445,7 @@ namespace DragonBallDownloader
                 var speed = e.BytesReceived / ts.TotalSeconds;
                 double recieved = Math.Round((double)e.BytesReceived / 1024 / 1000, 2);
                 Console.SetCursorPosition(0, position);
-                Console.WriteLine($"[{filename}] Downloading: {recieved} MB/{totalMB:0.00} MB | ({(double)e.BytesReceived / totalSizeBytes:P}) | Speed : {speed / 1024:0.00} kb/s");
+                Console.WriteLine($"[{filename}] Downloading: {recieved} MB/{totalMB:0.00} MB | ({(double)e.BytesReceived / totalSizeBytes:P}) | Speed : {speed / 1024:0.00} kb/s",  Color.DarkGray);
                 lastUpdate = DateTime.Now;
 
             };
