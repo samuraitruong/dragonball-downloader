@@ -11,7 +11,7 @@ using System.Net.Http.Headers;
 using System.Collections.Concurrent;
 using Console = Colorful.Console;
 using System.Drawing;
-namespace DragonBallDownloader
+namespace ConceptDownloader
 {
     public class ApplicationArguments
     {
@@ -21,6 +21,8 @@ namespace DragonBallDownloader
         public string RenameTo { get; set; }
         public long Buffer { get; set; }
         public string Url { get; set; }
+        public bool CrawlMode { get; set; }
+
         public static FluentCommandLineParser<ApplicationArguments> Setup()
         {
             var p = new FluentCommandLineParser<ApplicationArguments>();
@@ -34,37 +36,31 @@ namespace DragonBallDownloader
              p.Setup(arg => arg.Url)
              .As('u', "url") // define the short and long option name
              .WithDescription("Url to download ");
-             
-
 
             p.Setup(arg => arg.Thread)
              .As('t', "threads")
-             .WithDescription("Set number of concurency chapter you want to download. default is 2")
-             .SetDefault(16);
-
-            p.Setup(arg => arg.Series)
-             .As('s', "series")
-             .WithDescription("5 available series are : classic, dragonballz, dragonballgt, dragonballkai, dragonballsuper")
-             .SetDefault("classic"); // use
+             .WithDescription("Set number of concurency chapter you want to download. default is16")
+             .SetDefault(24);
 
             p.Setup(arg => arg.Buffer)
             .As('b', "buffer") // define the short and long option name
             .WithDescription("Set the size of buffer")
-            .SetDefault(1000 * 1024);
+            .SetDefault(5000 * 1024);
 
             p.Setup(arg => arg.RenameTo)
             .As('r', "rename-to")
              .SetDefault("{0:00}.mp4"); // use
+
+            p.Setup(arg => arg.CrawlMode)
+            .As('c', "crawl-mode")
+             .SetDefault(false); // use
+
             p.SetupHelp("?", "help")
           .Callback(text => Console.WriteLine(text, Color.Red));
             return p;
         }
     }
-    struct Series
-    {
-        public string Url { get; set; }
-        public int Chap { get; set; }
-    }
+   
     class Program
     {
         static void Main(string[] args)
@@ -86,37 +82,6 @@ namespace DragonBallDownloader
 
                 return;
             }
-            var sources = new Dictionary<string, Series>() {
-                {"classic",new Series() {Url= "http://saiyanwatch.com/videos/dragon-ball/{0:000}.mp4", Chap = 149}},
-                {"dragonballz",new Series() {Url= "http://saiyanwatch.com/videos/dragon-ball-z/{0:000}.mp4", Chap = 290}},
-                {"dragonballgt",new Series() {Url= "http://saiyanwatch.com/videos/dragon-ball-gt/{0:000}.mp4", Chap = 64}},
-                {"dragonballkai",new Series() {Url= "http://saiyanwatch.com/videos/dragon-ball-kai/{0:000}.mp4", Chap = 167}},
-                {"dragonballsuper",new Series() {Url= "http://saiyanwatch.com/videos/dragon-ball-super-sub/{0:000}.mp4", Chap = 118}}
-            };
-
-            if (!sources.ContainsKey(options.Series))
-            {
-                Console.WriteLine("series is not valid value. using ? to see detail", Color.Red);
-                return;
-            }
-
-            var series = sources[options.Series];
-
-            Console.WriteLine("DRAGON BALL MOVIE DOWNLOADER", Color.Azure);
-            Console.WriteLine("Series: {0}", options.Series, Color.DimGray);
-            Console.WriteLine("Total Chapter: {0}", series.Chap, Color.DimGray);
-
-            var loops = Enumerable.Range(1, series.Chap);
-
-            Parallel.ForEach(loops, new ParallelOptions() { MaxDegreeOfParallelism = 1 }, (s, state, index) =>
-            {
-                var url = string.Format(series.Url, s);
-                //var output = DownloadFile(url, options.Output).Result;
-
-                DownloadFileWithMultipleThread(url, options.Output, options.Thread, options.Buffer);
-            });
-
-            Console.WriteLine("Cool!!!, All file have been downloaded. please check output folder", Color.Green);
 
         }
         private static Object consoleLocker = new Object();
@@ -278,7 +243,7 @@ namespace DragonBallDownloader
 
             var request = new HttpRequestMessage(HttpMethod.Head, new Uri(url));
 
-            var response = client.SendAsync(request).Result;
+            var response = client.SendAsync(request, HttpCompletionOption.ResponseHeadersRead).Result;
 
             IEnumerable<string> values;
             if (response.Content.Headers.TryGetValues("Content-Length", out values))
