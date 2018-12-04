@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptDownloader", "DragonBallDownloader\ConceptDownloader.csproj", "{31ED3CB7-0035-475F-B558-65BE1E1E4C8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptDownloader", "ConceptDownloader\ConceptDownloader.csproj", "{31ED3CB7-0035-475F-B558-65BE1E1E4C8E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".travis", ".travis", "{82095FBD-F045-4D45-B868-07CC826706BF}"
 EndProject

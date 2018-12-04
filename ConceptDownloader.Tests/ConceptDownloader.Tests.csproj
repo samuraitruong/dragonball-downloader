@@ -14,6 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DragonBallDownloader\ConceptDownloader.csproj" />
+    <ProjectReference Include="..\ConceptDownloader\ConceptDownloader.csproj" />
   </ItemGroup>
 </Project>

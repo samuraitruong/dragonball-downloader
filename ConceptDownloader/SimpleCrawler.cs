@@ -11,6 +11,7 @@ namespace ConceptDownloader
     {
         public string Url { get; set; }
         public long Size { get; set; }
+        public string Name { get; set; }
     }
 
     public class SimpleCrawler
@@ -27,10 +28,11 @@ namespace ConceptDownloader
                 var matches = Regex.Matches(html, "href=\"([^\"]*)");
                 results= matches.Cast<Match>().Select(x => new CrawlItem()
                 {
-                    Url = url + x.Groups[0].Value
+                    Url = url + x.Groups[1].Value,
+                    Name = x.Groups[1].Value.Trim()
                 }).ToList();
             }
-            return results;
+            return results.Where(x => x.Name!= "../").ToList();
         }
     }
 }

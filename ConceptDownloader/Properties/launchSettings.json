@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConceptDownloader": {
+      "commandName": "Project",
+      "commandLineArgs": "-u http://dl8.heyserver.in/film/2018-10/ -c true -f 1080p"
+    }
+  }
+}
