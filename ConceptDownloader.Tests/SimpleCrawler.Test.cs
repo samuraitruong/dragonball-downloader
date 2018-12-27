@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 using System.Threading.Tasks;
 using ConceptDownloader;
 using Xunit;
@@ -7,14 +8,60 @@ namespace ConceptDownloader.Tests
 {
     public class SimpleCrawlerTest
     {
-        [Fact]
-        public async Task Test1()
+        private SimpleCrawler crawler;
+        public SimpleCrawlerTest()
         {
-            var list = await SimpleCrawler.GetLinks("http://dl8.heyserver.in/film/2018-11/");
+            crawler = new SimpleCrawler();
+
+        }
+        [Fact]
+        public async Task GetLinks_NoRecursive()
+        {
+            var list = await this.crawler.GetLinks("http://dl8.heyserver.in/film/2018-11/");
             Assert.NotEmpty(list);
 
             Assert.Equal("1987.When.the.Day.Comes.2017.1080p.BluRay.x264.6CH-Pahe.mkv", list[0].Name);
             Assert.Equal("http://dl8.heyserver.in/film/2018-11/1987.When.the.Day.Comes.2017.1080p.BluRay.x264.6CH-Pahe.mkv", list[0].Url);
+            Assert.Equal(2263285833, list[0].Size);
         }
+        [Fact]
+        public async Task GetLinks_Recursive_Return_AllPage()
+        {
+            var list = await this.crawler.GetLinks("http://dl8.heyserver.in/film/", true);
+            Assert.NotEmpty(list);
+            var item = list.FirstOrDefault(x => x.Name == "100.Streets.2016.1080p.BluRay.6CH.x264.HeyDL.mkv");
+            Assert.NotNull(item);
+
+            Assert.Equal("100.Streets.2016.1080p.BluRay.6CH.x264.HeyDL.mkv", item.Name);
+            Assert.Equal("http://dl8.heyserver.in/film/2018-4/100.Streets.2016.1080p.BluRay.6CH.x264.HeyDL.mkv", item.Url);
+            Assert.Equal(1499060011, item.Size);
+        }
+
+        [Theory]
+        [InlineData("aaa.bbb.ccc.1080p.xxx", "aaa.bbb.ccc")]
+        [InlineData("Astral.2018.720p.WEB-DL.MkvCage.mkv", "Astral.2018")]
+        public void ExtractNameTest(string name, string expected)
+        {
+            var outName = this.crawler.ExtractName(name);
+            Assert.Equal(expected, outName);
+        }
+
+        [Fact]
+        public async Task Should_Return_Biggest_Size()
+        {
+            var list = await this.crawler.GetLinks("http://dl8.heyserver.in/film/2018-11/");
+            Assert.NotEmpty(list);
+            var item = list.FirstOrDefault(p => p.Name.Contains("Searching.2018.1080p."));
+
+            Assert.Equal("Searching.2018.1080p.BRRip.6CH.x264.MkvCage.mkv", item.Name);
+            Assert.Equal(2068172847,item.Size);
+
+
+            item = list.FirstOrDefault(p => p.Name.Contains("The.Nun.2018.1080p."));
+
+            Assert.Equal("The.Nun.2018.1080p.BluRay.x264.Dubbed.mkv", item.Name);
+            Assert.Equal(2028884531, item.Size);
+        }
+
     }
 }

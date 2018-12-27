@@ -45,6 +45,7 @@ Thumbs.db
 # dotCover
 *.dotCover
 
+output/
 *.mp4
 .vs
 .vscode
