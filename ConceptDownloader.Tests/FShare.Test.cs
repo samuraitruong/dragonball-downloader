@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading.Tasks;
+using ConceptDownloader.Services;
 using Xunit;
 
 namespace ConceptDownloader.Tests

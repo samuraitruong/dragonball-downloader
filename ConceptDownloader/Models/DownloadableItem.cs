@@ -1,4 +1,6 @@
 ﻿using System;
+using System.IO;
+
 namespace ConceptDownloader.Models
 {
     public class DownloadableItem

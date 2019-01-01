@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 using ConceptDownloader.Models;
 using RestSharp;
 
-namespace ConceptDownloader
+namespace ConceptDownloader.Services
 {
-    public class Fshare
+    public class Fshare : ILinkFetcherService
     {
         private const int TIMEOUT = 100;
         public Fshare()
@@ -82,9 +82,11 @@ namespace ConceptDownloader
                 request.AddHeader("pragma", "no-cache");
                 var response = await client.ExecuteTaskAsync<FShareFolderResponse>(request);
                 var result = FShareFolderResponse.FromJson(response.Content);
+                Console.WriteLine($"Found {result.Items.Count} items ...", ConsoleColor.DarkGreen);
                 if (result.Links.Next != null)
                 {
                     var nextResults = await GetFilesInFolder(result.Links.Next);
+                    if(nextResults != null && nextResults.Items != null)
                     result.Items.AddRange(nextResults.Items);
                 }
                 return result;

@@ -12,6 +12,7 @@ using Console = Colorful.Console;
 using System.Drawing;
 using System.Web;
 using ConceptDownloader.Models;
+using ConceptDownloader.Services;
 
 namespace ConceptDownloader
 {
@@ -23,6 +24,14 @@ namespace ConceptDownloader
         static DateTime lastStatusUpdate = DateTime.Now;
         public static ApplicationArguments options;
         static ConcurrentQueue<bool> waitingQueue = new ConcurrentQueue<bool>();
+        private static List<ILinkFetcherService> supportedServices = new List<ILinkFetcherService>()
+        {
+           // new LinkVip(),
+            new TaiVeCF(),
+            new AnLinkTop(),
+            new Fshare()
+        };
+
         static async Task WriteWaiting()
         {
             while(waitingQueue.Count >0)
@@ -158,10 +167,15 @@ namespace ConceptDownloader
             return false;
         }
 
-        static string DownloadFileWithMultipleThread(string url, string folder, List<string> checkFolders = null, int thread = 10, long chunkSize = 1024000)
+        static string DownloadFileWithMultipleThread(string url, string ouputFilename, string folder, List<string> checkFolders = null, int thread = 10, long chunkSize = 1024000)
         {
 
             string filename = Path.GetFileName(HttpUtility.UrlDecode(url));
+            if (!string.IsNullOrEmpty(ouputFilename))
+            {
+                //need validate the url without file name
+                filename = ouputFilename;
+            }
             string output = Path.Combine(folder, filename);
             string logFile = output + ".log";
             if (CheckExistingFileInFolder(filename, folder, checkFolders))
@@ -441,6 +455,19 @@ namespace ConceptDownloader
             string title = $"{indexCount} | {totalItems} | {threadsCount} | {currentUrl} ==> {options.Output}";
             Console.Title = title;
         }
+        private static DownloadableItem GetDownloadableItem(string url)
+        {
+            foreach (var service in supportedServices)
+            {
+                var output = service.GetLink(url).Result;
+                if (output != null)
+                {
+                    output.Name = HttpUtility.UrlDecode(output.Name);
+                    return output;
+                }
+            }
+            return null;
+        }
         public static void Run(ApplicationArguments inputOptions)
         {
             totalItems = 0;
@@ -452,12 +479,9 @@ namespace ConceptDownloader
 
             //fshare
             var fs = new Fshare();
-            if (fs.IsFShareFile(options.Url))
+            if (fs.IsFShareFolder(options.Url))
             {
-                urlsToDownload.Add(new DownloadableItem(options.Url));
-            }
-             if (fs.IsFShareFolder(options.Url))
-            {
+                Console.WriteLine("Wating to read fshare folder content: " + options.Url);
                 var folderContents = fs.GetFilesInFolder(options.Url).Result;
                 if (folderContents != null)
                 {
@@ -478,7 +502,7 @@ namespace ConceptDownloader
             if (!String.IsNullOrEmpty(options.Url) && options.CrawlMode)
             {
                 Console.WriteLine("Wating to fetch content....");
-                var urls = crawler.GetLinks(options.Url, true).Result;
+                var urls = crawler.GetLinks(options.Url, options.Recursive).Result;
                 urlsToDownload.AddRange(urls);
             }
             if (urlsToDownload.Count == 0)
@@ -492,7 +516,7 @@ namespace ConceptDownloader
             {
                 currentUrl = item.Url;
                 indexCount++;
-                var urlToDownload = currentUrl;
+                var downloadableItem = item;
                 if(!continueAlready && 
                 !string.IsNullOrEmpty(options.ContinueFrom) && 
                     !item.Url.ToLower().Contains(options.ContinueFrom.ToLower())) {
@@ -509,6 +533,10 @@ namespace ConceptDownloader
                 Console.Clear();
                 if (fs.IsFShareFile(item.Url))
                 {
+                    if(string.IsNullOrEmpty(item.Name))
+                    {
+                        item.Name = fs.GetFileName(item.Url).Result;
+                    }
                     //check existing here 
                     var filename = Path.Combine(options.Output, item.Name);
                     if (File.Exists(filename)) continue;
@@ -519,16 +547,17 @@ namespace ConceptDownloader
                     WriteWaiting();
 #pragma warning restore CS4014 // Because this call is not awaited, execution of the current method continues before the call is completed
 
-                    var fi = fs.GetLink(urlToDownload).Result;
+                    var fi = GetDownloadableItem(downloadableItem.Url);
                     waitingQueue.Clear();
 
                     if (fi == null) continue;
-                    urlToDownload = fi.Url;
+                    downloadableItem = fi;
+                    downloadableItem.Name = downloadableItem.Name != null ? downloadableItem.Name : item.Name;
                 }
                  UpdateConsoleTitle();
                 Console.Clear();
                 // Console.WriteLine(item.Url);
-                DownloadFileWithMultipleThread(urlToDownload, options.Output, options.AlternativeOutputs, options.Thread, options.Buffer);
+                DownloadFileWithMultipleThread(downloadableItem.Url, downloadableItem.Name, options.Output, options.AlternativeOutputs, options.Thread, options.Buffer);
             }
         }
     }
