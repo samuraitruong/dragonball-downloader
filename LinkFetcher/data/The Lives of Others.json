@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bUXxR2fNjrfRtul2A6mf0ypY4Bu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bUXxR2fNjrfRtul2A6mf0ypY4Bu.jpg ",
+      "Name": "The Lives of Others"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/42xC2nFpdd3NkDz8E4tW084hIgQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/42xC2nFpdd3NkDz8E4tW084hIgQ.jpg ",
+      "Name": "The Lives of Others"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/woxtwQ9R5y24MFshsLS5Drs9s2h.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/woxtwQ9R5y24MFshsLS5Drs9s2h.jpg ",
+      "Name": "The Lives of Others"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4cKPd6wsg80gNdd2zocnau8iDK3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4cKPd6wsg80gNdd2zocnau8iDK3.jpg ",
+      "Name": "The Lives of Others"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/54a94tupuUllh4zcQk4oexm3Ave.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/54a94tupuUllh4zcQk4oexm3Ave.jpg ",
+      "Name": "The Lives of Others"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aaFn7enUnRdr68BLgFCXQZXhs5b.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aaFn7enUnRdr68BLgFCXQZXhs5b.jpg ",
+      "Name": "The Lives of Others"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5FwqPgZ0ETUXjBCFYU0Tnpvzcg7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5FwqPgZ0ETUXjBCFYU0Tnpvzcg7.jpg ",
+      "Name": "The Lives of Others"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5RDdk8ya8vXCG33tbH8tkS5F6nJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5RDdk8ya8vXCG33tbH8tkS5F6nJ.jpg ",
+      "Name": "The Lives of Others"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hvIORdU9fCjYGyptQfzh7i4Q9K.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hvIORdU9fCjYGyptQfzh7i4Q9K.jpg ",
+      "Name": "The Lives of Others"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mv0QPfuEgelDInFKoijLhsDxm2x.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mv0QPfuEgelDInFKoijLhsDxm2x.jpg ",
+      "Name": "The Lives of Others"
+    }
+  ],
+  "Links": [],
+  "Intro": "A tragic love story set in East Berlin with the backdrop of an undercover Stasi controlled culture. Stasi captain Wieler is ordered to follow author Dreyman and plunges deeper and deeper into his life until he reaches the threshold of doubting the system.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/iJ8EJyjBcb8wkXEEjH0Z3y5SlO7-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/FppW5ml4vdw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-lives-of-others/",
+  "Name": "The Lives of Others"
+}

@@ -1,14 +1,62 @@
 {
   "Id": "movTJrKOy137548",
-  "Url": "https://fsharephim.com/movies/gladiators-of-rome/",
-  "Name": "Gladiators of Rome",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dkRTdtaCsuPhRpquSHnlKNQrvzO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dkRTdtaCsuPhRpquSHnlKNQrvzO.jpg",
+      "Name": "Gladiators of Rome"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2pS2dFyHcZClEYncpNeSz7Na2uS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2pS2dFyHcZClEYncpNeSz7Na2uS.jpg",
+      "Name": "Gladiators of Rome"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bMfWYsOT5Z1L1IkYbIELN8vVSuP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bMfWYsOT5Z1L1IkYbIELN8vVSuP.jpg",
+      "Name": "Gladiators of Rome"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mvSQnepeQJdypn4HJAo7THwe5pS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mvSQnepeQJdypn4HJAo7THwe5pS.jpg",
+      "Name": "Gladiators of Rome"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uPQ1HJp634FYeh9z0sIBOCQI4bd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uPQ1HJp634FYeh9z0sIBOCQI4bd.jpg",
+      "Name": "Gladiators of Rome"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/av00h23180UAxdM5Cp0loUXJs2O.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/av00h23180UAxdM5Cp0loUXJs2O.jpg",
+      "Name": "Gladiators of Rome"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/txzOepfxezDfN0LpZDAmSqbsHGn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/txzOepfxezDfN0LpZDAmSqbsHGn.jpg",
+      "Name": "Gladiators of Rome"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movtjrkoy137548/",
-      "Name": "Gladiators.of.Rome.2012.mkv",
-      "Url": "https://www.fshare.vn/file/TSBGYCSQMT",
       "Size": "1.76 GB",
-      "FileSize": 1894632170
+      "FileSize": 1894632170,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/TSBGYCSQMT",
+      "Name": "Gladiators.of.Rome.2012.mkv"
     }
-  ]
+  ],
+  "Intro": "It is the age of Imperial Rome.Young Timo is an orphan of Pompeii&#8217;s terrible eruption, adopted be general Chirone and raised in the famous Gladiator&#8217;s Academy in Rome. Is this the beginning of a new legend? The legend of a great hero? Not so much! Timo is not exactly gladiator material! He just wants to hang out with his friends, Ciccius and Mauritius, and avoid his stepfather&#8217;s bizarre training sessions at all costs! However, when Timo meets the lovely Lucilla, he decides to change his life and bring out the valour inside himself &#8211; valour that has never shown itself before. Through spells, crazy raids in the woods and terrible trainings of a very personal lady trainer, Timo has to transform himself into the greatest gladiator of all time. And as they say, if &#8220;fortune favours the bold&#8221; in Rome &#8230; hard times are awaiting Timo!",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/9YKreZQlLQ19Ddk96nY0J4javS9-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/PFF-N8kgYjo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/gladiators-of-rome/",
+  "Name": "Gladiators of Rome"
 }

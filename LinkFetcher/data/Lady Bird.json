@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2ByWxoMbfE3pxztCJn5qTJ5Ui2Y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2ByWxoMbfE3pxztCJn5qTJ5Ui2Y.jpg ",
+      "Name": "Lady Bird"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kQ3OXX5SgDPBi1wt83HX7VShQG8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kQ3OXX5SgDPBi1wt83HX7VShQG8.jpg ",
+      "Name": "Lady Bird"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gDcu0DkF7atjWbJtfpw43yZrNoq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gDcu0DkF7atjWbJtfpw43yZrNoq.jpg ",
+      "Name": "Lady Bird"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/raqNAMHEiftqe1ccJmuiHc8c1bE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/raqNAMHEiftqe1ccJmuiHc8c1bE.jpg ",
+      "Name": "Lady Bird"
+    }
+  ],
+  "Links": [],
+  "Intro": "Christine &#8220;Lady Bird&#8221; McPherson, a fiercely independent teenager, tries to make her own way in the world while wanting to get out of her hometown of Sacramento, California &amp; to get away from her complicated mother &amp; recently-unemployed father.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/pVtoXPA2zqNTeaR8MOsrD1XvUXK-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/cNi_HC839Wo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/lady-bird/",
+  "Name": "Lady Bird"
+}

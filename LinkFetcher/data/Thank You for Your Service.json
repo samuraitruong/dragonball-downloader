@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7KpA2BswBFHLR7yIexkuVhpAK3x.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7KpA2BswBFHLR7yIexkuVhpAK3x.jpg ",
+      "Name": "Thank You for Your Service"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/156zFVuXIUUZ3hhUbS7CiYRvwpj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/156zFVuXIUUZ3hhUbS7CiYRvwpj.jpg ",
+      "Name": "Thank You for Your Service"
+    }
+  ],
+  "Links": [],
+  "Intro": "A group of U.S. soldiers returning from Iraq struggle to integrate back into family and civilian life, while living with the memory of a war that threatens to destroy them long after they&#8217;ve left the battlefield.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/3AJfmBiEXVY7YmxRx2NSdbjuVDc-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/GTl5SHYJxz4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/thank-you-for-your-service/",
+  "Name": "Thank You for Your Service"
+}

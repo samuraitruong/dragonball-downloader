@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jivtx9El0WUeUZ5hrLBQQi4Bh8t.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jivtx9El0WUeUZ5hrLBQQi4Bh8t.jpg ",
+      "Name": "I Can Speak"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yQUjbD9h6l1QxoiSTuqnKtvx4qC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yQUjbD9h6l1QxoiSTuqnKtvx4qC.jpg ",
+      "Name": "I Can Speak"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7zsvxWO5ysCDy5CofD31VKnstPn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7zsvxWO5ysCDy5CofD31VKnstPn.jpg ",
+      "Name": "I Can Speak"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2xxNO0AyI4S9g4lQgRityUMHFRH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2xxNO0AyI4S9g4lQgRityUMHFRH.jpg ",
+      "Name": "I Can Speak"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9pkMDhK2M4rqMog2Lw4byk95uXO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9pkMDhK2M4rqMog2Lw4byk95uXO.jpg ",
+      "Name": "I Can Speak"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sBQV1O7avPu47x6jgEHEmSVW88W.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sBQV1O7avPu47x6jgEHEmSVW88W.jpg ",
+      "Name": "I Can Speak"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7XtDDVXLjlAtygCQD4CkQAWwT0C.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7XtDDVXLjlAtygCQD4CkQAWwT0C.jpg ",
+      "Name": "I Can Speak"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7NgHS2wzasw3G8I8Awnf3eO5cGZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7NgHS2wzasw3G8I8Awnf3eO5cGZ.jpg ",
+      "Name": "I Can Speak"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cqsbemcEvF9kj7uK2svbBD5AnkJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cqsbemcEvF9kj7uK2svbBD5AnkJ.jpg ",
+      "Name": "I Can Speak"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pzVJmeth3p1uYtAosNbAxuVj0pQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pzVJmeth3p1uYtAosNbAxuVj0pQ.jpg ",
+      "Name": "I Can Speak"
+    }
+  ],
+  "Links": [],
+  "Intro": "An elderly woman who files endless complaints with the local office to right the wrongs around her forms an unlikely friendship with a junior civil servant when she begins learning English from him.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/wtN0xx93lNkfA7dwEmpBfbq79Dq-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/i5TUJ44NJnQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/i-can-speak/",
+  "Name": "I Can Speak"
+}

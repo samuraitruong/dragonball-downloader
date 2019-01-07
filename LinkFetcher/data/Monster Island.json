@@ -1,21 +1,34 @@
 {
   "Id": "movd52Zme420279",
-  "Url": "https://fsharephim.com/movies/monster-island/",
-  "Name": "Monster Island",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movd52zme420279/",
-      "Name": "Monster Island.2017.720p.WEB-DL.H264.AC3-EVO-8Mbps-YOLO.mp4",
-      "Url": "https://www.fshare.vn/file/SK83FPW985QYCLQ",
       "Size": "1.61 GB",
-      "FileSize": 1724170866
+      "FileSize": 1724170866,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/SK83FPW985QYCLQ",
+      "Name": "Monster Island.2017.720p.WEB-DL.H264.AC3-EVO-8Mbps-YOLO.mp4"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movd52zme420279-2/",
-      "Name": "Monster.Island.2017.1080p.WEB-DL.x264.SUB.mkv",
-      "Url": "https://www.fshare.vn/file/CCFRC358GC1V19Y",
       "Size": "3.23 GB",
-      "FileSize": 3466516882
+      "FileSize": 3466516882,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/CCFRC358GC1V19Y",
+      "Name": "Monster.Island.2017.1080p.WEB-DL.x264.SUB.mkv"
     }
-  ]
+  ],
+  "Intro": "Young Lucas finds out he&#8217;s not really a human after he surprisingly transforms into a monster in front of the most popular kids at school. His search for Monster Island and his real roots takes him on a fabulously scary journey that puts him face to face with more tentacles, fangs and far-out situations than he can shake one of his new wings at.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/qgpDoUnfXEQmtuMqbzhg8dG8xgZ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/heos3UtMX0s?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/monster-island/",
+  "Name": "Monster Island"
 }

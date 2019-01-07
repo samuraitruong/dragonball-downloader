@@ -1,21 +1,61 @@
 {
-  "Id": "movjABoHm136405",
-  "Url": "https://fsharephim.com/movies/the-outback/",
-  "Name": "Lạc Trong Rừng Sâu",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movjabohm136405/",
-      "Name": "Outback 2012.mkv",
-      "Url": "https://www.fshare.vn/file/93DCDGZA6S5Z",
-      "Size": "1.61 GB",
-      "FileSize": 1727637294
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movjabohm136405-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/the-outback",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yv4IWmkZc4Xc00Leu9chsOkI7OB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yv4IWmkZc4Xc00Leu9chsOkI7OB.jpg",
+      "Name": "Lạc Trong Rừng Sâu - The Outback"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/riPPRisQpOc19XacD6Ijf225Ojt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/riPPRisQpOc19XacD6Ijf225Ojt.jpg",
+      "Name": "Lạc Trong Rừng Sâu - The Outback"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3BqV1Cr7maT2kcpH3YCPzeBMXJu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3BqV1Cr7maT2kcpH3YCPzeBMXJu.jpg",
+      "Name": "Lạc Trong Rừng Sâu - The Outback"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ve21RJZFn8UReca1uzWOyzJnGUT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ve21RJZFn8UReca1uzWOyzJnGUT.jpg",
+      "Name": "Lạc Trong Rừng Sâu - The Outback"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/d032QQefzWRWod4OFURO3pt5UdD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/d032QQefzWRWod4OFURO3pt5UdD.jpg",
+      "Name": "Lạc Trong Rừng Sâu - The Outback"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zBA4bgBV9g5svpbgLkSkeHZSl4d.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zBA4bgBV9g5svpbgLkSkeHZSl4d.jpg",
+      "Name": "Lạc Trong Rừng Sâu - The Outback"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6flR1ZdZg3da0lWMULVrsqIc6MR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6flR1ZdZg3da0lWMULVrsqIc6MR.jpg",
+      "Name": "Lạc Trong Rừng Sâu - The Outback"
+    }
+  ],
+  "Links": [],
+  "Intro": "Một chú koala tên là Johnny bị trêu chọc về bộ lông màu trắng không giống ai của mình. Tình cờ gặp được Hamish và Higgins, Johnny tham gia vào một gánh xiếc rong. Nhưng Johnny thất vọng khi biết mình chỉ diễn một vai của “tiết mục kì quặc” chứ không phải nhân vật chính được biểu diễn trong lều lớn.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/gARcMenoW7D8atU1KimE1sCHKl0-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-outback/",
+  "Name": "Lạc Trong Rừng Sâu"
 }

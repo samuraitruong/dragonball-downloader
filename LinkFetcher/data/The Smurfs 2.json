@@ -1,21 +1,80 @@
 {
-  "Id": "movi2FLcl77931",
-  "Url": "https://fsharephim.com/movies/the-smurfs-2/",
-  "Name": "The Smurfs 2",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movi2flcl77931/",
-      "Name": "The.Smurfs.2.2013.mkv",
-      "Url": "https://www.fshare.vn/file/T947AZ0DYT",
-      "Size": "2.2 GB",
-      "FileSize": 2366949921
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movi2flcl77931-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/the-smurfs-2",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xqfnJn8ApELIa1zGLOa3W9q2Ztn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xqfnJn8ApELIa1zGLOa3W9q2Ztn.jpg",
+      "Name": "The Smurfs 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uCNw2jnN2y9L9JTiOCmvxOc5YKq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uCNw2jnN2y9L9JTiOCmvxOc5YKq.jpg",
+      "Name": "The Smurfs 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ynJ5OrFg4mbNnre8augsrbCXXQE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ynJ5OrFg4mbNnre8augsrbCXXQE.jpg",
+      "Name": "The Smurfs 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/doxZbNlJB8GWF1m30xomWHYCdSN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/doxZbNlJB8GWF1m30xomWHYCdSN.jpg",
+      "Name": "The Smurfs 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tnuszz73PaqHTq5aXZxxZOts7V6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tnuszz73PaqHTq5aXZxxZOts7V6.jpg",
+      "Name": "The Smurfs 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cZUr2ROfSsHNMjheAaQVasZM5pl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cZUr2ROfSsHNMjheAaQVasZM5pl.jpg",
+      "Name": "The Smurfs 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4UgYTLSWdqfahisaFzapZ4VOffz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4UgYTLSWdqfahisaFzapZ4VOffz.jpg",
+      "Name": "The Smurfs 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3U1DMOPtXWaYlkPODWy6PkEu8Ab.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3U1DMOPtXWaYlkPODWy6PkEu8Ab.jpg",
+      "Name": "The Smurfs 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tHtrditsA34ey2tO8gz5pCMHnD0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tHtrditsA34ey2tO8gz5pCMHnD0.jpg",
+      "Name": "The Smurfs 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fOwOzHI5T23txcIWEhNuuMCH2gc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fOwOzHI5T23txcIWEhNuuMCH2gc.jpg",
+      "Name": "The Smurfs 2"
+    }
+  ],
+  "Links": [],
+  "Intro": "The evil wizard Gargamel creates a couple of mischievous Smurf-like creatures called the Naughties that he hopes will let him harness the all-powerful, magical Smurf-essence. But when he discovers that only a real Smurf can give him what he wants, and only a secret spell that Smurfette knows can turn the Naughties into real Smurfs, Gargamel kidnaps Smurfette and brings her to Paris, where he has been winning the adoration of millions as the world¹s greatest sorcerer. It&#8217;s up to Papa, Clumsy, Grouchy, and Vanity to return to our world, reunite with their human friends Patrick and Grace Winslow, and rescue her! Will Smurfette, who has always felt different from the other Smurfs, find a new connection with the Naughties Vexy and Hackus or will the Smurfs convince her that their love for her is True Blue?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/mF2FXzZ3EktWoagU4fzoabNsK6J-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/W-yEIIMtwCA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-smurfs-2/",
+  "Name": "The Smurfs 2"
 }

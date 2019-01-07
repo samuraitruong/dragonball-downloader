@@ -1,56 +1,65 @@
 {
-  "Id": "movmgsjMw8355",
-  "Url": "https://fsharephim.com/movies/ice-age-dawn-of-the-dinosaurs/",
-  "Name": "Ice Age: Dawn of the Dinosaurs",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movmgsjmw8355-2/",
-      "Name": "[TECH24H.VN]Ice.Age.2009.Dawn.of.the.Dinosaurs.720p.BluRay.DTS.x264-EPiK.mkv",
-      "Url": "https://www.fshare.vn/file/97WOFSFJ3KDSLCO",
-      "Size": "4.4 GB",
-      "FileSize": 4695811953
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movmgsjmw8355-3/",
-      "Name": "Ice.Age.Dawn.of.The.Dinosaurs.2009.1080p.BluRay.DTS-ES.x264-D-Z0N3.mkv",
-      "Url": "https://www.fshare.vn/file/FP2TR2P3ZJDXDRE",
-      "Size": "8.2 GB",
-      "FileSize": 8854202198
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movmgsjmw8355-4/",
-      "Name": "Ice Age Dawn of the Dinosaurs 2009 1080p 2D3D VIE Bluray MVC DTS-HD MA5.1-UHDRemux.iso",
-      "Url": "https://www.fshare.vn/file/Z5E9U76Y23ZIBPE",
-      "Size": "22.0 GB",
-      "FileSize": 23618912256
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movmgsjmw8355-5/",
-      "Name": "Ice.Age.Dawn.of.the.Dinosaurs.2009.ViE.720p.BluRay.DTS.x264-HiDt.VAV.mkv",
-      "Url": "https://www.fshare.vn/file/V6VQQ8LZ1TR4YBA",
-      "Size": "5.3 GB",
-      "FileSize": 5740289171
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movmgsjmw8355-6/",
-      "Name": "Ice.Age.Dawn of the Dinosaurs 2009 ViE 1080p Blu-ray Remux_LongTieng.mkv",
-      "Url": "https://www.fshare.vn/file/OUVJUF7HL996TD5",
-      "Size": "13.0 GB",
-      "FileSize": 13983522653
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movmgsjmw8355-7/",
-      "Name": "Ice.Age.3.Dawn.Of.The.Dinosaurs.2009.BluRay.1080p.DTSES.4Audio.x264-CHD.srt",
-      "Url": "https://www.fshare.vn/file/5K4LEW3GR8LXOA5",
-      "Size": "51.7 KB",
-      "FileSize": 52989
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movmgsjmw8355/",
-      "Name": "Ice Age Dawn of the Dinosaurs 2009 m720p BluRay x264-BiRD.mkv",
-      "Url": "https://www.fshare.vn/file/NTXXKU7872GSEB3",
-      "Size": "2.3 GB",
-      "FileSize": 2473399567
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2ZkYXWejAwpkFkNnOY6nQYcJSPn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2ZkYXWejAwpkFkNnOY6nQYcJSPn.jpg",
+      "Name": "Ice Age: Dawn of the Dinosaurs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pl3uTbPbb74yHAw7qXVFGOMJisK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pl3uTbPbb74yHAw7qXVFGOMJisK.jpg",
+      "Name": "Ice Age: Dawn of the Dinosaurs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1lXhppR9qqF5xezLhzh10Qw0gz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1lXhppR9qqF5xezLhzh10Qw0gz.jpg",
+      "Name": "Ice Age: Dawn of the Dinosaurs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mCPC4zBBhEncQTxO13qUqZWb2A9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mCPC4zBBhEncQTxO13qUqZWb2A9.jpg",
+      "Name": "Ice Age: Dawn of the Dinosaurs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7PATuBALAfxvo3b6p4EEYeEKwCn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7PATuBALAfxvo3b6p4EEYeEKwCn.jpg",
+      "Name": "Ice Age: Dawn of the Dinosaurs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ojU4KsHqW1hitIjWGFWRpalkSW0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ojU4KsHqW1hitIjWGFWRpalkSW0.jpg",
+      "Name": "Ice Age: Dawn of the Dinosaurs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/18pbr8D6U2puwUJYxAyqkLXJXSi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/18pbr8D6U2puwUJYxAyqkLXJXSi.jpg",
+      "Name": "Ice Age: Dawn of the Dinosaurs"
+    }
+  ],
+  "Links": [],
+  "Intro": "Times are changing for Manny the moody mammoth, Sid the motor mouthed sloth and Diego the crafty saber-toothed tiger. Life heats up for our heroes when they meet some new and none-too-friendly neighbors – the mighty dinosaurs.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/crAf8b9gFpcdvY7majL8xWzTbem-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/dP-xFvTIdNk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ice-age-dawn-of-the-dinosaurs/",
+  "Name": "Ice Age: Dawn of the Dinosaurs"
 }

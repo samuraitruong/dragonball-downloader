@@ -13,6 +13,7 @@ using System.Drawing;
 using System.Web;
 using ConceptDownloader.Models;
 using ConceptDownloader.Services;
+using ConceptDownloader.Extensions;
 
 namespace ConceptDownloader
 {
@@ -24,17 +25,11 @@ namespace ConceptDownloader
         static DateTime lastStatusUpdate = DateTime.Now;
         public static ApplicationArguments options;
         static ConcurrentQueue<bool> waitingQueue = new ConcurrentQueue<bool>();
-        private static List<ILinkFetcherService> supportedServices = new List<ILinkFetcherService>()
-        {
-           // new LinkVip(),
-            new TaiVeCF(),
-            new AnLinkTop(),
-            new Fshare()
-        };
 
+        static List<ILinkFetcherService> supportedServices;
         static async Task WriteWaiting()
         {
-            while(waitingQueue.Count >0)
+            while (waitingQueue.Count > 0)
             {
                 Console.Write(".", Color.Gray);
                 await Task.Delay(1000);
@@ -132,7 +127,9 @@ namespace ConceptDownloader
                 return client;
             }
 
-            client = new HttpClient(new HttpClientHandler { AutomaticDecompression = DecompressionMethods.Deflate | DecompressionMethods.GZip });
+            client = new HttpClient(new HttpClientHandler { AutomaticDecompression = DecompressionMethods.Deflate | DecompressionMethods.GZip }) { 
+                Timeout = TimeSpan.FromSeconds(150)
+            };
 
             return client;
 
@@ -154,7 +151,7 @@ namespace ConceptDownloader
 
             }
         }
-        static bool CheckExistingFileInFolder(string filename, string folder, List<string> folders )
+        static bool CheckExistingFileInFolder(string filename, string folder, List<string> folders)
         {
             var folderToCheck = new List<string>() { folder };
             if (folders != null) folderToCheck.AddRange(folders);
@@ -188,7 +185,8 @@ namespace ConceptDownloader
                 try
                 {
                     Directory.CreateDirectory(folder);
-                }catch(Exception ex) { }
+                }
+                catch (Exception ex) { }
             }
 
             List<int> downloadedChunks = new List<int>();
@@ -211,7 +209,7 @@ namespace ConceptDownloader
                 }
             }
             else
-            { 
+            {
                 File.WriteAllText(logFile, chunkSize.ToString());
             }
 
@@ -243,6 +241,7 @@ namespace ConceptDownloader
             }
 
             httpClients.Enqueue(client);
+            ConcurrentBag<int> failedChunks = new ConcurrentBag<int>();
 
             //Initial empty file 
             var locker = new Object();
@@ -267,11 +266,9 @@ namespace ConceptDownloader
 #pragma warning restore CS4014 // Because this call is not awaited, execution of the current method continues before the call is completed
 
                 ThreadPool.SetMinThreads(thread, thread);
-
-                Parallel.ForEach(Enumerable.Range(1, numberOfChunks+ thread).Where(x => !downloadedChunks.Contains(x)),
+                var lResult = Parallel.ForEach(Enumerable.Range(1, numberOfChunks ).Where(x => !downloadedChunks.Contains(x)),
                  new ParallelOptions() { MaxDegreeOfParallelism = thread }, (s, state, index) =>
                  {
-                     if (s > numberOfChunks) return;
                      string chunkFileName = output + "." + s;
                      long chunkStart = (s - 1) * chunkSize;
                      long chunkEnd = Math.Min(chunkStart + chunkSize - 1, (long)totalSizeBytes);
@@ -286,6 +283,21 @@ namespace ConceptDownloader
 
                      var chunkDownload = DownloadChunk(url, chunkStart, chunkEnd, chunkFileName).Result;
 
+                     if(chunkDownload.Length < chunkEnd - chunkStart)
+                     {
+                         // Console.WriteLine($"Inconsistent data expected : {chunkEnd - chunkStart} but only got {chunkDownload.Length}");
+                         failedChunks.Add(s);
+                         if (failedChunks.Count > options.FailedChunkLimit)
+                             state.Break();
+                         else
+                         {
+                             lock (locker)
+                             {
+                                 threadsCount--;
+                                 return;
+                             }
+                         };
+                     }
                      lock (locker)
                      {
                          threadsCount--;
@@ -311,24 +323,36 @@ namespace ConceptDownloader
                          File.AppendAllText(logFile, "\r\n" + s);
                      }
                  });
+
+                if(!lResult.IsCompleted)
+                {
+                    throw new DownloadException("File download not completed");
+                }
             }
             cts.Cancel();
 
             Console.WriteLine("\r\nFile Download completed.");
-             if(options.UseNativeRenameCommand)
-            {
 
-            }
-            //Task.Run(() =>
-            //{
-            File.Move(tempFile, output);
+            if (failedChunks.Count == 0)
+            {
+                if (options.UseNativeRenameCommand)
+                {
+                    var cmd = $"mv {tempFile} {output}";
+                    cmd.Bash();
+                    return output;
+                }
+
+                //Task.Run(() =>
+                //{
+                File.Move(tempFile, output);
                 File.Delete(logFile);
-            //});
+                //});
+            }
             return output;
 
         }
 
-        private static async Task<byte[]> DownloadChunk(string url, long chunkStart, long chunkEnd, string chunkFileName, int retry = 10)
+        private static async Task<byte[]> DownloadChunk(string url, long chunkStart, long chunkEnd, string chunkFileName, int retry = 5)
         {
             byte[] data = null;
             var client = GetClient();
@@ -341,7 +365,11 @@ namespace ConceptDownloader
 
                 var response = await client.SendAsync(request);
                 data = await response.Content.ReadAsByteArrayAsync();
-                httpClients.Enqueue(client);
+
+                if (data.Length < chunkEnd - chunkStart)
+                {
+                    throw new Exception("Data checked not pass, retrying...");
+                }
             }
             catch (Exception ex)
             {
@@ -350,13 +378,11 @@ namespace ConceptDownloader
 
                 throw ex;
             }
-            /*using (var fs = File.OpenWrite(chunkFileName))
+            finally
             {
-                
-                fs.Write(data, 0, data.Length);
-            }*/
-            //Console.SetCursorPosition(0, 1);
-            //Console.WriteLine("Chunk #" + chunkFileName  + "[" + data.Length.ToString()+"]");
+                httpClients.Enqueue(client);
+            }
+
             return data;//chunkFileName;
         }
         #region Download single file with 1 thread, not being used
@@ -455,10 +481,15 @@ namespace ConceptDownloader
             string title = $"{indexCount} | {totalItems} | {threadsCount} | {currentUrl} ==> {options.Output}";
             Console.Title = title;
         }
-        private static DownloadableItem GetDownloadableItem(string url)
+        private static DownloadableItem GetDownloadableItem(string url, string preferServiceName = null)
         {
             foreach (var service in supportedServices)
             {
+                if(!string.IsNullOrEmpty(preferServiceName))
+                {
+                    var attributes = service.GetType().GetCustomAttributes(true).Cast<ServiceAttribute>().ToList();
+                    if (attributes.Count > 0 && attributes[0].Name != preferServiceName) continue;
+                }
                 var output = service.GetLink(url).Result;
                 if (output != null)
                 {
@@ -476,19 +507,50 @@ namespace ConceptDownloader
             options = inputOptions;
             List<DownloadableItem> urlsToDownload = new List<DownloadableItem>();
             //TODO refactore to better code because it gonna messup if more site .
+            var fs = new Fshare(options.LinkServiceUsername, options.LinkServicePassword);
+            if(options.GetLinkServiceReLogin)
+            {
+                fs.Login(true).Wait();
+            }
+            supportedServices = new List<ILinkFetcherService>()
+            {
+                new GetLinkAZ(),
+                new LinkVip(),
+                new TaiVeCF(),
+                new AnLinkTop(),
+                fs
+            };
 
             //fshare
-            var fs = new Fshare();
             if (fs.IsFShareFolder(options.Url))
             {
                 Console.WriteLine("Wating to read fshare folder content: " + options.Url);
                 var folderContents = fs.GetFilesInFolder(options.Url).Result;
                 if (folderContents != null)
                 {
-                    urlsToDownload.AddRange(folderContents.Items.Select(x => new DownloadableItem(x.Url)
+                    var listItem = folderContents.Items.Select(x => new DownloadableItem(x.Url)
                     {
-                        Name = x.Name
-                    }));
+                        Name = x.Name,
+                        Size = x.Size,
+                        ShortName = x.Name.ToMovieShortName()
+                    }).ToList();
+                    if (!options.DownloadAll)
+                    {
+                        var filtered = listItem.GroupBy(x => x.ShortName, (key, grouped) =>
+                        {
+
+                            return grouped.OrderByDescending(x => x.Size)
+                                .Where(x => !options.Excludes.Exists(e => x.Name.ToLower().Contains(e.ToLower(), StringComparison.CurrentCulture)))
+                                .FirstOrDefault();
+                        });
+
+
+                        urlsToDownload.AddRange(filtered.Where(x => x != null));
+                    }
+                    else
+                    {
+                        urlsToDownload.AddRange(listItem);
+                    }
                 }
             }
             var crawler = new SimpleCrawler(options);
@@ -517,23 +579,25 @@ namespace ConceptDownloader
                 currentUrl = item.Url;
                 indexCount++;
                 var downloadableItem = item;
-                if(!continueAlready && 
-                !string.IsNullOrEmpty(options.ContinueFrom) && 
-                    !item.Url.ToLower().Contains(options.ContinueFrom.ToLower())) {
+                if (!continueAlready &&
+                !string.IsNullOrEmpty(options.ContinueFrom) &&
+                    !item.Url.ToLower().Contains(options.ContinueFrom.ToLower()))
+                {
                     continue;
                 }
                 continueAlready = true;
-                if (!string.IsNullOrEmpty(options.Filter) && 
+                if (!string.IsNullOrEmpty(options.Filter) &&
                 !item.Name.ToLower().Contains(options.Filter.ToLower())) continue;
 
-                if(options.Excludes.Exists(x => item.Url.ToLower().Contains(x.ToLower(), StringComparison.CurrentCulture)))
+                if (options.Excludes.Exists(x => item.Url.ToLower().Contains(x.ToLower(), StringComparison.CurrentCulture)) || 
+                (!string.IsNullOrEmpty(item.Name) && options.Excludes.Exists(x => item.Name.ToLower().Contains(x.ToLower(), StringComparison.CurrentCulture))))
                 {
                     continue;
                 }
                 Console.Clear();
                 if (fs.IsFShareFile(item.Url))
                 {
-                    if(string.IsNullOrEmpty(item.Name))
+                    if (string.IsNullOrEmpty(item.Name))
                     {
                         item.Name = fs.GetFileName(item.Url).Result;
                     }
@@ -547,17 +611,32 @@ namespace ConceptDownloader
                     WriteWaiting();
 #pragma warning restore CS4014 // Because this call is not awaited, execution of the current method continues before the call is completed
 
-                    var fi = GetDownloadableItem(downloadableItem.Url);
+                    var fi = GetDownloadableItem(downloadableItem.Url, options.GetLinkService);
                     waitingQueue.Clear();
 
                     if (fi == null) continue;
                     downloadableItem = fi;
                     downloadableItem.Name = downloadableItem.Name != null ? downloadableItem.Name : item.Name;
                 }
-                 UpdateConsoleTitle();
+                UpdateConsoleTitle();
                 Console.Clear();
-                // Console.WriteLine(item.Url);
-                DownloadFileWithMultipleThread(downloadableItem.Url, downloadableItem.Name, options.Output, options.AlternativeOutputs, options.Thread, options.Buffer);
+                int retry = 0;
+                bool hasError = false;
+                do
+                {
+                    try
+                    {
+                        hasError = false;
+                        if (!string.IsNullOrEmpty(options.RenameTo)) downloadableItem.Name = options.RenameTo;
+                        // Console.WriteLine(item.Url);
+                        DownloadFileWithMultipleThread(downloadableItem.Url, downloadableItem.Name, options.Output, options.AlternativeOutputs, options.Thread, options.Buffer);
+                    }
+                    catch (DownloadException dle)
+                    {
+                        hasError = true;
+                        Console.WriteLine(dle.Message);
+                    }
+                } while (retry < options.Retry && hasError);
             }
         }
     }

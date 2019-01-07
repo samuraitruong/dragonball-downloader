@@ -1,0 +1,390 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/14ZDh6k5snFZ42MoYRpp2SUm8kS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/14ZDh6k5snFZ42MoYRpp2SUm8kS.jpg",
+      "Name": "She Was Pretty"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hMBPMofCKiTzPtHV9FSwXhkqclw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hMBPMofCKiTzPtHV9FSwXhkqclw.jpg",
+      "Name": "She Was Pretty"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8HK8YXhEEnze6VZQESNt5pWDwaH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8HK8YXhEEnze6VZQESNt5pWDwaH.jpg",
+      "Name": "She Was Pretty"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/w3FRgIbMPQNYzPHMPhTCn2DyizW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/w3FRgIbMPQNYzPHMPhTCn2DyizW.jpg",
+      "Name": "She Was Pretty"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6ZriOTdG1rSLBGaYj1elnAoWZOF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6ZriOTdG1rSLBGaYj1elnAoWZOF.jpg",
+      "Name": "She Was Pretty"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vHJu39tf4ohIDdddX7oxCs8S1ET.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vHJu39tf4ohIDdddX7oxCs8S1ET.jpg",
+      "Name": "She Was Pretty"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/she-was-pretty-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/she-was-pretty-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/she-was-pretty-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/she-was-pretty-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/she-was-pretty-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/she-was-pretty-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/she-was-pretty-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/she-was-pretty-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/she-was-pretty-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/she-was-pretty-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/she-was-pretty-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/she-was-pretty-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/she-was-pretty-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/she-was-pretty-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/she-was-pretty-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/she-was-pretty-1x16/",
+      "Name": "Episode 16"
+    }
+  ],
+  "Intro": "Ji Sung Joon has a crush on the most beautiful girl in town, Kim Hye Jin &#8211; the only problem is, he&#8217;s unattractive and lacks self-esteem. As fate would have it, years later Sung Joon grows up to be not only successful, but extremely attractive. However, when he runs into his first love Hye Jin, she has become unattractive and poor. Can their love transcend the vanity they both associated with each other?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/6vsANWrYf8tqMictguoe4SfDJtG-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/vHJu39tf4ohIDdddX7oxCs8S1ET.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/vHJu39tf4ohIDdddX7oxCs8S1ET.jpg",
+              "Name": "She Was Pretty 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/she-was-pretty-1x1/",
+          "Name": "She Was Pretty 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/she-was-pretty-1x10/",
+          "Name": "She Was Pretty 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/she-was-pretty-1x11/",
+          "Name": "She Was Pretty 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/she-was-pretty-1x12/",
+          "Name": "She Was Pretty 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/she-was-pretty-1x13/",
+          "Name": "She Was Pretty 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/she-was-pretty-1x14/",
+          "Name": "She Was Pretty 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/she-was-pretty-1x15/",
+          "Name": "She Was Pretty 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/she-was-pretty-1x16/",
+          "Name": "She Was Pretty 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/she-was-pretty-1x2/",
+          "Name": "She Was Pretty 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/she-was-pretty-1x3/",
+          "Name": "She Was Pretty 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/she-was-pretty-1x4/",
+          "Name": "She Was Pretty 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/she-was-pretty-1x5/",
+          "Name": "She Was Pretty 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/she-was-pretty-1x6/",
+          "Name": "She Was Pretty 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/she-was-pretty-1x7/",
+          "Name": "She Was Pretty 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/she-was-pretty-1x8/",
+          "Name": "She Was Pretty 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/she-was-pretty-1x9/",
+          "Name": "She Was Pretty 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Sep. 16, 2015"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/she-was-pretty/",
+  "Name": "She Was Pretty"
+}

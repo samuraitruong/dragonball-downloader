@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gXJXJiQtvm0JsSMybsaEQaiQKlq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gXJXJiQtvm0JsSMybsaEQaiQKlq.jpg",
+      "Name": "Before Midnight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3urQv0Al3hXpdiVG5kBwcm8FSuW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3urQv0Al3hXpdiVG5kBwcm8FSuW.jpg",
+      "Name": "Before Midnight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lv9UT4VyoyGFTKNBboMTeZ5ZcD3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lv9UT4VyoyGFTKNBboMTeZ5ZcD3.jpg",
+      "Name": "Before Midnight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jG2R666WsGM086CTEdNQSoxvLPj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jG2R666WsGM086CTEdNQSoxvLPj.jpg",
+      "Name": "Before Midnight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/15PM9u9hfsDm6KHUYrJVPpFeLso.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/15PM9u9hfsDm6KHUYrJVPpFeLso.jpg",
+      "Name": "Before Midnight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uFAKxHJH8A6nzqQQKrtQYvANCjo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uFAKxHJH8A6nzqQQKrtQYvANCjo.jpg",
+      "Name": "Before Midnight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6dRor6UgPVDUKTaxh0fsYCTP5VQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6dRor6UgPVDUKTaxh0fsYCTP5VQ.jpg",
+      "Name": "Before Midnight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aXrr2HXYClKxqaBgAKNYbjHKE0V.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aXrr2HXYClKxqaBgAKNYbjHKE0V.jpg",
+      "Name": "Before Midnight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/czMrHlaPj38BY0sikEXEOTrtjdm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/czMrHlaPj38BY0sikEXEOTrtjdm.jpg",
+      "Name": "Before Midnight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6bDOdcz7UL5Iec9RRvevKGQViyn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6bDOdcz7UL5Iec9RRvevKGQViyn.jpg",
+      "Name": "Before Midnight"
+    }
+  ],
+  "Links": [],
+  "Intro": "We meet Jesse and Celine nine years on in Greece. Almost two decades have passed since their first meeting on that train bound for Vienna.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/uDdobcCBfPObD2pqDSTjXxELt3c-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/mDI6YD3-W6Q?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/before-midnight/",
+  "Name": "Before Midnight"
+}

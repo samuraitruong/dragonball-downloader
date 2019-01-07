@@ -1,0 +1,417 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z4ZtamNvSpCFicYwCbG6J2VANO5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z4ZtamNvSpCFicYwCbG6J2VANO5.jpg",
+      "Name": "The Girl Who Sees Smells"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3HSNZtdWpVoFUC5Ds3vaSTvC5d9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3HSNZtdWpVoFUC5Ds3vaSTvC5d9.jpg",
+      "Name": "The Girl Who Sees Smells"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8iB17bbqBYNXkKHEzNOh4KWH0bi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8iB17bbqBYNXkKHEzNOh4KWH0bi.jpg",
+      "Name": "The Girl Who Sees Smells"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x16/",
+      "Name": "Episode 16"
+    }
+  ],
+  "Intro": "Three years ago, Choi Moo Gak was mysteriously entangled in the &#8220;Barcode&#8221; murder case, resulting in not only the death of his sister, but also in the loss of most of his senses. While unearthing the cold case, Moo Gak crosses paths with Oh Cho Rim, a fellow victim who gained the synesthetic ability to see smells, but lost all of her memories prior to the incident. Moo Gak and Cho Rim combine their strange powers to track down the culprit, but are they ready to confront the truth?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/uC95QIWiPq2ts558aki8NC5rXHN-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tE0yarKPL0KKiP2084eYcIXX0E6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tE0yarKPL0KKiP2084eYcIXX0E6.jpg",
+              "Name": "The Girl Who Sees Smells 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": "When Choi Eun Seol wakes up from a coma, she not only has amnesia, but the ability to see scents. Unbeknownst to her, she has also been given a new identity under the name Oh Cho Rim.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x1/",
+          "Name": "The Girl Who Sees Smells 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x10/",
+          "Name": "The Girl Who Sees Smells 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x11/",
+          "Name": "The Girl Who Sees Smells 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x12/",
+          "Name": "The Girl Who Sees Smells 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x13/",
+          "Name": "The Girl Who Sees Smells 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x14/",
+          "Name": "The Girl Who Sees Smells 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x15/",
+          "Name": "The Girl Who Sees Smells 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x16/",
+          "Name": "The Girl Who Sees Smells 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/z6vmdodRz1b8slR5lChqrXFOp9C.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/z6vmdodRz1b8slR5lChqrXFOp9C.jpg",
+              "Name": "The Girl Who Sees Smells 1&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x2/",
+          "Name": "The Girl Who Sees Smells 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zPJP4cVErNVm2goq9toyeAq6Edi.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zPJP4cVErNVm2goq9toyeAq6Edi.jpg",
+              "Name": "The Girl Who Sees Smells 1&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x3/",
+          "Name": "The Girl Who Sees Smells 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rWbGvdLNP0Sa5ytcessGln8ZYaS.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rWbGvdLNP0Sa5ytcessGln8ZYaS.jpg",
+              "Name": "The Girl Who Sees Smells 1&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x4/",
+          "Name": "The Girl Who Sees Smells 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/uXOcVmnxjYurob7VeiZLel3g2hV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/uXOcVmnxjYurob7VeiZLel3g2hV.jpg",
+              "Name": "The Girl Who Sees Smells 1&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x5/",
+          "Name": "The Girl Who Sees Smells 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1d118yD6KX5kIIQA7uUj9ZiK9Q3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1d118yD6KX5kIIQA7uUj9ZiK9Q3.jpg",
+              "Name": "The Girl Who Sees Smells 1&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x6/",
+          "Name": "The Girl Who Sees Smells 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4EaQ8gKrUm7KaTpMPDSpEWaTdOR.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4EaQ8gKrUm7KaTpMPDSpEWaTdOR.jpg",
+              "Name": "The Girl Who Sees Smells 1&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x7/",
+          "Name": "The Girl Who Sees Smells 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bIcuJMNFiABsekFpBsvGpLz8asW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bIcuJMNFiABsekFpBsvGpLz8asW.jpg",
+              "Name": "The Girl Who Sees Smells 1&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x8/",
+          "Name": "The Girl Who Sees Smells 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-girl-who-sees-smells-1x9/",
+          "Name": "The Girl Who Sees Smells 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Apr. 01, 2015"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/the-girl-who-sees-smells/",
+  "Name": "The Girl Who Sees Smells"
+}

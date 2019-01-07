@@ -1,0 +1,61 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tC9q69NLP4qLqPcloWYNkdWFkXa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tC9q69NLP4qLqPcloWYNkdWFkXa.jpg",
+      "Name": "Antichrist"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rIothzrJiv6pR6ee426BJQjI1qb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rIothzrJiv6pR6ee426BJQjI1qb.jpg",
+      "Name": "Antichrist"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g6o7m74pCM5xQ2wENYzzPUStHGy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g6o7m74pCM5xQ2wENYzzPUStHGy.jpg",
+      "Name": "Antichrist"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hHfGLUZzAIH97ToSlUqMA9gw4Ej.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hHfGLUZzAIH97ToSlUqMA9gw4Ej.jpg",
+      "Name": "Antichrist"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1rT3mkTc38cwDDEdmHMj3bXKMJb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1rT3mkTc38cwDDEdmHMj3bXKMJb.jpg",
+      "Name": "Antichrist"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bj5J4PHimEJrzS74jAuOVdRAa32.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bj5J4PHimEJrzS74jAuOVdRAa32.jpg",
+      "Name": "Antichrist"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mocpXWB0PLNMaXyoQbw2BRG7PZU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mocpXWB0PLNMaXyoQbw2BRG7PZU.jpg",
+      "Name": "Antichrist"
+    }
+  ],
+  "Links": [],
+  "Intro": "A grieving couple retreats to their cabin &#8216;Eden&#8217; in the woods, hoping to repair their broken hearts and troubled marriage. But nature takes its course and things go from bad to worse.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/lY4Y9buUIZY17vpvL5dsBpbORo0-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/BO_wu_M2xjc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/antichrist/",
+  "Name": "Antichrist"
+}

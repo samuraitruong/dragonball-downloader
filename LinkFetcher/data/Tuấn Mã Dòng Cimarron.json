@@ -1,21 +1,74 @@
 {
-  "Id": "mov2O7nCY9023",
-  "Url": "https://fsharephim.com/movies/spirit-stallion-of-the-cimarron/",
-  "Name": "Tuấn Mã Dòng Cimarron",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov2o7ncy9023/",
-      "Name": "Spirit.Stallion.of.the.Cimarron.2002.VIE.720p.BluRay.X264-AMIABLE.mkv",
-      "Url": "https://www.fshare.vn/file/TVNP604G3T",
-      "Size": "2.44 GB",
-      "FileSize": 2625202613
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov2o7ncy9023-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/spirit-stallion-of-the-cimarron",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/mien-tay/",
+      "Name": "Miền Tây"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7UzVI4BepB9g8822H7UCXPjrMan.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7UzVI4BepB9g8822H7UCXPjrMan.jpg ",
+      "Name": "Tuấn Mã Dòng Cimarron - Spirit: Stallion of the Cimarron"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aWoNyhfncOCDUKL7WOsXmWGt9H7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aWoNyhfncOCDUKL7WOsXmWGt9H7.jpg ",
+      "Name": "Tuấn Mã Dòng Cimarron - Spirit: Stallion of the Cimarron"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/icj8vqj0E30SfMPBI7Ib8anuKk3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/icj8vqj0E30SfMPBI7Ib8anuKk3.jpg ",
+      "Name": "Tuấn Mã Dòng Cimarron - Spirit: Stallion of the Cimarron"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/p0dMwW4PXRdlqS12epozkzERUs2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/p0dMwW4PXRdlqS12epozkzERUs2.jpg ",
+      "Name": "Tuấn Mã Dòng Cimarron - Spirit: Stallion of the Cimarron"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zl5zrorUwZxL0rIo9jt0UZQ02Mt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zl5zrorUwZxL0rIo9jt0UZQ02Mt.jpg ",
+      "Name": "Tuấn Mã Dòng Cimarron - Spirit: Stallion of the Cimarron"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/y61JYr13e9zcdppQZmCPp2sOVBy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/y61JYr13e9zcdppQZmCPp2sOVBy.jpg ",
+      "Name": "Tuấn Mã Dòng Cimarron - Spirit: Stallion of the Cimarron"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jxOxWIZiRnBdpf0l6TRY7PgPZit.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jxOxWIZiRnBdpf0l6TRY7PgPZit.jpg ",
+      "Name": "Tuấn Mã Dòng Cimarron - Spirit: Stallion of the Cimarron"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/710YOiGmA6aOfEbVGphwkadDvNh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/710YOiGmA6aOfEbVGphwkadDvNh.jpg ",
+      "Name": "Tuấn Mã Dòng Cimarron - Spirit: Stallion of the Cimarron"
+    }
+  ],
+  "Links": [],
+  "Intro": "Câu chuyện diễn ra ở miền Viễn Tây xa xưa của nước Mỹ đất đai trù phú. Đó là nơi có những miền sa mạc rộng lớn, những vùng đồng cỏ bát ngát, những dãy núi đá hùng vĩ, và con suối chảy trắng xiết. Đó là nơi “tôi vẫn nhớ, gió, mặt trời và bầu trời luôn gọi tên tôi”, và là nơi bầy ngựa hoang phóng mình dũng mãnh cùng muôn thú. Và chính nơi đó, một chú ngựa con vừa sinh ra đời…",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/7cfXsSe621cWpCpAuuJgud0Gszt-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/RPJ4EQ2Eh9I?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/spirit-stallion-of-the-cimarron/",
+  "Name": "Tuấn Mã Dòng Cimarron"
 }

@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bLJTjfbZ1c5zSNiAvGYs1Uc82ir.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bLJTjfbZ1c5zSNiAvGYs1Uc82ir.jpg",
+      "Name": "Tomb Raider: Huyền Thoại Bắt Đầu - Tomb Raider"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jLYhKjSC8LyXzWZc6VwPjMYP2wy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jLYhKjSC8LyXzWZc6VwPjMYP2wy.jpg",
+      "Name": "Tomb Raider: Huyền Thoại Bắt Đầu - Tomb Raider"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mNKAKJ2Zxtny8vgH90qYaicuxlO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mNKAKJ2Zxtny8vgH90qYaicuxlO.jpg",
+      "Name": "Tomb Raider: Huyền Thoại Bắt Đầu - Tomb Raider"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b5WcQjIGQEnSaTWxSXq0zHuMq38.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b5WcQjIGQEnSaTWxSXq0zHuMq38.jpg",
+      "Name": "Tomb Raider: Huyền Thoại Bắt Đầu - Tomb Raider"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pW3Yd8TEYIwgVMMJBjvBxKcmgXu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pW3Yd8TEYIwgVMMJBjvBxKcmgXu.jpg",
+      "Name": "Tomb Raider: Huyền Thoại Bắt Đầu - Tomb Raider"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nBTgKKwcpWWb4JqBFBcalM0OVO0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nBTgKKwcpWWb4JqBFBcalM0OVO0.jpg",
+      "Name": "Tomb Raider: Huyền Thoại Bắt Đầu - Tomb Raider"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mxttTR5PfXFT9lfoTHrdMioqM1i.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mxttTR5PfXFT9lfoTHrdMioqM1i.jpg",
+      "Name": "Tomb Raider: Huyền Thoại Bắt Đầu - Tomb Raider"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h9H8j7RHUPX904W63I5iNgtyE8M.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h9H8j7RHUPX904W63I5iNgtyE8M.jpg",
+      "Name": "Tomb Raider: Huyền Thoại Bắt Đầu - Tomb Raider"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uzjjJbwKQEUqvlQUTz44WUFGMZo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uzjjJbwKQEUqvlQUTz44WUFGMZo.jpg",
+      "Name": "Tomb Raider: Huyền Thoại Bắt Đầu - Tomb Raider"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yVlaVnGRwJMxB3txxwA24XurSNp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yVlaVnGRwJMxB3txxwA24XurSNp.jpg",
+      "Name": "Tomb Raider: Huyền Thoại Bắt Đầu - Tomb Raider"
+    }
+  ],
+  "Links": [],
+  "Intro": "Tomb Raider: Huyền Thoại Bắt Đầu là cuộc hành trình trở thành huyền thoại của Lara Croft &#8211; con gái của nhà khảo cổ học &amp; doanh nhân Richard Croft. Trước khi mất tích, Richard đã để lại lời nhắn cho con gái mình về hòn đảo bí ấn &amp; tổ chức Trinity với kế hoạch hủy diệt thế giới. Hãy cùng Lara Croft vén bức màn bí mật &amp; cứu thế giới vào ngày 16.03.3017.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/fpeX7q6878v3Oo6uoQvKzBzK7Ls-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/enLIWGK9cC8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/tomb-raider/",
+  "Name": "Tomb Raider: Huyền Thoại Bắt Đầu"
+}

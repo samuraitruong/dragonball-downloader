@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bAI7aPHQcvSZXvt7L11kMJdS0Gm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bAI7aPHQcvSZXvt7L11kMJdS0Gm.jpg ",
+      "Name": "The Disaster Artist"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/orF6ZgjWMjSJxKTPftCuP6lH14b.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/orF6ZgjWMjSJxKTPftCuP6lH14b.jpg ",
+      "Name": "The Disaster Artist"
+    }
+  ],
+  "Links": [],
+  "Intro": "An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/jj84nF5vYRD0HUTowBKcrKk8hZP-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/4qab3TMg42k?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-disaster-artist/",
+  "Name": "The Disaster Artist"
+}

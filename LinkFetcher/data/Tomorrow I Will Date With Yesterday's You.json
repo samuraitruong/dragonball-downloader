@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/smwZPWM8YBd2oFOQRWQjoAOOhz4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/smwZPWM8YBd2oFOQRWQjoAOOhz4.jpg",
+      "Name": "Tomorrow I Will Date With Yesterday&#8217;s You"
+    }
+  ],
+  "Links": [],
+  "Intro": "Takatoshi Minamiyama (Sota Fukushi) majors in art at an university in Kyoto. On the train to the school, he sees Emi Fukuju (Nana Komatsu) and falls in love with her at first sight. Gathering up all his courage, he speaks to her. They begin to date and enjoy happy days together, but Emi reveals her secret to him.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/wtRJKkspD4pv3fd2lO2cT93dpzq-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/2CW_klFtCDU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/tomorrow-i-will-date-with-yesterdays-you/",
+  "Name": "Tomorrow I Will Date With Yesterday's You"
+}

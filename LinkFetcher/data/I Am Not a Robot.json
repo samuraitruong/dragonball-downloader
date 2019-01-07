@@ -1,0 +1,963 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao-khoa-hoc/",
+      "Name": "Kỳ Ảo Khoa Học"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vpvnVjI6qHGStQSlQV3impyhUFJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vpvnVjI6qHGStQSlQV3impyhUFJ.jpg",
+      "Name": "I Am Not a Robot"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x16/",
+      "Name": "Episode 16"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x17/",
+      "Name": "Episode 17"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x18/",
+      "Name": "Episode 18"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/not-robot-1x19/",
+      "Name": "Episode 19"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/not-robot-1x20/",
+      "Name": "Episode 20"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/not-robot-1x21/",
+      "Name": "Episode 21"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/not-robot-1x22/",
+      "Name": "Episode 22"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/not-robot-1x23/",
+      "Name": "Episode 23"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/not-robot-1x24/",
+      "Name": "Episode 24"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/not-robot-1x25/",
+      "Name": "Episode 25"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/not-robot-1x26/",
+      "Name": "Episode 26"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/not-robot-1x27/",
+      "Name": "Episode 27"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/not-robot-1x28/",
+      "Name": "Episode 28"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/not-robot-1x29/",
+      "Name": "Episode 29"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/not-robot-1x30/",
+      "Name": "Episode 30"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/not-robot-1x31/",
+      "Name": "Episode 31"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/not-robot-1x32/",
+      "Name": "Episode 32"
+    }
+  ],
+  "Intro": "Inevitably, everybody gets hurt at some point in their lives. There are different remedies for different types of wounds, and as time elapses, these remedies start to become less effective. This is a story about a man who created a shield for his broken heart. Since the day his heart broke, he has been living inside a shell. One day, he encounters a being unlike any other, and by interacting with her, he slowly learns how to break out of his shell.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/2l1KTliFU7SjNT1OpTojbvjEnZe-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": "tvLF58i21384211",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21384211/",
+              "Size": "1.4 GB",
+              "FileSize": 1531610932,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/PGUL6R2O2YFX",
+              "Name": "로봇이 아니야.E01-02.171206.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x1/",
+          "Name": "I Am Not a Robot 1x1"
+        },
+        {
+          "Id": "tvLF58i21402163",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21402163/",
+              "Size": "696.9 MB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "",
+              "Name": "720p"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x10/",
+          "Name": "I Am Not a Robot 1x10"
+        },
+        {
+          "Id": "tvLF58i21402164",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21402164/",
+              "Size": "717.8 MB",
+              "FileSize": 752695983,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/8F9QLKSY7T7A",
+              "Name": "로봇이 아니야.E11.171221.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x11/",
+          "Name": "I Am Not a Robot 1x11"
+        },
+        {
+          "Id": "tvLF58i21402165",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21402165/",
+              "Size": "591.4 MB",
+              "FileSize": 620141819,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/6R2O3ZG3TIUE",
+              "Name": "로봇이 아니야.E12.171221.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x12/",
+          "Name": "I Am Not a Robot 1x12"
+        },
+        {
+          "Id": "tvLF58i21410851",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21410851/",
+              "Size": "620.4 MB",
+              "FileSize": 650549608,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/9QMMXLU89EX8",
+              "Name": "로봇이 아니야.E13.171227.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x13/",
+          "Name": "I Am Not a Robot 1x13"
+        },
+        {
+          "Id": "tvLF58i21410852",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21410852/",
+              "Size": "660.1 MB",
+              "FileSize": 692180186,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/8WKWLZWCNYLR",
+              "Name": "로봇이 아니야.E14.171227.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x14/",
+          "Name": "I Am Not a Robot 1x14"
+        },
+        {
+          "Id": "tvLF58i21410853",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21410853/",
+              "Size": "662.8 MB",
+              "FileSize": 695019835,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/STD49M6L83EK",
+              "Name": "로봇이 아니야.E15.171228.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x15/",
+          "Name": "I Am Not a Robot 1x15"
+        },
+        {
+          "Id": "tvLF58i21410854",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21410854/",
+              "Size": "611.6 MB",
+              "FileSize": 641325060,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/73GTJVJQSK5P",
+              "Name": "로봇이 아니야.E16.171228.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x16/",
+          "Name": "I Am Not a Robot 1x16"
+        },
+        {
+          "Id": "tvLF58i21410855",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21410855/",
+              "Size": "1.3 GB",
+              "FileSize": 1438360428,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/DZMTZ8VFASXY",
+              "Name": "로봇이 아니야.E17-18.180103.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x17/",
+          "Name": "I Am Not a Robot 1x17"
+        },
+        {
+          "Id": "tvLF58i21410856",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21410856/",
+              "Size": "1.3 GB",
+              "FileSize": 1438360428,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/DZMTZ8VFASXY",
+              "Name": "로봇이 아니야.E17-18.180103.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x18/",
+          "Name": "I Am Not a Robot 1x18"
+        },
+        {
+          "Id": "tvCZeVM51410858",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvczevm51410858/",
+              "Size": "658.2 MB",
+              "FileSize": 690169493,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/LU8AIE5BTZ6M",
+              "Name": "로봇이 아니야.E19.180104.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/not-robot-1x19/",
+          "Name": "I Am Not a Robot 1x19"
+        },
+        {
+          "Id": "tvLF58i21384214",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21384214/",
+              "Size": "745.7 MB",
+              "FileSize": 781949670,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/1SPV2B4C48JQ",
+              "Name": "로봇이 아니야.E02.171206.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x2/",
+          "Name": "I Am Not a Robot 1x2"
+        },
+        {
+          "Id": "tvQVtHGH1410858",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvqvthgh1410858/",
+              "Size": "709.4 MB",
+              "FileSize": 743862022,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/6WRVT5Z9Z1TQ",
+              "Name": "로봇이 아니야.E20.180104.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/not-robot-1x20/",
+          "Name": "I Am Not a Robot 1x20"
+        },
+        {
+          "Id": "tvWjdygy1413559",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvwjdygy1413559/",
+              "Size": "1.5 GB",
+              "FileSize": 1564771082,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/C5D5E9SX3D9V",
+              "Name": "로봇이 아니야.E21-22.180110.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/not-robot-1x21/",
+          "Name": "I Am Not a Robot 1x21"
+        },
+        {
+          "Id": "tvUSstZF1413560",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvusstzf1413560/",
+              "Size": "1.5 GB",
+              "FileSize": 1564771082,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/C5D5E9SX3D9V",
+              "Name": "로봇이 아니야.E21-22.180110.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/not-robot-1x22/",
+          "Name": "I Am Not a Robot 1x22"
+        },
+        {
+          "Id": "tvrgmsL91413561",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvrgmsl91413561/",
+              "Size": "1.4 GB",
+              "FileSize": 1503432110,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/KF3X6QX95QX6",
+              "Name": "로봇이 아니야.E23-24.180111.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/not-robot-1x23/",
+          "Name": "I Am Not a Robot 1x23"
+        },
+        {
+          "Id": "tvNLOKfb1413562",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvnlokfb1413562/",
+              "Size": "1.4 GB",
+              "FileSize": 1503432110,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/KF3X6QX95QX6",
+              "Name": "로봇이 아니야.E23-24.180111.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/not-robot-1x24/",
+          "Name": "I Am Not a Robot 1x24"
+        },
+        {
+          "Id": "tvx1krNw1413563",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvx1krnw1413563/",
+              "Size": "1.4 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/GC4BWBJHK4MJ",
+              "Name": "720p"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/not-robot-1x25/",
+          "Name": "I Am Not a Robot 1x25"
+        },
+        {
+          "Id": "tvAgCVwZ1413564",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvagcvwz1413564/",
+              "Size": "1.4 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/GC4BWBJHK4MJ",
+              "Name": "720p"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/not-robot-1x26/",
+          "Name": "I Am Not a Robot 1x26"
+        },
+        {
+          "Id": "tv3372fS1413565",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv3372fs1413565/",
+              "Size": "1.4 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/LIGHS9N8XN92",
+              "Name": "720p"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/not-robot-1x27/",
+          "Name": "I Am Not a Robot 1x27"
+        },
+        {
+          "Id": "tvoMQuX11413566",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvomqux11413566/",
+              "Size": "1.4 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/LIGHS9N8XN92",
+              "Name": "720p"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/not-robot-1x28/",
+          "Name": "I Am Not a Robot 1x28"
+        },
+        {
+          "Id": "tvGKvQCy1413567",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvgkvqcy1413567/",
+              "Size": "1.46 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/M7S662KBN1W8",
+              "Name": "720p"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/not-robot-1x29/",
+          "Name": "I Am Not a Robot 1x29"
+        },
+        {
+          "Id": "tvLF58i21402156",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21402156/",
+              "Size": "637.2 MB",
+              "FileSize": 668161051,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/ESLAETNJIMDO",
+              "Name": "로봇이 아니야.E03.171207.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x3/",
+          "Name": "I Am Not a Robot 1x3"
+        },
+        {
+          "Id": "tv2UzXth1413568",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv2uzxth1413568/",
+              "Size": "1.46 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/M7S662KBN1W8",
+              "Name": "720p"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/not-robot-1x30/",
+          "Name": "I Am Not a Robot 1x30"
+        },
+        {
+          "Id": "tvxsXXFB1413569",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvxsxxfb1413569/",
+              "Size": "1.43 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/3MJM6OP8PNUZ",
+              "Name": "720p"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/not-robot-1x31/",
+          "Name": "I Am Not a Robot 1x31"
+        },
+        {
+          "Id": "tv6kZtVy1413570",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6kztvy1413570/",
+              "Size": "1.43 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/3MJM6OP8PNUZ",
+              "Name": "720p"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/not-robot-1x32/",
+          "Name": "I Am Not a Robot 1x32"
+        },
+        {
+          "Id": "tvLF58i21402157",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21402157/",
+              "Size": "756.5 MB",
+              "FileSize": 793282105,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/CA7R3TK6S8IK",
+              "Name": "로봇이 아니야.E04.171207.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x4/",
+          "Name": "I Am Not a Robot 1x4"
+        },
+        {
+          "Id": "tvLF58i21402158",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21402158/",
+              "Size": "744.9 MB",
+              "FileSize": 781032597,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/WT62JAH9M11T",
+              "Name": "로봇이 아니야.E05.171213.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x5/",
+          "Name": "I Am Not a Robot 1x5"
+        },
+        {
+          "Id": "tvLF58i21402159",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21402159/",
+              "Size": "605.4 MB",
+              "FileSize": 634827236,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T3MN36CXEW5N",
+              "Name": "로봇이 아니야.E06.171213.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x6/",
+          "Name": "I Am Not a Robot 1x6"
+        },
+        {
+          "Id": "tvLF58i21402160",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21402160/",
+              "Size": "738.6 MB",
+              "FileSize": 774484501,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/W4IZ4BZQHUM8",
+              "Name": "로봇이 아니야.E07.171214.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x7/",
+          "Name": "I Am Not a Robot 1x7"
+        },
+        {
+          "Id": "tvLF58i21402161",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21402161/",
+              "Size": "616.3 MB",
+              "FileSize": 646230304,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/49OCCH4VS1H3",
+              "Name": "로봇이 아니야.E08.171214.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x8/",
+          "Name": "I Am Not a Robot 1x8"
+        },
+        {
+          "Id": "tvLF58i21402162",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvlf58i21402162/",
+              "Size": "625.4 MB",
+              "FileSize": 655766056,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/EX94IZ7OICSR",
+              "Name": "로봇이 아니야.E09.171220.720p-NEXT.mp4"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-am-not-a-robot-1x9/",
+          "Name": "I Am Not a Robot 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Dec. 06, 2017"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/i-am-not-a-robot/",
+  "Name": "I Am Not a Robot"
+}

@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xIrEPbPrnUD9EtH2i7e7ZCiGnsM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xIrEPbPrnUD9EtH2i7e7ZCiGnsM.jpg ",
+      "Name": "Nữ Hoàng Châu Phi - The African Queen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/95Sw8Bi4b47taDe9cxDw8ooN6uE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/95Sw8Bi4b47taDe9cxDw8ooN6uE.jpg ",
+      "Name": "Nữ Hoàng Châu Phi - The African Queen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pavoA05FYAb7wr7iiiCDE63UGe9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pavoA05FYAb7wr7iiiCDE63UGe9.jpg ",
+      "Name": "Nữ Hoàng Châu Phi - The African Queen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aESNEYv9MWV8fTSSOgwAd8LEbyV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aESNEYv9MWV8fTSSOgwAd8LEbyV.jpg ",
+      "Name": "Nữ Hoàng Châu Phi - The African Queen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/521tDOzLxxsXjLjXaeoDHgmWC0R.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/521tDOzLxxsXjLjXaeoDHgmWC0R.jpg ",
+      "Name": "Nữ Hoàng Châu Phi - The African Queen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qxxIBs3CiqTb6R6IxwlgtaZYOlG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qxxIBs3CiqTb6R6IxwlgtaZYOlG.jpg ",
+      "Name": "Nữ Hoàng Châu Phi - The African Queen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gF4rWfdeLE4JUxpcAE5BAsRpRPw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gF4rWfdeLE4JUxpcAE5BAsRpRPw.jpg ",
+      "Name": "Nữ Hoàng Châu Phi - The African Queen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m7ByAnfroxCNFLZGk3BUc9UUCNn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m7ByAnfroxCNFLZGk3BUc9UUCNn.jpg ",
+      "Name": "Nữ Hoàng Châu Phi - The African Queen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2NqIMEGtlVHatRNsaI7j9Jjcw4C.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2NqIMEGtlVHatRNsaI7j9Jjcw4C.jpg ",
+      "Name": "Nữ Hoàng Châu Phi - The African Queen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/taHOsHUL6R4AZGIxUC5jzeDm8S4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/taHOsHUL6R4AZGIxUC5jzeDm8S4.jpg ",
+      "Name": "Nữ Hoàng Châu Phi - The African Queen"
+    }
+  ],
+  "Links": [],
+  "Intro": "Nội dung phim Nữ Hoàng Châu Phi: The African Queen do John Huston đạo diễn, với hai diễn viên tên tuổi Katherine Hepburn và Humphrey Bogart đóng vai chính, trên con tàu chỉ có hai người. Được xem là một trong những bộ phim hay nhất thế kỷ 20, The African Queen có tên trong danh sách 100 bộ phim kinh điển xuất sắc nhất của Viện phim Mỹ (AFI) và cũng là phim hay nhất của đạo diễn John Huston. Phim tập hợp được hai ngôi sao Hollywood và diễn xuất của họ “kẻ tám lạng người nửa cân”.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/6BEiFFQCKKJpz9A6rHbDOw8oGFk-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/GzcRa6n_qoE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-african-queen/",
+  "Name": "Nữ Hoàng Châu Phi"
+}

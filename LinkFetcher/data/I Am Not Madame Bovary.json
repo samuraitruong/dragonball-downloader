@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iKISaZPrEMQFYhKizyphP2dPrgQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iKISaZPrEMQFYhKizyphP2dPrgQ.jpg ",
+      "Name": "I Am Not Madame Bovary"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pUuqMjAcsZC3sp3GPFbKcGWdHn4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pUuqMjAcsZC3sp3GPFbKcGWdHn4.jpg ",
+      "Name": "I Am Not Madame Bovary"
+    }
+  ],
+  "Links": [],
+  "Intro": "Li Xuelian, a woman from the countryside is falsely accused by her husband of having an affair. To defend herself, Li moves from her small town to the big city until she reached the capital.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/hc8OG5TGeyFhbezPNKNgmEUhWK3-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/4iQXpdcX33A?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/i-am-not-madame-bovary/",
+  "Name": "I Am Not Madame Bovary"
+}

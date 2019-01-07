@@ -1,28 +1,44 @@
 {
-  "Id": "movt3VYwU23685",
-  "Url": "https://fsharephim.com/movies/monkeybone/",
-  "Name": "Khỉ Monkeybone",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movt3vywu23685/",
-      "Name": "1080p",
-      "Url": "https://www.fshare.vn/file/N6K2B6K6R3SJ",
-      "Size": "6.55 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movt3vywu23685-2/",
-      "Name": "1080p",
-      "Url": "http://4share.vn/f/586d6f6e696d6d6e/Monkeybone.2001.1080p.BluRay.x264-Japhson.mkv.file",
-      "Size": "6.55 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movt3vywu23685-3/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/monkeybone",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ic6OfCKapSYt9zWPVdbHcZOrhLa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ic6OfCKapSYt9zWPVdbHcZOrhLa.jpg",
+      "Name": "Khỉ Monkeybone - Monkeybone"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fBicUoWn0kGqW2bSHGbx4qrIjT1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fBicUoWn0kGqW2bSHGbx4qrIjT1.jpg",
+      "Name": "Khỉ Monkeybone - Monkeybone"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bộ phim hài với các tình tiết cực kỳ sôi động cùng sự góp mặt của nhiều khuôn mặt nổi tiếng. Sau một tai nạn xe hơi khiến Stu Miley chìm vào cơn hôn mê, một con khỉ xuất hiện và đòi chiếm lấy thân xác của anh. Con khỉ đó không ai khác hơn chính là đại diện cho bản ngã của anh. Bộ phim thu hút người xem với rất nhiều chi tiết rất &#8220;quậy&#8221; và kỹ xảo về hình ảnh.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/esTzTytwcRbjEYT1NDgUEBsq6Kz-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/KsUdm-GatOY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/monkeybone/",
+  "Name": "Khỉ Monkeybone"
 }

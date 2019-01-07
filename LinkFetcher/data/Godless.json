@@ -1,0 +1,321 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/mien-tay/",
+      "Name": "Miền Tây"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg",
+      "Name": "Godless"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/49PPtrmcgMrTc9w2xdrzYt7gUsH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/49PPtrmcgMrTc9w2xdrzYt7gUsH.jpg",
+      "Name": "Godless"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ldheq5jDz09DReXSIv6I3j30yQ3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ldheq5jDz09DReXSIv6I3j30yQ3.jpg",
+      "Name": "Godless"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xyzEg7X2L59bgui6dM4ej9JkNMv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xyzEg7X2L59bgui6dM4ej9JkNMv.jpg",
+      "Name": "Godless"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/LIvZZd5kUGeiJcO9IHA2l0qHkN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/LIvZZd5kUGeiJcO9IHA2l0qHkN.jpg",
+      "Name": "Godless"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wK4NxnFf0S0DpeeZGfL5PVJde83.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wK4NxnFf0S0DpeeZGfL5PVJde83.jpg",
+      "Name": "Godless"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/c0ooHxPBZSFuIeWij57mQj9Ragi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/c0ooHxPBZSFuIeWij57mQj9Ragi.jpg",
+      "Name": "Godless"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lEYBxHUfdDjcsHzyyBGBeg1GPKh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lEYBxHUfdDjcsHzyyBGBeg1GPKh.jpg",
+      "Name": "Godless"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9MdUji7ryyhUcsrmlBpjSuZXlX2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9MdUji7ryyhUcsrmlBpjSuZXlX2.jpg",
+      "Name": "Godless"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9aIDD0Ygh6BOkCmTTlwjEtMhb17.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9aIDD0Ygh6BOkCmTTlwjEtMhb17.jpg",
+      "Name": "Godless"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/godless-1x1/",
+      "Name": "An Incident at Creede"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/godless-1x2/",
+      "Name": "The Ladies of La Belle"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/godless-1x3/",
+      "Name": "Wisdom of the Horse"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/godless-1x4/",
+      "Name": "Fathers & Sons"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/godless-1x5/",
+      "Name": "Shot the Head off a Snake"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/godless-1x6/",
+      "Name": "Dear Roy..."
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/godless-1x7/",
+      "Name": "Homecoming"
+    }
+  ],
+  "Intro": "A ruthless outlaw terrorizes the West in search of a former member of his gang, who’s found a new life in a quiet town populated only by women.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/qYvCNcMyTouoHvJu0ddStndDSeo-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/4u98XY52Rbk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": "tv7rbip71354861",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hR4BRavJd9OuTtUSneE0tJJGKLY.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hR4BRavJd9OuTtUSneE0tJJGKLY.jpg",
+              "Name": "Godless 1&#215;1"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv7rbip71354861/",
+              "Size": "11.93 GB",
+              "FileSize": 12805509285,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/D31KIM97YWDW6VK",
+              "Name": "Godless.2017.S01E01.An.Incident.At.Creede.2160p.NF.WEBRip.DD5.1.x264-NTb.mkv"
+            }
+          ],
+          "Intro": "When an injured outlaw shows up at her ranch, a headstrong widow sees that her life &#8212; and the lives of those close to her &#8212; will never be the same.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/godless-1x1/",
+          "Name": "Godless 1x1"
+        },
+        {
+          "Id": "tv7rbip71395754",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/j4hhML0IS2qaGsz5XbTlrz1dy24.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/j4hhML0IS2qaGsz5XbTlrz1dy24.jpg",
+              "Name": "Godless 1&#215;2"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv7rbip71395754/",
+              "Size": "11.96 GB",
+              "FileSize": 12844091202,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/WM4EEI6Y26E9RUQ",
+              "Name": "Godless.2017.S01E02.The.Ladies.Of.La.Belle.2160p.NF.WEBRip.DD5.1.x264-NTb.mkv"
+            }
+          ],
+          "Intro": "La Belle wrestles with an all-or-nothing offer. Bill seeks a dangerous way to prove himself, and Frank shares a story with a captive audience.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/godless-1x2/",
+          "Name": "Godless 1x2"
+        },
+        {
+          "Id": "tv7rbip71395755",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hN6bcOnlEeNXC8rEWSWaTQvCPHM.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hN6bcOnlEeNXC8rEWSWaTQvCPHM.jpg",
+              "Name": "Godless 1&#215;3"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv7rbip71395755/",
+              "Size": "13.03 GB",
+              "FileSize": 13991868105,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/RDC9134Y93GPVZ2",
+              "Name": "Godless.2017.S01E03.Wisdom.Of.The.Horse.2160p.NF.WEBRip.DD5.1.x264-NTb.mkv"
+            }
+          ],
+          "Intro": "Bill envisions Roy&#8217;s fateful stand, a reluctant Truckee learns to ride a horse, Whitey tries his hand at making music, and John spreads the word.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/godless-1x3/",
+          "Name": "Godless 1x3"
+        },
+        {
+          "Id": "tv7rbip71395756",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9JOQCUVOnA74Xh4WSspT7SfdtrW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9JOQCUVOnA74Xh4WSspT7SfdtrW.jpg",
+              "Name": "Godless 1&#215;4"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv7rbip71395756/",
+              "Size": "12.18 GB",
+              "FileSize": 13083195539,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/ZJJQTMDP6IPQAVE",
+              "Name": "Godless.2017.S01E04.Fathers.and.Sons.2160p.NF.WEBRip.DD5.1.x264-NTb.mkv"
+            }
+          ],
+          "Intro": "Bill receives some distressing news, and Frank takes on a different type of danger. A part of Alice’s murky past comes into focus.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/godless-1x4/",
+          "Name": "Godless 1x4"
+        },
+        {
+          "Id": "tv7rbip71395757",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/66Ulx9C6SMGgsugi38ZOAF0WGA7.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/66Ulx9C6SMGgsugi38ZOAF0WGA7.jpg",
+              "Name": "Godless 1&#215;5"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv7rbip71395757/",
+              "Size": "8.7 GB",
+              "FileSize": 9344641077,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/1QAXJNCFW13564Q",
+              "Name": "Godless.2017.S01E05.Shot.The.Head.Off.A.Snake.2160p.NF.WEBRip.DD5.1.x264-NTb.mkv"
+            }
+          ],
+          "Intro": "Eager to track Frank and his crew, Bill solicits help from the Army. Meanwhile, Alice and Roy hit pay dirt and Whitey shares a secret with Mary-Agnes.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/godless-1x5/",
+          "Name": "Godless 1x5"
+        },
+        {
+          "Id": "tv7rbip71395758",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xRc7sS4kK0HRpq9aiDInCAtki5S.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xRc7sS4kK0HRpq9aiDInCAtki5S.jpg",
+              "Name": "Godless 1&#215;6"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv7rbip71395758/",
+              "Size": "6.99 GB",
+              "FileSize": 7509095633,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/6D43URZCJE42NU4",
+              "Name": "Godless.2017.S01E06.Dear.Roy.2160p.NF.WEBRip.DD5.1.x264-NTb.mkv"
+            }
+          ],
+          "Intro": "Mary-Agnes tries to help the free-spirited Martha escape her past. Grigg ensures Frank stays in the know. Roy struggles with his feelings for Alice.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/godless-1x6/",
+          "Name": "Godless 1x6"
+        },
+        {
+          "Id": "tv7rbip71395759",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1uHjeOrFWscWfJBWZzt4ulV7wei.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1uHjeOrFWscWfJBWZzt4ulV7wei.jpg",
+              "Name": "Godless 1&#215;7"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv7rbip71395759/",
+              "Size": "8.41 GB",
+              "FileSize": 9033871257,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/F41JDW6WPLKS2I8",
+              "Name": "Godless (2017) S01E07 Homecoming 2160p HDR Netflix WEBRip DD Atmos 5.1 x265-TrollUHD.mkv"
+            }
+          ],
+          "Intro": "While the residents of La Belle prepare for Frank’s onslaught, Whitey seeks help from an unexpected ally. Roy and Frank come to an understanding.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/godless-1x7/",
+          "Name": "Godless 1x7"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Nov. 22, 2017"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/godless/",
+  "Name": "Godless"
+}

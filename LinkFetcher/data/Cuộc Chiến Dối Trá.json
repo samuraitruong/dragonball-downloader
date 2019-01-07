@@ -1,0 +1,57 @@
+{
+  "Id": "movZDAVxQ385031",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/76III0vDieUlaiNVeDg7JqdOOHd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/76III0vDieUlaiNVeDg7JqdOOHd.jpg",
+      "Name": "Cuộc Chiến Dối Trá - Dirty Lies"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ap8Zyg8aJRDHfjtgQIMhIWlWzlv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ap8Zyg8aJRDHfjtgQIMhIWlWzlv.jpg",
+      "Name": "Cuộc Chiến Dối Trá - Dirty Lies"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movzdavxq385031-2/",
+      "Size": "1.4 GB",
+      "FileSize": 1453133709,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/EYFX4FLF4X5K",
+      "Name": "Dirty.Lies.2016.1080p.WEB-DL.DD5.1.H264-FGT-SUB-FCINE_encoded.mp4"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movzdavxq385031/",
+      "Size": "3.1 GB",
+      "FileSize": 3354245832,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/62I3MLU9F3W2",
+      "Name": "Dirty.Lies.2016.1080p.WEB-DL.DD5.1.H264-FGT-SUB-FCINE.mkv"
+    }
+  ],
+  "Intro": "Một thực tập sinh được giao nhiệm vụ truy tìm 1 chiếc vòng cổ trị giá hàng triệu đô-la, và đây cũng là bằng chứng tội phạm liên quan đến người bạn cùng phòng của anh.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/06/rNYknBsDt7qgDkuZEXHEGJTb2sy-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/dirty-lies/",
+  "Name": "Cuộc Chiến Dối Trá"
+}

@@ -1,21 +1,70 @@
 {
-  "Id": "mov6idztd9642",
-  "Url": "https://fsharephim.com/movies/asterix-and-the-vikings/",
-  "Name": "Asterix and the Vikings",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov6idztd9642/",
-      "Name": "Asterix.et.les.Vikings.2006.720p.BluRay.DTS.x264-ESiR (Thuyet Minh).mkv",
-      "Url": "https://www.fshare.vn/file/T0D0VXXTVT",
-      "Size": "2.96 GB",
-      "FileSize": 3179233198
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov6idztd9642-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/asterix-and-the-vikings-astrix-et-les-vikings",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/i8iDFjxaqcWAHXd0twf6p5dMMN6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/i8iDFjxaqcWAHXd0twf6p5dMMN6.jpg",
+      "Name": "Asterix and the Vikings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qaI0AMzvlrnJ4bIvr7dub2Hvk2P.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qaI0AMzvlrnJ4bIvr7dub2Hvk2P.jpg",
+      "Name": "Asterix and the Vikings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gpk7kNOvyzk6BWEbKqbG0M0XBzt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gpk7kNOvyzk6BWEbKqbG0M0XBzt.jpg",
+      "Name": "Asterix and the Vikings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/543oiedNwifLbpNtR3lCNma4QD5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/543oiedNwifLbpNtR3lCNma4QD5.jpg",
+      "Name": "Asterix and the Vikings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m8HEJ1d8oOfz31zT747Dv5JTnjk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m8HEJ1d8oOfz31zT747Dv5JTnjk.jpg",
+      "Name": "Asterix and the Vikings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/60B3gIROdEdYTlBR0zITnJpkLDp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/60B3gIROdEdYTlBR0zITnJpkLDp.jpg",
+      "Name": "Asterix and the Vikings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/awBL551v7UAGO3nfJtyythvEf41.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/awBL551v7UAGO3nfJtyythvEf41.jpg",
+      "Name": "Asterix and the Vikings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/er09wpl6IRDKJtCqgmojaHp9p3W.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/er09wpl6IRDKJtCqgmojaHp9p3W.jpg",
+      "Name": "Asterix and the Vikings"
+    }
+  ],
+  "Links": [],
+  "Intro": "Asterix and Obelix have been given a tough mission: Transform the chief&#8217;s lazy nephew Justforkix into a warrior. When the Vikings abduct him and bring him back to their homeland, Asterix and Obelix must travel to Norway to rescue Justforkix.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/e9IzoqXzxKljDwQrisEiUs056iv-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/asterix-and-the-vikings/",
+  "Name": "Asterix and the Vikings"
 }

@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4Y0eLVkUwThX9pt1uqVoWoCtvcl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4Y0eLVkUwThX9pt1uqVoWoCtvcl.jpg ",
+      "Name": "White Boy Rick"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m8myZoWylIlSeBCujCNlJHrzJNS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m8myZoWylIlSeBCujCNlJHrzJNS.jpg ",
+      "Name": "White Boy Rick"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bộ phim kể về cậu bé 14 tuổi Richard Wershe Jr. (Richie Merritt) là một người cung cấp tin tức bí mật cho FBI trong những năm 1980. Nhưng cuộc sống xô đẩy khiến cho Richard Wershe Jr. trở thành 1 kẻ buôn ma túy vô cùng thông minh và liều lĩnh&#8230;&#8230;&#8230;.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/12/tIyqAObXHVHpJmbpun95d5iYlMx-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/qns48PtK2io?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/white-boy-rick/",
+  "Name": "White Boy Rick"
+}

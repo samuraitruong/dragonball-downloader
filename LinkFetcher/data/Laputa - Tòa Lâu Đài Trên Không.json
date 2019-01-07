@@ -1,21 +1,73 @@
 {
-  "Id": "movRQDzAu10515",
-  "Url": "https://fsharephim.com/movies/castle-in-the-sky/",
-  "Name": "Laputa - Tòa Lâu Đài Trên Không",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movrqdzau10515/",
-      "Name": "Laputa.Castle In The Sky 1986 m720p Bluray RERiP AC3 x264-4ko.mkv",
-      "Url": "https://www.fshare.vn/file/TW0MC8ZCBT",
-      "Size": "3 GB",
-      "FileSize": 3223076071
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movrqdzau10515-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/castle-in-the-sky",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pU8cdLJiyOnFrFlWJEUlIu8S4hQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pU8cdLJiyOnFrFlWJEUlIu8S4hQ.jpg ",
+      "Name": "Laputa - Tòa Lâu Đài Trên Không - Castle in the Sky"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hf4CRxGMi8zmLjkudyTWfVtnuXr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hf4CRxGMi8zmLjkudyTWfVtnuXr.jpg ",
+      "Name": "Laputa - Tòa Lâu Đài Trên Không - Castle in the Sky"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/igKXfAWrDTRdkpXmo89BOmFlpV8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/igKXfAWrDTRdkpXmo89BOmFlpV8.jpg ",
+      "Name": "Laputa - Tòa Lâu Đài Trên Không - Castle in the Sky"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/baXCl6ayI2FGtwtXdPduvYJU1ET.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/baXCl6ayI2FGtwtXdPduvYJU1ET.jpg ",
+      "Name": "Laputa - Tòa Lâu Đài Trên Không - Castle in the Sky"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fnMzL4G6HYilH1w1leFXOY5b29m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fnMzL4G6HYilH1w1leFXOY5b29m.jpg ",
+      "Name": "Laputa - Tòa Lâu Đài Trên Không - Castle in the Sky"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aRy8uIDS6WwzcokDhekjcZgxjaV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aRy8uIDS6WwzcokDhekjcZgxjaV.jpg ",
+      "Name": "Laputa - Tòa Lâu Đài Trên Không - Castle in the Sky"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5I4NZq5yPbtPv4ffXCDkkEnoTOb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5I4NZq5yPbtPv4ffXCDkkEnoTOb.jpg ",
+      "Name": "Laputa - Tòa Lâu Đài Trên Không - Castle in the Sky"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim Laputa Castle In The Sky xoay quanh cuộc tìm kiếm Laputa &#8211; một hòn đảo hay nói đúng hơn là một lâu đài trôi nổi trên bầu trời của 2 người bạn Pazu và Sheeta. Chiếc vòng cổ nạm viên đá Levistone là chi bảo gia truyền của dòng họ Laputa, một hoàng tộc huyền bí và cổ xưa. Viên đá là chìa khóa và lưu vật cuối cùng minh chứng sự hiện hữu của Laputa.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/yuZiIeqV5uvhyMRZdzZdPIUx1Fk-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/7QSFyr1vxi4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/castle-in-the-sky/",
+  "Name": "Laputa - Tòa Lâu Đài Trên Không"
 }

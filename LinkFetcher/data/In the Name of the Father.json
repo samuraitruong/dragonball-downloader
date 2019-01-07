@@ -1,0 +1,48 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pBvKhZ0ZrVeu9Nwyr0BHd8emvN4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pBvKhZ0ZrVeu9Nwyr0BHd8emvN4.jpg",
+      "Name": "In the Name of the Father"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/txLVp5Ubc1oTlOcY8Ey6b1QS9O5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/txLVp5Ubc1oTlOcY8Ey6b1QS9O5.jpg",
+      "Name": "In the Name of the Father"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zVtF3NyvZiJnOIQkoqFpAiaq3m7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zVtF3NyvZiJnOIQkoqFpAiaq3m7.jpg",
+      "Name": "In the Name of the Father"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/q4wR7WnWqmyplrcXpvBvepPIUbD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/q4wR7WnWqmyplrcXpvBvepPIUbD.jpg",
+      "Name": "In the Name of the Father"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4VyM6pH22q7f47HrRrmDEk9U67U.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4VyM6pH22q7f47HrRrmDEk9U67U.jpg",
+      "Name": "In the Name of the Father"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3S9ZL3MF1lm2aigf7xzhkWtv8Ft.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3S9ZL3MF1lm2aigf7xzhkWtv8Ft.jpg",
+      "Name": "In the Name of the Father"
+    }
+  ],
+  "Links": [],
+  "Intro": "A small time thief from Belfast, Gerry Conlon, is falsely implicated in the IRA bombing of a pub that kills several people while he is in London. He and his four friends are coerced by British police into confessing their guilt. Gerry&#8217;s father and other relatives in London are also implicated in the crime. He spends fifteen years in prison with his father trying to prove his innocence.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/22UfH59UppgMtDIMjD6DxhO8J2C-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/H0ff5KjZ7vM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/in-the-name-of-the-father/",
+  "Name": "In the Name of the Father"
+}

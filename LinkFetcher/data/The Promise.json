@@ -1,0 +1,46 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lIGxSu2QrXhOY6sQiiv5amV14wv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lIGxSu2QrXhOY6sQiiv5amV14wv.jpg",
+      "Name": "The Promise"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zwCOcCjSndbJme0sSMIeyrgVgRY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zwCOcCjSndbJme0sSMIeyrgVgRY.jpg",
+      "Name": "The Promise"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sBqv7sFDUh3MpjDeWuno1xqyJqc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sBqv7sFDUh3MpjDeWuno1xqyJqc.jpg",
+      "Name": "The Promise"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5TlW11iZCKoQ3GS7KynHhr86X25.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5TlW11iZCKoQ3GS7KynHhr86X25.jpg",
+      "Name": "The Promise"
+    }
+  ],
+  "Links": [],
+  "Intro": "Set during the last days of the Ottoman Empire, a love triangle develops between Mikael, a brilliant medical student, the beautiful and sophisticated artist Ana, and Chris, a renowned American journalist based in Paris.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/iDWer2VFikupdqDc7d5sxCWZ3gW-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Pk4TivbNVUM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-promise-2/",
+  "Name": "The Promise"
+}

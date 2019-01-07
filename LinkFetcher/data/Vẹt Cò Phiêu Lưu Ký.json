@@ -1,21 +1,54 @@
 {
-  "Id": "mov7ZNXKS378111",
-  "Url": "https://fsharephim.com/movies/a-storks-journey/",
-  "Name": "Vẹt Cò Phiêu Lưu Ký",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov7znxks378111/",
-      "Name": "A Storks Journey 2017 720p WEBRip XviD MP3-STUTTERSHIT.avi",
-      "Url": "https://www.fshare.vn/file/F2SK72B5GNKM",
-      "Size": "2.32 GB",
-      "FileSize": 2489118202
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov7znxks378111-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/a-storks-journey",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/c4XBfVkwGxj4nFw8ojWco8jyIhO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/c4XBfVkwGxj4nFw8ojWco8jyIhO.jpg",
+      "Name": "Vẹt Cò Phiêu Lưu Ký - A Stork&#8217;s Journey"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m4qGPFtlL2fSGFdKfHJEWGVVBYN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m4qGPFtlL2fSGFdKfHJEWGVVBYN.jpg",
+      "Name": "Vẹt Cò Phiêu Lưu Ký - A Stork&#8217;s Journey"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zMM1yuYPHOr7EUsojRGa4GwXcry.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zMM1yuYPHOr7EUsojRGa4GwXcry.jpg",
+      "Name": "Vẹt Cò Phiêu Lưu Ký - A Stork&#8217;s Journey"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zjYaVpjt3QpY5IHB3EZLc5YtzD6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zjYaVpjt3QpY5IHB3EZLc5YtzD6.jpg",
+      "Name": "Vẹt Cò Phiêu Lưu Ký - A Stork&#8217;s Journey"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim Vẹt Cò Phiêu Lưu Ký Vốn là một chú chim sẻ mồ côi. Richard được một gia đinh vẹt cò nhận về nuôi và hết lòng yêu mến. Có nằm mơ Richard cũng chưa bao giờ nghĩ mình không phải là vẹt cò. Cho đến một ngày khi bố mẹ nuôi cùng anh trai của chú thừa nhận rằng họ phải bắt đầu đi tránh rét và tìm đến cái nắng ấm chói chang của miền đất châu Phi, hành trình chông gai đó chưa bao giờ phù hợp với thể trạng của Richard vốn là một chú chim sẻ yếu ớt. Lòng nặng trĩu nhưng gia đinh vẹt cò buộc phải để Richard lại để bắt đầu chuyến đi của mình. Việc không có một đôi cánh rậm khỏe mạnh của giống vẹt cò không có nghĩa là Richard không thể bay đến Phi châu để đoàn tụ cùng gia đinh. Quyết tâm lên đường, may mắn thay chú lại được Olga, một cô cú vọ quá khổ cùng người bạn tưởng tượng của mình là Oleg giúp đỡ. Khi Richard và Olga giúp giải phóng Kiki, một chú vẹt đuôi dài bị giam cầm, bộ ba đã quyết định sát cánh cùng nhau trong hành trình đến châu Phi để giúp Richard đoàn viên cùng gia đinh. Kể từ đây, cuộc phiêu lưu vô tiền khoáng hậu bắt đầu.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/aKwgGlhdhdbx0duJhCRojkEZXgU-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/2NF3Wm9MgfQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/a-storks-journey/",
+  "Name": "Vẹt Cò Phiêu Lưu Ký"
 }

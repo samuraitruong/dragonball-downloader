@@ -1,42 +1,76 @@
 {
-  "Id": "movbRtsVu82703",
-  "Url": "https://fsharephim.com/movies/mr-peabody-sherman/",
-  "Name": "Cuộc phiêu lưu của Mr. Peabody và cậu bé Sherman",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movbrtsvu82703-5/",
-      "Name": "Mr. Peabody and Sherman (2014) 1080p Bluray 3D ViE AVC DTS-HD MA7.1-MRC VAV.iso",
-      "Url": "https://www.fshare.vn/file/GYA93GQ3X6QW",
-      "Size": "42.19 GB",
-      "FileSize": 45298548736
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movbrtsvu82703-3/",
-      "Name": "Mr.Peabody and Sherman (2014) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/CDKHEDA5HSAQ",
-      "Size": "1.12 GB",
-      "FileSize": 1200487781
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movbrtsvu82703-4/",
-      "Name": "Mr.Peabody and Sherman (2014) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/XT3NRKBJKXRN",
-      "Size": "1.76 GB",
-      "FileSize": 1893855738
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movbrtsvu82703/",
-      "Name": "Mr.Peabody.And.Sherman.2014.LT.mkv",
-      "Url": "https://www.fshare.vn/file/TXD6X9K1GT",
-      "Size": "2.25 GB",
-      "FileSize": 2420964570
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movbrtsvu82703-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/mr-peabody-and-sherman",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/obKkOgdvV7kOFUuIOBd2dZ85p4k.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/obKkOgdvV7kOFUuIOBd2dZ85p4k.jpg",
+      "Name": "Cuộc phiêu lưu của Mr. Peabody và cậu bé Sherman - Mr. Peabody &#038; Sherman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hpIUiHIyNKWsid3Tz4adtYsUqo1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hpIUiHIyNKWsid3Tz4adtYsUqo1.jpg",
+      "Name": "Cuộc phiêu lưu của Mr. Peabody và cậu bé Sherman - Mr. Peabody &#038; Sherman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tNimnlbUI7FIgpanTxOFjP0kBZw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tNimnlbUI7FIgpanTxOFjP0kBZw.jpg",
+      "Name": "Cuộc phiêu lưu của Mr. Peabody và cậu bé Sherman - Mr. Peabody &#038; Sherman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4CCyL9oveNi4w6yfQhmZ2qErr8T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4CCyL9oveNi4w6yfQhmZ2qErr8T.jpg",
+      "Name": "Cuộc phiêu lưu của Mr. Peabody và cậu bé Sherman - Mr. Peabody &#038; Sherman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cMAvHDx9ns7oouw26R28uAU7RIt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cMAvHDx9ns7oouw26R28uAU7RIt.jpg",
+      "Name": "Cuộc phiêu lưu của Mr. Peabody và cậu bé Sherman - Mr. Peabody &#038; Sherman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rqU5NMvY7MiCJ09YSOhS4h6O9Jz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rqU5NMvY7MiCJ09YSOhS4h6O9Jz.jpg",
+      "Name": "Cuộc phiêu lưu của Mr. Peabody và cậu bé Sherman - Mr. Peabody &#038; Sherman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nVz5QoRjYzYPu8ot3ATLhovqL5S.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nVz5QoRjYzYPu8ot3ATLhovqL5S.jpg",
+      "Name": "Cuộc phiêu lưu của Mr. Peabody và cậu bé Sherman - Mr. Peabody &#038; Sherman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tYf6D1KGISZRAHuvqmqnOXP8Qam.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tYf6D1KGISZRAHuvqmqnOXP8Qam.jpg",
+      "Name": "Cuộc phiêu lưu của Mr. Peabody và cậu bé Sherman - Mr. Peabody &#038; Sherman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8EZJTIJfEbZ6v9IsxTl2g8K0CJ6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8EZJTIJfEbZ6v9IsxTl2g8K0CJ6.jpg",
+      "Name": "Cuộc phiêu lưu của Mr. Peabody và cậu bé Sherman - Mr. Peabody &#038; Sherman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/72rmA0YVP5TgNEIzaB0r0gxJJDs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/72rmA0YVP5TgNEIzaB0r0gxJJDs.jpg",
+      "Name": "Cuộc phiêu lưu của Mr. Peabody và cậu bé Sherman - Mr. Peabody &#038; Sherman"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim là câu chuyện về chú chó thông minh nhất thế giới Mr.Peabody chú đã quyết định nhận nuôi một bé trai mồ côi là cậu nhóc Sherman.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/wGRWVfhMdGIThSDld2965oUkJ5E-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/aMl2tTVwsZA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/mr-peabody-sherman/",
+  "Name": "Cuộc phiêu lưu của Mr. Peabody và cậu bé Sherman"
 }

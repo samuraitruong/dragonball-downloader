@@ -1,0 +1,67 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mySX0udijqS8ude32mwc6XWcmR2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mySX0udijqS8ude32mwc6XWcmR2.jpg",
+      "Name": "A Hijacking"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nOjx38zSfBUIkFAJyrXQn9KBgdl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nOjx38zSfBUIkFAJyrXQn9KBgdl.jpg",
+      "Name": "A Hijacking"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8dmOPoCOfE3sUYYEI5uyCamUzIA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8dmOPoCOfE3sUYYEI5uyCamUzIA.jpg",
+      "Name": "A Hijacking"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gshaGD3heydTlvVSMTDcjUqPaUP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gshaGD3heydTlvVSMTDcjUqPaUP.jpg",
+      "Name": "A Hijacking"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/58KNkwcLAzHCdOFvgrArjzU4aNZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/58KNkwcLAzHCdOFvgrArjzU4aNZ.jpg",
+      "Name": "A Hijacking"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2LH1iIDWwrtEphZougyo8rTJ3wX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2LH1iIDWwrtEphZougyo8rTJ3wX.jpg",
+      "Name": "A Hijacking"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kOK0THKPUmiOGbrs82ZevBjx3hY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kOK0THKPUmiOGbrs82ZevBjx3hY.jpg",
+      "Name": "A Hijacking"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ntmbOx409R1g6C8QZkz6n5cYoV9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ntmbOx409R1g6C8QZkz6n5cYoV9.jpg",
+      "Name": "A Hijacking"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iS3hea80y9zkXQnH0eP8ZwOpXAJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iS3hea80y9zkXQnH0eP8ZwOpXAJ.jpg",
+      "Name": "A Hijacking"
+    }
+  ],
+  "Links": [],
+  "Intro": "Tensions are high after a Danish freighter is captured and held for ransom by Somali pirates, leading to weeks of high-stakes negotiations – and an escalating potential for explosive violence.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/xm7NsV7C58dK47pyH7iuu58WopL-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/MJ-fARjSNtQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/a-hijacking/",
+  "Name": "A Hijacking"
+}

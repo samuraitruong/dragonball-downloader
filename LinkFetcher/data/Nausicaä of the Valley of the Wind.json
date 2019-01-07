@@ -1,35 +1,46 @@
 {
-  "Id": "movj3UVWp81",
-  "Url": "https://fsharephim.com/movies/nausicaa-of-the-valley-of-the-wind/",
-  "Name": "Nausicaä of the Valley of the Wind",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movj3uvwp81-3/",
-      "Name": "Nausicaä of the Valley of the Wind (1984) 1080p BrRip x264.mkv",
-      "Url": "https://www.fshare.vn/file/2469IKYVAG53",
-      "Size": "2.35 GB",
-      "FileSize": 2520903291
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movj3uvwp81-4/",
-      "Name": "Nausicaä of the Valley of the Wind (1984) Bluray 1080p AVC LPCM 2.0.iso",
-      "Url": "https://www.fshare.vn/file/HFFKBLT1CENT",
-      "Size": "44.2 GB",
-      "FileSize": 47462744064
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movj3uvwp81/",
-      "Name": "Nausicaa.of.the.Valley.of.the.Wind.1984.720p.BluRay.x264-EbP.mkv",
-      "Url": "https://www.fshare.vn/file/TS1FHG8DWT",
-      "Size": "6.73 GB",
-      "FileSize": 7222852980
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movj3uvwp81-2/",
-      "Name": "Nausicaa.of.the.Valley.of.the.Wind.1984.720p.BluRay.x264-EbP Viet.zip",
-      "Url": "https://www.fshare.vn/file/TNZQAAT2FT",
-      "Size": "33.49 KB",
-      "FileSize": 34293
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qKIldRZ3jy3uGWdrNIt3P7QA5J3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qKIldRZ3jy3uGWdrNIt3P7QA5J3.jpg",
+      "Name": "Nausicaä of the Valley of the Wind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8UfDvyAX4t7UtHAmkdNox11XhAw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8UfDvyAX4t7UtHAmkdNox11XhAw.jpg",
+      "Name": "Nausicaä of the Valley of the Wind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pCtMQoOZhLoU8duZs7SyWPjR0FO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pCtMQoOZhLoU8duZs7SyWPjR0FO.jpg",
+      "Name": "Nausicaä of the Valley of the Wind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/20ZwcXjsZktO0WKik046NjYJ6Ce.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/20ZwcXjsZktO0WKik046NjYJ6Ce.jpg",
+      "Name": "Nausicaä of the Valley of the Wind"
+    }
+  ],
+  "Links": [],
+  "Intro": "After a global war, the seaside kingdom known as the Valley Of The Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaa, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/kOyNIkKPUpHn0pmHaCOOilSCQeZ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/6zhLBe319KE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/nausicaa-of-the-valley-of-the-wind/",
+  "Name": "Nausicaä of the Valley of the Wind"
 }

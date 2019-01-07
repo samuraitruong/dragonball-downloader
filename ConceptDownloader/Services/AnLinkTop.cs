@@ -8,6 +8,7 @@ using RestSharp;
 
 namespace ConceptDownloader.Services
 {
+    [Service("anlink.top")]
     public class AnLinkTop : ILinkFetcherService
     {
         public AnLinkTop()

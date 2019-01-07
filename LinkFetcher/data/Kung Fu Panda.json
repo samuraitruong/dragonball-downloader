@@ -1,21 +1,80 @@
 {
-  "Id": "movyRwXls9502",
-  "Url": "https://fsharephim.com/movies/kung-fu-panda/",
-  "Name": "Kung Fu Panda",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movyrwxls9502/",
-      "Name": "Kung.Fu.Panda.3.2016.ViE.mHD.BluRay.DD5.1.x264-TayTO.mkv",
-      "Url": "https://www.fshare.vn/file/US78DSPTPSMG",
-      "Size": "2.77 GB",
-      "FileSize": 2972608780
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movyrwxls9502-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/kung-fu-panda",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/UJwhgwAxU42cm9XKncO9boFAEV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/UJwhgwAxU42cm9XKncO9boFAEV.jpg",
+      "Name": "Kung Fu Panda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dWRy3NHHSjYP8bmuIyRebRg7wBz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dWRy3NHHSjYP8bmuIyRebRg7wBz.jpg",
+      "Name": "Kung Fu Panda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pmLEmMLYCreFAxfdCt5uO1wDgSi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pmLEmMLYCreFAxfdCt5uO1wDgSi.jpg",
+      "Name": "Kung Fu Panda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iA5N8IBMpHKjZYDs1eDAszklPne.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iA5N8IBMpHKjZYDs1eDAszklPne.jpg",
+      "Name": "Kung Fu Panda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/asYS6Nk4GQsawupu50XeG388UTq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/asYS6Nk4GQsawupu50XeG388UTq.jpg",
+      "Name": "Kung Fu Panda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wekK6HLUr58VyrZOFB7GU1HXlkW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wekK6HLUr58VyrZOFB7GU1HXlkW.jpg",
+      "Name": "Kung Fu Panda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8GS4K4u32NBnic1guiOQJqgZN86.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8GS4K4u32NBnic1guiOQJqgZN86.jpg",
+      "Name": "Kung Fu Panda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cyWxSTwai4D3FGYNfkjz3QtTPQI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cyWxSTwai4D3FGYNfkjz3QtTPQI.jpg",
+      "Name": "Kung Fu Panda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1xGYHCf4wuN41DK8YU4XdAxb3qy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1xGYHCf4wuN41DK8YU4XdAxb3qy.jpg",
+      "Name": "Kung Fu Panda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hQF1lHUNkOouz985nu2a1Os1Ohq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hQF1lHUNkOouz985nu2a1Os1Ohq.jpg",
+      "Name": "Kung Fu Panda"
+    }
+  ],
+  "Links": [],
+  "Intro": "When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the &#8220;chosen one&#8221; and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won&#8217;t be easy. It&#8217;s up to Master Shifu and the Furious Five &#8212; Tigress, Crane, Mantis, Viper and Monkey &#8212; to give it a try.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/2Paj1nufT0jeSY0G4u3RC31HIGT-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/PXi3Mv6KMzY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/kung-fu-panda/",
+  "Name": "Kung Fu Panda"
 }

@@ -1,0 +1,44 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zAH8X5xQ39TQHABWcalPGx11Ib0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zAH8X5xQ39TQHABWcalPGx11Ib0.jpg ",
+      "Name": "Bạch Phát Ma Nữ - The Bride with White Hair"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f3GDYG6acn2DY4Mchj7sbsWFLXe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f3GDYG6acn2DY4Mchj7sbsWFLXe.jpg ",
+      "Name": "Bạch Phát Ma Nữ - The Bride with White Hair"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bạch Phát Ma Nữ &#8211; The Bride with White Hair: là một tác phẩm kiếm hiệp vào loại nổi tiếng nhất của Lương Vũ Sinh, nó đã được chuyển thể thành phim điện ảnh và truyền hình rất nhiều lần, nhưng chắc chắn phiên bản 1993 do Vu Nhân Thái thực hiện vẫn sẽ được coi là phiên bản xuất sắc nhất.Điều ấn tượng nhất ở Bạch phát ma nữ truyện chắc chắn là diễn xuất tuyệt vời của bộ đôi Lâm Thanh Hà và Trương Quốc Vinh. Đạo diễn Vu Nhân Thái đã rất thành công trong việc cân bằng các yếu tố võ thuật &#8211; tưởng tượng (fantasy) &#8211; bi kịch và lãng mạn của phim, một điều cũng hiếm khi xảy ra với dòng phim võ thuật của Hồng Kông đầu thập niên 1990, vì thế Bạch phát ma nữ truyện trở nên lôi cuốn khán giả nhờ tất cả những yếu tố. Tóm lại chỉ có thể nói rằng Bạch phát ma nữ truyện là một bộ phim cần xem cho bất cứ ai muốn tìm hiểu phim kiếm hiệp Hồng Kông hay chỉ đơn giản là muốn hiểu lý do tại sao Lâm Thanh Hà lại được coi là gương mặt nổi bật nhất của điện ảnh xứ Cảng thơm trong giai đoạn này.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/df4iAZY01iN7UKOmsJ2TkxZV1uI-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/8Fdi2DMeZlI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-bride-with-white-hair/",
+  "Name": "Bạch Phát Ma Nữ"
+}

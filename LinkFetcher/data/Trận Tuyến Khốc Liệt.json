@@ -1,0 +1,61 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/52d7QTHvJQ4Mr5TIF1PeECoB9Mu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/52d7QTHvJQ4Mr5TIF1PeECoB9Mu.jpg ",
+      "Name": "Trận Tuyến Khốc Liệt - Wagah"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2DvbIesoB3J0QujRXXM4RtDGUpr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2DvbIesoB3J0QujRXXM4RtDGUpr.jpg ",
+      "Name": "Trận Tuyến Khốc Liệt - Wagah"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6AHRLn2DxJ4V0HPIIrZ1J74AmGz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6AHRLn2DxJ4V0HPIIrZ1J74AmGz.jpg ",
+      "Name": "Trận Tuyến Khốc Liệt - Wagah"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xMIx3HLJjM1fyYTlbLyy0cMejow.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xMIx3HLJjM1fyYTlbLyy0cMejow.jpg ",
+      "Name": "Trận Tuyến Khốc Liệt - Wagah"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5lgOyjVVitBGsTLi7Spv8vfuD23.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5lgOyjVVitBGsTLi7Spv8vfuD23.jpg ",
+      "Name": "Trận Tuyến Khốc Liệt - Wagah"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/suUTFP6oj21cf1s2JvMQcWbuRaY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/suUTFP6oj21cf1s2JvMQcWbuRaY.jpg ",
+      "Name": "Trận Tuyến Khốc Liệt - Wagah"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/s0SLd6LBB2fd3gdyqLe1TItC3fm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/s0SLd6LBB2fd3gdyqLe1TItC3fm.jpg ",
+      "Name": "Trận Tuyến Khốc Liệt - Wagah"
+    }
+  ],
+  "Links": [],
+  "Intro": "Kể về một người lính Vasu gia nhập BSF với hy vọng tránh sự xung đột diễn ra. Nhưng rồi , ông rơi vào tình yêu với một cô gái Paskistan tên là Kajal, . Nhưng vấn đề bắt đầu khi Vasu ông kết thúc tuần tra các bộ phận của Kashmir. Ông bị giam giữ bởi binh sĩ Pakistan tại một trại bất hợp pháp do họ, và bây giờ anh phải bảo vệ bản thân và tình yêu của mình.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/qBDWcrrJTRYqgiAJWjwRLNZ0e9v-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/5UYOQNfoSo0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/wagah/",
+  "Name": "Trận Tuyến Khốc Liệt"
+}

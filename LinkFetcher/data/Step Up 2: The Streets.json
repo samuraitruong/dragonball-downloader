@@ -1,0 +1,66 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fGq48GZp2PLVgx9IwW5lBf4DBYJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fGq48GZp2PLVgx9IwW5lBf4DBYJ.jpg",
+      "Name": "Step Up 2: The Streets"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nFFaWImjyQ2uKwWzPsYA8ewnFNf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nFFaWImjyQ2uKwWzPsYA8ewnFNf.jpg",
+      "Name": "Step Up 2: The Streets"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/likS5RYK3XomfQGzPOrlCsZVh5l.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/likS5RYK3XomfQGzPOrlCsZVh5l.jpg",
+      "Name": "Step Up 2: The Streets"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qKiEMDIviYDoNM3rBhj6O4iqIwQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qKiEMDIviYDoNM3rBhj6O4iqIwQ.jpg",
+      "Name": "Step Up 2: The Streets"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nAnBpXKREajP8vKHXPTeqszEVAR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nAnBpXKREajP8vKHXPTeqszEVAR.jpg",
+      "Name": "Step Up 2: The Streets"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9wYWnVA6NYJIxU1fAF2H4hgx3Mu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9wYWnVA6NYJIxU1fAF2H4hgx3Mu.jpg",
+      "Name": "Step Up 2: The Streets"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4rT5JAfyIeq4ghBdv04oOGOXfpI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4rT5JAfyIeq4ghBdv04oOGOXfpI.jpg",
+      "Name": "Step Up 2: The Streets"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zfPy2K04GhywIxkwIqeafuZXGqn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zfPy2K04GhywIxkwIqeafuZXGqn.jpg",
+      "Name": "Step Up 2: The Streets"
+    }
+  ],
+  "Links": [],
+  "Intro": "When rebellious street dancer Andie lands at the elite Maryland School of the Arts, she finds herself fighting to fit in while also trying to hold onto her old life. When she joins forces with the schools hottest dancer, Chase, to form a crew of classmate outcasts to compete in Baltimore s underground dance battle The Streets.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/5SwoeOUyfkS8s6aGB2bLYAL5jKR-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/bL2wDI-O5YQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/step-up-2-the-streets/",
+  "Name": "Step Up 2: The Streets"
+}

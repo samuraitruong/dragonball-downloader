@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bJYOKWgfz89m62LJ2jW0ZESet1I.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bJYOKWgfz89m62LJ2jW0ZESet1I.jpg ",
+      "Name": "Diệp Vấn 3 - Ip Man 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xFpmPUYxNhRAOLYH8l1uh7KvjFY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xFpmPUYxNhRAOLYH8l1uh7KvjFY.jpg ",
+      "Name": "Diệp Vấn 3 - Ip Man 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3jesiorvAUJ8mrvleWimca88yDV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3jesiorvAUJ8mrvleWimca88yDV.jpg ",
+      "Name": "Diệp Vấn 3 - Ip Man 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1QzLnLBC4dZzMELT89GX79pXlqe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1QzLnLBC4dZzMELT89GX79pXlqe.jpg ",
+      "Name": "Diệp Vấn 3 - Ip Man 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/noHRVAmIyBvE1X3Q9GITxeExgj1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/noHRVAmIyBvE1X3Q9GITxeExgj1.jpg ",
+      "Name": "Diệp Vấn 3 - Ip Man 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jnjz9uNbV7bUqvaI2qSulqISLXK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jnjz9uNbV7bUqvaI2qSulqISLXK.jpg ",
+      "Name": "Diệp Vấn 3 - Ip Man 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/38iufSQyxrAVRp2UigHRlu7etZB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/38iufSQyxrAVRp2UigHRlu7etZB.jpg ",
+      "Name": "Diệp Vấn 3 - Ip Man 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8pwky293F2L210QaaoSIKkADFS1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8pwky293F2L210QaaoSIKkADFS1.jpg ",
+      "Name": "Diệp Vấn 3 - Ip Man 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b5cxBFNjSYsz5dpwCD7oy4MkksP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b5cxBFNjSYsz5dpwCD7oy4MkksP.jpg ",
+      "Name": "Diệp Vấn 3 - Ip Man 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/q6CmscPGJ7V5h4Mgk6UCCpJTPCV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/q6CmscPGJ7V5h4Mgk6UCCpJTPCV.jpg ",
+      "Name": "Diệp Vấn 3 - Ip Man 3"
+    }
+  ],
+  "Links": [],
+  "Intro": "&#8220;Diệp Vấn 3&#8221; là phần cuối cùng trong series phim &#8220;Diệp Vấn&#8221;, bộ phim xoay quanh cuộc đời lúc về già của Diệp Vấn, khắc họa một thế hệ tông sư võ học &#8220;chiến đấu vì tính mạng&#8221;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/zy1jQscfEJOk2ElGUDDuYPIWhDp-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/YX02uWLC_u0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ip-man-3/",
+  "Name": "Diệp Vấn 3"
+}

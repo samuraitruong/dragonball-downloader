@@ -1,21 +1,69 @@
 {
   "Id": "movQkx6Nr16234",
-  "Url": "https://fsharephim.com/movies/batman-beyond-return-of-the-joker/",
-  "Name": "Batman Beyond: Return of the Joker",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tfofbcTNffFUy8BMfxI3Rvoh0A6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tfofbcTNffFUy8BMfxI3Rvoh0A6.jpg",
+      "Name": "Batman Beyond: Return of the Joker"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pZCuxgUsDICPDKIFH8s5nQGeL4r.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pZCuxgUsDICPDKIFH8s5nQGeL4r.jpg",
+      "Name": "Batman Beyond: Return of the Joker"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nfW36NESWnfxiSYiQSUz9Gw1YZ8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nfW36NESWnfxiSYiQSUz9Gw1YZ8.jpg",
+      "Name": "Batman Beyond: Return of the Joker"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dwO6CnuDZqUkhUc0PxlrbjJen5S.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dwO6CnuDZqUkhUc0PxlrbjJen5S.jpg",
+      "Name": "Batman Beyond: Return of the Joker"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o8cNEpgO2aTr2CGfeKdISV0USih.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o8cNEpgO2aTr2CGfeKdISV0USih.jpg",
+      "Name": "Batman Beyond: Return of the Joker"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/itfl3cmR6t7Z44l5q182N8AQRYV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/itfl3cmR6t7Z44l5q182N8AQRYV.jpg",
+      "Name": "Batman Beyond: Return of the Joker"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movqkx6nr16234/",
-      "Name": "Return-Of-The-Joker-2000-phimnhanh.com.mkv",
-      "Url": "https://www.fshare.vn/file/1QDB6PSJ1B6NI9J",
       "Size": "659.7 MB",
-      "FileSize": 691772810
+      "FileSize": 691772810,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/1QDB6PSJ1B6NI9J",
+      "Name": "Return-Of-The-Joker-2000-phimnhanh.com.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movqkx6nr16234-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/batman-beyond-return-of-the-joker",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/batman-beyond-return-of-the-joker",
+      "Name": "Subtitle"
     }
-  ]
+  ],
+  "Intro": "The Joker is back with a vengeance, and Gotham&#8217;s newest Dark Knight needs answers as he stands alone to face Gotham&#8217;s most infamous Clown Prince of Crime.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/vIRHN4AXaQM6mMVj8CozhtelYmF-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/jTSlHYxAnEs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/batman-beyond-return-of-the-joker/",
+  "Name": "Batman Beyond: Return of the Joker"
 }

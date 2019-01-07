@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/mien-tay/",
+      "Name": "Miền Tây"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/d9QGY8PvE3xZSPzegE8jT3dI4xA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/d9QGY8PvE3xZSPzegE8jT3dI4xA.jpg",
+      "Name": "True Grit"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wDPmggrApz7nxy4BAQk3rCLi3R6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wDPmggrApz7nxy4BAQk3rCLi3R6.jpg",
+      "Name": "True Grit"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pg3R5Sna0YKoGjlOjbMJkDEl6xs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pg3R5Sna0YKoGjlOjbMJkDEl6xs.jpg",
+      "Name": "True Grit"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7a1nSs4S3jA6oEeOGQ3R9xKME09.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7a1nSs4S3jA6oEeOGQ3R9xKME09.jpg",
+      "Name": "True Grit"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dWYETYAYNlMROMFLLHqtpAlYWZk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dWYETYAYNlMROMFLLHqtpAlYWZk.jpg",
+      "Name": "True Grit"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o429nkhBTyKONGA9MLPfvnmQZHd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o429nkhBTyKONGA9MLPfvnmQZHd.jpg",
+      "Name": "True Grit"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lby28iy9lqNuT67tVpSIr8gRT71.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lby28iy9lqNuT67tVpSIr8gRT71.jpg",
+      "Name": "True Grit"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dAYduJokzm1T5Qp3MWlr5WkHBUI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dAYduJokzm1T5Qp3MWlr5WkHBUI.jpg",
+      "Name": "True Grit"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/QBKYb4UyOTekz49KdhAKsw3k1L.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/QBKYb4UyOTekz49KdhAKsw3k1L.jpg",
+      "Name": "True Grit"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AcMj8pWhuAOBEPgv9BrmeLGrAxA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AcMj8pWhuAOBEPgv9BrmeLGrAxA.jpg",
+      "Name": "True Grit"
+    }
+  ],
+  "Links": [],
+  "Intro": "Following the murder of her father by hired hand Tom Chaney, 14-year-old farm girl Mattie Ross sets out to capture the killer. To aid her, she hires the toughest U.S. Marshal she can find, a man with &#8220;true grit,&#8221; Reuben J. &#8220;Rooster&#8221; Cogburn. Mattie insists on accompanying Cogburn, whose drinking, sloth, and generally reprobate character do not augment her faith in him. Against his wishes, she joins him in his trek into the Indian Nations in search of Chaney. They are joined by Texas Ranger LaBoeuf, who wants Chaney for his own purposes. The unlikely trio find danger and adventure on the journey, and each has his or her &#8220;grit&#8221; tested.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/qc7vaF5fIeTllAykdP3wldlMyRh-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/unEO_p71cik?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/true-grit/",
+  "Name": "True Grit"
+}

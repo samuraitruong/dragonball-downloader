@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sny1LWyTfB4NSHXjWvwrKBABacN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sny1LWyTfB4NSHXjWvwrKBABacN.jpg ",
+      "Name": "Câu Chuyện Lý Tiểu Long: Sự Ra Đời Của Rồng - Birth of the Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iqs9UD1RYU7dIquX3zHxwzMF6Uf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iqs9UD1RYU7dIquX3zHxwzMF6Uf.jpg ",
+      "Name": "Câu Chuyện Lý Tiểu Long: Sự Ra Đời Của Rồng - Birth of the Dragon"
+    }
+  ],
+  "Links": [],
+  "Intro": "Lấy bối cảnh San Francisco những năm 1960, Birth Of Bruce Lee &#8211; Câu Chuyện Lý Tiểu Long: Sự Ra Đời Của Rồng tái hiện lại trận đấu giữa Lý Tiểu Long và cao thủ võ lâm Hoàng Trạch Dân – một trận đấu đánh dấu sự ra đời của một huyền thoại võ thuật.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/odn4Hj2u7IQhJRmr15pTYZbkbc-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/SL7OfxJo2oA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/birth-of-the-dragon/",
+  "Name": "Câu Chuyện Lý Tiểu Long: Sự Ra Đời Của Rồng"
+}

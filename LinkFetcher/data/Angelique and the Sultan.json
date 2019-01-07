@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7ELCfuomuupSl3JXocbAaPszLU8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7ELCfuomuupSl3JXocbAaPszLU8.jpg ",
+      "Name": "Angelique and the Sultan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AqoZ2yJ5R2yaV1lMIgnLaGdZbXA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AqoZ2yJ5R2yaV1lMIgnLaGdZbXA.jpg ",
+      "Name": "Angelique and the Sultan"
+    }
+  ],
+  "Links": [],
+  "Intro": "This film finds Angélique in a North African Muslim kingdom where she is now part of the Sultan&#8217;s harem. The first part of the film consist of her angrily refusing to be bedded as well as their trying to literally beat some sense into her. It all seems to go on too long and I was surprised that the Sultan simply didn&#8217;t have her killed. Late in the film, she finally decides to escape with the help of two Christian prisoners.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/3bW4RQVAWDX6ucBX9zufO2FN7Vr-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/angelique-and-the-sultan/",
+  "Name": "Angelique and the Sultan"
+}

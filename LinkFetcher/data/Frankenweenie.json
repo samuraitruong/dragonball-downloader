@@ -1,14 +1,85 @@
 {
   "Id": "mov79kVrh62214",
-  "Url": "https://fsharephim.com/movies/frankenweenie/",
-  "Name": "Frankenweenie",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dpkyNq8jBU7tR6n5sEd4Ep61EOP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dpkyNq8jBU7tR6n5sEd4Ep61EOP.jpg",
+      "Name": "Frankenweenie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4hUdhAz7PK1bwETYKCvGp6VHM9h.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4hUdhAz7PK1bwETYKCvGp6VHM9h.jpg",
+      "Name": "Frankenweenie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u19sv7CyDcr5eONL7LtemPaStXt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u19sv7CyDcr5eONL7LtemPaStXt.jpg",
+      "Name": "Frankenweenie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/L4SsHfdYkuFNgpjYj8ByjJRAcI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/L4SsHfdYkuFNgpjYj8ByjJRAcI.jpg",
+      "Name": "Frankenweenie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wcNq32bA0JGGjxld0CwD9CLNPAX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wcNq32bA0JGGjxld0CwD9CLNPAX.jpg",
+      "Name": "Frankenweenie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bEHr0kbQ60hr6zfiBZt5mgIMCT8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bEHr0kbQ60hr6zfiBZt5mgIMCT8.jpg",
+      "Name": "Frankenweenie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1eSIHc3gCXKRNIhovBATddOemns.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1eSIHc3gCXKRNIhovBATddOemns.jpg",
+      "Name": "Frankenweenie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9MKTEc5j8gHKkDqXKn7oRN9lrsl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9MKTEc5j8gHKkDqXKn7oRN9lrsl.jpg",
+      "Name": "Frankenweenie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hO8X05nCFayBdVWImu0VwFE57Mv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hO8X05nCFayBdVWImu0VwFE57Mv.jpg",
+      "Name": "Frankenweenie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9mK7TelOg15eWwRT625fKpM8c5u.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9mK7TelOg15eWwRT625fKpM8c5u.jpg",
+      "Name": "Frankenweenie"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/mov79kvrh62214/",
-      "Name": "Frankenweenie.2012.mkv",
-      "Url": "https://www.fshare.vn/file/TQ76HRM2AT",
       "Size": "1.7 GB",
-      "FileSize": 1830394726
+      "FileSize": 1830394726,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/TQ76HRM2AT",
+      "Name": "Frankenweenie.2012.mkv"
     }
-  ]
+  ],
+  "Intro": "When a car hits young Victor&#8217;s pet dog Sparky, Victor decides to bring him back to life the only way he knows how. But when the bolt-necked &#8220;monster&#8221; wreaks havoc and terror in the hearts of Victor&#8217;s neighbors, he has to convince them that Sparky&#8217;s still the good, loyal friend he was.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/ssMQ5Q9qyJM6sHnjoghoHlOVOO5-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/XBfcGLBJ2Uc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/frankenweenie/",
+  "Name": "Frankenweenie"
 }

@@ -1,0 +1,111 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yaUxwQ2Axi65gxxzBY0j1WlLBRP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yaUxwQ2Axi65gxxzBY0j1WlLBRP.jpg ",
+      "Name": "Just Between Lovers"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/just-lovers-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/just-lovers-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/just-lovers-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/just-lovers-1x4/",
+      "Name": "Episode 4"
+    }
+  ],
+  "Intro": "Lee Gang-Doo dreamed of becoming a soccer player, but an accident ended those dreams. His father died in the accident and he broke his leg. Lee Gang-Doo spent 3 years in rehab. Now, he doesn&#8217;t have anything and just wastes his days. Lee Gang-Doo then meets Ha Moon-Soo. Ha Moon-Soo makes architecture models. Ha Moon-Soo also endured an accident that killed her younger sibling. She has suffered from guilt that she survived. She has lived her life earnestly, while suppressing her feelings. After meeting Lee Gang-Doo, Ha Moon-Soo begins to express her hidden feelings.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/zFJCRdiryhz9hbdmAc0cMDXw5VQ-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/just-lovers-1x1/",
+          "Name": "Just Between Lovers 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/just-lovers-1x2/",
+          "Name": "Just Between Lovers 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/just-lovers-1x3/",
+          "Name": "Just Between Lovers 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/just-lovers-1x4/",
+          "Name": "Just Between Lovers 1x4"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Dec. 25, 2017"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/just-between-lovers/",
+  "Name": "Just Between Lovers"
+}

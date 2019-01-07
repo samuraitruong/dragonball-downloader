@@ -1,0 +1,470 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xWvTpTseHG7j6YHk4QQjKeJtBsm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xWvTpTseHG7j6YHk4QQjKeJtBsm.jpg",
+      "Name": "Let&#8217;s Eat"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rEPNelEIfrW2Y2yCrRnjWnPaaq4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rEPNelEIfrW2Y2yCrRnjWnPaaq4.jpg",
+      "Name": "Let&#8217;s Eat"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/soopKyceuMwSkoMWTiZ80ud31YQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/soopKyceuMwSkoMWTiZ80ud31YQ.jpg",
+      "Name": "Let&#8217;s Eat"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lets-eat-1x1/",
+      "Name": "A Declaration of Living Alone"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lets-eat-1x2/",
+      "Name": "Getting to Know Your Neighbors"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lets-eat-1x3/",
+      "Name": "I Want to Be Alone, Everybody Get Out!"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lets-eat-1x4/",
+      "Name": "Answer Me Neighbors"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lets-eat-1x5/",
+      "Name": "Worry Over Money, Cry Over Money"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lets-eat-1x6/",
+      "Name": "Pride and Prejudice"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lets-eat-1x7/",
+      "Name": "Why Is Life Like Eating Dinner Alone?"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lets-eat-1x8/",
+      "Name": "Things That You Can See Only When You Quit"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lets-eat-1x9/",
+      "Name": "Mamma Mia!"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lets-eat-1x10/",
+      "Name": "Mr. ShikSha Over Flowers"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lets-eat-1x11/",
+      "Name": "Those Not in Love Now, All Guilty"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lets-eat-1x12/",
+      "Name": "The Taste of Love… Bitter Sweet"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lets-eat-1x13/",
+      "Name": "The Man Who Was Only Looking At Me"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lets-eat-1x14/",
+      "Name": "She Has Disappeared"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lets-eat-1x15/",
+      "Name": "Silence"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lets-eat-1x16/",
+      "Name": "Still Let's Eat"
+    }
+  ],
+  "Intro": "What do a group of foodies and a murder have in common? Lee Soo Kyung is a 33-year-old divorcee who is a composed, confident woman who is happy to be living alone after marrying way too early in life. But the only thing that can make her lose her cool composure is great food. Living next door is another foodie, Goo Dae Young, a single man who loves surrounding himself with gourmet food but hates being asked if he is dining alone at great restaurants. When a strange murder occurs in their neighborhood, how will their lives be intertwined?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/6ctSvsvWmXWExBwDbtLqwVYzi0F-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/p65DGYwGSRFiVZ6gOsTrbZYodSc.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/p65DGYwGSRFiVZ6gOsTrbZYodSc.jpg",
+              "Name": "Let&#8217;s Eat 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": "The messy Koo Dae-Young moves in next door to Lee Soo-Kyung, a food fanatic, after her previous neighbour dies by choking on a live octopus. The cute Yoon Jin-Yi also moves in and the 3 start a very hectic life together.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lets-eat-1x1/",
+          "Name": "Let's Eat 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/i4cd7KmYBAExZgCoxS4AbL2QebU.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/i4cd7KmYBAExZgCoxS4AbL2QebU.jpg",
+              "Name": "Let&#8217;s Eat 1&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": "Soo Kyung is rehired by Lawyer Kim and everyone prepares to celebrate the Lunar New Year. Soo Kyung discovers that Dae Young is the writer of her favorite food blog.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lets-eat-1x10/",
+          "Name": "Let's Eat 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7m9lMiOcsgiw8aUuupHta7A4lnM.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7m9lMiOcsgiw8aUuupHta7A4lnM.jpg",
+              "Name": "Let&#8217;s Eat 1&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": "Lawyer Oh and Jin Yi try to one up each other to get Dae Young&#8217;s attention, while Lawyer Kim continues to try to win over Soo Kyung. Soo Kyung begins to realize she might not just be a fan of Dae Young&#8217;s blog but may actually like him.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lets-eat-1x11/",
+          "Name": "Let's Eat 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ojlluY3GFN87IP74P4uCeGX3rpL.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ojlluY3GFN87IP74P4uCeGX3rpL.jpg",
+              "Name": "Let&#8217;s Eat 1&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": "It&#8217;s Valentine&#8217;s Day and everyone gets ready to confess. Jin Yi and Lawyer Oh both try to involve Soo Kyung in their rivalry over Dae Young, which just makes Soo Kyung more and more dejected. Lawyer Kim comes to Soo Kyung and Barasshi&#8217;s aid and finally confesses his feelings.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lets-eat-1x12/",
+          "Name": "Let's Eat 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/pCm9px7GBUWPC7KxIIlNtr4XexN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/pCm9px7GBUWPC7KxIIlNtr4XexN.jpg",
+              "Name": "Let&#8217;s Eat 1&#215;13"
+            }
+          ],
+          "Links": [],
+          "Intro": "Attorney Kim tries to woo Soo Kyung as he waits for an answer to his confession. Dae Young wonders why Soo Kyung is on his mind more and more. Soo Kyung may be headed into a dangerous situation.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lets-eat-1x13/",
+          "Name": "Let's Eat 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/mmsN9Uc9iVLd8iMxqAgIgWUY90x.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/mmsN9Uc9iVLd8iMxqAgIgWUY90x.jpg",
+              "Name": "Let&#8217;s Eat 1&#215;14"
+            }
+          ],
+          "Links": [],
+          "Intro": "Matters come to a head with the &#8216;don&#8217;t ask&#8217; assailant while Dae Young rushes to the aid of Soo Kyung. Soo Kyung finally gives Attorney Kim an answer. Soo Kyung and Dae Young&#8217;s relationship takes a turn.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lets-eat-1x14/",
+          "Name": "Let's Eat 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3RxTW8doFN7Ud7CVU0hy7LgfOPv.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3RxTW8doFN7Ud7CVU0hy7LgfOPv.jpg",
+              "Name": "Let&#8217;s Eat 1&#215;15"
+            }
+          ],
+          "Links": [],
+          "Intro": "Dae Young and Soo Kyung avoid acknowledging the events of the evening before, while Jin Yi&#8217;s jealousy grows. The mystery of the delivery boy comes to a head with potentially dangerous consequences for Jin Yi. Dae Young and Soo Kyung finally confront their feelings.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lets-eat-1x15/",
+          "Name": "Let's Eat 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1B5jNOfAfYlchl9i21NnLOIjCN5.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1B5jNOfAfYlchl9i21NnLOIjCN5.jpg",
+              "Name": "Let&#8217;s Eat 1&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": "Kwang Suk shows his true colors on the roof of the building Jin Yi&#8217;s father has built. Jin Yi disappears without a trace after being engulfed with shock and terror.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lets-eat-1x16/",
+          "Name": "Let's Eat 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/y28b1yfdVHjJ7jZTJ5MsbffM4zi.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/y28b1yfdVHjJ7jZTJ5MsbffM4zi.jpg",
+              "Name": "Let&#8217;s Eat 1&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": "Soo-kyung is less willing to trust Dae-Young and continues to find him suspicious. The three have a bbq together. A serial killer is on the loose in the neighborhood.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lets-eat-1x2/",
+          "Name": "Let's Eat 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/iZOCLWoe1G6CXDbcMU0xjxnmR8T.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/iZOCLWoe1G6CXDbcMU0xjxnmR8T.jpg",
+              "Name": "Let&#8217;s Eat 1&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": "Like it isn&#8217;t enough that Jin Yi suddenly barges into Soo Kyung&#8217;s apartment in the middle of the night, Goo Dae Young eavesdrops her apartment at the drop of a hat in order to scheme up a plan to sell her insurance.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lets-eat-1x3/",
+          "Name": "Let's Eat 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/l7o9dcFjg5JZFMIC4J7F8tzg5FD.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/l7o9dcFjg5JZFMIC4J7F8tzg5FD.jpg",
+              "Name": "Let&#8217;s Eat 1&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": "Jin yi suspects the ghost of the woman who lived previously in her room is around. Lawyer Kim&#8217;s feelings from college come back.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lets-eat-1x4/",
+          "Name": "Let's Eat 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3h6WWOrY0Pm20BjOK9KpKHJot9j.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3h6WWOrY0Pm20BjOK9KpKHJot9j.jpg",
+              "Name": "Let&#8217;s Eat 1&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": "Suddenly, out of the blue, $100,000 falls from the sky and into Dae Young’s lap! Without his knowledge, his previous client made him the beneficiary of her insurance.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lets-eat-1x5/",
+          "Name": "Let's Eat 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/p6qL2AUgZ77LjwRAEFww0KKSx1C.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/p6qL2AUgZ77LjwRAEFww0KKSx1C.jpg",
+              "Name": "Let&#8217;s Eat 1&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": "After the two women died, it was Dae Young who became the benefactor of their insurances?!",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lets-eat-1x6/",
+          "Name": "Let's Eat 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/HeSznUmmFOvdKktOGBMMUelrYE.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/HeSznUmmFOvdKktOGBMMUelrYE.jpg",
+              "Name": "Let&#8217;s Eat 1&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": "The price Soo Kyung has to pay for the false report she made about Dae Young being the assailant of the don’t ask assaults is pretty harsh.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lets-eat-1x7/",
+          "Name": "Let's Eat 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/f7WRBSi16DRi8T6CvBmcAv5NqKg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/f7WRBSi16DRi8T6CvBmcAv5NqKg.jpg",
+              "Name": "Let&#8217;s Eat 1&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": "Seeing Soo Kyung return home on Dae Young’s back infuriates Hak Moon. However, when he sees the two of them coming to work together, his anger explodes.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lets-eat-1x8/",
+          "Name": "Let's Eat 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lya3bQ5aFktGImXbqnQAM8c2rc.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lya3bQ5aFktGImXbqnQAM8c2rc.jpg",
+              "Name": "Let&#8217;s Eat 1&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": "In a fit of anger, Soo Kyung throws in her resignation letter but little is she to know that her mother would drop by her house on a surprise visit.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lets-eat-1x9/",
+          "Name": "Let's Eat 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Nov. 28, 2013"
+    },
+    {
+      "Episodes": null,
+      "Url": null,
+      "Name": "Season 2 Apr. 06, 2015"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/lets-eat/",
+  "Name": "Let&#8217;s Eat"
+}

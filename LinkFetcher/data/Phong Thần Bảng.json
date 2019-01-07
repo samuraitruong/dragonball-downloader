@@ -1,0 +1,52 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oPKt1sKENVpvgvVfZP7o0uUMSBR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oPKt1sKENVpvgvVfZP7o0uUMSBR.jpg",
+      "Name": "Phong Thần Bảng - League of Gods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jIwPbV3dSrNqDp2XxZqxD70Z0Ra.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jIwPbV3dSrNqDp2XxZqxD70Z0Ra.jpg",
+      "Name": "Phong Thần Bảng - League of Gods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/y8Jm6TQAD07MxL7Ap7qMJixyyDs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/y8Jm6TQAD07MxL7Ap7qMJixyyDs.jpg",
+      "Name": "Phong Thần Bảng - League of Gods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bDxddyhIiyOCh73y9A86nTWAVEH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bDxddyhIiyOCh73y9A86nTWAVEH.jpg",
+      "Name": "Phong Thần Bảng - League of Gods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fzOn6QbT1vTEJrqZL1MUs1862qU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fzOn6QbT1vTEJrqZL1MUs1862qU.jpg",
+      "Name": "Phong Thần Bảng - League of Gods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nU9yGzZ7yTHX3p6BlSVnVj4MUjn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nU9yGzZ7yTHX3p6BlSVnVj4MUjn.jpg",
+      "Name": "Phong Thần Bảng - League of Gods"
+    }
+  ],
+  "Links": [],
+  "Intro": "Trong trận đánh giữa yêu hồ và tam giới, Đát Kỷ (Phạm Băng Băng) sẽ là nhân vật đại ác. Một mặt, nhân vật này dùng mị thuật để khống chế Trụ Vương (Lương Gia Huy), khiến bậc đế vương mê mệt đến mất nước. Mặt khác, Đát Kỷ dùng yêu thuật đấu Khương Tử Nha (Lý Liên Kiệt), Lôi Chấn Tử (Hướng Tả), Na Tra, Dương Tiễn.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/1ZmR8sNDVw3goJurVPAoPaJXFNW-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/aUv8295fLhc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/league-of-gods/",
+  "Name": "Phong Thần Bảng"
+}

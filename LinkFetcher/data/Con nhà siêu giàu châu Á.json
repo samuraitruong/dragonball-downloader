@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1brgtigBGY1ixSudNMBq0edO1V6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1brgtigBGY1ixSudNMBq0edO1V6.jpg ",
+      "Name": "Con nhà siêu giàu châu Á - Crazy Rich Asians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qiu7RDXC97qy2VhvEclWnWmgeFH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qiu7RDXC97qy2VhvEclWnWmgeFH.jpg ",
+      "Name": "Con nhà siêu giàu châu Á - Crazy Rich Asians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/keSC9sYf50tQrEfUcjsJVXEuPHr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/keSC9sYf50tQrEfUcjsJVXEuPHr.jpg ",
+      "Name": "Con nhà siêu giàu châu Á - Crazy Rich Asians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l7RDmw73JYZ32IpwYgf7NbhtSqB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l7RDmw73JYZ32IpwYgf7NbhtSqB.jpg ",
+      "Name": "Con nhà siêu giàu châu Á - Crazy Rich Asians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yiDBTiKkG7lRyywEr6V58uHqC0y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yiDBTiKkG7lRyywEr6V58uHqC0y.jpg ",
+      "Name": "Con nhà siêu giàu châu Á - Crazy Rich Asians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zeHB7aP46Xs3u4aFLuAq2GFeUGb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zeHB7aP46Xs3u4aFLuAq2GFeUGb.jpg ",
+      "Name": "Con nhà siêu giàu châu Á - Crazy Rich Asians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fkWvykJotcIr0o1w0u5Rybr7E4n.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fkWvykJotcIr0o1w0u5Rybr7E4n.jpg ",
+      "Name": "Con nhà siêu giàu châu Á - Crazy Rich Asians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rAMIDsiMFWgtgWKvkFMCI0IT0fF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rAMIDsiMFWgtgWKvkFMCI0IT0fF.jpg ",
+      "Name": "Con nhà siêu giàu châu Á - Crazy Rich Asians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pE1yjauYquZsLO1jHACyJxGJSnA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pE1yjauYquZsLO1jHACyJxGJSnA.jpg ",
+      "Name": "Con nhà siêu giàu châu Á - Crazy Rich Asians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gZcJyms4HgGR8Msci9dbQgIbOwj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gZcJyms4HgGR8Msci9dbQgIbOwj.jpg ",
+      "Name": "Con nhà siêu giàu châu Á - Crazy Rich Asians"
+    }
+  ],
+  "Links": [],
+  "Intro": "Mối tình của Rachel, cô gái gốc Hoa sống tại Mỹ, cùng bạn trai Nick. Cả hai đều là giảng viên của trường Đại Học New York. Một ngày nọ, khi Nick dẫn Rachel về Singapore ra mắt gia đình thì lúc này Rachel mới phát hiện ra gia thế &#8216;khủng&#8217; của người yêu mà trước giờ cô không hề hay biết. Nick là đại thiếu gia của một gia đình giàu có nhất nhì ở Singapore và anh là một trong những người đàn ông đáng mơ ước nhất châu Á của các cô gái. Những tình cảnh éo le, dở khóc dở cười xảy ra khi Rachel, một cô gái bình dân lọt vào mắt xanh của đại thiếu gia siêu giàu, phải đối mặt với bà Eleanor, mẹ của Nick, một phụ nữ danh giá và khó tính.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/11/gnTqi4nhIi1eesT5uYMmhEPGNih-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/PI5mBzQ1Iok?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/crazy-rich-asians/",
+  "Name": "Con nhà siêu giàu châu Á"
+}

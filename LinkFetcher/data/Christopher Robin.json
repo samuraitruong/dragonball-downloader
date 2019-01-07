@@ -1,14 +1,80 @@
 {
-  "Id": "movXhjHtt420814",
-  "Url": "https://fsharephim.com/movies/christopher-robin/",
-  "Name": "Christopher Robin",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movxhjhtt420814/",
-      "Name": "WEB-DL-1080p",
-      "Url": "http://www.fshare.vn/file/AF1JE1O2XCJF",
-      "Size": "7.57 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uDt8bQ4lGVlabEx5Gl2cPzvy6qz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uDt8bQ4lGVlabEx5Gl2cPzvy6qz.jpg ",
+      "Name": "Christopher Robin - Christopher Robin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vEGgfkv1ATl3pyjeTIhKMxqbyxR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vEGgfkv1ATl3pyjeTIhKMxqbyxR.jpg ",
+      "Name": "Christopher Robin - Christopher Robin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xE5CTkYz5NqkP1J8ecCLNTBjKLR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xE5CTkYz5NqkP1J8ecCLNTBjKLR.jpg ",
+      "Name": "Christopher Robin - Christopher Robin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yZZQL8Jy6IYvJjJ5uc8ugR3kbjB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yZZQL8Jy6IYvJjJ5uc8ugR3kbjB.jpg ",
+      "Name": "Christopher Robin - Christopher Robin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hnh4oqnGPlVFEMUuw41nYxKRYf0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hnh4oqnGPlVFEMUuw41nYxKRYf0.jpg ",
+      "Name": "Christopher Robin - Christopher Robin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3O5tanjVJGo8sgxC0Y8A1ecFB6d.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3O5tanjVJGo8sgxC0Y8A1ecFB6d.jpg ",
+      "Name": "Christopher Robin - Christopher Robin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qTrZ9GZyIxtsDswXDgcVV9rRk3P.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qTrZ9GZyIxtsDswXDgcVV9rRk3P.jpg ",
+      "Name": "Christopher Robin - Christopher Robin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wkyG8S5yV2dACNODePM0o85jE4p.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wkyG8S5yV2dACNODePM0o85jE4p.jpg ",
+      "Name": "Christopher Robin - Christopher Robin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oOowXUZzVK8zYoPF8OspK6fL253.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oOowXUZzVK8zYoPF8OspK6fL253.jpg ",
+      "Name": "Christopher Robin - Christopher Robin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a4wk59sL3S7K62q5Tz3SxeeTw1U.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a4wk59sL3S7K62q5Tz3SxeeTw1U.jpg ",
+      "Name": "Christopher Robin - Christopher Robin"
+    }
+  ],
+  "Links": [],
+  "Intro": "Christopher Robin là một tác phẩm live-action ấm áp về tình cảm gia đình của hãng phim Disney. Bộ phim xoay quanh chuyến phiêu lưu trở lại tuổi thơ cùng những người bạn thuở nhỏ đầy thân thuộc bao gồm Pooh, Tigger, Eeyore và Piglet ở Rừng Trăm Mẫu.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/10/xR5w0he6czZkcAz459a4iPBqXGe-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/425M4M3Opkk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/christopher-robin/",
+  "Name": "Christopher Robin"
 }

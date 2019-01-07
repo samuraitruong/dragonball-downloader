@@ -1,14 +1,35 @@
 {
-  "Id": "mov7DnlSt459159",
-  "Url": "https://fsharephim.com/movies/puppy/",
-  "Name": "Puppy!",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov7dnlst459159/",
-      "Name": "Puppy.2017.1080p.BluRay.x264.SUB.mkv",
-      "Url": "https://www.fshare.vn/file/FMO6JXT3LIIONWD",
-      "Size": "136.06 MB",
-      "FileSize": 142669417
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cxeYjWtq97AwqMMlGhWWYSy5uci.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cxeYjWtq97AwqMMlGhWWYSy5uci.jpg",
+      "Name": "Puppy!"
+    }
+  ],
+  "Links": [],
+  "Intro": "The residents of Hotel Transylvania find their world turned upside-down when youngster Dennis gets a surprise monster-sized pet.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/4uGqaA7jT3N0mQc9EBOvNo9XRpo-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/JWeyu3ULob0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/puppy/",
+  "Name": "Puppy!"
 }

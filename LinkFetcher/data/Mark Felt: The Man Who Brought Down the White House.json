@@ -1,0 +1,51 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lsDqGTexYBYvZ2eeagh0ORo0k1b.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lsDqGTexYBYvZ2eeagh0ORo0k1b.jpg ",
+      "Name": "Mark Felt: The Man Who Brought Down the White House"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/be4QTR34PWyDKUWin3qMu4tL4kC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/be4QTR34PWyDKUWin3qMu4tL4kC.jpg ",
+      "Name": "Mark Felt: The Man Who Brought Down the White House"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zSXZKzFBS4lwIevcNraRbAhXbi6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zSXZKzFBS4lwIevcNraRbAhXbi6.jpg ",
+      "Name": "Mark Felt: The Man Who Brought Down the White House"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rSepGE6AXdbphK5WfjxA8Juhpva.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rSepGE6AXdbphK5WfjxA8Juhpva.jpg ",
+      "Name": "Mark Felt: The Man Who Brought Down the White House"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lwvzUDMxoE7DhuePK9BFVlHMAam.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lwvzUDMxoE7DhuePK9BFVlHMAam.jpg ",
+      "Name": "Mark Felt: The Man Who Brought Down the White House"
+    }
+  ],
+  "Links": [],
+  "Intro": "The story of Mark Felt, who under the name &#8220;Deep Throat&#8221; helped journalists Bob Woodward and Carl Bernstein uncover the Watergate scandal in 1974.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/ggwsRh4p75jLMuc6gY12f9VXxwl-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/c34BtMNwTzE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/mark-felt-the-man-who-brought-down-the-white-house/",
+  "Name": "Mark Felt: The Man Who Brought Down the White House"
+}

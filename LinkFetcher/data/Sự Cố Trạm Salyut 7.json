@@ -1,0 +1,52 @@
+{
+  "Id": "movvGObMw438740",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/blmWWBCi7U7pnNtd0Ykv4MQPABW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/blmWWBCi7U7pnNtd0Ykv4MQPABW.jpg",
+      "Name": "Sự Cố Trạm Salyut 7 - Salyut 7"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ixSWXuavLZsAedVDM2ntEV8LJ2J.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ixSWXuavLZsAedVDM2ntEV8LJ2J.jpg",
+      "Name": "Sự Cố Trạm Salyut 7 - Salyut 7"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movvgobmw438740/",
+      "Size": "1.5 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/3WZZRKAEVYV9",
+      "Name": "720p"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movvgobmw438740-2/",
+      "Size": "9.2 GB",
+      "FileSize": 9887547282,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/DA4EGRAQMO8T",
+      "Name": "Salyut-7.2017.1080p.BluRay.DTS.x264-SNOW(y).mkv"
+    }
+  ],
+  "Intro": "USSR, tháng 6 năm 1985. Dựa trên các sự kiện thực tế. Sau khi lắp ghép với trạm không gian, trạm vũ trụ Salyut 7 bị sự cố kỹ thuật, các phi hành gia Vladimir Dzhanibekov và Viktor Savinykh đã có lúc tưởng chừng mất đi cả mạng sống khi họ cố gắng khắc phục trạm với mức độ nguy hiểm bên ngoài không gian để đưa trạm trở về&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/3Uwt6lz4nUXtui4iDjvaOYYMNIH-185x278.jpg",
+  "Trailer": null,
+  "Url": "https://fsharephim.com/movies/salyut-7/",
+  "Name": "Sự Cố Trạm Salyut 7"
+}

@@ -1,0 +1,31 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ngoai-quoc/",
+      "Name": "Ngoại Quốc"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9fwRoxf6EDWCQW1jmWTjd8kDm5X.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9fwRoxf6EDWCQW1jmWTjd8kDm5X.jpg",
+      "Name": "The Wax Mask"
+    }
+  ],
+  "Links": [],
+  "Intro": "Paris, 1900: a couple are horribly murdered by a masked man with a metal claw who rips their hearts out. The sole survivor and witness to the massacre is a young girl. Twelve years later in Rome a new wax museum is opened, whose main attractions are lifelike recreations of gruesome murder scenes. A young man bets that he will spend the night in the museum but is found dead the morning after. Soon, people start disappearing from the streets of Rome and the wax museum halls begin filling with new figures&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/usONmwzXGJ16VlxpFN54Y4ZQ6V1-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-wax-mask/",
+  "Name": "The Wax Mask"
+}

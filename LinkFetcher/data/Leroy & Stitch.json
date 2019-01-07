@@ -1,21 +1,76 @@
 {
-  "Id": "mov3gosdg21316",
-  "Url": "https://fsharephim.com/movies/leroy-stitch/",
-  "Name": "Leroy & Stitch",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov3gosdg21316/",
-      "Name": "Leroy-And-Stitch-2006-phimnhanh.com.mkv",
-      "Url": "https://www.fshare.vn/file/MT1DFSHORGQ3",
-      "Size": "597.81 MB",
-      "FileSize": 626848925
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov3gosdg21316-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/leroy-and-stitch",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fg3LcGnn6s5zhHImcmOdXtP7KzY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fg3LcGnn6s5zhHImcmOdXtP7KzY.jpg",
+      "Name": "Leroy &#038; Stitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fiM5VmEcUAxL6BWXpxWMshQ1imJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fiM5VmEcUAxL6BWXpxWMshQ1imJ.jpg",
+      "Name": "Leroy &#038; Stitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dhAY0GwEPdeSK8TQ0ujDPEcjT5C.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dhAY0GwEPdeSK8TQ0ujDPEcjT5C.jpg",
+      "Name": "Leroy &#038; Stitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yxdPixItR1gHtqs5pblgI1pklgo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yxdPixItR1gHtqs5pblgI1pklgo.jpg",
+      "Name": "Leroy &#038; Stitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iOr8AdXvfSBI9n9JyONLzDgu5z3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iOr8AdXvfSBI9n9JyONLzDgu5z3.jpg",
+      "Name": "Leroy &#038; Stitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/niHTZkVuuKx70hqtfl9ezTVnGJt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/niHTZkVuuKx70hqtfl9ezTVnGJt.jpg",
+      "Name": "Leroy &#038; Stitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lWaUU9Q2NkDtiCJxaj1eavPvSAy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lWaUU9Q2NkDtiCJxaj1eavPvSAy.jpg",
+      "Name": "Leroy &#038; Stitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7TtH4FnsLrWD9GaKtb30ut2xz4p.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7TtH4FnsLrWD9GaKtb30ut2xz4p.jpg",
+      "Name": "Leroy &#038; Stitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wzozuXXehlhdCyc7PPURBlwRG00.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wzozuXXehlhdCyc7PPURBlwRG00.jpg",
+      "Name": "Leroy &#038; Stitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/q2GyVbtxA3Wyt11j8fW3DfOzN8u.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/q2GyVbtxA3Wyt11j8fW3DfOzN8u.jpg",
+      "Name": "Leroy &#038; Stitch"
+    }
+  ],
+  "Links": [],
+  "Intro": "Lilo, Stitch, Jumba and Pleakley have finally caught all of Jumba&#8217;s genetic experiments and found the one true place where each of them belongs. Stitch, Jumba and Pleakley are offered positions in the Galactic Alliance, turning them down so they can stay on Earth with Lilo. But Lilo realizes her alien friends have places where they belong, and it&#8217;s finally time to say &#8220;aloha.&#8221;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/84ii0eIQy8wyzo5ZOSDbnoDtQ4O-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/SXw5RThp2HQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/leroy-stitch/",
+  "Name": "Leroy & Stitch"
 }

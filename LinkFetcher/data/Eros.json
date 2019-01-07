@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vfJapPrdhe8EXP9lz2FitiCOPF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vfJapPrdhe8EXP9lz2FitiCOPF.jpg",
+      "Name": "Eros"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/r0xWdJr2q50vHBEDvtk98cxCqSm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/r0xWdJr2q50vHBEDvtk98cxCqSm.jpg",
+      "Name": "Eros"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6HfSd4y6volVEjRGjb556tl6snU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6HfSd4y6volVEjRGjb556tl6snU.jpg",
+      "Name": "Eros"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z2FNjmVCTULH79hMS7ikSYEgP04.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z2FNjmVCTULH79hMS7ikSYEgP04.jpg",
+      "Name": "Eros"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2PfdsjumaGYsLkDC2tPCVrDJ4kK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2PfdsjumaGYsLkDC2tPCVrDJ4kK.jpg",
+      "Name": "Eros"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qTCW4Z2kZqGZlt7vTTJJ6mB42Ce.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qTCW4Z2kZqGZlt7vTTJJ6mB42Ce.jpg",
+      "Name": "Eros"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/idQKB6FjUFD9oHtXXP1HdlWHopQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/idQKB6FjUFD9oHtXXP1HdlWHopQ.jpg",
+      "Name": "Eros"
+    }
+  ],
+  "Links": [],
+  "Intro": "A three-part anthology film about love and sexuality: a menage-a-trois between a couple and a young woman on the coast of Tuscany; an advertising executive under enormous pressure at work, who, during visits to his psychiatrist, is pulled to delve into the possible reasons why his stress seems to manifest itself in a recurring erotic dream; and a story of unrequited love about a beautiful, 1960s high-end call girl in an impossible affair with her young tailor.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/vZp6nSTfxZQpcxgBSOSVUh73fuU-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/A0Xpq2WKBxw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/eros/",
+  "Name": "Eros"
+}

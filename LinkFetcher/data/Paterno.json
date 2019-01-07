@@ -1,0 +1,47 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/tv-movie/",
+      "Name": "TV Movie"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5nJXWDzhWSOJzNHxfaROpVVzZfA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5nJXWDzhWSOJzNHxfaROpVVzZfA.jpg ",
+      "Name": "Paterno"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/drf11R7VV9IPIrYdVWB85Pe5Y0A.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/drf11R7VV9IPIrYdVWB85Pe5Y0A.jpg ",
+      "Name": "Paterno"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xTiPzHJxtrXahA4naluo5wcKXvx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xTiPzHJxtrXahA4naluo5wcKXvx.jpg ",
+      "Name": "Paterno"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yDG6TVpg3gu6KM3JaQxP9jzG36I.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yDG6TVpg3gu6KM3JaQxP9jzG36I.jpg ",
+      "Name": "Paterno"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7TyDMtoylbeeH05o50OJ6wSrqV1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7TyDMtoylbeeH05o50OJ6wSrqV1.jpg ",
+      "Name": "Paterno"
+    }
+  ],
+  "Links": [],
+  "Intro": "After becoming the winningest coach in college football history, Joe Paterno is embroiled in Penn State&#8217;s Jerry Sandusky sexual abuse scandal, challenging his legacy and forcing him to face questions of institutional failure regarding the victims.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/Ad4y2Cc2FcY1wOk3DH7HVWlrgEM-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Kc6j1IAK19k?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/paterno/",
+  "Name": "Paterno"
+}

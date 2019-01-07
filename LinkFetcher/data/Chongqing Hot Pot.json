@@ -1,0 +1,38 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ciUQ4tnjjseWDXgnI3q5XBdpoRX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ciUQ4tnjjseWDXgnI3q5XBdpoRX.jpg",
+      "Name": "Chongqing Hot Pot"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/86Ahojl34k5d1ZxQqLqwDyYUK68.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/86Ahojl34k5d1ZxQqLqwDyYUK68.jpg",
+      "Name": "Chongqing Hot Pot"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aMZdOtkf9avqUhoupzqNWLBcMJ3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aMZdOtkf9avqUhoupzqNWLBcMJ3.jpg",
+      "Name": "Chongqing Hot Pot"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jfUvNlWaqU8tYC18vnP0utujSCs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jfUvNlWaqU8tYC18vnP0utujSCs.jpg",
+      "Name": "Chongqing Hot Pot"
+    }
+  ],
+  "Links": [],
+  "Intro": "When three friends open a hot pot restaurant in a former bomb shelter, they discover it’s linked by a single wall to the bank vault next door. While deciding to take the easy money or go to the police, they find out one of the bank’s employees is a former classmate and look to enlist her in deciding their future.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/p7bPTCE60Jt87eryDy5HLHEPOgl-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/9_5NW5HyCf4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/chongqing-hot-pot/",
+  "Name": "Chongqing Hot Pot"
+}

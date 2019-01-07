@@ -1,0 +1,37 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vuTZKZw8CGWTju4bwJN5Sh5GXc8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vuTZKZw8CGWTju4bwJN5Sh5GXc8.jpg",
+      "Name": "Happy Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4GY9slocddLB43tyu8Bm0EwXugL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4GY9slocddLB43tyu8Bm0EwXugL.jpg",
+      "Name": "Happy Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oUbDa3c9LgalixQtRHbeqUp9DCs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oUbDa3c9LgalixQtRHbeqUp9DCs.jpg",
+      "Name": "Happy Christmas"
+    }
+  ],
+  "Links": [],
+  "Intro": "After a breakup with her boyfriend, a young woman moves in with her older brother, his wife, and their 2-year-old son.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/20IpUbl1ZrxjW32KGqT00WtFiiQ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/lUXJj47eEVo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/happy-christmas/",
+  "Name": "Happy Christmas"
+}

@@ -1,0 +1,55 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/mien-tay/",
+      "Name": "Miền Tây"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5GbRKOQSY08U3SQXXcQAKEnL2rE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5GbRKOQSY08U3SQXXcQAKEnL2rE.jpg ",
+      "Name": "Hell or High Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/r9QWXRn3cd6q26dRstkXXJ7XBhz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/r9QWXRn3cd6q26dRstkXXJ7XBhz.jpg ",
+      "Name": "Hell or High Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o9iqzSWhePTMuGGtthKWJebQWwU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o9iqzSWhePTMuGGtthKWJebQWwU.jpg ",
+      "Name": "Hell or High Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qkqI2oxy8NLEjA1dbN1FRpdIQ3k.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qkqI2oxy8NLEjA1dbN1FRpdIQ3k.jpg ",
+      "Name": "Hell or High Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fbw7dG2FPoPeTVFKfKaurorbbO8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fbw7dG2FPoPeTVFKfKaurorbbO8.jpg ",
+      "Name": "Hell or High Water"
+    }
+  ],
+  "Links": [],
+  "Intro": "A divorced dad and his ex-con brother resort to a desperate scheme in order to save their family&#8217;s farm in West Texas.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/6YOrNBdoXvT8aC5VPLkkN6t5z0V-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/SEJuBrGzPZ4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/hell-high-water/",
+  "Name": "Hell or High Water"
+}

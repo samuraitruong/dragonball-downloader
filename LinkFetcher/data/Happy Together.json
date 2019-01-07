@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wIdDV6Ataxmw9anveFBBdshRH0j.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wIdDV6Ataxmw9anveFBBdshRH0j.jpg",
+      "Name": "Happy Together"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xYZ8DYCxKYfh4FygBt8HP88VL5j.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xYZ8DYCxKYfh4FygBt8HP88VL5j.jpg",
+      "Name": "Happy Together"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v9G6d0QDjCzLdcuTyAfQNALWYcP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v9G6d0QDjCzLdcuTyAfQNALWYcP.jpg",
+      "Name": "Happy Together"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vvA2IRyYK7mjrLqlEZE7wHaUN9f.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vvA2IRyYK7mjrLqlEZE7wHaUN9f.jpg",
+      "Name": "Happy Together"
+    }
+  ],
+  "Links": [],
+  "Intro": "A couple take a trip to Argentina in search of a new beginning, but instead find themselves drifting ever further apart.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/bBzEiEXV3TPPtWntfEN4KFCMsVo-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/happy-together/",
+  "Name": "Happy Together"
+}

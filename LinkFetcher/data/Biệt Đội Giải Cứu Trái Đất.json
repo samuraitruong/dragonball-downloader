@@ -1,14 +1,75 @@
 {
   "Id": "movtXOnPO523777",
-  "Url": "https://fsharephim.com/movies/next-gen/",
-  "Name": "Biệt Đội Giải Cứu Trái Đất",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4tO1A5g5ZOXVB22g2Wovcm39dYU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4tO1A5g5ZOXVB22g2Wovcm39dYU.jpg",
+      "Name": "Biệt Đội Giải Cứu Trái Đất - Next Gen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kkvejdQGeRH03ASrIKVqlFQMDeG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kkvejdQGeRH03ASrIKVqlFQMDeG.jpg",
+      "Name": "Biệt Đội Giải Cứu Trái Đất - Next Gen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jEpm0PKrsgV5IU2k2fItVOYSPob.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jEpm0PKrsgV5IU2k2fItVOYSPob.jpg",
+      "Name": "Biệt Đội Giải Cứu Trái Đất - Next Gen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/plcZRZxOzl5VwmaeGpMknBe7YZX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/plcZRZxOzl5VwmaeGpMknBe7YZX.jpg",
+      "Name": "Biệt Đội Giải Cứu Trái Đất - Next Gen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8IG3Nm8p4NXOhA5hKuGZPCh8z8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8IG3Nm8p4NXOhA5hKuGZPCh8z8.jpg",
+      "Name": "Biệt Đội Giải Cứu Trái Đất - Next Gen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8wCKy98pIyuE4Ua0QmK8k0L1UMj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8wCKy98pIyuE4Ua0QmK8k0L1UMj.jpg",
+      "Name": "Biệt Đội Giải Cứu Trái Đất - Next Gen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rdwcUVWvESBacyIq7WNfSsi6T6D.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rdwcUVWvESBacyIq7WNfSsi6T6D.jpg",
+      "Name": "Biệt Đội Giải Cứu Trái Đất - Next Gen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ge91f5xY7MeZsgTmemmPpr0o0YT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ge91f5xY7MeZsgTmemmPpr0o0YT.jpg",
+      "Name": "Biệt Đội Giải Cứu Trái Đất - Next Gen"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movtxonpo523777/",
-      "Name": "WEB-DL-1080p",
-      "Url": "http://www.fshare.vn/file/J72GUL6R51J9",
       "Size": "4.41 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/J72GUL6R51J9",
+      "Name": "WEB-DL-1080p"
     }
-  ]
+  ],
+  "Intro": "Phim là sự kết hợp thú vị giữa Blade Runner và Big Hero 6. Nội dung phim xoay quanh câu chuyện về một cô gái cô đơn trong thế giới tương lai, kết bạn cùng một con robot. Tình bạn và sự đoàn kết của họ giờ đây là thứ duy nhất có thể cứu Trái đất khỏi thảm họa diệt vong.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/09/hUDDo5MPWM6rc6COQYhaoRNqvhE-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/uf3ALGKgpGU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/next-gen/",
+  "Name": "Biệt Đội Giải Cứu Trái Đất"
 }

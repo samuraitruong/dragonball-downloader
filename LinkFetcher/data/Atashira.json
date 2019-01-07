@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/74kzvO6df1fQe8z587NUlh4llpC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/74kzvO6df1fQe8z587NUlh4llpC.jpg",
+      "Name": "Atashira"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sQdkVgzw8WfOkbMtGlrhKEJPRfI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sQdkVgzw8WfOkbMtGlrhKEJPRfI.jpg",
+      "Name": "Atashira"
+    }
+  ],
+  "Links": [],
+  "Intro": "This work is directed by Yolikojun&#8217;s original script. Misaki Morino challenged the role of a new landscape of the main character A child and each personality derived from inside of himself, three roles with different character. A human pattern that comes into view as complicated and tricky drama, mainly A child, develops. And sex and life, or death beyond that.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/215CqWQyobkWz649h9pPiMeJfHT-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/G5m3DVSK31k?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/atashira/",
+  "Name": "Atashira"
+}

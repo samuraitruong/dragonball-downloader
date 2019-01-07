@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rQSHzMRerbRKPZPZp4hJGkMb9Gg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rQSHzMRerbRKPZPZp4hJGkMb9Gg.jpg ",
+      "Name": "The Light of the Moon"
+    }
+  ],
+  "Links": [],
+  "Intro": "After a New York City woman is sexually assaulted while walking home one evening, she struggles to accept the truth and rediscover the intimacy within her relationship.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/581a1IHsopRkk4xMlTyaKWK6nlI-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/s7U5iwarXbE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-light-of-the-moon/",
+  "Name": "The Light of the Moon"
+}

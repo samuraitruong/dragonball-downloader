@@ -1,0 +1,65 @@
+{
+  "Id": "movxLfmIo432985",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rkPNyFPfsG0EOJuMqwyqnl9VuHX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rkPNyFPfsG0EOJuMqwyqnl9VuHX.jpg",
+      "Name": "Linh Hồn Bạc - Gintama"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/svGVTDs4M4M4yqGtf75EzUntNBN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/svGVTDs4M4M4yqGtf75EzUntNBN.jpg",
+      "Name": "Linh Hồn Bạc - Gintama"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movxlfmio432985/",
+      "Size": "13.0 GB",
+      "FileSize": 13961051502,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/OV5R5789DTPV",
+      "Name": "Gintama.2017.1080p.BluRay.x264.DTS-WiKi.mkv"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movxlfmio432985-2/",
+      "Size": "13.00 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://4share.vn/f/4c797a74797d7a7f/Gintama.2017.1080p.BluRay.x264.DTS-WiKi.mkv",
+      "Name": "1080p"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movxlfmio432985-3/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/gintama",
+      "Name": "Subtitle"
+    }
+  ],
+  "Intro": "Linh Hồn Bạc xoay xung quanh cuộc sống hằng ngày của 3 nhân vật chính, Sakata Gintoki, một Samurai hết thời, bị bệnh tiểu đường nặng, Shinpachi Shimura, kẻ kế thừa của một võ đường xập xệ &#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/kZwyyazISEgJXVkhre00Kj7pvlf-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/-znuivrIXT8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/gintama/",
+  "Name": "Linh Hồn Bạc"
+}

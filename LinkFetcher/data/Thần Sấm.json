@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/LvmmDZxkTDqp0DX7mUo621ahdX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/LvmmDZxkTDqp0DX7mUo621ahdX.jpg",
+      "Name": "Thần Sấm - Thor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/siiHsWPaP2r8hqPiQsry61gCjGY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/siiHsWPaP2r8hqPiQsry61gCjGY.jpg",
+      "Name": "Thần Sấm - Thor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6UxFfo8K3vcihtUpX1ek2ucGeEZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6UxFfo8K3vcihtUpX1ek2ucGeEZ.jpg",
+      "Name": "Thần Sấm - Thor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eLVtKgcOEalUuDyj3Ca6UYrsmoZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eLVtKgcOEalUuDyj3Ca6UYrsmoZ.jpg",
+      "Name": "Thần Sấm - Thor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fapU8ef9SrZHU8MEgwukR4ZIdI4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fapU8ef9SrZHU8MEgwukR4ZIdI4.jpg",
+      "Name": "Thần Sấm - Thor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9uUwS2nohMcT1f6CxXovYap23nE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9uUwS2nohMcT1f6CxXovYap23nE.jpg",
+      "Name": "Thần Sấm - Thor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AptT5s6HA8Fgkiuqz5hyUuABjDx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AptT5s6HA8Fgkiuqz5hyUuABjDx.jpg",
+      "Name": "Thần Sấm - Thor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/orjBjIpkJAx9Ki88L6PzqUEbYRZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/orjBjIpkJAx9Ki88L6PzqUEbYRZ.jpg",
+      "Name": "Thần Sấm - Thor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iWfu3NYWFLyYtj1ddUEsrg8jw7f.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iWfu3NYWFLyYtj1ddUEsrg8jw7f.jpg",
+      "Name": "Thần Sấm - Thor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vEMTVCbGwkWg2s7OaUZw1re9dST.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vEMTVCbGwkWg2s7OaUZw1re9dST.jpg",
+      "Name": "Thần Sấm - Thor"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim Thần Sấm là bộ phim được chuyển thể từ bộ truyện tranh nổi tiếng cùng tên của Marvel. Nhân vật chính, Thor là một chiến binh dũng cảm và đầy quyền năng nhưng lại kiêu ngạo của vương quốc Asgard.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/08/bIuOWTtyFPjsFDevqvF3QrD1aun-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/uHBnrJowBZE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/thor/",
+  "Name": "Thần Sấm"
+}

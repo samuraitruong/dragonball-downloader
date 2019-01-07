@@ -1,0 +1,71 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pUcUkxQDYXucnzO1migUhjwyxxs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pUcUkxQDYXucnzO1migUhjwyxxs.jpg ",
+      "Name": "Dog Eat Dog"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ApDgqYItfzfvW2mv2n4PRut9ad8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ApDgqYItfzfvW2mv2n4PRut9ad8.jpg ",
+      "Name": "Dog Eat Dog"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/e24rFaIHbsXmD3CpQBjBE9uEceh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/e24rFaIHbsXmD3CpQBjBE9uEceh.jpg ",
+      "Name": "Dog Eat Dog"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wjFy5AMK9yiUeksRKsAyxe2w6r2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wjFy5AMK9yiUeksRKsAyxe2w6r2.jpg ",
+      "Name": "Dog Eat Dog"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/s3VCyntwiiYBu83LQmVz3GdFkS4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/s3VCyntwiiYBu83LQmVz3GdFkS4.jpg ",
+      "Name": "Dog Eat Dog"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/25EAXZF0bB97YCVqMKIqYvF1oSe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/25EAXZF0bB97YCVqMKIqYvF1oSe.jpg ",
+      "Name": "Dog Eat Dog"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zZFfkooBxBTZdMB2MQtRVof6RJD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zZFfkooBxBTZdMB2MQtRVof6RJD.jpg ",
+      "Name": "Dog Eat Dog"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qK9EEEsb5cVncKA2TXPbJDJSB6d.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qK9EEEsb5cVncKA2TXPbJDJSB6d.jpg ",
+      "Name": "Dog Eat Dog"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5aXI7KcGE3Vp9KGTOhDkpT4VN5X.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5aXI7KcGE3Vp9KGTOhDkpT4VN5X.jpg ",
+      "Name": "Dog Eat Dog"
+    }
+  ],
+  "Links": [],
+  "Intro": "Carved from a lifetime of experience that runs the gamut from incarceration to liberation, Dog Eat Dog is the story of three men who are all out of prison and now have the task of adapting themselves to civilian life.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/03/mI3u5OpbDrHSVryIA3E0WYSdvi8-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/1LJrPXWSiPU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/dog-eat-dog/",
+  "Name": "Dog Eat Dog"
+}

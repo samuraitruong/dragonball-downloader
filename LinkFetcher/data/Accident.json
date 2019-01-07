@@ -1,0 +1,49 @@
+{
+  "Id": "movie5Chk441762",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/thBSuLIDjMRnLCMXfSbNb9uWWVV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/thBSuLIDjMRnLCMXfSbNb9uWWVV.jpg",
+      "Name": "Accident"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vvznvguiGkzkppoFsIIcaBvXR0u.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vvznvguiGkzkppoFsIIcaBvXR0u.jpg",
+      "Name": "Accident"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movie5chk441762/",
+      "Size": "4.37 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/FARR8L3AWHE7",
+      "Name": "720p"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movie5chk441762-2/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/accident-2017",
+      "Name": "Subtitle"
+    }
+  ],
+  "Intro": "A group of teenagers suffer a terrible accident during a joy ride and get trapped at the bottom of a ravine.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/rnIFlouo4WwcBXdtcjX5WDUyVpx-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/GmXQDIRWHXQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/accident/",
+  "Name": "Accident"
+}

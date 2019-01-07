@@ -1,0 +1,46 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aWlpWNzH9tARgWIdn8HUz0F2MLW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aWlpWNzH9tARgWIdn8HUz0F2MLW.jpg",
+      "Name": "Guernica"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ft6HFFVDmfJgLEGo1LsR9VhrYGq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ft6HFFVDmfJgLEGo1LsR9VhrYGq.jpg",
+      "Name": "Guernica"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8qXQ10znWdFvMfZhmrZX7dxiGe9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8qXQ10znWdFvMfZhmrZX7dxiGe9.jpg",
+      "Name": "Guernica"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eIOT5KCcb74EbPeSC12gwY1I4Uh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eIOT5KCcb74EbPeSC12gwY1I4Uh.jpg",
+      "Name": "Guernica"
+    }
+  ],
+  "Links": [],
+  "Intro": "The fates of Henry &#8211; an American correspondent &#8211; and Teresa, one of the Republic&#8217;s censors during the Spanish Civil War.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/h0L2vBa0MjtamyrG36h0KvrTzQA-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/EgEADDlSo2E?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/guernica/",
+  "Name": "Guernica"
+}

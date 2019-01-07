@@ -1,56 +1,80 @@
 {
-  "Id": "269149",
-  "Url": "https://fsharephim.com/movies/zootopia/",
-  "Name": "Zootopia",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/269149-6/",
-      "Name": "Zootopia (2016) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/SWU9IJS64SD9",
-      "Size": "2.07 GB",
-      "FileSize": 2222809851
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/269149-7/",
-      "Name": "Zootopia (2016) 1080p 3D BluRay AVC DTS-HD MA.7.1.iso",
-      "Url": "https://www.fshare.vn/file/PP469HCZN48L",
-      "Size": "44.06 GB",
-      "FileSize": 47313453056
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/269149-5/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/zootopia",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/269149/",
-      "Name": "Zootopia.2016.720p.BRRip.SUB-FCINE.net.mkv",
-      "Url": "https://www.fshare.vn/file/OJE2SK72CA4E",
-      "Size": "953.3 MB",
-      "FileSize": 999560949
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/269149-2/",
-      "Name": "Zootopia.2016.720p.Bluray.x264.SUB-FCINE.net.mkv",
-      "Url": "https://www.fshare.vn/file/3AWE1LOA7S7A",
-      "Size": "3.3 GB",
-      "FileSize": 3581293941
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/269149-3/",
-      "Name": "720p - Lồng Tiếng",
-      "Url": "https://www.fshare.vn/file/TMCLOCEOWBHA",
-      "Size": "4.2 GB",
-      "FileSize": 0
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/269149-4/",
-      "Name": "Zootopia.2016.1080p.BluRay.x264-SPARKS.mkv",
-      "Url": "https://www.fshare.vn/file/YV6VPNW99BJF",
-      "Size": "5.5 GB",
-      "FileSize": 5867488699
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mhdeE1yShHTaDbJVdWyTlzFvNkr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mhdeE1yShHTaDbJVdWyTlzFvNkr.jpg",
+      "Name": "Zootopia"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3HuUMZOTmFwMsoH3aCbVKgTGjXZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3HuUMZOTmFwMsoH3aCbVKgTGjXZ.jpg",
+      "Name": "Zootopia"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/16JyrAnJRGorH513skOCjRu1crR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/16JyrAnJRGorH513skOCjRu1crR.jpg",
+      "Name": "Zootopia"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bEY0XH2oTD9E1PcEKdjMKuKJomc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bEY0XH2oTD9E1PcEKdjMKuKJomc.jpg",
+      "Name": "Zootopia"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g77AFOZZo87GHsUoiYtGYKxDd0b.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g77AFOZZo87GHsUoiYtGYKxDd0b.jpg",
+      "Name": "Zootopia"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9NkLfcdvtaKQglwtS2SQMdswNha.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9NkLfcdvtaKQglwtS2SQMdswNha.jpg",
+      "Name": "Zootopia"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rEiTfsLbve3z6duaS2bj16rvtQR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rEiTfsLbve3z6duaS2bj16rvtQR.jpg",
+      "Name": "Zootopia"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/34eSC2BGOeievZ8ESUbCOdwm62P.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/34eSC2BGOeievZ8ESUbCOdwm62P.jpg",
+      "Name": "Zootopia"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yH7eQbt0E0c86iajrgSIkBtCtSI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yH7eQbt0E0c86iajrgSIkBtCtSI.jpg",
+      "Name": "Zootopia"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xg9exRarwIkmWFiDh8cPRnZs0jo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xg9exRarwIkmWFiDh8cPRnZs0jo.jpg",
+      "Name": "Zootopia"
+    }
+  ],
+  "Links": [],
+  "Intro": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia&#8217;s police force, jumps at the chance to crack her first case &#8211; even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+  "Poster": "https://image.tmdb.org/t/p/w185/sM33SANp9z6rXW8Itn7NnG1GOEs.jpg",
+  "Trailer": "https://www.youtube.com/embed/jWM0ct-OLsM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/zootopia/",
+  "Name": "Zootopia"
 }

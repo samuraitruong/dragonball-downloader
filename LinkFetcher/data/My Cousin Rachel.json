@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/atGEqsebanmOwqnvluQSxi6DaVP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/atGEqsebanmOwqnvluQSxi6DaVP.jpg ",
+      "Name": "My Cousin Rachel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7RPQdlFoWWQz055ErQM7AeA6usf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7RPQdlFoWWQz055ErQM7AeA6usf.jpg ",
+      "Name": "My Cousin Rachel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fIT5pKZqfJRUG0KQKr29gkKRNFn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fIT5pKZqfJRUG0KQKr29gkKRNFn.jpg ",
+      "Name": "My Cousin Rachel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wK0V1wsdsJrTEv1fLLitXADpAsx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wK0V1wsdsJrTEv1fLLitXADpAsx.jpg ",
+      "Name": "My Cousin Rachel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jDQIPP4QCoXEehtqx2rYZo0xQOq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jDQIPP4QCoXEehtqx2rYZo0xQOq.jpg ",
+      "Name": "My Cousin Rachel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pMiSgiugUfs4Wg2XXGLtG3fnR6c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pMiSgiugUfs4Wg2XXGLtG3fnR6c.jpg ",
+      "Name": "My Cousin Rachel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lbLGakwZ9tN7hqneu2eM4lF8O36.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lbLGakwZ9tN7hqneu2eM4lF8O36.jpg ",
+      "Name": "My Cousin Rachel"
+    }
+  ],
+  "Links": [],
+  "Intro": "A young Englishman plots revenge against his mysterious, beautiful cousin, believing that she murdered his guardian. But his feelings become complicated as he finds himself falling under the beguiling spell of her charms.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/yz9Pnx5tbpZOHWsCD0LtoTCgmLi-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/8NfQ7o_rCC0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/my-cousin-rachel/",
+  "Name": "My Cousin Rachel"
+}

@@ -1,56 +1,80 @@
 {
-  "Id": "movsKiE5b76492",
-  "Url": "https://fsharephim.com/movies/hotel-transylvania/",
-  "Name": "Hotel Transylvania",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movskie5b76492-7/",
-      "Name": "1080p",
-      "Url": "http://www.fshare.vn/file/MXHE9T4Q6CYJ",
-      "Size": "4.37 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movskie5b76492-6/",
-      "Name": "mHD - 720p",
-      "Url": "http://www.fshare.vn/file/7CW72EI6Y23Z",
-      "Size": "1.11 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movskie5b76492-5/",
-      "Name": "mHD-1080p",
-      "Url": "http://www.fshare.vn/file/TY5JY1W984OP",
-      "Size": "1.75 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movskie5b76492-2/",
-      "Name": "Hotel Transylvania (2012) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/6GFK9ACMU3JA",
-      "Size": "1.11 GB",
-      "FileSize": 1187881641
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movskie5b76492-3/",
-      "Name": "Hotel Transylvania (2012) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/WAG4X6NLN913",
-      "Size": "1.75 GB",
-      "FileSize": 1874256021
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movskie5b76492-4/",
-      "Name": "Hotel Transylvania (2013) 1080p Bluray 3D ViE AVC DTS-HD MA5.1-MRC VAV.iso",
-      "Url": "https://www.fshare.vn/file/JRX3EGSC46AN",
-      "Size": "40.47 GB",
-      "FileSize": 43451875328
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movskie5b76492/",
-      "Name": "Hotel.Transylvania.2012.mkv",
-      "Url": "https://www.fshare.vn/file/T5X3YVM73T",
-      "Size": "1.77 GB",
-      "FileSize": 1897695894
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sETTal2HPPkUC3lWc27HL1AFu9C.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sETTal2HPPkUC3lWc27HL1AFu9C.jpg",
+      "Name": "Hotel Transylvania"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4cDrTs32R7GUwja7pdN8XwyR7UB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4cDrTs32R7GUwja7pdN8XwyR7UB.jpg",
+      "Name": "Hotel Transylvania"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xgHVRk3CxvREC1DNBfNbe5i8smE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xgHVRk3CxvREC1DNBfNbe5i8smE.jpg",
+      "Name": "Hotel Transylvania"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AhHy2Kyj5ikvy8cTBM2EQenIC0Y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AhHy2Kyj5ikvy8cTBM2EQenIC0Y.jpg",
+      "Name": "Hotel Transylvania"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AtUozlh9uh4ufnZPgAEAyOAzaTS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AtUozlh9uh4ufnZPgAEAyOAzaTS.jpg",
+      "Name": "Hotel Transylvania"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kUC84O41kJddKj6Y00r9F7aWa1D.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kUC84O41kJddKj6Y00r9F7aWa1D.jpg",
+      "Name": "Hotel Transylvania"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g2IuG6d6hFLGGdvxjO4fn37hdhB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g2IuG6d6hFLGGdvxjO4fn37hdhB.jpg",
+      "Name": "Hotel Transylvania"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/petNMO78JksYpP8icDPItIlh0nb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/petNMO78JksYpP8icDPItIlh0nb.jpg",
+      "Name": "Hotel Transylvania"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2S028dnTSYQUgJj8xEsgaT98QsC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2S028dnTSYQUgJj8xEsgaT98QsC.jpg",
+      "Name": "Hotel Transylvania"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sKcifsR7Is0EqayW72IheP243dZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sKcifsR7Is0EqayW72IheP243dZ.jpg",
+      "Name": "Hotel Transylvania"
+    }
+  ],
+  "Links": [],
+  "Intro": "Welcome to Hotel Transylvania, Dracula&#8217;s lavish five-stake resort, where monsters and their families can live it up and no humans are allowed. One special weekend, Dracula has invited all his best friends to celebrate his beloved daughter Mavis&#8217;s 118th birthday. For Dracula catering to all of these legendary monsters is no problem but the party really starts when one ordinary guy stumbles into the hotel and changes everything!",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/9qugesYpAWHUpdrw2w8URSGkAPt-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/q4RK3jY7AVk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/hotel-transylvania/",
+  "Name": "Hotel Transylvania"
 }

@@ -1,35 +1,64 @@
 {
-  "Id": "movYMIeAl408220",
-  "Url": "https://fsharephim.com/movies/justice-league-dark/",
-  "Name": "Liên Minh Công Lí Bóng Tối",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movymieal408220/",
-      "Name": "Justice.League.Dark.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv",
-      "Url": "https://www.fshare.vn/file/ZCJCV5PXADNWCP7",
-      "Size": "2.8 GB",
-      "FileSize": 3026754025
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movymieal408220-2/",
-      "Name": "Justice.League.Dark.2017.BluRay.720p.DTS.x264-MTeam.mkv",
-      "Url": "https://www.fshare.vn/file/7L5LDSMG4VWKU9H",
-      "Size": "4.8 GB",
-      "FileSize": 5124810665
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movymieal408220-3/",
-      "Name": "Justice.League.Dark.2017.BluRay.1080p.DTS-HD.MA5.1.x264-MTeam.mkv",
-      "Url": "https://www.fshare.vn/file/2FP1NYLT4SFFMJK",
-      "Size": "9.3 GB",
-      "FileSize": 10022200086
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movymieal408220-4/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/justice-league-dark",
-      "Size": "0",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gHoAF9noMZaOqCCu3W7OApS2euS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gHoAF9noMZaOqCCu3W7OApS2euS.jpg",
+      "Name": "Liên Minh Công Lí Bóng Tối - Justice League Dark"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gh1JZj3yJVu2vuZJJdMX2ZIZUXl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gh1JZj3yJVu2vuZJJdMX2ZIZUXl.jpg",
+      "Name": "Liên Minh Công Lí Bóng Tối - Justice League Dark"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/45zVQcCegFVyvImzXyfXy63XDlr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/45zVQcCegFVyvImzXyfXy63XDlr.jpg",
+      "Name": "Liên Minh Công Lí Bóng Tối - Justice League Dark"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sCeXUGG0eg1cIKi1jLVzDq0iuPd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sCeXUGG0eg1cIKi1jLVzDq0iuPd.jpg",
+      "Name": "Liên Minh Công Lí Bóng Tối - Justice League Dark"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t2bIsz8GZKf5kmoPqWefVs89Eul.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t2bIsz8GZKf5kmoPqWefVs89Eul.jpg",
+      "Name": "Liên Minh Công Lí Bóng Tối - Justice League Dark"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tmqVP85shPXEZkW0k96EtOK4XtC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tmqVP85shPXEZkW0k96EtOK4XtC.jpg",
+      "Name": "Liên Minh Công Lí Bóng Tối - Justice League Dark"
+    }
+  ],
+  "Links": [],
+  "Intro": "Justice League Bóng tối là những gì nó giống như cái tên. Đó là mặt trái của công lý. Một nhóm người hùng siêu nhiên người liên kết với nhau một cách lỏng lẻo để đưa vào nhằm chống lại các mối đe dọa huyền bí, các mối đe dọa siêu nhiên &#8211; mối đe dọa mà các Justice League thực tế có thể bất lực chống lại.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/lGa2sK2LdcHQjasYyukl3P2nras-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/cddLDL_kKOU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/justice-league-dark/",
+  "Name": "Liên Minh Công Lí Bóng Tối"
 }

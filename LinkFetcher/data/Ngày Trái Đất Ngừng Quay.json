@@ -1,0 +1,66 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bfRgom0djZB8z7qbtjM542j3xrT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bfRgom0djZB8z7qbtjM542j3xrT.jpg ",
+      "Name": "Ngày Trái Đất Ngừng Quay - The Day the Earth Stood Still"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dTYoIpLyDENv5gjJeloksMhd2BJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dTYoIpLyDENv5gjJeloksMhd2BJ.jpg ",
+      "Name": "Ngày Trái Đất Ngừng Quay - The Day the Earth Stood Still"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6MtDHQxgsyVhhcsHvU6embBTZDD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6MtDHQxgsyVhhcsHvU6embBTZDD.jpg ",
+      "Name": "Ngày Trái Đất Ngừng Quay - The Day the Earth Stood Still"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xm3GehFcq9I5vxnLFq3EK7N1duF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xm3GehFcq9I5vxnLFq3EK7N1duF.jpg ",
+      "Name": "Ngày Trái Đất Ngừng Quay - The Day the Earth Stood Still"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lUYpsOnLhQ0yjbUWHVV6Y5yJdff.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lUYpsOnLhQ0yjbUWHVV6Y5yJdff.jpg ",
+      "Name": "Ngày Trái Đất Ngừng Quay - The Day the Earth Stood Still"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iEVph9YTSx1EI8guSFDKrR8ubW9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iEVph9YTSx1EI8guSFDKrR8ubW9.jpg ",
+      "Name": "Ngày Trái Đất Ngừng Quay - The Day the Earth Stood Still"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qZX6pbyihcJ0YrbFSB4Xd8dNs2e.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qZX6pbyihcJ0YrbFSB4Xd8dNs2e.jpg ",
+      "Name": "Ngày Trái Đất Ngừng Quay - The Day the Earth Stood Still"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/TrmF1gybH3n7QG9bLpA4JH7GbM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/TrmF1gybH3n7QG9bLpA4JH7GbM.jpg ",
+      "Name": "Ngày Trái Đất Ngừng Quay - The Day the Earth Stood Still"
+    }
+  ],
+  "Links": [],
+  "Intro": "Klaatu, đại diện của một chủng tộc người ngoài hành tinh có hình dáng giống con người vừa vượt qua một sự tiến hóa mạnh mẽ để tồn tại trước sự thay đổi khí hậu trên hành tinh của họ. Klaatu tới trái đất để đánh giá xem liệu loài người có ngăn chăn được sự hủy hoại môi trường mà họ đang phải gánh chịu trên Trái đất hay không. Khi bị ngăn cản phát biểu trước Liên hợp quốc, Klaatu và những người đứng sau anh ta quyết định rằng loài người sẽ phải bị xóa sổ để Trái đất có thể tồn tại. Số phận của loài người phụ thuộc vào tiến sĩ Helen Benson và cậu con trai Jacob nếu như cô thuyết phục được Klaatu rằng con người cần được bảo vệ. Nhưng dường như đã là quá muộn.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/7fNFk4EAGbuRFqrSJprgXEIX5Za-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/lgeuvDiS1_M?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-day-the-earth-stood-still/",
+  "Name": "Ngày Trái Đất Ngừng Quay"
+}

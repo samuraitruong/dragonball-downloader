@@ -1,35 +1,80 @@
 {
-  "Id": "movdR3yLn51052",
-  "Url": "https://fsharephim.com/movies/arthur-christmas/",
-  "Name": "Arthur Christmas",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movdr3yln51052-3/",
-      "Name": "Arthur Christmas (2011) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/P6EAVCPDDFTM",
-      "Size": "1.86 GB",
-      "FileSize": 1997818879
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movdr3yln51052-4/",
-      "Name": "Arthur Christmas (2011) ViE 2D3D AVC 1080p DTS-HD MA 5.1.iso",
-      "Url": "https://www.fshare.vn/file/8L12YDO469HF",
-      "Size": "25 GB",
-      "FileSize": 26841579520
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movdr3yln51052-2/",
-      "Name": "Arthur Christmas (2011) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/FTL83IXZSR8I",
-      "Size": "700.27 MB",
-      "FileSize": 734286684
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movdr3yln51052/",
-      "Name": "Arthur.Christmas.2011.mkv",
-      "Url": "https://www.fshare.vn/file/T6DR195H7T",
-      "Size": "2.31 GB",
-      "FileSize": 2480988223
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5mfMJpkO0mxDViHEeebFrzesdwc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5mfMJpkO0mxDViHEeebFrzesdwc.jpg",
+      "Name": "Arthur Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/heSYJonnpuP4B0ieLcIGWoC241f.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/heSYJonnpuP4B0ieLcIGWoC241f.jpg",
+      "Name": "Arthur Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dgjVKcxBEffBjHlfjuLpcp5hQZ9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dgjVKcxBEffBjHlfjuLpcp5hQZ9.jpg",
+      "Name": "Arthur Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uX15W31OkLoBgHThkKIZkiyvMmS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uX15W31OkLoBgHThkKIZkiyvMmS.jpg",
+      "Name": "Arthur Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4IaT82dlepA9tsKB6tP0ShgAbWP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4IaT82dlepA9tsKB6tP0ShgAbWP.jpg",
+      "Name": "Arthur Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5ZhpxHhnb73mpiNYiBnNBa0EsH1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5ZhpxHhnb73mpiNYiBnNBa0EsH1.jpg",
+      "Name": "Arthur Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8HMoWRxZQLsBayaeNsOTqmNUGnp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8HMoWRxZQLsBayaeNsOTqmNUGnp.jpg",
+      "Name": "Arthur Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kJwJfSQht3QwpWka8JBnQ18IyDT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kJwJfSQht3QwpWka8JBnQ18IyDT.jpg",
+      "Name": "Arthur Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h1CytpE9KxBl8bhWDl9keA1U6X6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h1CytpE9KxBl8bhWDl9keA1U6X6.jpg",
+      "Name": "Arthur Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zktwFpijrCms7sskAqhwZdS822d.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zktwFpijrCms7sskAqhwZdS822d.jpg",
+      "Name": "Arthur Christmas"
+    }
+  ],
+  "Links": [],
+  "Intro": "Each Christmas, Santa and his vast army of highly trained elves produce gifts and distribute them around the world in one night. However, when one of 600 million children to receive a gift from Santa on Christmas Eve is missed, it is deemed ‘acceptable’ to all but one – Arthur. Arthur Claus is Santa’s misfit son who executes an unauthorized rookie mission to get the last present half way around the globe before dawn on Christmas morning.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/8IP8VQBJRdN9S74IRFQXgKGTWJt-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/7tk-WZSqIGQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/arthur-christmas/",
+  "Name": "Arthur Christmas"
 }

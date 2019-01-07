@@ -1,0 +1,657 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tvZpi68at6zOSFTNxMBElSNB3fo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tvZpi68at6zOSFTNxMBElSNB3fo.jpg",
+      "Name": "Fated to Love You"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ksaqLhnBoUlnX5FcbSnmXNjVHqR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ksaqLhnBoUlnX5FcbSnmXNjVHqR.jpg",
+      "Name": "Fated to Love You"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m3lNc7TdJV9kxv8BUburGaYKyDV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m3lNc7TdJV9kxv8BUburGaYKyDV.jpg",
+      "Name": "Fated to Love You"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x16/",
+      "Name": "Episode 16"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x17/",
+      "Name": "Episode 17"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x18/",
+      "Name": "Episode 18"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x19/",
+      "Name": "Episode 19"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x20/",
+      "Name": "Episode 20"
+    }
+  ],
+  "Intro": "The hard working, kind and timid Kim Mi Young (Jang Nara) has little in the way of education, beauty or wealth, but all that changes after a fateful night of accidental passion with the spoiled, rich heir of a family company, Lee Gun (Jang Hyuk). Her insignificant existence completely transforms when she finds out she is pregnant and must tie her life to his in a shot-gun wedding. The couple decides to make the best of a bad situation, but just when Lee Gun begins to show his growing affection for Kim Mi Young, his first love re-enters the picture to stake her claim.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/5JqmQ3EbQ6B3tQoMx1SFIbbhVuJ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/3-_uUyHgnkU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": "tvI7Xr6T1003918",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1003918/",
+              "Size": "0",
+              "FileSize": 972041560,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TPXHAR4G9T",
+              "Name": "[K-Zone].Fated.to.Love.You.E01.HD.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x1/",
+          "Name": "Fated to Love You 1x1"
+        },
+        {
+          "Id": "tvI7Xr6T1003927",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1003927/",
+              "Size": "0",
+              "FileSize": 975742651,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TQWS9792FT",
+              "Name": "[K-Zone].Fated.to.Love.You.E10.HD.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x10/",
+          "Name": "Fated to Love You 1x10"
+        },
+        {
+          "Id": "tvI7Xr6T1003928",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1003928/",
+              "Size": "0",
+              "FileSize": 1010271903,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TW6J0B7WYT",
+              "Name": "[K-Zone].Fated.to.Love.You.E11.HD.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x11/",
+          "Name": "Fated to Love You 1x11"
+        },
+        {
+          "Id": "tvI7Xr6T1003929",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1003929/",
+              "Size": "0",
+              "FileSize": 993280972,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/42LLYRMIHL97",
+              "Name": "[K-Zone].Fated.to.Love.You.E12.HD.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x12/",
+          "Name": "Fated to Love You 1x12"
+        },
+        {
+          "Id": "tvI7Xr6T1004011",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1004011/",
+              "Size": "0",
+              "FileSize": 995990248,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/4Q55ZA8XSXZU",
+              "Name": "[K-Zone].Fated.to.Love.You.E13.HD.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x13/",
+          "Name": "Fated to Love You 1x13"
+        },
+        {
+          "Id": "tvI7Xr6T1004084",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1004084/",
+              "Size": "0",
+              "FileSize": 996691466,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/O49NB94J2EI5",
+              "Name": "[K-Zone].Fated.to.Love.You.E14.HD.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x14/",
+          "Name": "Fated to Love You 1x14"
+        },
+        {
+          "Id": "tvI7Xr6T1007895",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ij5j0z3HUufq4SRnSyP3qBvFpbl.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ij5j0z3HUufq4SRnSyP3qBvFpbl.jpg",
+              "Name": "Fated to Love You 1&#215;15"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1007895/",
+              "Size": "0",
+              "FileSize": 995198199,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/3HVPMOCCDMPH",
+              "Name": "[K-Zone].Fated.to.Love.You.E15.HD.mkv"
+            }
+          ],
+          "Intro": "After Mi Young gently rejected his marriage proposal, Daniel declares his intention to pursue her. Mi Young remains hostile towards Gun despite finally accepting his company&#8217;s offer to help design their next product line promotion.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x15/",
+          "Name": "Fated to Love You 1x15"
+        },
+        {
+          "Id": "tvI7Xr6T1007896",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/26ZKGeIMTqHRbVaRL5vGsGfkPgE.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/26ZKGeIMTqHRbVaRL5vGsGfkPgE.jpg",
+              "Name": "Fated to Love You 1&#215;16"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1007896/",
+              "Size": "0",
+              "FileSize": 1003365754,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/GJ1AZWBHBSPZ",
+              "Name": "[K-Zone].Fated.to.Love.You.E16.HD.mkv"
+            }
+          ],
+          "Intro": "As Mi Young continues to work day and night for her project, Gun keeps her company while his conversations with her as the female buyer of her most cherished painting comfort and inspire her.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x16/",
+          "Name": "Fated to Love You 1x16"
+        },
+        {
+          "Id": "tvI7Xr6T1007897",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nZDC7gunKehR5TrOsbVDeNJN1iI.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nZDC7gunKehR5TrOsbVDeNJN1iI.jpg",
+              "Name": "Fated to Love You 1&#215;17"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1007897/",
+              "Size": "0",
+              "FileSize": 998642803,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/QDCA5K7XXIHO",
+              "Name": "[K-Zone].Fated.to.Love.You.E17.HD.mkv"
+            }
+          ],
+          "Intro": "While returning the painting to Mi Young, Gun reveals that he is the buyer whom she has been texting. He is determined to stay out of her life as Mi Young decides to leave Korea ahead of schedule.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x17/",
+          "Name": "Fated to Love You 1x17"
+        },
+        {
+          "Id": "tvI7Xr6T1007898",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oKphSnehoaZhey3O9ID6lTZ4KJt.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oKphSnehoaZhey3O9ID6lTZ4KJt.jpg",
+              "Name": "Fated to Love You 1&#215;18"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1007898/",
+              "Size": "0",
+              "FileSize": 1230992412,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/C7OJCW6VOFRE",
+              "Name": "[K-Zone].Fated.to.Love.You.E18.HD.mkv"
+            }
+          ],
+          "Intro": "After finding out Gun&#8217;s reason for pushing her away and his feelings for her, Mi Young bursts into his press conference to declare her love for him. Gun is overjoyed to spend time with Mi Young as he takes a three-month vacation.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x18/",
+          "Name": "Fated to Love You 1x18"
+        },
+        {
+          "Id": "tvI7Xr6T1007899",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wdNiKLzPGgi9wfJsqqtz81sWPA2.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wdNiKLzPGgi9wfJsqqtz81sWPA2.jpg",
+              "Name": "Fated to Love You 1&#215;19"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1007899/",
+              "Size": "0",
+              "FileSize": 977450917,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/HD5BU1B7R2NS",
+              "Name": "[K-Zone].Fated.to.Love.You.E19.HD.mkv"
+            }
+          ],
+          "Intro": "Mi Young and Gun are determined to convince Mi Young&#8217;s mother to give her blessing for their marriage. Se Ra suspects that she was adopted after seeing herself in Daniel&#8217;s childhood picture of his sister and himself.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x19/",
+          "Name": "Fated to Love You 1x19"
+        },
+        {
+          "Id": "tvI7Xr6T1003919",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1003919/",
+              "Size": "0",
+              "FileSize": 987959634,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TQJS2X53MT",
+              "Name": "[K-Zone].Fated.to.Love.You.E02.HD.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x2/",
+          "Name": "Fated to Love You 1x2"
+        },
+        {
+          "Id": "tvI7Xr6T1007900",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xUuNgJofWzDWlfNsncla3DZfski.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xUuNgJofWzDWlfNsncla3DZfski.jpg",
+              "Name": "Fated to Love You 1&#215;20"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1007900/",
+              "Size": "0",
+              "FileSize": 978302168,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/HWU8BKOEMQKA",
+              "Name": "[K-Zone].Fated.to.Love.You.E20.END.HD.mkv"
+            }
+          ],
+          "Intro": "Gun and Mi Young marry with their families&#8217; blessing and head to Jeju Island for their honeymoon. Se Ra deals with the fact that she was adopted and that she has a brother in Daniel.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x20/",
+          "Name": "Fated to Love You 1x20"
+        },
+        {
+          "Id": "tvI7Xr6T1003920",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1003920/",
+              "Size": "0",
+              "FileSize": 992323240,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T8CMKCWBST",
+              "Name": "[K-Zone].Fated.to.Love.You.E03.HD.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x3/",
+          "Name": "Fated to Love You 1x3"
+        },
+        {
+          "Id": "tvI7Xr6T1003921",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1003921/",
+              "Size": "0",
+              "FileSize": 985408800,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/THF4WG8DYT",
+              "Name": "[K-Zone].Fated.to.Love.You.E04.HD.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x4/",
+          "Name": "Fated to Love You 1x4"
+        },
+        {
+          "Id": "tvI7Xr6T1003922",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1003922/",
+              "Size": "0",
+              "FileSize": 993846616,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TDJ7QHYWFT",
+              "Name": "[K-Zone].Fated.to.Love.You.E05.HD.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x5/",
+          "Name": "Fated to Love You 1x5"
+        },
+        {
+          "Id": "tvI7Xr6T1003923",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1003923/",
+              "Size": "0",
+              "FileSize": 972032534,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TS3YTMTY0T",
+              "Name": "[K-Zone].Fated.to.Love.You.E06.HD.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x6/",
+          "Name": "Fated to Love You 1x6"
+        },
+        {
+          "Id": "tvI7Xr6T1003924",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1003924/",
+              "Size": "0",
+              "FileSize": 972101799,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TW0P4FDW8T",
+              "Name": "[K-Zone].Fated.to.Love.You.E07.HD.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x7/",
+          "Name": "Fated to Love You 1x7"
+        },
+        {
+          "Id": "tvI7Xr6T1003925",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1003925/",
+              "Size": "0",
+              "FileSize": 971661165,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T5CHQ34DST",
+              "Name": "[K-Zone].Fated.to.Love.You.E08.HD.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x8/",
+          "Name": "Fated to Love You 1x8"
+        },
+        {
+          "Id": "tvI7Xr6T1003926",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvi7xr6t1003926/",
+              "Size": "0",
+              "FileSize": 978733993,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TBWQM5948T",
+              "Name": "[K-Zone].Fated.to.Love.You.E09.HD.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/fated-to-love-you-1x9/",
+          "Name": "Fated to Love You 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Jul. 02, 2014"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/fated-to-love-you/",
+  "Name": "Fated to Love You"
+}

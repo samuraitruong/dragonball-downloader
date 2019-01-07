@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7nVdyYmWpd73zrqHppRjhDj5asD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7nVdyYmWpd73zrqHppRjhDj5asD.jpg",
+      "Name": "Sanam Re"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mMoCDw87y6f6lGKw6OkQ5akZG0J.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mMoCDw87y6f6lGKw6OkQ5akZG0J.jpg",
+      "Name": "Sanam Re"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5dl6gOf46YHszk0w5KXi88mjigd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5dl6gOf46YHszk0w5KXi88mjigd.jpg",
+      "Name": "Sanam Re"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cs9EnOlrkrjbbMxwiYeKZe6FJGn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cs9EnOlrkrjbbMxwiYeKZe6FJGn.jpg",
+      "Name": "Sanam Re"
+    }
+  ],
+  "Links": [],
+  "Intro": "A story about the man who is confused with his love life finds solace in his birthplace with his childhood love.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/v1OsCu0RQSmFmza5qQCSDRfuCS7-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/fvQZkpnb764?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/sanam-re/",
+  "Name": "Sanam Re"
+}

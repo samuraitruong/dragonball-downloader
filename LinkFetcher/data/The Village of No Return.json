@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1TmryhkjMxfqcTVtv08C9mzkEWd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1TmryhkjMxfqcTVtv08C9mzkEWd.jpg",
+      "Name": "The Village of No Return"
+    }
+  ],
+  "Links": [],
+  "Intro": "It is an unusual day for the remote and isolated Desire Village. A mysterious Taoist priest brings a magical equipment that can erase one’s memory. Since then, all the villagers have forgotten their past, living “happily ever after”, while the dangerous plot behind their back is just about to be unveiled…",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/pkkNVULhJTRo5IWn4cduAGjCBEH-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/fj9jx3YWSQg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-village-of-no-return/",
+  "Name": "The Village of No Return"
+}

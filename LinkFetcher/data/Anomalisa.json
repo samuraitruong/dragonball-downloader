@@ -1,35 +1,70 @@
 {
-  "Id": "movy6ygnB291270",
-  "Url": "https://fsharephim.com/movies/anomalisa/",
-  "Name": "Anomalisa",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movy6ygnb291270/",
-      "Name": "Anomalisa.2015.1080p.BluRay.DTS.x264-ZQ.mkv",
-      "Url": "https://www.fshare.vn/file/4ASUK3FMKPMP",
-      "Size": "8.91 GB",
-      "FileSize": 9568623689
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movy6ygnb291270-2/",
-      "Name": "Anomalisa.2015.1080p.BluRay.DTS.x264-ZQ.srt",
-      "Url": "https://www.fshare.vn/file/ASWVDXBF1I9I",
-      "Size": "112.38 KB",
-      "FileSize": 115073
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movy6ygnb291270-3/",
-      "Name": "Anomalisa 2015 1080p Blu-ray Remux AVC DTS-HD MA 5.1 - KRaLiMaRKo.mkv",
-      "Url": "https://www.fshare.vn/file/J9CPB231KIJV",
-      "Size": "22.06 GB",
-      "FileSize": 23681696923
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movy6ygnb291270-4/",
-      "Name": "Anomalisa 2015 1080p Blu-ray Remux AVC DTS-HD MA 5.1 - KRaLiMaRKo.srt",
-      "Url": "https://www.fshare.vn/file/9M27JS3TJ17N",
-      "Size": "112.38 KB",
-      "FileSize": 115073
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7gXheUIaNCGsp6kwhKqpLCBeqBm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7gXheUIaNCGsp6kwhKqpLCBeqBm.jpg",
+      "Name": "Anomalisa"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8SQyjNQFGQDCNA2B8na1hpRF4PY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8SQyjNQFGQDCNA2B8na1hpRF4PY.jpg",
+      "Name": "Anomalisa"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kGneW8ldxWZYTFdgVlPU2o7cXdU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kGneW8ldxWZYTFdgVlPU2o7cXdU.jpg",
+      "Name": "Anomalisa"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pLPYBN8ej0cMScLbI8yDNdObtX8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pLPYBN8ej0cMScLbI8yDNdObtX8.jpg",
+      "Name": "Anomalisa"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vWMsauOacMyalMin36uFY9011qe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vWMsauOacMyalMin36uFY9011qe.jpg",
+      "Name": "Anomalisa"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dEJI1E6ydCk7CHw7fYUzZX4hIS6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dEJI1E6ydCk7CHw7fYUzZX4hIS6.jpg",
+      "Name": "Anomalisa"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eRrppcCy5b6GJIUuMsAFOYg4w3J.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eRrppcCy5b6GJIUuMsAFOYg4w3J.jpg",
+      "Name": "Anomalisa"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7WcIz3hO7rZF0wFgXtNUcQlDqrZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7WcIz3hO7rZF0wFgXtNUcQlDqrZ.jpg",
+      "Name": "Anomalisa"
+    }
+  ],
+  "Links": [],
+  "Intro": "A man crippled by the mundanity of his life experiences something out of the ordinary.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/5DpDEEb6UJUiSaXyNegYlCqsZdd-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/WQkHA3fHk_0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/anomalisa/",
+  "Name": "Anomalisa"
 }

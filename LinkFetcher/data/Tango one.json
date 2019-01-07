@@ -1,0 +1,48 @@
+{
+  "Id": "mov0cX7Sx479198",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pPzKhEUhWecWBmPMwwn3Ajcirkw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pPzKhEUhWecWBmPMwwn3Ajcirkw.jpg",
+      "Name": "Tango one"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/mov0cx7sx479198/",
+      "Size": "7.63 GB",
+      "FileSize": 8194606130,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/ZH51DJBPDEKE",
+      "Name": "Tango.One.2018.1080p.BluRay.DTS.x264-GUACAMOLE(k).mkv"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/mov0cx7sx479198-2/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/tango-one",
+      "Name": "Subtitle"
+    }
+  ],
+  "Intro": "Three officers are assigned to go undercover and join a mission to capture Den Donovan.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/1oGrSyAdjQalDjiIEHWFHAn02I5-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/LRXiDGtg3vo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/tango-one/",
+  "Name": "Tango one"
+}

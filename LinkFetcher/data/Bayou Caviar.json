@@ -1,0 +1,44 @@
+{
+  "Id": "movtK2J4L529981",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zRJUvES3T5oAzFBpbl4vMjDcXzT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zRJUvES3T5oAzFBpbl4vMjDcXzT.jpg",
+      "Name": "Bayou Caviar"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movtk2j4l529981-2/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/bayou-caviar",
+      "Name": "Subtitle"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movtk2j4l529981/",
+      "Size": "3.81 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/KBKM5L982CB8",
+      "Name": "WEB-DL-1080p"
+    }
+  ],
+  "Intro": "A Russian gangster engages a former boxer to take down his associate’s son-in-law via a salacious video tape.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/10/up28fmhXm5eZjasXEZ352NdxDLq-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/wlsXCOCRAwU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/bayou-caviar/",
+  "Name": "Bayou Caviar"
+}

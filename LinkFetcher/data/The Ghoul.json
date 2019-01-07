@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fTFvpabXL0kerFHH9GHUnrzwJA4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fTFvpabXL0kerFHH9GHUnrzwJA4.jpg",
+      "Name": "The Ghoul"
+    }
+  ],
+  "Links": [],
+  "Intro": "A homicide detective goes undercover as a patient to investigate a psychotherapist he believes is linked to a strange double murder. As his therapy sessions continue the line between fantasy and reality begins to blur.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/lkzjc4Q7vPYXeIyaFIX4rFJImtJ-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-ghoul/",
+  "Name": "The Ghoul"
+}

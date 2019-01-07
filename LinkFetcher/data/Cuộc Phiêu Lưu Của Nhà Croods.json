@@ -1,42 +1,88 @@
 {
-  "Id": "movz68lvw49519",
-  "Url": "https://fsharephim.com/movies/the-croods/",
-  "Name": "Cuộc Phiêu Lưu Của Nhà Croods",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movz68lvw49519-3/",
-      "Name": "The Croods (2013) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/NSR7E44VWKT5",
-      "Size": "1.19 GB",
-      "FileSize": 1280349045
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movz68lvw49519-4/",
-      "Name": "The Croods (2013) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/ONYLU5VOH4VR",
-      "Size": "1.88 GB",
-      "FileSize": 2019891133
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movz68lvw49519-5/",
-      "Name": "The Croods (2013) ViE 1080p Bluray 3D AVC DTS-HD MA.7.1-MRC VAV.ISO",
-      "Url": "https://www.fshare.vn/file/8UDWADP8OH2J",
-      "Size": "43.33 GB",
-      "FileSize": 46520074240
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movz68lvw49519/",
-      "Name": "The.Croods.2013.BluRay.720p.DTS.x264-HDWinG.mkv",
-      "Url": "https://www.fshare.vn/file/F2PPNQB3AF",
-      "Size": "5.26 GB",
-      "FileSize": 5646277565
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movz68lvw49519-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/the-croods/vietnamese/785305",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kYY4CKjjknT1GY45ZueZs556Mnl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kYY4CKjjknT1GY45ZueZs556Mnl.jpg",
+      "Name": "Cuộc Phiêu Lưu Của Nhà Croods - The Croods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vg2hf8eAZhULxtQRS87CbrH2WMQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vg2hf8eAZhULxtQRS87CbrH2WMQ.jpg",
+      "Name": "Cuộc Phiêu Lưu Của Nhà Croods - The Croods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yPfYk7kpr26ybowSSuvo19Oetrj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yPfYk7kpr26ybowSSuvo19Oetrj.jpg",
+      "Name": "Cuộc Phiêu Lưu Của Nhà Croods - The Croods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oEZuo2qX4cUr27eThjqmRhFWaHZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oEZuo2qX4cUr27eThjqmRhFWaHZ.jpg",
+      "Name": "Cuộc Phiêu Lưu Của Nhà Croods - The Croods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gkrm5w1c68GbqaoVOPmLKN5LZE0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gkrm5w1c68GbqaoVOPmLKN5LZE0.jpg",
+      "Name": "Cuộc Phiêu Lưu Của Nhà Croods - The Croods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eJGreIqnFMVDdDtIYSABcHaQCe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eJGreIqnFMVDdDtIYSABcHaQCe.jpg",
+      "Name": "Cuộc Phiêu Lưu Của Nhà Croods - The Croods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4LSGFJl2fy63s0wA86rafoC4Baa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4LSGFJl2fy63s0wA86rafoC4Baa.jpg",
+      "Name": "Cuộc Phiêu Lưu Của Nhà Croods - The Croods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a7la58ZDU2pusH5Kk4deLOX2zui.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a7la58ZDU2pusH5Kk4deLOX2zui.jpg",
+      "Name": "Cuộc Phiêu Lưu Của Nhà Croods - The Croods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l1quXApNdZSrncNn1UFZ05bSAwY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l1quXApNdZSrncNn1UFZ05bSAwY.jpg",
+      "Name": "Cuộc Phiêu Lưu Của Nhà Croods - The Croods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cmjV0GpxZctkQEegEUkl7lHvmru.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cmjV0GpxZctkQEegEUkl7lHvmru.jpg",
+      "Name": "Cuộc Phiêu Lưu Của Nhà Croods - The Croods"
+    }
+  ],
+  "Links": [],
+  "Intro": "The Croods lấy bối cảnh thời kỳ tiền sử, nơi đó chỉ còn một gia đình còn sống sót nhờ vào nguyên tắc khắc nghiệt của người cha Grug “không bao giờ được rời khỏi hang động của mình và không được tìm hiểu những điều mới lạ”. Eep là cô con gái lớn luôn tò mò về thế giới xung quanh. Mọi chuyện bỗng chốc thay đổi khi cô gặp Guy, một anh chàng hết sức thú vị với những phát minh lạ thường như lửa, dây nịt, giày … Và những thông tin anh chàng Guy mang tới đã đưa cả gia đình Croods vào một cuộc phiêu lưu mà họ không hề ngờ tới.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/eHi3Nbgh6Cs2KiIyEMF4Ig4CdjX-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/4fVCKy69zUY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-croods/",
+  "Name": "Cuộc Phiêu Lưu Của Nhà Croods"
 }

@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3CCfgSvtvN3HwVs5hbcC1NhOAzw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3CCfgSvtvN3HwVs5hbcC1NhOAzw.jpg ",
+      "Name": "Tìm Kiếm - Searching"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9JP8s8NdrtZE1GbV0fqDqs5IGTt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9JP8s8NdrtZE1GbV0fqDqs5IGTt.jpg ",
+      "Name": "Tìm Kiếm - Searching"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/91A8wgjgzG9y8D1Z6Mk7Bbd82z4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/91A8wgjgzG9y8D1Z6Mk7Bbd82z4.jpg ",
+      "Name": "Tìm Kiếm - Searching"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qu2IPnFyDztlUOYhCkPptXP1vnv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qu2IPnFyDztlUOYhCkPptXP1vnv.jpg ",
+      "Name": "Tìm Kiếm - Searching"
+    }
+  ],
+  "Links": [],
+  "Intro": "After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her. A thriller that unfolds entirely on computer screens.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/10/9N0T3BaHZNdUCcMZQIM3yMUFwEh-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/3Ro9ebQxEOY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/searching/",
+  "Name": "Tìm Kiếm"
+}

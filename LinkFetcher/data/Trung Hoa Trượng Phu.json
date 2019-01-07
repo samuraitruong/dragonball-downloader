@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ngoai-quoc/",
+      "Name": "Ngoại Quốc"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7ZmjcyQZYtemIQ5h5FouowlDrBM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7ZmjcyQZYtemIQ5h5FouowlDrBM.jpg ",
+      "Name": "Trung Hoa Trượng Phu - Heroes of the East"
+    }
+  ],
+  "Links": [],
+  "Intro": "Cốt truyện dựa trên mối xung đột văn hóa giữa đôi vợ chồng trẻ với anh chồng người Trung Quốc và cô vợ người Nhật Bản. “Văn vô đệ nhất, võ vô đệ nhị”, cả 2 người đều là dân luyện võ nên chẳng hay chịu nhường ai. Hết đấu khẩu rối đến động thủ, sau vài trận thua dưới tay anh chồng tự phụ, cô vợ hiếu thắng đùng đùng xách vali về Nhật luyện thêm. Anh chồng bèn dùng kế viết thư khích tướng để đưa vợ trở về mà không phải sang Nhật năn nỉ. Ác nỗi, lá thư lại lọt vào tay các cao thủ Nhật, và họ nổi giận đùng đùng sang Trung Quốc để nghênh chiến. Sự hiểu lầm dẫn đến trận chiến bất cân sức giữa anh chồng láu cá với 7 cao thủ Nhật Bản thực sự sẽ ra sao? Mưu kế của anh chàng có đưa được cô vợ trẻ về nhà không?Read more at http://movies.hdviet.com/phim-dong-phuong-anh-hao-heroes-of-the-east.html#i5db4fXm8ErEbuYK.99",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/o3zz23wE9SX0LOi7aQYkwTmzZDn-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/HVcw3xsLjfo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/heroes-of-the-east/",
+  "Name": "Trung Hoa Trượng Phu"
+}

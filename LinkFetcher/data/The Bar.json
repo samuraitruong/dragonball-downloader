@@ -1,0 +1,74 @@
+{
+  "Id": "movUeIIWR420648",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oMzJmraMLpRX2xFJLaEtlj2rsJK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oMzJmraMLpRX2xFJLaEtlj2rsJK.jpg",
+      "Name": "The Bar"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jEcMr6SIQU5MFNVTIjLew9eU5pX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jEcMr6SIQU5MFNVTIjLew9eU5pX.jpg",
+      "Name": "The Bar"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1QMoGAMlvkbx3poARsSKIRs8lFJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1QMoGAMlvkbx3poARsSKIRs8lFJ.jpg",
+      "Name": "The Bar"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movueiiwr420648-4/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/el-bar-aka-the-bar",
+      "Name": "Subtitle"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movueiiwr420648/",
+      "Size": "5.0 GB",
+      "FileSize": 5403105880,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/74LHARPXAAES",
+      "Name": "El bar 2017 BluRay 720p DTS x264-MTeam.mkv"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movueiiwr420648-2/",
+      "Size": "9.7 GB",
+      "FileSize": 10419154548,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/DFTJXRUMBETN",
+      "Name": "El bar 2017 BluRay BluRay 1080p DTS-HD MA5.1 x264-MTeam.mkv"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movueiiwr420648-3/",
+      "Size": "9.70 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://4share.vn/f/7144474743494048/El%20bar%202017%20BluRay%20BluRay%201080p%20DTS-HD%20MA5.1%20x264-MTeam.mkv.file",
+      "Name": "1080p"
+    }
+  ],
+  "Intro": "A group of strangers are trapped inside a bar.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/5gpVdpC66BCqzY3adpFuIvy0lV5-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/nAYtHqEhMqI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-bar/",
+  "Name": "The Bar"
+}

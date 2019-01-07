@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jxVRynP2iQwmf507Y7POrfbtgRw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jxVRynP2iQwmf507Y7POrfbtgRw.jpg",
+      "Name": "Người Nhện - Spider-Man"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5yAEbTXiJZQpNx7eCyyOhnY9MYw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5yAEbTXiJZQpNx7eCyyOhnY9MYw.jpg",
+      "Name": "Người Nhện - Spider-Man"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zKM3YlEr3KqQosA6mgI9EVz3U5G.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zKM3YlEr3KqQosA6mgI9EVz3U5G.jpg",
+      "Name": "Người Nhện - Spider-Man"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nBOQMwRMFKArkOzpuXZavBwrJ1h.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nBOQMwRMFKArkOzpuXZavBwrJ1h.jpg",
+      "Name": "Người Nhện - Spider-Man"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sm6hea7Jy3FiBS7cr2J2TatcGd7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sm6hea7Jy3FiBS7cr2J2TatcGd7.jpg",
+      "Name": "Người Nhện - Spider-Man"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9Fd2frZF4S9mz7W0cvpLuPJjUj8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9Fd2frZF4S9mz7W0cvpLuPJjUj8.jpg",
+      "Name": "Người Nhện - Spider-Man"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uvkvo8BIcchhoRG3Aubd7oB11Ks.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uvkvo8BIcchhoRG3Aubd7oB11Ks.jpg",
+      "Name": "Người Nhện - Spider-Man"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wvzOWB1xW9J15S0qyPOCLQ6qL6x.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wvzOWB1xW9J15S0qyPOCLQ6qL6x.jpg",
+      "Name": "Người Nhện - Spider-Man"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2NVUHwNiNbt45CxeG3aDQVLb1EE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2NVUHwNiNbt45CxeG3aDQVLb1EE.jpg",
+      "Name": "Người Nhện - Spider-Man"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7lGpxr9Nr8ErDOrgkcuBL36CYDW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7lGpxr9Nr8ErDOrgkcuBL36CYDW.jpg",
+      "Name": "Người Nhện - Spider-Man"
+    }
+  ],
+  "Links": [],
+  "Intro": "Spider Man 1 là phần mở đầu cho series phim &#8220;Siêu anh hùng&#8221; nổi tiếng Người Nhện. Bộ phim kể về Peter Parker, một cậu học sinh nhút nhát, được nuôi nấng bởi người cô chú giàu tình thương coi cậu như con đẻ. Trong một lần đi thăm khu nghiên cứu loài nhện, Peter bị cắn bởi một chú nhện. Sau khi bị hôn mê, tỉnh dậy anh trở nên vạm vỡ và có những khả năng phi thường. Anh sử dụng khả năng của mình để làm những việc thiện, giúp đỡ kẻ yếu nhưng giữ kín tung tích của mình. Nhưng, có sức mạnh không có nghĩa là may mắn. Peter đã gặp phải một đối thủ hết sức lợi hại là Norman Osborn &#8211; một nhà khoa học trong một tai nạn biến thành một kẻ nửa người máy độc ác, có sức mạnh không kém gì anh&#8230; Liệu Peter có thể quen với sức mạnh mới của mình? Anh có chiến đấu chống lại được Norman Osborn?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/rZd0y1X1Gw4t5B3f01Qzj8DYY66-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/O7zvehDxttM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/spider-man/",
+  "Name": "Người Nhện"
+}

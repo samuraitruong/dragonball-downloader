@@ -1,14 +1,71 @@
 {
   "Id": "movFbstih9836",
-  "Url": "https://fsharephim.com/movies/happy-feet/",
-  "Name": "Happy Feet",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xgLMY1VCwM8SJq6HB3ZMpYL6mic.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xgLMY1VCwM8SJq6HB3ZMpYL6mic.jpg",
+      "Name": "Happy Feet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2DL63IHgDMjmgSeCTEsLICVXFuG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2DL63IHgDMjmgSeCTEsLICVXFuG.jpg",
+      "Name": "Happy Feet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kMzAdmYu5QRfDw48WxK4vSf9Xeq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kMzAdmYu5QRfDw48WxK4vSf9Xeq.jpg",
+      "Name": "Happy Feet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5IJLJeDAEPf5QwUHKUVGP93z3Ha.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5IJLJeDAEPf5QwUHKUVGP93z3Ha.jpg",
+      "Name": "Happy Feet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8nDLdQpgL66khHOJfn7qh9BHC0j.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8nDLdQpgL66khHOJfn7qh9BHC0j.jpg",
+      "Name": "Happy Feet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wqmAgdbtItrTomDBbftJUK3cbC7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wqmAgdbtItrTomDBbftJUK3cbC7.jpg",
+      "Name": "Happy Feet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ip4qHgYa0ZJhO1e7cjnz0HAcgRX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ip4qHgYa0ZJhO1e7cjnz0HAcgRX.jpg",
+      "Name": "Happy Feet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g0NtGJKPM48F2UQnjsuIwUgl5uh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g0NtGJKPM48F2UQnjsuIwUgl5uh.jpg",
+      "Name": "Happy Feet"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movfbstih9836/",
-      "Name": "Happy.Feet.mHD.x264-Thuyet.Minh.mkv",
-      "Url": "https://www.fshare.vn/file/T5BDCWRV0T",
       "Size": "1.1 GB",
-      "FileSize": 1179281674
+      "FileSize": 1179281674,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/T5BDCWRV0T",
+      "Name": "Happy.Feet.mHD.x264-Thuyet.Minh.mkv"
     }
-  ]
+  ],
+  "Intro": "Into the world of the Emperor Penguins, who find their soul mates through song, a penguin is born who cannot sing. But he can tap dance something fierce!",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/8RLEzftZK87S2usLsQoYtyNYzoV-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/aIBsnOyJB7Y?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/happy-feet/",
+  "Name": "Happy Feet"
 }

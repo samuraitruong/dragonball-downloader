@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vZstGHenVWt1GWJaQh6GPrCq9UC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vZstGHenVWt1GWJaQh6GPrCq9UC.jpg",
+      "Name": "Detective Chinatown 2"
+    }
+  ],
+  "Links": [],
+  "Intro": "Driven by the desire for the huge reward, Tang Ren (by Wang Baoqiang) tricked Qin Feng (by Liu Haoran) to New York, to attend the World Detective Contest,. Later on, behind the crazy competition, Qin and Tang discovered the real hidden facts of this contest.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/twGdeIZnpYC7oGptzb9kTr8QgMX-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/xdFDeIlrtZw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/detective-chinatown-2/",
+  "Name": "Detective Chinatown 2"
+}

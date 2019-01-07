@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5CDIezS2xJtcSXPL24Z2dIeUOp0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5CDIezS2xJtcSXPL24Z2dIeUOp0.jpg",
+      "Name": "American Wedding"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xNbvAMx3YGcBXX9dzUIMGsbV7CR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xNbvAMx3YGcBXX9dzUIMGsbV7CR.jpg",
+      "Name": "American Wedding"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mVaTAuqYuWz1V6LLgRiyIu3t00V.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mVaTAuqYuWz1V6LLgRiyIu3t00V.jpg",
+      "Name": "American Wedding"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zpj4EDIQV9PMTAxnWWPp3EAYACz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zpj4EDIQV9PMTAxnWWPp3EAYACz.jpg",
+      "Name": "American Wedding"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bXlrlkjothxvAkWGROPC2fuVA7R.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bXlrlkjothxvAkWGROPC2fuVA7R.jpg",
+      "Name": "American Wedding"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/itI3FH1cWhg2IMy61VNGkddhRw4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/itI3FH1cWhg2IMy61VNGkddhRw4.jpg",
+      "Name": "American Wedding"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wHtyqJs7DysTm9mT0pXy20a4TE3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wHtyqJs7DysTm9mT0pXy20a4TE3.jpg",
+      "Name": "American Wedding"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1u9AagTQ7sli3Y7dR1XD1U833kZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1u9AagTQ7sli3Y7dR1XD1U833kZ.jpg",
+      "Name": "American Wedding"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kFfBFjKP75PpHpiLKKIZQgmC4hY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kFfBFjKP75PpHpiLKKIZQgmC4hY.jpg",
+      "Name": "American Wedding"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7oXpxsnsreWhKLHuZkcy6wvJjqO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7oXpxsnsreWhKLHuZkcy6wvJjqO.jpg",
+      "Name": "American Wedding"
+    }
+  ],
+  "Links": [],
+  "Intro": "With high school a distant memory, Jim and Michelle are getting married &#8212; and in a hurry, since Jim&#8217;s grandmother is sick and wants to see him walk down the aisle &#8212; prompting Stifler to throw the ultimate bachelor party. And Jim&#8217;s dad is reliable as ever, doling out advice no one wants to hear.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/lcLuBjI3Hr12mGFKJvdMeZdf3AN-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/YmIIHsPa2F8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/american-wedding/",
+  "Name": "American Wedding"
+}

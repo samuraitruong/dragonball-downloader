@@ -1,0 +1,67 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2LR3XKthtguN7vOz99Q91IeEl1i.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2LR3XKthtguN7vOz99Q91IeEl1i.jpg ",
+      "Name": "The Post"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4MNUxckmk3DOGpvDYk4IPs0R4Ks.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4MNUxckmk3DOGpvDYk4IPs0R4Ks.jpg ",
+      "Name": "The Post"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dEsA32YS86C6QPVDThquJ2wkLsU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dEsA32YS86C6QPVDThquJ2wkLsU.jpg ",
+      "Name": "The Post"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h5jqLrIv1tlszezv2UEWq9KBuoj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h5jqLrIv1tlszezv2UEWq9KBuoj.jpg ",
+      "Name": "The Post"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8sb4aBST28vN3rBz704XJczS0Ld.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8sb4aBST28vN3rBz704XJczS0Ld.jpg ",
+      "Name": "The Post"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9J7mdUURm94NBAR6b2lIidsVGWR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9J7mdUURm94NBAR6b2lIidsVGWR.jpg ",
+      "Name": "The Post"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dLOuLOoZhoNkg7byab93Pdmgcmn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dLOuLOoZhoNkg7byab93Pdmgcmn.jpg ",
+      "Name": "The Post"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sg0sXPqgWgeybgpd1FkOnMXbNy7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sg0sXPqgWgeybgpd1FkOnMXbNy7.jpg ",
+      "Name": "The Post"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cn5LSBeWlgMei5h7fKuGXImq1el.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cn5LSBeWlgMei5h7fKuGXImq1el.jpg ",
+      "Name": "The Post"
+    }
+  ],
+  "Links": [],
+  "Intro": "A cover-up that spanned four U.S. Presidents pushed the country&#8217;s first female newspaper publisher and a hard-driving editor to join an unprecedented battle between journalist and government. Inspired by true events.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/qyRwj5VvuTRdJ76o2grP93grNxt-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/nrXlY6gzTTM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-post/",
+  "Name": "The Post"
+}

@@ -1,21 +1,68 @@
 {
   "Id": "movhEuq2913640",
-  "Url": "https://fsharephim.com/movies/superman-doomsday/",
-  "Name": "Siêu nhân: Ngày tận thế",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/amXWhCkrsN7p9S6rnLCgD9fNwE6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/amXWhCkrsN7p9S6rnLCgD9fNwE6.jpg",
+      "Name": "Siêu nhân: Ngày tận thế - Superman: Doomsday"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8Bov6LmAl1Mp3AexQs4lTR1FBcy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8Bov6LmAl1Mp3AexQs4lTR1FBcy.jpg",
+      "Name": "Siêu nhân: Ngày tận thế - Superman: Doomsday"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uAKPCYdWX4fDfEaKAXoJZx1jzRD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uAKPCYdWX4fDfEaKAXoJZx1jzRD.jpg",
+      "Name": "Siêu nhân: Ngày tận thế - Superman: Doomsday"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nJY4R4SUIEtjyGGrKe8FhzwytDj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nJY4R4SUIEtjyGGrKe8FhzwytDj.jpg",
+      "Name": "Siêu nhân: Ngày tận thế - Superman: Doomsday"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qbPD4JDlz9bZVT19zb87d3Q1Oaw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qbPD4JDlz9bZVT19zb87d3Q1Oaw.jpg",
+      "Name": "Siêu nhân: Ngày tận thế - Superman: Doomsday"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movheuq2913640-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "http://phudeviet.org/subtitle/Superman-Doomsday/5669.html",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://phudeviet.org/subtitle/Superman-Doomsday/5669.html",
+      "Name": "Viet - Subtitle"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movheuq2913640/",
-      "Name": "Superman.Doomsday.2007.720p.BluRay.x264-ESiR.mkv",
-      "Url": "https://www.fshare.vn/file/T7CQGRARRATY",
       "Size": "2.17 GB",
-      "FileSize": 2334348368
+      "FileSize": 2334348368,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/T7CQGRARRATY",
+      "Name": "Superman.Doomsday.2007.720p.BluRay.x264-ESiR.mkv"
     }
-  ]
+  ],
+  "Intro": "Lois Lane và Superman có mối quan hệ lãng mạn, nhưng Lois không hài lòng với việc giữ bí mật mối quan hệ của họ. Trong khi đào bới, công nhân từ LexCorp khai quật tàu vũ trụ của Doomsday , một siêu chiến binh được biến đổi gen về phía bất cứ thứ gì di chuyển. Nó giết chết các phi hành đoàn đào và bắt đầu một hung hăng đẫm máu đối với Metropolis . Superman và Doomsday tham gia vào một trận chiến cho đến khi Superman giết chết Doomsday và dường như không chống nổi thương tích của chính mình.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/3of4nShmv1hBmrebOQqGlfZ9ZL0-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/wF-xuGkRoC4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/superman-doomsday/",
+  "Name": "Siêu nhân: Ngày tận thế"
 }

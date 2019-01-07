@@ -1,0 +1,65 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/i85UiEUIw43NcTZiVzlhBKjLR9A.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/i85UiEUIw43NcTZiVzlhBKjLR9A.jpg ",
+      "Name": "Legend of the Naga Pearls"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6nFweVQ09irCFt7R5pqyDI6QcKs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6nFweVQ09irCFt7R5pqyDI6QcKs.jpg ",
+      "Name": "Legend of the Naga Pearls"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cLnBxM7mKvzNkrKd79F53aQn1o8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cLnBxM7mKvzNkrKd79F53aQn1o8.jpg ",
+      "Name": "Legend of the Naga Pearls"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lsCIlIpZNjstceFmKhjMyHxbSTR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lsCIlIpZNjstceFmKhjMyHxbSTR.jpg ",
+      "Name": "Legend of the Naga Pearls"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rGSkzH53dc9JtqUZltQLwdvHXh9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rGSkzH53dc9JtqUZltQLwdvHXh9.jpg ",
+      "Name": "Legend of the Naga Pearls"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wuT4VbaYNwZB2pb2aBxWVidLv7e.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wuT4VbaYNwZB2pb2aBxWVidLv7e.jpg ",
+      "Name": "Legend of the Naga Pearls"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cMgJHD8Dqq5MCVh3eojaCJF4ukN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cMgJHD8Dqq5MCVh3eojaCJF4ukN.jpg ",
+      "Name": "Legend of the Naga Pearls"
+    }
+  ],
+  "Links": [],
+  "Intro": "​A wily human joins a team of unlikely heroes as they race to retrieve the magical Naga Pearls and prevent the destruction of their people in this magical fantasy adventure.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/h6OYR49iDjHthpkYwe5k6qowp2q-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/aRwXHuwa2SQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/legend-of-the-naga-pearls/",
+  "Name": "Legend of the Naga Pearls"
+}

@@ -1,77 +1,151 @@
 {
   "Id": "movwE3J6Q396263",
-  "Url": "https://fsharephim.com/movies/gantzo/",
-  "Name": "Sinh Tử Luân Hồi",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/auRjbGCUWUBFtFcjx6YHe2wg7W5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/auRjbGCUWUBFtFcjx6YHe2wg7W5.jpg",
+      "Name": "Sinh Tử Luân Hồi - Gantz:O"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uU5co3ocGT9FVU8hgHHrANCoqBZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uU5co3ocGT9FVU8hgHHrANCoqBZ.jpg",
+      "Name": "Sinh Tử Luân Hồi - Gantz:O"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dgfzWIFrEhmLMyccHqQAyZJUznQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dgfzWIFrEhmLMyccHqQAyZJUznQ.jpg",
+      "Name": "Sinh Tử Luân Hồi - Gantz:O"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sPOEfpVRP7BSmVhvuFuU7vQUhri.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sPOEfpVRP7BSmVhvuFuU7vQUhri.jpg",
+      "Name": "Sinh Tử Luân Hồi - Gantz:O"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tqlY6nX2VZEgUWepG51sYZwAShe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tqlY6nX2VZEgUWepG51sYZwAShe.jpg",
+      "Name": "Sinh Tử Luân Hồi - Gantz:O"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kqjSlLA5ldIWm3n1riThlKwjK5e.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kqjSlLA5ldIWm3n1riThlKwjK5e.jpg",
+      "Name": "Sinh Tử Luân Hồi - Gantz:O"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cMRPytMr0bCw5ypc2gUiJRH9Xjq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cMRPytMr0bCw5ypc2gUiJRH9Xjq.jpg",
+      "Name": "Sinh Tử Luân Hồi - Gantz:O"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/shRmVwsR5qZF1hCeYCT43yPSTJA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/shRmVwsR5qZF1hCeYCT43yPSTJA.jpg",
+      "Name": "Sinh Tử Luân Hồi - Gantz:O"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movwe3j6q396263-10/",
-      "Name": "Gantz.O.2016.720p.BluRay.x264.AC3-PS3Ready.mkv",
-      "Url": "https://www.fshare.vn/file/N93EEH2KE1LO",
       "Size": "4.0 GB",
-      "FileSize": 4301024107
+      "FileSize": 4301024107,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/N93EEH2KE1LO",
+      "Name": "Gantz.O.2016.720p.BluRay.x264.AC3-PS3Ready.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movwe3j6q396263-9/",
-      "Name": "Gantz.O.2016.576p.BluRay.x264.AAC.2.0-Mob264.mkv",
-      "Url": "https://www.fshare.vn/file/R8M6NICV3HY2",
       "Size": "2.2 GB",
-      "FileSize": 2401256669
+      "FileSize": 2401256669,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/R8M6NICV3HY2",
+      "Name": "Gantz.O.2016.576p.BluRay.x264.AAC.2.0-Mob264.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movwe3j6q396263-8/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/gantz-o/",
       "Size": "0 MB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/gantz-o/",
+      "Name": "Subtitle"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movwe3j6q396263-7/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/gantz-o/vietnamese/1521458",
       "Size": "0 MB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/gantz-o/vietnamese/1521458",
+      "Name": "Viet - Subtitle"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movwe3j6q396263-6/",
-      "Name": "Bluray",
-      "Url": "http://4share.vn/f/7e4b4a4c484c464c/GANTZ%20O%202016%20BluRay%20Remux%201080p%20AVS%20DTS-HD%20MA5.1%202Audio-WuYaoWang456.mkv.file",
       "Size": "27.48 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://4share.vn/f/7e4b4a4c484c464c/GANTZ%20O%202016%20BluRay%20Remux%201080p%20AVS%20DTS-HD%20MA5.1%202Audio-WuYaoWang456.mkv.file",
+      "Name": "Bluray"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movwe3j6q396263-5/",
-      "Name": "GANTZ O 2016 BluRay Remux 1080p AVS DTS-HD MA5.1 2Audio-WuYaoWang456.mkv",
-      "Url": "https://www.fshare.vn/file/5OTQ1JFATY4D",
       "Size": "27.5 GB",
-      "FileSize": 29506937408
+      "FileSize": 29506937408,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/5OTQ1JFATY4D",
+      "Name": "GANTZ O 2016 BluRay Remux 1080p AVS DTS-HD MA5.1 2Audio-WuYaoWang456.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movwe3j6q396263-4/",
-      "Name": "1080p",
-      "Url": "http://4share.vn/f/635657515b5a5b51/Gantz.O.2016.1080p.BluRay.DTS.x264-HDS.mkv.file",
       "Size": "17.5 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://4share.vn/f/635657515b5a5b51/Gantz.O.2016.1080p.BluRay.DTS.x264-HDS.mkv.file",
+      "Name": "1080p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movwe3j6q396263-3/",
-      "Name": "Gantz.O.2016.1080p.BluRay.DTS.x264-HDS.mkv",
-      "Url": "https://www.fshare.vn/file/UQTQUVINH7AK",
       "Size": "17.5 GB",
-      "FileSize": 18817337092
+      "FileSize": 18817337092,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/UQTQUVINH7AK",
+      "Name": "Gantz.O.2016.1080p.BluRay.DTS.x264-HDS.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movwe3j6q396263-2/",
-      "Name": "1080p",
-      "Url": "http://4share.vn/f/3d08090f0a0f0b0b/Gantz%20-%20O%202016%20720p%20BluRay%20DTS%20x264.mkv.file",
       "Size": "9.0 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://4share.vn/f/3d08090f0a0f0b0b/Gantz%20-%20O%202016%20720p%20BluRay%20DTS%20x264.mkv.file",
+      "Name": "1080p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movwe3j6q396263/",
-      "Name": "Gantz - O 2016 720p BluRay DTS x264.mkv",
-      "Url": "https://www.fshare.vn/file/1YKODKE3X6S5",
       "Size": "9.0 GB",
-      "FileSize": 9649969072
+      "FileSize": 9649969072,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/1YKODKE3X6S5",
+      "Name": "Gantz - O 2016 720p BluRay DTS x264.mkv"
     }
-  ]
+  ],
+  "Intro": "GANTZ xoay quanh một khối cầu đen bí ẩn xuất hiện giữa gian phòng trống tại một tòa nhà nào đó không ai xác định được giữa thủ đô Tokyo. Nó có sức mạnh toàn năng làm biến mất những người tưởng chừng sẽ chết chỉ trong tích tắc.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/03/fF33nRbgvxNgTTPUuNqNsRPYmxZ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/43WgTJGjU98?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/gantzo/",
+  "Name": "Sinh Tử Luân Hồi"
 }

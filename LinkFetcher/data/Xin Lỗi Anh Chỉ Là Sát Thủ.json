@@ -1,0 +1,47 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bSV8XgUfWuyY1Zq1MGJCaSCkpvK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bSV8XgUfWuyY1Zq1MGJCaSCkpvK.jpg",
+      "Name": "Xin Lỗi Anh Chỉ Là Sát Thủ - Luck-Key"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pmVMTDQVmdZcImA6ZltTl788P7q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pmVMTDQVmdZcImA6ZltTl788P7q.jpg",
+      "Name": "Xin Lỗi Anh Chỉ Là Sát Thủ - Luck-Key"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3gz4JyQ66OKObQJpQzFoh1vcV5q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3gz4JyQ66OKObQJpQzFoh1vcV5q.jpg",
+      "Name": "Xin Lỗi Anh Chỉ Là Sát Thủ - Luck-Key"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/60i3cWRqBN6WkhvWZrlyTDvR140.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/60i3cWRqBN6WkhvWZrlyTDvR140.jpg",
+      "Name": "Xin Lỗi Anh Chỉ Là Sát Thủ - Luck-Key"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yASc5eY1B3MMf62jDrV9OsQ9rA0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yASc5eY1B3MMf62jDrV9OsQ9rA0.jpg",
+      "Name": "Xin Lỗi Anh Chỉ Là Sát Thủ - Luck-Key"
+    }
+  ],
+  "Links": [],
+  "Intro": "Xin Lỗi Anh Chỉ Là Sát Thủ kể vể gã sát thủ máu lạnh do Yoo Hae-ji đóng &#8211; vì một tai nạn bất ngờ trong phòng tắm công cộng, đã đánh mất trí nhớ và trở thành một gã khờ. Từ đó, mọi rắc rối và tình huống oái ăm sẽ xảy ra khi nhân vật sát thủ bị đánh đổi số phận với chàng diễn viên đóng thế.. Những cuộc rượt đuổi báo thù, và một mối tình đang chờ đợi gã khờ.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/tErfjgHOdZTEbVdmhI0lbkk4JRH-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/0T2pyZ7fQsc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/luck-key/",
+  "Name": "Xin Lỗi Anh Chỉ Là Sát Thủ"
+}

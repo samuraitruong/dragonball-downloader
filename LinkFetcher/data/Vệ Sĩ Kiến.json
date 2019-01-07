@@ -1,28 +1,84 @@
 {
-  "Id": "movVsxLo09906",
-  "Url": "https://fsharephim.com/movies/the-ant-bully/",
-  "Name": "Vệ Sĩ Kiến",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movvsxlo09906-3/",
-      "Name": "1080p",
-      "Url": "https://www.fshare.vn/file/6JYWDVZ358GC",
-      "Size": "14.09 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movvsxlo09906/",
-      "Name": "The.Ant.Bully.2006.mkv",
-      "Url": "https://www.fshare.vn/file/T9BD1R8WMT",
-      "Size": "2.15 GB",
-      "FileSize": 2303468028
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movvsxlo09906-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/the-ant-bully",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gQ1MQIbEjBKTH5TBsnfv2vkMrJb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gQ1MQIbEjBKTH5TBsnfv2vkMrJb.jpg",
+      "Name": "Vệ Sĩ Kiến - The Ant Bully"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/njsf4eePmGyKmDt81gql8MJBVC4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/njsf4eePmGyKmDt81gql8MJBVC4.jpg",
+      "Name": "Vệ Sĩ Kiến - The Ant Bully"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3uOABqCdCW1HlhVtmZ2AJ0zMnYM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3uOABqCdCW1HlhVtmZ2AJ0zMnYM.jpg",
+      "Name": "Vệ Sĩ Kiến - The Ant Bully"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lxhgttMLP3DxRSKGRxSSdNxC6F1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lxhgttMLP3DxRSKGRxSSdNxC6F1.jpg",
+      "Name": "Vệ Sĩ Kiến - The Ant Bully"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eWjDANwpb6XkAWUxhga9yPc9r5B.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eWjDANwpb6XkAWUxhga9yPc9r5B.jpg",
+      "Name": "Vệ Sĩ Kiến - The Ant Bully"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zRdrWtuj4FhBxIL9r4qtk1KByRN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zRdrWtuj4FhBxIL9r4qtk1KByRN.jpg",
+      "Name": "Vệ Sĩ Kiến - The Ant Bully"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/djSCBixvv62sLu26vQOAxVCwT8x.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/djSCBixvv62sLu26vQOAxVCwT8x.jpg",
+      "Name": "Vệ Sĩ Kiến - The Ant Bully"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rBRcr3UXTu7c4Drr0oHLkIVL2W2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rBRcr3UXTu7c4Drr0oHLkIVL2W2.jpg",
+      "Name": "Vệ Sĩ Kiến - The Ant Bully"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vh3EdMhq4Cq9T9ryrHBsiaxzlmL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vh3EdMhq4Cq9T9ryrHBsiaxzlmL.jpg",
+      "Name": "Vệ Sĩ Kiến - The Ant Bully"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uJ7Jx9OjA9CeUmlo7OyJ7u8OPIk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uJ7Jx9OjA9CeUmlo7OyJ7u8OPIk.jpg",
+      "Name": "Vệ Sĩ Kiến - The Ant Bully"
+    }
+  ],
+  "Links": [],
+  "Intro": "Mới dọn đến thành phố, không có bạn bè lại thêm việc bị bắt nạt bởi một cậu bé hàng xóm, Nickle đem nỗi bực dọc của mình trút lên đàn kiến bé nhỏ ở sân nhà. Nhưng rồi một sự cố xảy ra khiến cho Nickle bỗng nhiên hóa thành kiến và bị đàn kiến đó bắt làm tù binh.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/tBUlwDCdvYC5aP7DzgcmDgrbfec-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ehABKjhVbG0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-ant-bully/",
+  "Name": "Vệ Sĩ Kiến"
 }

@@ -1,21 +1,45 @@
 {
-  "Id": "movhcZ9VY14248",
-  "Url": "https://fsharephim.com/movies/igor/",
-  "Name": "Igor",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movhcz9vy14248/",
-      "Name": "mHD - Thuyết Minh",
-      "Url": "https://www.fshare.vn/file/T1FATRQGRT",
-      "Size": "1.37 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movhcz9vy14248-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/igor",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/33RQH3o8mexqjSUTAOn209rOizp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/33RQH3o8mexqjSUTAOn209rOizp.jpg",
+      "Name": "Igor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l5pdYC3VE9B7bM7yh4VuYgJ5YsD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l5pdYC3VE9B7bM7yh4VuYgJ5YsD.jpg",
+      "Name": "Igor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3cwzAuBkM7JMimHycPV3iSeiQju.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3cwzAuBkM7JMimHycPV3iSeiQju.jpg",
+      "Name": "Igor"
+    }
+  ],
+  "Links": [],
+  "Intro": "Animated fable about a cliché hunchbacked evil scientist&#8217;s assistant who aspires to become a scientist himself, much to the displeasure of the rest of the evil science community.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/en4ddVTs4n49iDYMZtkvedFgcM8-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ZBN_VF3-Re8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/igor/",
+  "Name": "Igor"
 }

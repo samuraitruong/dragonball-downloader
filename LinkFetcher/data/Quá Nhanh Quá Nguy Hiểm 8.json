@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg ",
+      "Name": "Quá Nhanh Quá Nguy Hiểm 8 - The Fate of the Furious"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z1sdCwVIqm49BMZSSXUgYTtx3Bh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z1sdCwVIqm49BMZSSXUgYTtx3Bh.jpg ",
+      "Name": "Quá Nhanh Quá Nguy Hiểm 8 - The Fate of the Furious"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7Xhe8vnss2Pw8ZnT34KEDtetPHr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7Xhe8vnss2Pw8ZnT34KEDtetPHr.jpg ",
+      "Name": "Quá Nhanh Quá Nguy Hiểm 8 - The Fate of the Furious"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vLRFwAdp7JakQKvXT5ojSboSpdY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vLRFwAdp7JakQKvXT5ojSboSpdY.jpg ",
+      "Name": "Quá Nhanh Quá Nguy Hiểm 8 - The Fate of the Furious"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hxGXL1LY1jLYD45TIjt7DcghZOu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hxGXL1LY1jLYD45TIjt7DcghZOu.jpg ",
+      "Name": "Quá Nhanh Quá Nguy Hiểm 8 - The Fate of the Furious"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jLrN9LZRD6FiB2B9oYXKS1f1zK1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jLrN9LZRD6FiB2B9oYXKS1f1zK1.jpg ",
+      "Name": "Quá Nhanh Quá Nguy Hiểm 8 - The Fate of the Furious"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vMqLatZC65uUT1ojmxnE47TkmsM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vMqLatZC65uUT1ojmxnE47TkmsM.jpg ",
+      "Name": "Quá Nhanh Quá Nguy Hiểm 8 - The Fate of the Furious"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xOL4K5ZZfa7bx54QbVlyE3P70eV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xOL4K5ZZfa7bx54QbVlyE3P70eV.jpg ",
+      "Name": "Quá Nhanh Quá Nguy Hiểm 8 - The Fate of the Furious"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eSbOhGw07HQfUqMi2MDWHnW6fkt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eSbOhGw07HQfUqMi2MDWHnW6fkt.jpg ",
+      "Name": "Quá Nhanh Quá Nguy Hiểm 8 - The Fate of the Furious"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a3V5PUTtUPFMsMiKj5aLPTxm98z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a3V5PUTtUPFMsMiKj5aLPTxm98z.jpg ",
+      "Name": "Quá Nhanh Quá Nguy Hiểm 8 - The Fate of the Furious"
+    }
+  ],
+  "Links": [],
+  "Intro": "Dom và Letty hiện đang đi hưởng tuần trăng mật. Brian cùng Mia đã quyết định từ giã sự nghiệp. Các thành viên còn lại của nhóm cũng đã được minh oan và dần trở về với cuộc sống bình thường. Nhưng một người phụ nữ bí ẩn (do nữ diễn viên đoạt giải Oscar Charlize Theron thủ vai) đã dẫn dụ Dom vào thế giới tội phạm mà anh dường như không thể thoát ra được và thậm chí phản bội lại cả những người thân thiết nhất, họ sẽ phải trải qua những thử thách cam go mà họ chưa từng đối mặt.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/04/iNpz2DgTsTMPaDRZq2tnbqjL2vF-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/JwMKRevYa_M?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-fate-of-the-furious/",
+  "Name": "Quá Nhanh Quá Nguy Hiểm 8"
+}

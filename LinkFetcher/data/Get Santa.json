@@ -1,0 +1,65 @@
+{
+  "Id": "movqHweaU250535",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3psNWnUDriTCCpXfQ81PUhnlz77.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3psNWnUDriTCCpXfQ81PUhnlz77.jpg",
+      "Name": "Get Santa"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rwfBlyIfAH7vLQG9wEv19xxzlcb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rwfBlyIfAH7vLQG9wEv19xxzlcb.jpg",
+      "Name": "Get Santa"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movqhweau250535/",
+      "Size": "4.4 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/A6R3SHSARNPA",
+      "Name": "720p"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movqhweau250535-2/",
+      "Size": "7.1 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/NW87Z7NFUQVY",
+      "Name": "1080p"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movqhweau250535-3/",
+      "Size": "2.5 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/E42MQKDUWPKG",
+      "Name": "mHD - 720p"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movqhweau250535-4/",
+      "Size": "179.2 KB",
+      "FileSize": 183524,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/PHY5HR3VXRP1",
+      "Name": "Get Santa 2014 mHD BluRay DD5.1 x264-TRiM.srt"
+    }
+  ],
+  "Intro": "A father and son who must team up to save Christmas, once they discover Santa Claus sleeping in their garage after crashing his sleigh and finding himself on the run from the police.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/3mUrojiqrTqj9wJ7UFY3nZ2GDB9-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Vl_bpTu0M0M?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/get-santa/",
+  "Name": "Get Santa"
+}

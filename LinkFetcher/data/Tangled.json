@@ -1,56 +1,129 @@
 {
   "Id": "movQwoIB838757",
-  "Url": "https://fsharephim.com/movies/tangled/",
-  "Name": "Tangled",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uFg02Gt69UM6Ouam4slMdD0s029.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uFg02Gt69UM6Ouam4slMdD0s029.jpg",
+      "Name": "Tangled"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/szuaWLYrpW4kB1qiXUXVt3U7tEP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/szuaWLYrpW4kB1qiXUXVt3U7tEP.jpg",
+      "Name": "Tangled"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1w3n1Q3qsW9zWcXOlC6shLN1z3P.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1w3n1Q3qsW9zWcXOlC6shLN1z3P.jpg",
+      "Name": "Tangled"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3iY6gLVHEFjswAx6qHpLryxuPLZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3iY6gLVHEFjswAx6qHpLryxuPLZ.jpg",
+      "Name": "Tangled"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5x70pCsN8oZmEerqjRDxnNgE79j.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5x70pCsN8oZmEerqjRDxnNgE79j.jpg",
+      "Name": "Tangled"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wuhTyIaZafRsqtO4uzgxigbkD2V.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wuhTyIaZafRsqtO4uzgxigbkD2V.jpg",
+      "Name": "Tangled"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/68vFZ1Ieavkj0VzWjQsyhnMq5Fz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/68vFZ1Ieavkj0VzWjQsyhnMq5Fz.jpg",
+      "Name": "Tangled"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ArB3oLlwAUk8b8wkeQ3BsjNE7US.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ArB3oLlwAUk8b8wkeQ3BsjNE7US.jpg",
+      "Name": "Tangled"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/38VbQlyVHHr3G2Wg0kYbdRWySCP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/38VbQlyVHHr3G2Wg0kYbdRWySCP.jpg",
+      "Name": "Tangled"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/n7qX5cKa7Lx9jIJgs9VG9u6sD1b.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/n7qX5cKa7Lx9jIJgs9VG9u6sD1b.jpg",
+      "Name": "Tangled"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movqwoib838757-7/",
-      "Name": "Tangled 2010 1080p 3D ViE Blu-ray Remux AVC DTS-HD MA 7.1 - MRC&VAV.iso",
-      "Url": "https://www.fshare.vn/file/7T664OW6WRTJZ34",
       "Size": "Thuyết Minh",
-      "FileSize": 37578997760
+      "FileSize": 37578997760,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/7T664OW6WRTJZ34",
+      "Name": "Tangled 2010 1080p 3D ViE Blu-ray Remux AVC DTS-HD MA 7.1 - MRC&VAV.iso"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movqwoib838757-6/",
-      "Name": "03.Tangled.3D.2010.DTS.1080p.3DBD.x264.half.SBS.AudioViet(1).mkv",
-      "Url": "https://www.fshare.vn/file/8IJYYLSWVHGMF2Q",
       "Size": "6.1 GB",
-      "FileSize": 6511231188
+      "FileSize": 6511231188,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/8IJYYLSWVHGMF2Q",
+      "Name": "03.Tangled.3D.2010.DTS.1080p.3DBD.x264.half.SBS.AudioViet(1).mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movqwoib838757-5/",
-      "Name": "tangled-tangled-3d-rapunzel_vietnamese-417997.zip",
-      "Url": "https://www.fshare.vn/file/M929SZCDNTY3",
       "Size": "31.3 KB",
-      "FileSize": 32082
+      "FileSize": 32082,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/M929SZCDNTY3",
+      "Name": "tangled-tangled-3d-rapunzel_vietnamese-417997.zip"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movqwoib838757-4/",
-      "Name": "Tangled.2010.BluRay.1080p.DTSHD-MA.h264.Remux-HiFi.mkv",
-      "Url": "https://www.fshare.vn/file/IQUQX6R51GVU",
       "Size": "20.3 GB",
-      "FileSize": 21765029942
+      "FileSize": 21765029942,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/IQUQX6R51GVU",
+      "Name": "Tangled.2010.BluRay.1080p.DTSHD-MA.h264.Remux-HiFi.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movqwoib838757-3/",
-      "Name": "Tangled.2010.720p.BluRay.x264-EbP.mkv",
-      "Url": "https://www.fshare.vn/file/WPJDUXVDTTCYLU4",
       "Size": "4.4 GB",
-      "FileSize": 4691306075
+      "FileSize": 4691306075,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/WPJDUXVDTTCYLU4",
+      "Name": "Tangled.2010.720p.BluRay.x264-EbP.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movqwoib838757-2/",
-      "Name": "Tangled 2010 VIE mHD BluRay x264-EPiK.mkv",
-      "Url": "https://www.fshare.vn/file/QRC4BYO6K2CA4GM",
       "Size": "1.4 GB",
-      "FileSize": 1549314355
+      "FileSize": 1549314355,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/QRC4BYO6K2CA4GM",
+      "Name": "Tangled 2010 VIE mHD BluRay x264-EPiK.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movqwoib838757/",
-      "Name": "Tangled.2010.VIE.720p.BluRay.x264-EbP.mkv",
-      "Url": "https://www.fshare.vn/file/TAFK3BFLA1",
       "Size": "4.8 GB",
-      "FileSize": 5172776785
+      "FileSize": 5172776785,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/TAFK3BFLA1",
+      "Name": "Tangled.2010.VIE.720p.BluRay.x264-EbP.mkv"
     }
-  ]
+  ],
+  "Intro": "When the kingdom&#8217;s most wanted-and most charming-bandit Flynn Rider hides out in a mysterious tower, he&#8217;s taken hostage by Rapunzel, a beautiful and feisty tower-bound teen with 70 feet of magical, golden hair. Flynn&#8217;s curious captor, who&#8217;s looking for her ticket out of the tower where she&#8217;s been locked away for years, strikes a deal with the handsome thief and the unlikely duo sets off on an action-packed escapade, complete with a super-cop horse, an over-protective chameleon and a gruff gang of pub thugs.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/re6AOJbhBk9FIK3knwU6rYlbPDx-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/gsYKF8ecC8g?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/tangled/",
+  "Name": "Tangled"
 }

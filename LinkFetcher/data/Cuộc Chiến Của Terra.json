@@ -1,42 +1,81 @@
 {
   "Id": "mov0YWr8N16873",
-  "Url": "https://fsharephim.com/movies/battle-for-terra/",
-  "Name": "Cuộc Chiến Của Terra",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xdgbIG0wEppMGRytIJZAV8QLHTt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xdgbIG0wEppMGRytIJZAV8QLHTt.jpg",
+      "Name": "Cuộc Chiến Của Terra - Battle for Terra"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t0rcLDdkhRna4CZtWyFetvw4lYh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t0rcLDdkhRna4CZtWyFetvw4lYh.jpg",
+      "Name": "Cuộc Chiến Của Terra - Battle for Terra"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/mov0ywr8n16873-3/",
-      "Name": "Battle for Terra (2007) 720p BrRip x264.mkv",
-      "Url": "https://www.fshare.vn/file/F2NV86VL4HTC2W6",
       "Size": "1.28 GB",
-      "FileSize": 1375175535
+      "FileSize": 1375175535,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/F2NV86VL4HTC2W6",
+      "Name": "Battle for Terra (2007) 720p BrRip x264.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/mov0ywr8n16873-4/",
-      "Name": "Battle for Terra (2007) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/D8OFWWN6OOZQFMK",
       "Size": "1.52 GB",
-      "FileSize": 1628792362
+      "FileSize": 1628792362,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/D8OFWWN6OOZQFMK",
+      "Name": "Battle for Terra (2007) 1080p BrRip x264.mp4"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/mov0ywr8n16873-5/",
-      "Name": "Battle For Terra (2007) 1080p Bluray 3D ViE AVC LPCM 5.1-MRC VAV.iso",
-      "Url": "https://www.fshare.vn/file/8U8BO6K3DDGUNH6",
       "Size": "32.09 GB",
-      "FileSize": 34454568960
+      "FileSize": 34454568960,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/8U8BO6K3DDGUNH6",
+      "Name": "Battle For Terra (2007) 1080p Bluray 3D ViE AVC LPCM 5.1-MRC VAV.iso"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/mov0ywr8n16873-2/",
-      "Name": "Battle.for.Terra.2007.ViE.1080p.BluRay.H264.DD2.0-RARBG.mkv",
-      "Url": "https://www.fshare.vn/file/8RWYV6WUAKPI9G7",
       "Size": "1.69 GB",
-      "FileSize": 1817047657
+      "FileSize": 1817047657,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/8RWYV6WUAKPI9G7",
+      "Name": "Battle.for.Terra.2007.ViE.1080p.BluRay.H264.DD2.0-RARBG.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/mov0ywr8n16873/",
-      "Name": "BDRip - 1080",
-      "Url": "http://4share.vn/f/4e7b797d7f7e777f/",
       "Size": "1.69 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://4share.vn/f/4e7b797d7f7e777f/",
+      "Name": "BDRip - 1080"
     }
-  ]
+  ],
+  "Intro": "Câu chuyện kể về Senn và Mala, hai thiếu niên nổi loạn trên hành tinh thơ mộng Terra, nơi cuộc sống hoà bình và khoan dung, không chấp nhận chiến tranh và vũ khí hủy diệt hàng loạt.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/hE71YvRdNaILXxPf0iASqqFTCSv-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ii7qUrDZaSY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/battle-for-terra/",
+  "Name": "Cuộc Chiến Của Terra"
 }

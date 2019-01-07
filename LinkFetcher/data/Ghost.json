@@ -1,0 +1,435 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4KpUGPuHBAvoWtSwyoykWYWSTRe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4KpUGPuHBAvoWtSwyoykWYWSTRe.jpg",
+      "Name": "Ghost"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x16/",
+      "Name": "Episode 16"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x17/",
+      "Name": "Episode 17"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x18/",
+      "Name": "Episode 18"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x19/",
+      "Name": "Episode 19"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/ghost-1x20/",
+      "Name": "Episode 20"
+    }
+  ],
+  "Intro": "The police procedural tackles crimes and clues in the cyber world, weaving a massive, twist-filled mystery of murders, identity switches, corruption and conspiracy.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/ggVjRfX3jINq1JOiLH5I87Bj4jS-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x1/",
+          "Name": "Ghost 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x10/",
+          "Name": "Ghost 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x11/",
+          "Name": "Ghost 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x12/",
+          "Name": "Ghost 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x13/",
+          "Name": "Ghost 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x14/",
+          "Name": "Ghost 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x15/",
+          "Name": "Ghost 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x16/",
+          "Name": "Ghost 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x17/",
+          "Name": "Ghost 1x17"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x18/",
+          "Name": "Ghost 1x18"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x19/",
+          "Name": "Ghost 1x19"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x2/",
+          "Name": "Ghost 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x20/",
+          "Name": "Ghost 1x20"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x3/",
+          "Name": "Ghost 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x4/",
+          "Name": "Ghost 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x5/",
+          "Name": "Ghost 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x6/",
+          "Name": "Ghost 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x7/",
+          "Name": "Ghost 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x8/",
+          "Name": "Ghost 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/ghost-1x9/",
+          "Name": "Ghost 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 May. 30, 2012"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/ghost/",
+  "Name": "Ghost"
+}

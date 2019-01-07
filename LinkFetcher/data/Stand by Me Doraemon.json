@@ -1,28 +1,56 @@
 {
-  "Id": "movfHCyHe265712",
-  "Url": "https://fsharephim.com/movies/stand-by-me-doraemon/",
-  "Name": "Stand by Me Doraemon",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movfhcyhe265712-3/",
-      "Name": "DORAEMON - Stand  By Me (2015) ViE Bluray AVC True-HD 5.1.iso",
-      "Url": "https://www.fshare.vn/file/3SHQX7XVBLU4",
-      "Size": "32.65 GB",
-      "FileSize": 35062218752
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movfhcyhe265712-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/stand-by-me-doraemon",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movfhcyhe265712/",
-      "Name": "Stand.by.Me.Doraemon.2014.mkv",
-      "Url": "https://www.fshare.vn/file/ZQFLE1NXEV29",
-      "Size": "2.55 GB",
-      "FileSize": 2735772871
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/n0UndAjNVy7hIm1UguAJxkCQkMb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/n0UndAjNVy7hIm1UguAJxkCQkMb.jpg",
+      "Name": "Stand by Me Doraemon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tSnxgqKzxTV05VEVGZgWdQulUVF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tSnxgqKzxTV05VEVGZgWdQulUVF.jpg",
+      "Name": "Stand by Me Doraemon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/71o9r2s9vwjGDHW7Xz31xN7FWSx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/71o9r2s9vwjGDHW7Xz31xN7FWSx.jpg",
+      "Name": "Stand by Me Doraemon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tN2RXFP05p4SwLMjhycOrLgY1jW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tN2RXFP05p4SwLMjhycOrLgY1jW.jpg",
+      "Name": "Stand by Me Doraemon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eorNqUxxiCc8vMUeyLLMKUAX7y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eorNqUxxiCc8vMUeyLLMKUAX7y.jpg",
+      "Name": "Stand by Me Doraemon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bfUDfvLL28wyDMNsxVQKMmhEcmY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bfUDfvLL28wyDMNsxVQKMmhEcmY.jpg",
+      "Name": "Stand by Me Doraemon"
+    }
+  ],
+  "Links": [],
+  "Intro": "In the suburbs of Tokyo some time ago, there lived a clumsy boy about 10 years old. There appeared in front of him named Sewashi, Nobita&#8217;s descendant of four generations later from the 22nd century, and Doraemon, a 22nd century cat-type caretaker robot who helps people with its secret gadgets. Sewashi claims that his family is suffering from the debts Nobita made even to his generation, so in order to change this disastrous future, he brought along Doraemon as Nobita&#8217;s caretaker to bring happiness to his future, although Doraemon is not happy about this. And so Sewashi installed an accomplishment program into Doraemon forcing him to take care of Nobita. Unless he makes Nobita happy, Doraemon can no longer go back to the 22nd century. This is how the life of Doraemon and Nobita begins. Will Doraemon succeed this mission and return to the 22nd century?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/wO0rlZ1d2uUdNejPNlZWIDwNxgJ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/AE-AiqpJbEs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/stand-by-me-doraemon/",
+  "Name": "Stand by Me Doraemon"
 }

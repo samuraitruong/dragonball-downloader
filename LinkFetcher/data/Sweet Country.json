@@ -1,0 +1,45 @@
+{
+  "Id": "mov5kri6X468210",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/mien-tay/",
+      "Name": "Miền Tây"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5R5O1IkKz4Otrhax39AwYRPkh1h.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5R5O1IkKz4Otrhax39AwYRPkh1h.jpg",
+      "Name": "Sweet Country"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/XPoQTbnwG5ef8Keldw4HRkKTJE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/XPoQTbnwG5ef8Keldw4HRkKTJE.jpg",
+      "Name": "Sweet Country"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/mov5kri6x468210/",
+      "Size": "10.24 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/76WVDYH8F6BS",
+      "Name": "1080p"
+    }
+  ],
+  "Intro": "It’s 1929 on the vast, desert-like Eastern Arrernte Nation lands that are now known as the Central Australian outback. Sam Kelly, a middle-aged Aboriginal man, works the land of a kind preacher, Fred Smith. After an ill-tempered bully arrives in town and Kelly kills him in self-defense, he and his wife, Lizzie, go on the run as a posse gathers to hunt him down.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/06/szJdZCSiEIYybmPymoP2UTEvOUC-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/sYKBG1znk4A?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/sweet-country/",
+  "Name": "Sweet Country"
+}

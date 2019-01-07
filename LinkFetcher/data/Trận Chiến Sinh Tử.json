@@ -1,0 +1,71 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nU91TWX6VsHnf9lXCtBCYpqOHUs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nU91TWX6VsHnf9lXCtBCYpqOHUs.jpg ",
+      "Name": "Trận Chiến Sinh Tử - Take Down"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6QgU3IdwKO8IFjukW6uCl8osw7v.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6QgU3IdwKO8IFjukW6uCl8osw7v.jpg ",
+      "Name": "Trận Chiến Sinh Tử - Take Down"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rBNEOtsV6QTrj3MEeBNT9Nk4oiu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rBNEOtsV6QTrj3MEeBNT9Nk4oiu.jpg ",
+      "Name": "Trận Chiến Sinh Tử - Take Down"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yD8L3WEWkHz8j2CCsbnFK5MMawM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yD8L3WEWkHz8j2CCsbnFK5MMawM.jpg ",
+      "Name": "Trận Chiến Sinh Tử - Take Down"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mIcjpOo74GvK8AWaHje1l5UctZR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mIcjpOo74GvK8AWaHje1l5UctZR.jpg ",
+      "Name": "Trận Chiến Sinh Tử - Take Down"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lJnbyGr2iNhbj56XTMUdsGX0dQw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lJnbyGr2iNhbj56XTMUdsGX0dQw.jpg ",
+      "Name": "Trận Chiến Sinh Tử - Take Down"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qB45ZMLFmjNjD3MzMHL8LRkakfv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qB45ZMLFmjNjD3MzMHL8LRkakfv.jpg ",
+      "Name": "Trận Chiến Sinh Tử - Take Down"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9Y3RnK9hrkTBtlLLKmFK8yjlOKB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9Y3RnK9hrkTBtlLLKmFK8yjlOKB.jpg ",
+      "Name": "Trận Chiến Sinh Tử - Take Down"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hZeYJJElSl0RcD3wiEfwPmw0vTC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hZeYJJElSl0RcD3wiEfwPmw0vTC.jpg ",
+      "Name": "Trận Chiến Sinh Tử - Take Down"
+    }
+  ],
+  "Links": [],
+  "Intro": "Những học viên tại một trại giáo dưỡng cho những đứa trẻ giàu có nổi loạn phải tìm cách tự giải thoát mình sau khi trại giáo dưỡng bị khống chế bởi một nhóm tội phạm.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/8WyylvFPDpBBRcl7S3d4dAtJ4y1-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/MCQKOfgDtz0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/take-down/",
+  "Name": "Trận Chiến Sinh Tử"
+}

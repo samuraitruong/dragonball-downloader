@@ -1,0 +1,61 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7BWTW1qlM2vnUQsb2UgAlrwanz3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7BWTW1qlM2vnUQsb2UgAlrwanz3.jpg",
+      "Name": "About a Boy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/e0MsFrpgGjvczP2OnbawS3UwsXv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/e0MsFrpgGjvczP2OnbawS3UwsXv.jpg",
+      "Name": "About a Boy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9YwwUNJKUsJ4mOERvUK9ITP0Qou.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9YwwUNJKUsJ4mOERvUK9ITP0Qou.jpg",
+      "Name": "About a Boy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/90eJYj2PxtE9Lu2AiwTsaSWt94Z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/90eJYj2PxtE9Lu2AiwTsaSWt94Z.jpg",
+      "Name": "About a Boy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wD0pj6zYyfNLsFAISdc3Ks6NOrX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wD0pj6zYyfNLsFAISdc3Ks6NOrX.jpg",
+      "Name": "About a Boy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wYzqKANYPbZXEm6uvizKk0gSHow.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wYzqKANYPbZXEm6uvizKk0gSHow.jpg",
+      "Name": "About a Boy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/d2qeHLoC7DsOraFPHphab5NdKHp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/d2qeHLoC7DsOraFPHphab5NdKHp.jpg",
+      "Name": "About a Boy"
+    }
+  ],
+  "Links": [],
+  "Intro": "Will Freeman is a hip Londoner who one day realizes that his friends are all involved with the responsibilities of married life and that leaves him alone in the cold. Passing himself off as a single father, he starts to meet a string of single mums, confident in his ability to leave them behind when they start to ask for a commitment. But Will&#8217;s hope of a continued bachelorhood is interrupted when he meets 12-year old Marcus, in many ways his complete opposite.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/4ts3SBMGu0wFmHgddtaxCa5EhO8-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/xC7REp40_uc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/about-a-boy/",
+  "Name": "About a Boy"
+}

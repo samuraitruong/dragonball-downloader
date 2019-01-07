@@ -1,0 +1,46 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yT0FxS7LogdVEJz3FcdzPetzDTK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yT0FxS7LogdVEJz3FcdzPetzDTK.jpg",
+      "Name": "Tầng thứ 13 - The Thirteenth Floor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uXNrC9A4VNFfeKLLLaZKfmhCyxQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uXNrC9A4VNFfeKLLLaZKfmhCyxQ.jpg",
+      "Name": "Tầng thứ 13 - The Thirteenth Floor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/usdv7WKlnJvVrNmTjzACDieiucQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/usdv7WKlnJvVrNmTjzACDieiucQ.jpg",
+      "Name": "Tầng thứ 13 - The Thirteenth Floor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bGBFfYxs1hSTSawEtloYYayMIY5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bGBFfYxs1hSTSawEtloYYayMIY5.jpg",
+      "Name": "Tầng thứ 13 - The Thirteenth Floor"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim Tầng thứ 13 (The Thirteenth Floor): Chuyên gia máy tính Hannon Fuller phát hiện ra 1 điều vô cùng quan trọng. Anh định nói điều mà anh khám phá ra với người đồng nghiệp Douglas Hall. Nhưng khi phát hiện ra dường như có ai đó đang theo dõi mình, Hannon đã để lại 1 bức thư trong chiếc máy tính của mình. Không những thế, chiếc máy tính còn tạo ra 1 thế giới giống như của thập kỷ 30 với những con người thật và cảm xúc thật&#8230; Phim Tầng thứ 13 có sự tham gia của Craig Bierko, Gretchen Mol, Armin Mueller-Stahl&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/7cm1xHOkzcqo2ienFgTl17qa35U-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/UQcOLSaDd1w?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-thirteenth-floor/",
+  "Name": "Tầng thứ 13"
+}

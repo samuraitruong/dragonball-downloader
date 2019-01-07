@@ -1,49 +1,61 @@
 {
-  "Id": "movLvsU09136799",
-  "Url": "https://fsharephim.com/movies/trolls/",
-  "Name": "Trolls",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movlvsu09136799-6/",
-      "Name": "Trolls.2016.ViE.mHD.BluRay.DD5.1.x264-TRiM.mkv",
-      "Url": "https://www.fshare.vn/file/OUZ5GLDQB5FGORM",
-      "Size": "2.2 GB",
-      "FileSize": 2396143181
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movlvsu09136799-5/",
-      "Name": "Trolls.2016.ViE.mHD.BluRay.DD5.1.x264-TRiM.mkv",
-      "Url": "https://www.fshare.vn/file/OUZ5GLDQB5FGORM",
-      "Size": "2.2 GB",
-      "FileSize": 2396143181
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movlvsu09136799-4/",
-      "Name": "Trolls 2016 1080p Long Tieng Blu-ray AVC DTS-HD MA7.1.iso",
-      "Url": "https://www.fshare.vn/file/UPP5BU1CBDJBO6L",
-      "Size": "39.9 GB",
-      "FileSize": 42834853888
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movlvsu09136799-3/",
-      "Name": "Trolls.2016.1080p.BluRay.x264-SPARKS.mkv",
-      "Url": "https://www.fshare.vn/file/AESK84KBKM7R1KH",
-      "Size": "4.4 GB",
-      "FileSize": 4691162770
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movlvsu09136799-2/",
-      "Name": "Trolls.2016.BluRay.720p.x264.DTS-HDChina.mkv",
-      "Url": "https://www.fshare.vn/file/OFSHPV15D6GIWPM",
-      "Size": "4.2 GB",
-      "FileSize": 4501622981
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movlvsu09136799/",
-      "Name": "Trolls.2016.720p.BluRay.x264-SPARKS.mkv",
-      "Url": "https://www.fshare.vn/file/CFUQTPRFI1CCDMQ",
-      "Size": "2.6 GB",
-      "FileSize": 2821124704
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wc1JxADaBLuWhySkaawCBTpixCo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wc1JxADaBLuWhySkaawCBTpixCo.jpg",
+      "Name": "Trolls"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rsqgeBVoirEmlHpNsLr00u5sctk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rsqgeBVoirEmlHpNsLr00u5sctk.jpg",
+      "Name": "Trolls"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tUcT99fDJFlGgteFhBqntQt0YD6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tUcT99fDJFlGgteFhBqntQt0YD6.jpg",
+      "Name": "Trolls"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bxPZ5QeiOff4MydyVeb5QgUIUGQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bxPZ5QeiOff4MydyVeb5QgUIUGQ.jpg",
+      "Name": "Trolls"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rB3KypGzn0A1Dvh3pTnAgdK9pIQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rB3KypGzn0A1Dvh3pTnAgdK9pIQ.jpg",
+      "Name": "Trolls"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iBhWnH5e8ELdzv82wHXBu4mvFNU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iBhWnH5e8ELdzv82wHXBu4mvFNU.jpg",
+      "Name": "Trolls"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/q1f22iXa42mSgcKsQZlHN3pPzE6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/q1f22iXa42mSgcKsQZlHN3pPzE6.jpg",
+      "Name": "Trolls"
+    }
+  ],
+  "Links": [],
+  "Intro": "Lovable and friendly, the trolls love to play around. But one day, a mysterious giant shows up to end the party. Poppy, the optimistic leader of the Trolls, and her polar opposite, Branch, must embark on an adventure that takes them far beyond the only world they’ve ever known.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/02/lFjlRJ35j63EuWimj67vqCYzHqY-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/tDnRVKPjj8k?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/trolls/",
+  "Name": "Trolls"
 }

@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9R9Qxui4KDXLB1Ba3sDinLB8Epw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9R9Qxui4KDXLB1Ba3sDinLB8Epw.jpg ",
+      "Name": "Vô Gian Đạo 3 - Infernal Affairs III"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8kShCWwWyxX47b9PTvtfFs8DO4J.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8kShCWwWyxX47b9PTvtfFs8DO4J.jpg ",
+      "Name": "Vô Gian Đạo 3 - Infernal Affairs III"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phần II của Vô Gian Đạo lại đưa người xem ngược về thời điểm trước phần đầu. Nghê Khôn, trùm xã hội đen bị sát hại. Nghê Vĩnh Hiếu, đứa con trai, lên kế vị và phát hiện ra viên cảnh sát trẻ Trần Vĩnh Nhân là con trai riêng của cha mình. Vĩnh Nhân bị đuổi khỏi sở cảnh sát.Đội trưởng Huỳnh nhận Nhân làm tay trong để điều tra về gia đình của Nghê Vĩnh Hiếu. Nhưng Vĩnh Hiếu rất cao tay, đã tìm ra được bằng chứng cho thấy chính Huỳnh cấu kết với mary, vợ của hán Thẩm, đã sai người giết cha hắn. Nghê Vĩnh Hiếu cho đàn em báo thù, nhưng Huỳnh và Hán Thẩm thoát chết&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/d3h0rOUGTigHBcdOMUGKFSDlgPo-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/infernal-affairs-iii/",
+  "Name": "Vô Gian Đạo 3"
+}

@@ -1,0 +1,67 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nKMeTdm72LQ756Eq20uTjF1zDXu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nKMeTdm72LQ756Eq20uTjF1zDXu.jpg ",
+      "Name": "Alpha: Người thủ lĩnh - Alpha"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hBkPmNA04BYggZQqzzvVEBVnj9m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hBkPmNA04BYggZQqzzvVEBVnj9m.jpg ",
+      "Name": "Alpha: Người thủ lĩnh - Alpha"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uiKHSqkc0wqWkvXLzgq453K6G9R.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uiKHSqkc0wqWkvXLzgq453K6G9R.jpg ",
+      "Name": "Alpha: Người thủ lĩnh - Alpha"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/efh8czbTqrz9St2bnNL8lit2klF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/efh8czbTqrz9St2bnNL8lit2klF.jpg ",
+      "Name": "Alpha: Người thủ lĩnh - Alpha"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/512Yum7PAVyhxH1sxEE0ciYyuIm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/512Yum7PAVyhxH1sxEE0ciYyuIm.jpg ",
+      "Name": "Alpha: Người thủ lĩnh - Alpha"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jlGyMonUcxXoTxOOy9XkEQf9xJW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jlGyMonUcxXoTxOOy9XkEQf9xJW.jpg ",
+      "Name": "Alpha: Người thủ lĩnh - Alpha"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wXx9mlHdh26w9grPgmn1U7RE6iC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wXx9mlHdh26w9grPgmn1U7RE6iC.jpg ",
+      "Name": "Alpha: Người thủ lĩnh - Alpha"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z9MKqw77k4wqdm3UESvb7RdjDy8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z9MKqw77k4wqdm3UESvb7RdjDy8.jpg ",
+      "Name": "Alpha: Người thủ lĩnh - Alpha"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ho7FURlRALZUIgMnoVb1yAOxE2u.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ho7FURlRALZUIgMnoVb1yAOxE2u.jpg ",
+      "Name": "Alpha: Người thủ lĩnh - Alpha"
+    }
+  ],
+  "Links": [],
+  "Intro": "Alpha: Người Thủ Lĩnh lấy bối cảnh 20.000 năm trước, theo chân cậu bé tiền sử Keda, con trai tộc trưởng một bộ lạc, trong một lần đi săn thú lớn (săn bò rừng cổ đại) để có cái ăn cho bộ tộc, chàng trai trẻ đã bị con bò mộng đầu đàn húc rơi xuống vách đá.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/10/afdZAIcAQscziqVtsEoh2PwsYTW-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/uIxnTi4GmCo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/alpha/",
+  "Name": "Alpha: Người thủ lĩnh"
+}

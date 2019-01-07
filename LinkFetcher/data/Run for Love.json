@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jxtJPpi5Tx7HQ29fUnFUYtO18MM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jxtJPpi5Tx7HQ29fUnFUYtO18MM.jpg",
+      "Name": "Run for Love"
+    }
+  ],
+  "Links": [],
+  "Intro": "Run for Love is a Chinese romance anthology film featuring five love stories respectively in Japan, United States, Norway, Turkey and Saipan.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/783qntBhV56mBjn4YtgdDdTnMNP-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/run-for-love/",
+  "Name": "Run for Love"
+}

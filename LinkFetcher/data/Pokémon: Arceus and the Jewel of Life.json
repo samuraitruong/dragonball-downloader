@@ -1,14 +1,41 @@
 {
   "Id": "movVhmXch39057",
-  "Url": "https://fsharephim.com/movies/pokemon-arceus-and-the-jewel-of-life/",
-  "Name": "Pokémon: Arceus and the Jewel of Life",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tffggwYL09kJgOt0q4H2pmQlCD9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tffggwYL09kJgOt0q4H2pmQlCD9.jpg",
+      "Name": "Pokémon: Arceus and the Jewel of Life"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rt2LwChNUCNkez8Xk0Ik0SlM6mL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rt2LwChNUCNkez8Xk0Ik0SlM6mL.jpg",
+      "Name": "Pokémon: Arceus and the Jewel of Life"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movvhmxch39057/",
-      "Name": "2009.Pokemon.Arceus.and.the.Jewel.of.Life.Bluray.VIE.1080p.AVC.DD.2.0.mkv",
-      "Url": "https://www.fshare.vn/file/DDI64PZIDZO4",
       "Size": "18.76 GB",
-      "FileSize": 20146747251
+      "FileSize": 20146747251,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/DDI64PZIDZO4",
+      "Name": "2009.Pokemon.Arceus.and.the.Jewel.of.Life.Bluray.VIE.1080p.AVC.DD.2.0.mkv"
     }
-  ]
+  ],
+  "Intro": "The Struggle for Time and Space Begins Again&#8230;! The legendary Arceus. Long ago Arceus granted a fragment of its awesome power as the Jewel of Life to help Michina in the town&#8217;s hour of need only to be betrayed when it was time for that power to be returned. After so many years Arceus is about to return to reclaim its power &#8211; enraged vengeful and seemingly unstoppable. Not even the combined might of Dialga, Palkia and Giratina can stop Arceus from devastating all existence across multiple dimensions. But Ash and his companions joining forces with their new friend Sheena, may have discovered the only way to redeem that ancient betrayal. Their journey will be both dangerous and uncertain: even if Ash and his friends can set an old wrong right again will there be time to return the Jewel of Life before Arceus destroys everything and everyone they&#8217;ve ever known?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/hgQdf6GYu3k6QeQ83wLVTBcqEca-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/YWqh0EL6fqg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/pokemon-arceus-and-the-jewel-of-life/",
+  "Name": "Pokémon: Arceus and the Jewel of Life"
 }

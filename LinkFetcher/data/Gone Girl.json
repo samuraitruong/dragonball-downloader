@@ -1,0 +1,71 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bt6DhdALyhf90gReozoQ0y3R3vZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bt6DhdALyhf90gReozoQ0y3R3vZ.jpg ",
+      "Name": "Gone Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5LjgYSfVETY2rp00iMGurWc3SVF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5LjgYSfVETY2rp00iMGurWc3SVF.jpg ",
+      "Name": "Gone Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8ZNGBfGoN3uI5Akj5vEUDMxvmGO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8ZNGBfGoN3uI5Akj5vEUDMxvmGO.jpg ",
+      "Name": "Gone Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/EERN21DE8szQKp5r4xrDhABQYU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/EERN21DE8szQKp5r4xrDhABQYU.jpg ",
+      "Name": "Gone Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rNStMPL3hufPupgDb4KB6L9IM70.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rNStMPL3hufPupgDb4KB6L9IM70.jpg ",
+      "Name": "Gone Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dJS0SZQC84zP2KVGzoJ3ON1vzuy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dJS0SZQC84zP2KVGzoJ3ON1vzuy.jpg ",
+      "Name": "Gone Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kUNKWuF50F1iyfCT8UpwwnY9dT0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kUNKWuF50F1iyfCT8UpwwnY9dT0.jpg ",
+      "Name": "Gone Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yLCM0HsRQs0btODlfSf7ZnOEXQb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yLCM0HsRQs0btODlfSf7ZnOEXQb.jpg ",
+      "Name": "Gone Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/de9lN0nSBCLuEDCkmuMC77PjbDI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/de9lN0nSBCLuEDCkmuMC77PjbDI.jpg ",
+      "Name": "Gone Girl"
+    }
+  ],
+  "Links": [],
+  "Intro": "With his wife&#8217;s disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it&#8217;s suspected that he may not be innocent.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/02/gdiLTof3rbPDAmPaCf4g6op46bj-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/2-_-1nJf8Vg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/gone-girl/",
+  "Name": "Gone Girl"
+}

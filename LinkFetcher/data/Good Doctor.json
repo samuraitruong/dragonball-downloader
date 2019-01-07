@@ -1,0 +1,551 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gDC5hUynGvBHXnmiCzVJlWfsSlP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gDC5hUynGvBHXnmiCzVJlWfsSlP.jpg",
+      "Name": "Good Doctor"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x16/",
+      "Name": "Episode 16"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x17/",
+      "Name": "Episode 17"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x18/",
+      "Name": "Episode 18"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x19/",
+      "Name": "Episode 19"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/good-doctor-1x20/",
+      "Name": "Episode 20"
+    }
+  ],
+  "Intro": "As a child, Park Shi On was sent to a specialized care center, where he discovered genius capacities for his autism. Coupled with an exceptional memory and keen spatial skills, the young savant eventually entered pediatric residency, where he developed into a promising surgeon. However, his mental and emotional development seems to have stopped at 10-years-old, which makes for incredible conflicts in and out of the O.R., especially with the hotheaded surgeon Kim Do Han. Despite warm hearted and fair colleagues like Cha Yoon Seo and Han Jin Wook , it’s a fierce and competitive adult world. One cannot simply tell Shi On to “grow up.”",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/2zynZZppaoExLJOqDAGol92DQ6x-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/LdNaQayNRTs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/akrvuIt2rN9yy82YdfxP0rGEgXS.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/akrvuIt2rN9yy82YdfxP0rGEgXS.jpg",
+              "Name": "Good Doctor 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": "Director Choi puts his job on the line in order to gain Sung Won Hospital&#8217;s trust in hiring Park Shi On, an autistic savant, as their next doctor.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x1/",
+          "Name": "Good Doctor 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8wjTHBfJFpkcAw53LrJClzqzbh0.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8wjTHBfJFpkcAw53LrJClzqzbh0.jpg",
+              "Name": "Good Doctor 1&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": "After Shi On successfully assists with a surgery, the Pediatrics Department is in high spirits until an expecting mother is forced to put her baby up for adoption by her cruel mother-in-law.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x10/",
+          "Name": "Good Doctor 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/cTKxGC0Yu2VydBkQpTXFqAcvpWw.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/cTKxGC0Yu2VydBkQpTXFqAcvpWw.jpg",
+              "Name": "Good Doctor 1&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": "Do Han gives Shi On a special assignment in order to challenge him, but Shi On is too distracted by his feelings for Yoon Seo.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x11/",
+          "Name": "Good Doctor 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hcL0fKswMTRqvfldjQzEHk6PGzo.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hcL0fKswMTRqvfldjQzEHk6PGzo.jpg",
+              "Name": "Good Doctor 1&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": "Do Han continues to push Shi On in order to get over his psychological trauma, but a surprise visitor may do just the opposite.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x12/",
+          "Name": "Good Doctor 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/roTIoQQxnVlGSTkv2999xPTc08W.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/roTIoQQxnVlGSTkv2999xPTc08W.jpg",
+              "Name": "Good Doctor 1&#215;13"
+            }
+          ],
+          "Links": [],
+          "Intro": "The return of Shi On&#8217;s father brings back a tremendous amount of psychological trauma, causing an interruption in Shi On&#8217;s abilities.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x13/",
+          "Name": "Good Doctor 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1qu94CpZE2Ihz1J340W04BknoQG.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1qu94CpZE2Ihz1J340W04BknoQG.jpg",
+              "Name": "Good Doctor 1&#215;14"
+            }
+          ],
+          "Links": [],
+          "Intro": "When no other surgeons are available, Shi On must try to overcome his trauma in order to save a patient&#8217;s life. Meanwhile, Yoon Seo begins to distance herself from Shi On.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x14/",
+          "Name": "Good Doctor 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/vuNTovj5yd8wBAGT0ELh2czoYnp.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/vuNTovj5yd8wBAGT0ELh2czoYnp.jpg",
+              "Name": "Good Doctor 1&#215;15"
+            }
+          ],
+          "Links": [],
+          "Intro": "A child is rushed to Sung Won Hospital&#8217;s Pediatric Surgery Department when she&#8217;s stabbed by a random stranger. Chae Kyung begins to regret her recent actions.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x15/",
+          "Name": "Good Doctor 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/uvntaSaocoxpsdQX0tltiCQKFxv.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/uvntaSaocoxpsdQX0tltiCQKFxv.jpg",
+              "Name": "Good Doctor 1&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": "Do Han is injured while trying to save a patient from a murderer. Vice President Kang is in a bind when Boston Hospital refuses to perform a high risk surgery on his son.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x16/",
+          "Name": "Good Doctor 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tTsRopYRIp4WuiUhN38m2EPxfnP.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tTsRopYRIp4WuiUhN38m2EPxfnP.jpg",
+              "Name": "Good Doctor 1&#215;17"
+            }
+          ],
+          "Links": [],
+          "Intro": "When In Hye undergoes septic shock, her near-death experience gives her a new perspective on things. Another person from Shi On&#8217;s past makes an appearance.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x17/",
+          "Name": "Good Doctor 1x17"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kpTht8p5Mn7PZDvWNTiUS4N5EZY.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kpTht8p5Mn7PZDvWNTiUS4N5EZY.jpg",
+              "Name": "Good Doctor 1&#215;18"
+            }
+          ],
+          "Links": [],
+          "Intro": "Do Han&#8217;s negligence for his wound almost puts a patient in danger. Meanwhile, the staff prepares their annual skit for the children in the Pediatrics Ward.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x18/",
+          "Name": "Good Doctor 1x18"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hh9RuPlKM0UveNXjGGcPPClSLT4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hh9RuPlKM0UveNXjGGcPPClSLT4.jpg",
+              "Name": "Good Doctor 1&#215;19"
+            }
+          ],
+          "Links": [],
+          "Intro": "Shi On is worried about Yoon Seo when news of them dating spreads throughout the hospital. In Hye&#8217;s surgery date finally approaches.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x19/",
+          "Name": "Good Doctor 1x19"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7zoSWQIZB4BGQVAf3HR0sm5FL3t.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7zoSWQIZB4BGQVAf3HR0sm5FL3t.jpg",
+              "Name": "Good Doctor 1&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": "When a child patient suffers from a poorly executed surgery, Shi On takes matters into his own hands, causing trouble for Do Han.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x2/",
+          "Name": "Good Doctor 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/z1wQ1qr9ReJ2NoE2DZOHqI393pe.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/z1wQ1qr9ReJ2NoE2DZOHqI393pe.jpg",
+              "Name": "Good Doctor 1&#215;20"
+            }
+          ],
+          "Links": [],
+          "Intro": "The doctors all feel helpless when complications arise after In Hye&#8217;s surgery. Shi On and Yoon Seo must overcome the prejudice surrounding them.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x20/",
+          "Name": "Good Doctor 1x20"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nIyqoXenz6qIfyVqiI8FJGV74Eo.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nIyqoXenz6qIfyVqiI8FJGV74Eo.jpg",
+              "Name": "Good Doctor 1&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": "The life of a premature baby is in the balance when Shi On volunteers Do Han to perform a very risky surgery.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x3/",
+          "Name": "Good Doctor 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8T4lSDKrgkxNdZuzqhYNmzEuUQa.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8T4lSDKrgkxNdZuzqhYNmzEuUQa.jpg",
+              "Name": "Good Doctor 1&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": "The parents of the children in the Pediatric Ward feel uneasy with Shi On as their assigned doctor when despite his vast medical knowledge, he continually fails to interact with the patients properly.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x4/",
+          "Name": "Good Doctor 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/akOX4dsAnB5zA8kw1TWarJ1ZbG5.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/akOX4dsAnB5zA8kw1TWarJ1ZbG5.jpg",
+              "Name": "Good Doctor 1&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": "The death of a patient takes its toll on Yoon Seo and has Shi On and some of the patients questioning the existence of heaven.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x5/",
+          "Name": "Good Doctor 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qh0tSM7HLeYWbp8eAy7GNI1rX67.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qh0tSM7HLeYWbp8eAy7GNI1rX67.jpg",
+              "Name": "Good Doctor 1&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": "When a severly troubled child is admitted into the pediatric ward, Shi On is determined to help her. Meanwhile, Manager Ko sees this as another opportunity to get rid of Shi On and Director Choi.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x6/",
+          "Name": "Good Doctor 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bV7H9g0cuYn1RD54bknZgoLMzU4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bV7H9g0cuYn1RD54bknZgoLMzU4.jpg",
+              "Name": "Good Doctor 1&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": "When Shi On is forced to take responsibility for Eun Ok&#8217;s rampage, Yoon Seo has a hard time accepting his dismissal.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x7/",
+          "Name": "Good Doctor 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hsrZfG49o4XbmhRB8vWPmdsPEbH.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hsrZfG49o4XbmhRB8vWPmdsPEbH.jpg",
+              "Name": "Good Doctor 1&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": "When Shi On returns the Pediatrics Surgery Department, a child star is admitted and diagnosed with a condition that may ruin his future in singing.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x8/",
+          "Name": "Good Doctor 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kkCwejxduB3fRk6nfz44yUc8oMI.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kkCwejxduB3fRk6nfz44yUc8oMI.jpg",
+              "Name": "Good Doctor 1&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": "When Kim Do Han is adamant about transferring Shi On to another department, Shi On is determined to prove himself and hang on to his dream.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/good-doctor-1x9/",
+          "Name": "Good Doctor 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Aug. 05, 2013"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/good-doctor/",
+  "Name": "Good Doctor"
+}

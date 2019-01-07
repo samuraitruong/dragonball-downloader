@@ -1,0 +1,33 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mJH4yvDnaxZycNfYy4lBwXRhoeY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mJH4yvDnaxZycNfYy4lBwXRhoeY.jpg",
+      "Name": "Forever My Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tUJTaWlDbdC5kTov5zFVCWfCzGO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tUJTaWlDbdC5kTov5zFVCWfCzGO.jpg",
+      "Name": "Forever My Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3D4sRtzvLMcDPoygyUz2MQfVRwk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3D4sRtzvLMcDPoygyUz2MQfVRwk.jpg",
+      "Name": "Forever My Girl"
+    }
+  ],
+  "Links": [],
+  "Intro": "After being gone for a decade, a country star returns home to the love he left behind.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/hcushpAgo51nTpBAuTygLxiJ80h-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/IpjApG307D8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/forever-my-girl/",
+  "Name": "Forever My Girl"
+}

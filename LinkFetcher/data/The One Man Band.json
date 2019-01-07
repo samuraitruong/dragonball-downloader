@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/esnBlwYD7gOLhGRkjdDPLTUI8ex.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/esnBlwYD7gOLhGRkjdDPLTUI8ex.jpg ",
+      "Name": "The One Man Band"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/diaBPzaeBZi0acdVXLUE4BjT2Hy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/diaBPzaeBZi0acdVXLUE4BjT2Hy.jpg ",
+      "Name": "The One Man Band"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vKI4D3xY4Ar97G5Iky0u9QIYjnE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vKI4D3xY4Ar97G5Iky0u9QIYjnE.jpg ",
+      "Name": "The One Man Band"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mivP5OaA4BdNVSjpOLgyIviXA8W.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mivP5OaA4BdNVSjpOLgyIviXA8W.jpg ",
+      "Name": "The One Man Band"
+    }
+  ],
+  "Links": [],
+  "Intro": "Evan Evans, the director of a ballet troupe, is rehearsing his next show in Monaco, in preparation for a worldwide tour. When one member of his troupe leaves to get married, Evans imposes a regime of strict discipline on his remaining dancers. The latter get their revenge by presenting Evans’ nephew Philippe, the only male member of the group, with a baby and a note claiming he is the father…",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/jpuO2RndwkuQgFyKQKrnrYBA9mY-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/jyWDzWrtWVY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-one-man-band/",
+  "Name": "The One Man Band"
+}

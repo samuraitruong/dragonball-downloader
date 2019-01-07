@@ -1,0 +1,47 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4CpUU8LPGjsmq6lulAjbWdH1ed8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4CpUU8LPGjsmq6lulAjbWdH1ed8.jpg ",
+      "Name": "Last Flag Flying"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xHPH0QvysNtrJA3HkFI0rtOKYm1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xHPH0QvysNtrJA3HkFI0rtOKYm1.jpg ",
+      "Name": "Last Flag Flying"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9vnZXy0bSyI1XMHsX5HwURx2bZ6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9vnZXy0bSyI1XMHsX5HwURx2bZ6.jpg ",
+      "Name": "Last Flag Flying"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/s9kmRJfLiVoX7KuuT59t8jYasCc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/s9kmRJfLiVoX7KuuT59t8jYasCc.jpg ",
+      "Name": "Last Flag Flying"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z9aj9GVVZK11RYo0fwbzkFfTVRl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z9aj9GVVZK11RYo0fwbzkFfTVRl.jpg ",
+      "Name": "Last Flag Flying"
+    }
+  ],
+  "Links": [],
+  "Intro": "Thirty years after serving together in the Vietnam War, Larry &#8220;Doc&#8221; Shepherd, Sal Nealon and the Rev. Richard Mueller reunite for a different type of mission: to bury Doc&#8217;s son, a young Marine killed in Iraq. Forgoing burial at Arlington National Cemetery, Doc and his old buddies take the casket on a bittersweet trip up the coast to New Hampshire. Along the way, the three men find themselves reminiscing and coming to terms with the shared memories of a war that continues to shape their lives.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/pizynKUzJ9YucGff1O1MYisY1WM-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/VmS4lTZ34uk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/last-flag-flying/",
+  "Name": "Last Flag Flying"
+}

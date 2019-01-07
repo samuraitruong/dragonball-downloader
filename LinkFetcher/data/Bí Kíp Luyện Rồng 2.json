@@ -1,14 +1,88 @@
 {
-  "Id": "movmpmYOf82702",
-  "Url": "https://fsharephim.com/movies/how-to-train-your-dragon-2/",
-  "Name": "Bí Kíp Luyện Rồng 2",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movmpmyof82702/",
-      "Name": "How.to.Train.Your.Dragon.2.2014.LT.mkv",
-      "Url": "https://www.fshare.vn/file/BJHK5PUTD3ZI",
-      "Size": "2.25 GB",
-      "FileSize": 2414767331
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cHTJxPcq3hlshzOgHDRMCF8Wb9K.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cHTJxPcq3hlshzOgHDRMCF8Wb9K.jpg ",
+      "Name": "Bí Kíp Luyện Rồng 2 - How to Train Your Dragon 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mrxKRSlf0iY0T2BLKpSSmu86X9t.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mrxKRSlf0iY0T2BLKpSSmu86X9t.jpg ",
+      "Name": "Bí Kíp Luyện Rồng 2 - How to Train Your Dragon 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kxMnGToxk5EtDhTBuz3kkZPzg1b.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kxMnGToxk5EtDhTBuz3kkZPzg1b.jpg ",
+      "Name": "Bí Kíp Luyện Rồng 2 - How to Train Your Dragon 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2s1aTIr23r3lfR8t2Wa56lp5ahk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2s1aTIr23r3lfR8t2Wa56lp5ahk.jpg ",
+      "Name": "Bí Kíp Luyện Rồng 2 - How to Train Your Dragon 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/73wXxx5CWhIF0LWzWBEAZhsRFY0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/73wXxx5CWhIF0LWzWBEAZhsRFY0.jpg ",
+      "Name": "Bí Kíp Luyện Rồng 2 - How to Train Your Dragon 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dX4fMNVEVDYpzcdeVVoc1Z7bw1c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dX4fMNVEVDYpzcdeVVoc1Z7bw1c.jpg ",
+      "Name": "Bí Kíp Luyện Rồng 2 - How to Train Your Dragon 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9q0HTEzChHgUqVzNnVJGU5O7tlM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9q0HTEzChHgUqVzNnVJGU5O7tlM.jpg ",
+      "Name": "Bí Kíp Luyện Rồng 2 - How to Train Your Dragon 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2lH264spXRH7ndxsyFJ6EAcLXXF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2lH264spXRH7ndxsyFJ6EAcLXXF.jpg ",
+      "Name": "Bí Kíp Luyện Rồng 2 - How to Train Your Dragon 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ma7UNmbql61EgotPvN707a3ZUtP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ma7UNmbql61EgotPvN707a3ZUtP.jpg ",
+      "Name": "Bí Kíp Luyện Rồng 2 - How to Train Your Dragon 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iP5XigFKftshk7SlHEuuWnZ37jm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iP5XigFKftshk7SlHEuuWnZ37jm.jpg ",
+      "Name": "Bí Kíp Luyện Rồng 2 - How to Train Your Dragon 2"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bí Kíp Luyện Rồng 2 &#8211; How To Train Your Dragon 2 là phần thứ hai ly kỳ của bộ ba tác phẩm sử thi, bộ phim tái hiện lại lại thế giới giả tưởng của Hiccup (Baruchel) và Toothless (Răng Sún) năm năm sau đó. Toothless (Răng Sún) và Hiccup sẽ trở lại cho cuộc phiêu lưu lớn hơn, và cũng không thiếu những tràn cười cùng những trận đánh đầy kịch tính. Cuộc phiêu lưu mới dẫn họ đến việc phát hiện ra một hang đá bí mật mà ở đó có hàng trăm con rồng hoang dã mới và bí ẩn Dragon Rider. Và rồi họ bị cuốn vào một cuộc chiến để bảo vệ hòa bình. Hiccup (Baruchel) và Toothless (Răng Sún) phải đoàn kết đứng lên cho những gì họ tin tưởng và phải thừa nhận rằng chỉ có cùng nhau họ có sức mạnh để thay đổi tương lai của cả hai.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/lRjOR4uclMQijUav4OjeZprlehu-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/68AqHwgk2s8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/how-to-train-your-dragon-2/",
+  "Name": "Bí Kíp Luyện Rồng 2"
 }

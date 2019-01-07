@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ngoai-quoc/",
+      "Name": "Ngoại Quốc"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nrcT23gp56ZdE45PBhpNxRwzzVu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nrcT23gp56ZdE45PBhpNxRwzzVu.jpg",
+      "Name": "Marriage Is A Crazy Thing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6vtcEsGwiSMHonX5B5n4BPIfOQN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6vtcEsGwiSMHonX5B5n4BPIfOQN.jpg",
+      "Name": "Marriage Is A Crazy Thing"
+    }
+  ],
+  "Links": [],
+  "Intro": "Jun-young (Kam Woo-seong) is a man in his early thirties who has seen his friends and younger brother get married but has yet to open himself to a serious relationship. Rather he is happy floating through life with little direction or ambition. Yeon-hee (Eom Jeong-hwa) is girl approaching thirty who is desperate to find a suitable husband, but is looking for a match based on social and economic suitability rather than love. They meet on a blind date and quickly find that they are incompatible intellectually, but have an instant physical and emotional connection. Both are extremely practically minded, and as such decide to explore each other by starting a casual physical relationship, while she continues looking for more suitable husband and he avoids commitment.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/oSSoRWW6S8EKWlmktfyEK4Dauzz-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/marriage-is-a-crazy-thing/",
+  "Name": "Marriage Is A Crazy Thing"
+}

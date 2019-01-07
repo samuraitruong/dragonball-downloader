@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/djrr3n1XTnVNf6F3ZqvTtYWXgjm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/djrr3n1XTnVNf6F3ZqvTtYWXgjm.jpg",
+      "Name": "Journey to the Center of the Earth"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gymDQSZxzq4VpKkrslrlM2fx4qH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gymDQSZxzq4VpKkrslrlM2fx4qH.jpg",
+      "Name": "Journey to the Center of the Earth"
+    }
+  ],
+  "Links": [],
+  "Intro": "An Edinburgh professor and assorted colleagues follow an explorer&#8217;s trail down an extinct Icelandic volcano to the earth&#8217;s center.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/4rSP91Gonskgq29AuJ1Xn3RIQAK-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ld5RyBXiROY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/journey-to-the-center-of-the-earth/",
+  "Name": "Journey to the Center of the Earth"
+}

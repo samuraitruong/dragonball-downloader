@@ -1,0 +1,461 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao-khoa-hoc/",
+      "Name": "Kỳ Ảo Khoa Học"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/acfB2tLw0F2NUwvY1XQoCaNTRgR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/acfB2tLw0F2NUwvY1XQoCaNTRgR.jpg",
+      "Name": "The New Legends of Monkey"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x10/",
+      "Name": "Episode 10"
+    }
+  ],
+  "Intro": "Follow a teenage girl and a trio of fallen gods on a perilous journey as they attempt to bring an end to a demonic reign of chaos and restore balance to their world. Inspired by the 16th Century Chinese fable “Journey to the West.”",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/32b525534a6c78aaddf0c10a7ed71579.jpg",
+  "Trailer": "https://www.youtube.com/embed/HNKEpjOdDK0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": "tvkzjk3r1425151",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/sYFEIy2U3b6OG9nsAmxLHdxrlH2.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/sYFEIy2U3b6OG9nsAmxLHdxrlH2.jpg",
+              "Name": "The New Legends of Monkey 1&#215;1"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425151/",
+              "Size": "215.03 MB",
+              "FileSize": 225476799,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/P2W2AZV5R7GC22R",
+              "Name": "The.New.Legends.of.Monkey.S01E01.AUBC.WEB-DL.264-ROYALTIES.mp4"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425151-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/the-new-legends-of-monkey/vietnamese/1710035",
+              "Name": "Viet - Subtitle"
+            }
+          ],
+          "Intro": "A girl uncovers a statue of the legendary Monkey King, but in order to release this ancient God from his stone prison she must first find his golden crown, a crown that has fallen into the hands of Demons.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x1/",
+          "Name": "The New Legends of Monkey 1x1"
+        },
+        {
+          "Id": "tvkzjk3r1425160",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kAR0qz1It47UZu3jgOP6QXb48JC.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kAR0qz1It47UZu3jgOP6QXb48JC.jpg",
+              "Name": "The New Legends of Monkey 1&#215;10"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425160/",
+              "Size": "207.54 MB",
+              "FileSize": 217617542,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/BEQBZSPW6TBV5UH",
+              "Name": "The.New.Legends.of.Monkey.S01E10.AUBC.WEB-DL.264-ROYALTIES.mp4"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425160-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/the-new-legends-of-monkey/vietnamese",
+              "Name": "Subtitle"
+            }
+          ],
+          "Intro": "While Monkey and Pigsy smuggle themselves into Davari&#8217;s banquet, Tripitaka must work out the means of controlling the secret army of the Font Demons before Davari can reveal the extent of his new powers.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x10/",
+          "Name": "The New Legends of Monkey 1x10"
+        },
+        {
+          "Id": "tvkzjk3r1425152",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/dX16P6VnPLogSrhfAQJ7gyXGXd1.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/dX16P6VnPLogSrhfAQJ7gyXGXd1.jpg",
+              "Name": "The New Legends of Monkey 1&#215;2"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425152/",
+              "Size": "189.43 MB",
+              "FileSize": 198636122,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/FKCNZQEKCO7MA81",
+              "Name": "The.New.Legends.of.Monkey.S01E02.AUBC.WEB-DL.264-ROYALTIES.mp4"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425152-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/the-new-legends-of-monkey/vietnamese",
+              "Name": "Subtitle"
+            }
+          ],
+          "Intro": "Having released the Monkey King, Tripitaka is shocked to find him indifferent to the Scholar&#8217;s mission. Struggling to keep him on side, and still being pursued by Demons, she finds help in the unlikeliest of places.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x2/",
+          "Name": "The New Legends of Monkey 1x2"
+        },
+        {
+          "Id": "tvkzjk3r1425153",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kB4LBBfxNEcNApaVrQbyAVtORa0.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kB4LBBfxNEcNApaVrQbyAVtORa0.jpg",
+              "Name": "The New Legends of Monkey 1&#215;3"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425153/",
+              "Size": "221.05 MB",
+              "FileSize": 231785808,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/6HONXG8HFEGVPO1",
+              "Name": "The.New.Legends.of.Monkey.S01E03.AUBC.WEB-DL.264-ROYALTIES.mp4"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425153-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/the-new-legends-of-monkey/vietnamese",
+              "Name": "Subtitle"
+            }
+          ],
+          "Intro": "When Monkey and Sandy find themselves prisoners to Princess Locke, an escaped Tripitaka must convince Pigsy to abandon his mistress and help her rescue the two Gods.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x3/",
+          "Name": "The New Legends of Monkey 1x3"
+        },
+        {
+          "Id": "tvkzjk3r1425154",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/w1YhYylgGShi0w8psquqQl1GUbH.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/w1YhYylgGShi0w8psquqQl1GUbH.jpg",
+              "Name": "The New Legends of Monkey 1&#215;4"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425154/",
+              "Size": "246.65 MB",
+              "FileSize": 258630146,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/UUIOKKWHIQYA97Y",
+              "Name": "The.New.Legends.of.Monkey.S01E04.AUBC.WEB-DL.264-ROYALTIES.mp4"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425154-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/the-new-legends-of-monkey/vietnamese",
+              "Name": "Subtitle"
+            }
+          ],
+          "Intro": "As the heroes set off to the Western Mountains they are intercepted by a gang of rebel bandits, who worship the legend of the Monkey King. When the leader discovers Tripitaka can control the crown he plans to capture Monkey.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x4/",
+          "Name": "The New Legends of Monkey 1x4"
+        },
+        {
+          "Id": "tvkzjk3r1425155",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/pjS9MbwyegaqxZ6pncjq1hesZfE.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/pjS9MbwyegaqxZ6pncjq1hesZfE.jpg",
+              "Name": "The New Legends of Monkey 1&#215;5"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425155/",
+              "Size": "210.83 MB",
+              "FileSize": 221070293,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/XJL28OH2KHD7L5N",
+              "Name": "The.New.Legends.of.Monkey.S01E05.AUBC.WEB-DL.264-ROYALTIES.mp4"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425155-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/the-new-legends-of-monkey/vietnamese",
+              "Name": "Subtitle"
+            }
+          ],
+          "Intro": "Monkey, Pigsy and Sandy are glamoured by a mystical shamanic Demon and taken to a strange prison called the Breaking Ground.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x5/",
+          "Name": "The New Legends of Monkey 1x5"
+        },
+        {
+          "Id": "tvkzjk3r1425156",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8T4HKHgoxUQKJ16UQeZs1ryG4Im.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8T4HKHgoxUQKJ16UQeZs1ryG4Im.jpg",
+              "Name": "The New Legends of Monkey 1&#215;6"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425156/",
+              "Size": "197.48 MB",
+              "FileSize": 207077529,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/JIOJHGIZ5EDELHF",
+              "Name": "The.New.Legends.of.Monkey.S01E06.AUBC.WEB-DL.264-ROYALTIES.mp4"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425156-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/the-new-legends-of-monkey/vietnamese",
+              "Name": "Subtitle"
+            }
+          ],
+          "Intro": "As Monkey travels further into his past Tripitaka must act quickly before he is lost forever. Using the sutra, she is able to find a way to go after Monkey, and in doing so unravels the mystery of his imprisonment.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x6/",
+          "Name": "The New Legends of Monkey 1x6"
+        },
+        {
+          "Id": "tvkzjk3r1425157",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4QgECLDAMHdm0PK4fxW3rVdzRe7.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4QgECLDAMHdm0PK4fxW3rVdzRe7.jpg",
+              "Name": "The New Legends of Monkey 1&#215;7"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425157/",
+              "Size": "232.18 MB",
+              "FileSize": 243457407,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/DB5JXWE1MRQ42OZ",
+              "Name": "The.New.Legends.of.Monkey.S01E07.AUBC.WEB-DL.264-ROYALTIES.mp4"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425157-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/the-new-legends-of-monkey/vietnamese",
+              "Name": "Subtitle"
+            }
+          ],
+          "Intro": "As Tripitaka, Monkey, Pigsy and Sandy flee from the Shaman and his Demonic henchman, they seek shelter in a sprawling forest.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x7/",
+          "Name": "The New Legends of Monkey 1x7"
+        },
+        {
+          "Id": "tvkzjk3r1425158",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qeW1N0taF1kCCBHQ2FRTWVrqTlg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qeW1N0taF1kCCBHQ2FRTWVrqTlg.jpg",
+              "Name": "The New Legends of Monkey 1&#215;8"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425158/",
+              "Size": "189.12 MB",
+              "FileSize": 198303519,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/LSUM97VJT78AF3V",
+              "Name": "The.New.Legends.of.Monkey.S01E08.AUBC.WEB-DL.264-ROYALTIES.mp4"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425158-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/the-new-legends-of-monkey/vietnamese",
+              "Name": "Subtitle"
+            }
+          ],
+          "Intro": "Tripitaka leaves the quest to go in search of her mother, but Sandy won&#8217;t let her travel alone, and the two journey to the North Water.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x8/",
+          "Name": "The New Legends of Monkey 1x8"
+        },
+        {
+          "Id": "tvkzjk3r1425159",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/yXitKKVfCKMTVWRlO2b5rIf3c7L.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/yXitKKVfCKMTVWRlO2b5rIf3c7L.jpg",
+              "Name": "The New Legends of Monkey 1&#215;9"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425159-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/the-new-legends-of-monkey/vietnamese",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzjk3r1425159/",
+              "Size": "180.11 MB",
+              "FileSize": 188855068,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/VJRY8147DYJGD7M",
+              "Name": "The.New.Legends.of.Monkey.S01E09.AUBC.WEB-DL.264-ROYALTIES.mp4"
+            }
+          ],
+          "Intro": "As Monkey and Pigsy hide in plain sight within the walls of Davari&#8217;s palace, Tripitaka realises why Davari is so determined to translate the Sacred Scrolls. Can she stop him completing the translation before it&#8217;s too late?",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-new-legends-of-monkey-1x9/",
+          "Name": "The New Legends of Monkey 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Jan. 28, 201810"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/the-new-legends-of-monkey/",
+  "Name": "The New Legends of Monkey"
+}

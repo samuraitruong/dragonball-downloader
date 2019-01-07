@@ -1,14 +1,45 @@
 {
-  "Id": "movUsoknc18269",
-  "Url": "https://fsharephim.com/movies/lady-and-the-tramp-ii-scamps-adventure/",
-  "Name": "Tiểu Thư Và Gã Lang Thang 2",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movusoknc18269/",
-      "Name": "Lady And The Tramp II Scamps Adventure 2001 ViE 1080p Blu-ray Remux AVC  DTS-HD MA 5.1.iso",
-      "Url": "https://www.fshare.vn/file/2X7WOH2I5VOKIL5",
-      "Size": "18.98 GB",
-      "FileSize": 20381368320
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6nZP8g5HFGckLF4e933kvszKMxC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6nZP8g5HFGckLF4e933kvszKMxC.jpg ",
+      "Name": "Tiểu Thư Và Gã Lang Thang 2 - Lady and the Tramp II: Scamp&#8217;s Adventure"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aQFKzePpd6Ve0qysJXqTxs0MpH7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aQFKzePpd6Ve0qysJXqTxs0MpH7.jpg ",
+      "Name": "Tiểu Thư Và Gã Lang Thang 2 - Lady and the Tramp II: Scamp&#8217;s Adventure"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/evi2Uzkn9d9nykf7POiogDv8BOt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/evi2Uzkn9d9nykf7POiogDv8BOt.jpg ",
+      "Name": "Tiểu Thư Và Gã Lang Thang 2 - Lady and the Tramp II: Scamp&#8217;s Adventure"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim hoạt hình Tiểu Thư Và Gã Lang Thang 2 gia đình nhà chó Lady và Tramp đã sinh được 4 chú chó con gồm 3 gái và 1 trai cùng sinh sống êm ấm tại nhà vợ chồng ông chủ của Lady. Trong phim hay này, không giống với ba chị em của mình, chú chó Scamp giống như Tramp, cậu yêu thích sự tự do và mạo hiểm. Scamp trốn khỏi nhà, cậu sống lang thang và kết thân với những chú chó vô chủ.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/bc2yxExkW5tiJf8ASkgsEYHiluy-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/lady-and-the-tramp-ii-scamps-adventure/",
+  "Name": "Tiểu Thư Và Gã Lang Thang 2"
 }

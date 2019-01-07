@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l0dvARJQ6xZeVPhxSS5EYibYGBR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l0dvARJQ6xZeVPhxSS5EYibYGBR.jpg",
+      "Name": "Wish Upon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rYpOaLb908aDspCuaa1o7nn5Bf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rYpOaLb908aDspCuaa1o7nn5Bf.jpg",
+      "Name": "Wish Upon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oGI0CBhY6ieAfvnD7vyXFpFz9kd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oGI0CBhY6ieAfvnD7vyXFpFz9kd.jpg",
+      "Name": "Wish Upon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eeu4kGYmXlLZpXyBje8b5cPQKVF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eeu4kGYmXlLZpXyBje8b5cPQKVF.jpg",
+      "Name": "Wish Upon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2Y7ZzaguGc5bvLgWN5Voo7OmAaG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2Y7ZzaguGc5bvLgWN5Voo7OmAaG.jpg",
+      "Name": "Wish Upon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rVr3oplEu8LsBL5dOjSCYXkV4gb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rVr3oplEu8LsBL5dOjSCYXkV4gb.jpg",
+      "Name": "Wish Upon"
+    }
+  ],
+  "Links": [],
+  "Intro": "A teenage girl discovers a box with magical powers, but those powers comes with a deadly price.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/u0vnocj57vJt5DHoBEqUOD1G4SU-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/2TlcxQdK0og?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/wish-upon/",
+  "Name": "Wish Upon"
+}

@@ -6,6 +6,7 @@ using RestSharp;
 
 namespace ConceptDownloader.Services
 {
+    [Service("taive.cf")]
     public class TaiVeCF: ILinkFetcherService
     {
         public TaiVeCF() 

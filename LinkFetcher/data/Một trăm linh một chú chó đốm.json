@@ -1,21 +1,97 @@
 {
   "Id": "movRXcoxo12230",
-  "Url": "https://fsharephim.com/movies/one-hundred-and-one-dalmatians/",
-  "Name": "Một trăm linh một chú chó đốm",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bk6PN9Xkqg11wQ7ZvksDrT7JYVf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bk6PN9Xkqg11wQ7ZvksDrT7JYVf.jpg",
+      "Name": "Một trăm linh một chú chó đốm - One Hundred and One Dalmatians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vHBYOUjt04iI0COvMtPAMa2pC9y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vHBYOUjt04iI0COvMtPAMa2pC9y.jpg",
+      "Name": "Một trăm linh một chú chó đốm - One Hundred and One Dalmatians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ms4U9o5OB0sCQLapAnQhlIXar2J.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ms4U9o5OB0sCQLapAnQhlIXar2J.jpg",
+      "Name": "Một trăm linh một chú chó đốm - One Hundred and One Dalmatians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t10o8O0J7Jt5FGXoUu1tqDUTHhm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t10o8O0J7Jt5FGXoUu1tqDUTHhm.jpg",
+      "Name": "Một trăm linh một chú chó đốm - One Hundred and One Dalmatians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/s3agchIUNU0OF1f410v3bXP9CFI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/s3agchIUNU0OF1f410v3bXP9CFI.jpg",
+      "Name": "Một trăm linh một chú chó đốm - One Hundred and One Dalmatians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/miP4B6mVM5mcsn9Mz9eclLajJKG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/miP4B6mVM5mcsn9Mz9eclLajJKG.jpg",
+      "Name": "Một trăm linh một chú chó đốm - One Hundred and One Dalmatians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9SZz2xTSZnWSfs12nGxL9jt9VPA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9SZz2xTSZnWSfs12nGxL9jt9VPA.jpg",
+      "Name": "Một trăm linh một chú chó đốm - One Hundred and One Dalmatians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vVID0xxcIUmmPgM2FdYnakGl2ME.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vVID0xxcIUmmPgM2FdYnakGl2ME.jpg",
+      "Name": "Một trăm linh một chú chó đốm - One Hundred and One Dalmatians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dcSS08urQ8lVsfXlYqfkvt6z5HG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dcSS08urQ8lVsfXlYqfkvt6z5HG.jpg",
+      "Name": "Một trăm linh một chú chó đốm - One Hundred and One Dalmatians"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sKM6lrBLAf47Roo9whQ9SZmCsNe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sKM6lrBLAf47Roo9whQ9SZmCsNe.jpg",
+      "Name": "Một trăm linh một chú chó đốm - One Hundred and One Dalmatians"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movrxcoxo12230-2/",
-      "Name": "Bluray - Vie",
-      "Url": "https://www.fshare.vn/file/ENTSC2W5NNZR",
       "Size": "23.55 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/ENTSC2W5NNZR",
+      "Name": "Bluray - Vie"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movrxcoxo12230/",
-      "Name": "101.Dalmatians.1961.mkv",
-      "Url": "https://www.fshare.vn/file/TMC86HY5TT",
       "Size": "1.56 GB",
-      "FileSize": 1670013992
+      "FileSize": 1670013992,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/TMC86HY5TT",
+      "Name": "101.Dalmatians.1961.mkv"
     }
-  ]
+  ],
+  "Intro": "Khi một đàn chó con dalmatian bị bắt cóc bởi tay sai của Cruella De Vil, cha mẹ phải tìm thấy chúng trước khi cô sử dụng chúng cho một tuyên bố thời trang độc ác.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/vo5j5OZIdnfMIZSkVfSvh8cJUU-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/4VQg0IKj9w8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/one-hundred-and-one-dalmatians/",
+  "Name": "Một trăm linh một chú chó đốm"
 }

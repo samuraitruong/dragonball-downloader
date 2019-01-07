@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qEu2EJBQUNFx5mSKOCItwZm74ZE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qEu2EJBQUNFx5mSKOCItwZm74ZE.jpg ",
+      "Name": "Căn Hầm - 10 Cloverfield Lane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yZFD3XpFnSxXHcgCrTD26TDlOH9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yZFD3XpFnSxXHcgCrTD26TDlOH9.jpg ",
+      "Name": "Căn Hầm - 10 Cloverfield Lane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zRrzlvsZfDpo7UeDLFaqmuU6TUR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zRrzlvsZfDpo7UeDLFaqmuU6TUR.jpg ",
+      "Name": "Căn Hầm - 10 Cloverfield Lane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cTizy3raulRE72lgFCLfZXiqRzG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cTizy3raulRE72lgFCLfZXiqRzG.jpg ",
+      "Name": "Căn Hầm - 10 Cloverfield Lane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8rqJB3Nc2z5q0T6ZVXRXbAsQRGV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8rqJB3Nc2z5q0T6ZVXRXbAsQRGV.jpg ",
+      "Name": "Căn Hầm - 10 Cloverfield Lane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/p32Clnq0MYsW4ZXeX6NYTdDds5G.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/p32Clnq0MYsW4ZXeX6NYTdDds5G.jpg ",
+      "Name": "Căn Hầm - 10 Cloverfield Lane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/e41HNaM9rH1yF6rC97ObqzlfSxP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/e41HNaM9rH1yF6rC97ObqzlfSxP.jpg ",
+      "Name": "Căn Hầm - 10 Cloverfield Lane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1VFht0HSU5enrQPuWi3sfj1bWaL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1VFht0HSU5enrQPuWi3sfj1bWaL.jpg ",
+      "Name": "Căn Hầm - 10 Cloverfield Lane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hTXhQzfvjZNaWSIWvOebTSEM3CK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hTXhQzfvjZNaWSIWvOebTSEM3CK.jpg ",
+      "Name": "Căn Hầm - 10 Cloverfield Lane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uqPWWlxATvDm2AhcxV04wMv686U.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uqPWWlxATvDm2AhcxV04wMv686U.jpg ",
+      "Name": "Căn Hầm - 10 Cloverfield Lane"
+    }
+  ],
+  "Links": [],
+  "Intro": "Câu chuyện bắt đầu bằng vụ tai nạn khốc liệt xảy đến với Michelle (Mary Elizabeth Winstead) khiến cô lịm đi trong xe ô tô. Khi tỉnh dậy, Michelle phát hiện mình đang được điều trị vết thương và bị giam trong một căn hầm cùng với hai người đàn ông. Howard (John Goodman) – một trong số họ &#8211; nói với cô rằng thế giới bên ngoài đang chịu một thảm họa kinh hoàng, và rằng lựa chọn ở lại căn hầm sẽ giúp bảo toàn tính mạng. Không tin những lời Howard nói, Michelle tìm mọi cách trốn thoát để tìm ra sự thật.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/aeiVxTSTeGJ2ICf1iSDXkF3ivZp-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/saHzng8fxLs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/10-cloverfield-lane/",
+  "Name": "Căn Hầm"
+}

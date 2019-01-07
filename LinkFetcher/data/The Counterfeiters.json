@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qtD2lFLG5T7L8flbKSEIoSqcslI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qtD2lFLG5T7L8flbKSEIoSqcslI.jpg",
+      "Name": "The Counterfeiters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cIQc1bSUHJkQii8YUO1K2L60qKr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cIQc1bSUHJkQii8YUO1K2L60qKr.jpg",
+      "Name": "The Counterfeiters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mo4jxgqAtuLeWhrvZYUiedQMC8k.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mo4jxgqAtuLeWhrvZYUiedQMC8k.jpg",
+      "Name": "The Counterfeiters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rYngOuk3Pj8cMUY9E8J9uZlfDla.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rYngOuk3Pj8cMUY9E8J9uZlfDla.jpg",
+      "Name": "The Counterfeiters"
+    }
+  ],
+  "Links": [],
+  "Intro": "The story Jewish counterfeiter, Salomon Sorowitsch, coerced into assisting the Nazi operation of the Sachsenhausen concentration camp during World War II.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/bRQddrgVemZtFdnrPy9AxTpkhpj-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/qwr9nCurEEQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-counterfeiters/",
+  "Name": "The Counterfeiters"
+}

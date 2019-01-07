@@ -1,21 +1,71 @@
 {
-  "Id": "movKBwkQt17979",
-  "Url": "https://fsharephim.com/movies/a-christmas-carol/",
-  "Name": "A Christmas Carol",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movkbwkqt17979/",
-      "Name": "A.Christmas.Carol.2009.1080p.BluRay.x264-EbP (TM-Khukhooo-HDVNBits).mkv",
-      "Url": "https://www.fshare.vn/file/TAG21Y7HCT",
-      "Size": "6.09 GB",
-      "FileSize": 6537758359
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movkbwkqt17979-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/a-christmas-carol-2009",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vmGltnhcNGJAiVyNKllB0Ndcka1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vmGltnhcNGJAiVyNKllB0Ndcka1.jpg",
+      "Name": "A Christmas Carol"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/GtwSStViUdhKGf0d7tCkR7alKV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/GtwSStViUdhKGf0d7tCkR7alKV.jpg",
+      "Name": "A Christmas Carol"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g6QkyCieuDIiX8fULFYbuVrTLnz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g6QkyCieuDIiX8fULFYbuVrTLnz.jpg",
+      "Name": "A Christmas Carol"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wnHKK8R4s7vAz2Pv5Ponm7cM4i0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wnHKK8R4s7vAz2Pv5Ponm7cM4i0.jpg",
+      "Name": "A Christmas Carol"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k7x1PsgRdD9FqVokmLMtKZMdbku.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k7x1PsgRdD9FqVokmLMtKZMdbku.jpg",
+      "Name": "A Christmas Carol"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o6bCCbHil4RLvd5pHI6aKj6ldbm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o6bCCbHil4RLvd5pHI6aKj6ldbm.jpg",
+      "Name": "A Christmas Carol"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fDAbL6dEtILOBZs0iJrcYplmmNB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fDAbL6dEtILOBZs0iJrcYplmmNB.jpg",
+      "Name": "A Christmas Carol"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aR0SuR8LnF7rOkivBfi8bq0AsnB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aR0SuR8LnF7rOkivBfi8bq0AsnB.jpg",
+      "Name": "A Christmas Carol"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sZf2xsgYbDE4OuZcPLdfskhANmH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sZf2xsgYbDE4OuZcPLdfskhANmH.jpg",
+      "Name": "A Christmas Carol"
+    }
+  ],
+  "Links": [],
+  "Intro": "Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him his own miserable existence, what opportunities he wasted in his youth, his current cruelties, and the dire fate that awaits him if he does not change his ways. Scrooge is faced with his own story of growing bitterness and meanness, and must decide what his own future will hold: death or redemption.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/m1cZT78mldTUyVMyedWLx7saRrL-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/VZ3lr3urgDU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/a-christmas-carol/",
+  "Name": "A Christmas Carol"
 }

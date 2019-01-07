@@ -1,0 +1,435 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong-va-phieu-luu/",
+      "Name": "Hành Động và Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/imSCaACItCvrDtccHe0jmudxoag.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/imSCaACItCvrDtccHe0jmudxoag.jpg ",
+      "Name": "Iris II"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x16/",
+      "Name": "Episode 16"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x17/",
+      "Name": "Episode 17"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x18/",
+      "Name": "Episode 18"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x19/",
+      "Name": "Episode 19"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/iris-ii-1x20/",
+      "Name": "Episode 20"
+    }
+  ],
+  "Intro": "IRIS II: New Generation explores the aftermath events of IRIS as well as Athena: Goddess of War. The story explores the origins of the former Director of the NSS and IRIS agent, Baek San, and the protagonist Jung Yoo-gun.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/IRIS_2.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "When Yoo Gun is scouted by the NSS, Soo Yun sets her mind to joining as well.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x1/",
+          "Name": "Iris II 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x10/",
+          "Name": "Iris II 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x11/",
+          "Name": "Iris II 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x12/",
+          "Name": "Iris II 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x13/",
+          "Name": "Iris II 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x14/",
+          "Name": "Iris II 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x15/",
+          "Name": "Iris II 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x16/",
+          "Name": "Iris II 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x17/",
+          "Name": "Iris II 1x17"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x18/",
+          "Name": "Iris II 1x18"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x19/",
+          "Name": "Iris II 1x19"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x2/",
+          "Name": "Iris II 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x20/",
+          "Name": "Iris II 1x20"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x3/",
+          "Name": "Iris II 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x4/",
+          "Name": "Iris II 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x5/",
+          "Name": "Iris II 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x6/",
+          "Name": "Iris II 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x7/",
+          "Name": "Iris II 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x8/",
+          "Name": "Iris II 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/iris-ii-1x9/",
+          "Name": "Iris II 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Feb. 13, 2013"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/iris-ii/",
+  "Name": "Iris II"
+}

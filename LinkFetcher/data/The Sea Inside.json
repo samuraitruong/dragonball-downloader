@@ -1,0 +1,38 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sxo2iiXC8TaiLao6NAFIgInYcHs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sxo2iiXC8TaiLao6NAFIgInYcHs.jpg",
+      "Name": "The Sea Inside"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7XmDhCTkce5GH8KCdbMoTZdxn1p.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7XmDhCTkce5GH8KCdbMoTZdxn1p.jpg",
+      "Name": "The Sea Inside"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iyyep37NS6pDnED1Dmtv5snBMN1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iyyep37NS6pDnED1Dmtv5snBMN1.jpg",
+      "Name": "The Sea Inside"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3sP4h9ZS7vRIRO0D9M8kXDKaXgz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3sP4h9ZS7vRIRO0D9M8kXDKaXgz.jpg",
+      "Name": "The Sea Inside"
+    }
+  ],
+  "Links": [],
+  "Intro": "The Sea Inside is about Spaniard Ramón Sampedro, who fought a 30-year campaign to win the right to end his life with dignity. It is the story of Ramón’s relationships with two women: Julia a lawyer who supports his cause, and Rosa, a local woman who wants to convince him that life is worth living.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/g7ylyJHOIZxEb0Lrse74TRoZn2Y-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-sea-inside/",
+  "Name": "The Sea Inside"
+}

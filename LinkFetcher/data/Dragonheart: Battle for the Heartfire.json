@@ -1,0 +1,28 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eKusydUrRlHpfTWu6fqMZO2a3tw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eKusydUrRlHpfTWu6fqMZO2a3tw.jpg",
+      "Name": "Dragonheart: Battle for the Heartfire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/e6OnU7CeyO5QgL3sFoNgFVaA2J9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/e6OnU7CeyO5QgL3sFoNgFVaA2J9.jpg",
+      "Name": "Dragonheart: Battle for the Heartfire"
+    }
+  ],
+  "Links": [],
+  "Intro": "When the King Gareth dies, his potential heirs, twin grandchildren who possess the dragon’s unique strengths, use their inherited powers against each other to vie for the throne. When Drago’s source of power – known as the Heartfire – is stolen, more than the throne is at stake; the siblings must end their rivalry with swords and sorcery or the kingdom may fall.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/06/g3ekJNz2ooJrlWUiLaseCgiADBH-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/_zpFz4QKTAQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/dragonheart-battle-for-the-heartfire/",
+  "Name": "Dragonheart: Battle for the Heartfire"
+}

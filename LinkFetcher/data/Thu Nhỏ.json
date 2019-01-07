@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5RzW9i3vFsXCPLqYwgNJV1QuSgk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5RzW9i3vFsXCPLqYwgNJV1QuSgk.jpg ",
+      "Name": "Thu Nhỏ - Downsizing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rzKlrNpaCMYQVEUQHY8sgZybRwp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rzKlrNpaCMYQVEUQHY8sgZybRwp.jpg ",
+      "Name": "Thu Nhỏ - Downsizing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rtr0l61RxLPkmZHbZj0WFlGx5G5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rtr0l61RxLPkmZHbZj0WFlGx5G5.jpg ",
+      "Name": "Thu Nhỏ - Downsizing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/r941cmPZX8dz4ESYpnRwCRZnM41.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/r941cmPZX8dz4ESYpnRwCRZnM41.jpg ",
+      "Name": "Thu Nhỏ - Downsizing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kyv1q9ozK7EpCcGtUrSFaL37yEV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kyv1q9ozK7EpCcGtUrSFaL37yEV.jpg ",
+      "Name": "Thu Nhỏ - Downsizing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hJP5ZCz3HN1w3wky6Ya8O1R109u.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hJP5ZCz3HN1w3wky6Ya8O1R109u.jpg ",
+      "Name": "Thu Nhỏ - Downsizing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4BYwzdO4ppCNnmjrLkl1hzKZV8x.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4BYwzdO4ppCNnmjrLkl1hzKZV8x.jpg ",
+      "Name": "Thu Nhỏ - Downsizing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fbkY0MXiN2z97nqwjNXgeKcBeA3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fbkY0MXiN2z97nqwjNXgeKcBeA3.jpg ",
+      "Name": "Thu Nhỏ - Downsizing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gWEtNv8tZQZdbgLXTK8BsHn4xGE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gWEtNv8tZQZdbgLXTK8BsHn4xGE.jpg ",
+      "Name": "Thu Nhỏ - Downsizing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3zaenPOZnnE2r8rFK6y0wtyMwAH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3zaenPOZnnE2r8rFK6y0wtyMwAH.jpg ",
+      "Name": "Thu Nhỏ - Downsizing"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bộ phim kể về câu chuyện của Paul Safranek, một nhân viên văn phòng đang xoay sở với những áp lực “cơm áo gạo tiền” trong cuộc sống. Tình cờ biết được về dự án Vùng Đất Sung Sướng (Leisureland), nơi mọi người thu nhỏ kích thước cơ thể để tận hưởng một cuộc sống tốt đẹp và giàu sang hơn, hai vợ chồng nhà Safranek đã quyết định đi đến đây. Thế nhưng cơn ác mộng đã ập tới khi Paul biết vợ mình đã quá ích kỷ không dám thu nhỏ cơ thể và bỏ anh lại một mình tại vùng đất mới.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/uLlmtN33rMuimRq6bu0OoNzCGGs-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/bkadMe_Iqs4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/downsizing/",
+  "Name": "Thu Nhỏ"
+}

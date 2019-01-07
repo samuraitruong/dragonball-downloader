@@ -1,21 +1,71 @@
 {
-  "Id": "mov9JHQVA15657",
-  "Url": "https://fsharephim.com/movies/tarzan-ii/",
-  "Name": "Tarzan II",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov9jhqva15657-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/tarzan-ii/vietnamese/651829",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov9jhqva15657/",
-      "Name": "TARZAN II HDTV 1080.mkv",
-      "Url": "https://www.fshare.vn/file/T0X9VT765T",
-      "Size": "2.8 GB",
-      "FileSize": 3002837593
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mhleoBTypRbM9FivAJg1YiNFc7j.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mhleoBTypRbM9FivAJg1YiNFc7j.jpg",
+      "Name": "Tarzan II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3PQXGMyZdFc8uGXgZ1N65iI2IUr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3PQXGMyZdFc8uGXgZ1N65iI2IUr.jpg",
+      "Name": "Tarzan II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gXDywfp0aUT4ykvDqD37Aui0n7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gXDywfp0aUT4ykvDqD37Aui0n7.jpg",
+      "Name": "Tarzan II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4azlobW4wtSVYKvZHVFBRcHu6tY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4azlobW4wtSVYKvZHVFBRcHu6tY.jpg",
+      "Name": "Tarzan II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4Wk2l9sI2Ic0SYBvbBv01T8XCmx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4Wk2l9sI2Ic0SYBvbBv01T8XCmx.jpg",
+      "Name": "Tarzan II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/msW5ARRbauaE08IBNCLYE2NtF9M.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/msW5ARRbauaE08IBNCLYE2NtF9M.jpg",
+      "Name": "Tarzan II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1mT8533uniZz32N7TUmlEzu4kBL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1mT8533uniZz32N7TUmlEzu4kBL.jpg",
+      "Name": "Tarzan II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aswQeS5m9u9fjJXFDlrdeOcX0oV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aswQeS5m9u9fjJXFDlrdeOcX0oV.jpg",
+      "Name": "Tarzan II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/WsYnsKK9QY3DG4EsHfvWzgoLmA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/WsYnsKK9QY3DG4EsHfvWzgoLmA.jpg",
+      "Name": "Tarzan II"
+    }
+  ],
+  "Links": [],
+  "Intro": "Experience the beginning of the legend with Disney&#8217;s Tarzan Ⅱ, a hilarious, all-new, animated motion picture loaded with laughs, irresistible new songs by Phil Collins, and the inspired voice talent of Glenn Close, George Carlin, and Emmy Award winner Brad Garrett. Before he was King of the Jungle, Tarzan was an awkward young kid just trying to fit in. When one of his missteps puts his family in jeopardy, Tarzan decides they would be better off without him. His thrilling new journey brings him face to face with the mysterious Zugor, the most powerful force in the land. Together, Tarzan and Zugor discover that being different is not a weakness and that friends and family are the greatest strength of all. This action-packed adventure is sure to delight the entire family. Get ready to GO APE over Disney&#8217;s wild, new Tarzan Ⅱ.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/4PMZm53uFvq1eSgNbosr9xJTCM1-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/0h50wkYYoBU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/tarzan-ii/",
+  "Name": "Tarzan II"
 }

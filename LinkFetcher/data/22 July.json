@@ -1,0 +1,40 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dFhoPxTDWXcs5nxYqOj2RUNfHAG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dFhoPxTDWXcs5nxYqOj2RUNfHAG.jpg ",
+      "Name": "22 July"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fOgSfl79ejnSWlZ2WnkmPvIx4hN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fOgSfl79ejnSWlZ2WnkmPvIx4hN.jpg ",
+      "Name": "22 July"
+    }
+  ],
+  "Links": [],
+  "Intro": "In Norway on 22 July 2011, right-wing terrorist Anders Behring Breivik murdered 77 young people attending a Labour Party Youth Camp on Utöya Island outside of Oslo. This three-part story will focus on the survivors of the attacks, the political leadership of Norway, and the lawyers involved.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/10/8RZjeZ69UDLkaFQVKcslciP6MOr-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ZVpUZGmHJB8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/22-july/",
+  "Name": "22 July"
+}

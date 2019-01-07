@@ -1,0 +1,60 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ac4oAbjh4AGDrycKkL0hqkoBGTq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ac4oAbjh4AGDrycKkL0hqkoBGTq.jpg",
+      "Name": "Bitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sbbtp42qp417TLzJPMTQZiNOYaE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sbbtp42qp417TLzJPMTQZiNOYaE.jpg",
+      "Name": "Bitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fghngRvky7T2HyluVc5qMLQy7HT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fghngRvky7T2HyluVc5qMLQy7HT.jpg",
+      "Name": "Bitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8ax0XHbg1Xpbw8qOSQfH9Pinhk8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8ax0XHbg1Xpbw8qOSQfH9Pinhk8.jpg",
+      "Name": "Bitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dTxSZN9vA249LqeLpuuAVUkF2sS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dTxSZN9vA249LqeLpuuAVUkF2sS.jpg",
+      "Name": "Bitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8u7Kpq4mligwPRsky7kyaCW7zlj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8u7Kpq4mligwPRsky7kyaCW7zlj.jpg",
+      "Name": "Bitch"
+    }
+  ],
+  "Links": [],
+  "Intro": "The provocative tale of a woman who snaps under crushing life pressures and assumes the psyche of a vicious dog. Her philandering, absentee husband is forced to become reacquainted with his four children and sister-in-law as they attempt to keep the family together during this bizarre crisis.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/dsFUHJgMVViUsRggDThtwRPmS9i-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/WtF4TUxIOZk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/bitch/",
+  "Name": "Bitch"
+}

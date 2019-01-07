@@ -1,0 +1,55 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/mien-tay/",
+      "Name": "Miền Tây"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lYTimGLaSjxZPiyoJjg3fHeCj5D.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lYTimGLaSjxZPiyoJjg3fHeCj5D.jpg ",
+      "Name": "Miền Đất Hứa - Far and Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3Gap5AYcXlwoopDc3eo8aRADiZz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3Gap5AYcXlwoopDc3eo8aRADiZz.jpg ",
+      "Name": "Miền Đất Hứa - Far and Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/58W4Xb0B7hHEMmMqv9ZgP6wMkA5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/58W4Xb0B7hHEMmMqv9ZgP6wMkA5.jpg ",
+      "Name": "Miền Đất Hứa - Far and Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v40ut2UW4eHDkIhcOCIdBcEfKH4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v40ut2UW4eHDkIhcOCIdBcEfKH4.jpg ",
+      "Name": "Miền Đất Hứa - Far and Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dVg6GFTzth86vayZZWPhtObax03.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dVg6GFTzth86vayZZWPhtObax03.jpg ",
+      "Name": "Miền Đất Hứa - Far and Away"
+    }
+  ],
+  "Links": [],
+  "Intro": "Chuyện phim lấy bối cảnh miền Tây Ireland năm 1892 tại một vùng nông thôn nghèo khó. Một gia đình nông dân trong số ấy là nhà Donnelly với ba anh em trai luôn xung khắc lẫn nhau. Cuộc sống càng trở nên khó khăn hơn khi ông bố bị bọn chủ đất bắn trọng thương đến chết, nhà của ba cha con bị chúng đốt cháy. Cực chẳng đã, chàng út Joseph vốn hiền lành chăm chỉ đến tìm tên chủ đất Daniel Christie đòi nợ máu. Thù nhà chưa trả được nhưng như một duyên nợ, Joseph đụng độ với cô tiểu thư con gái địa chủ Shannon tại tư dinh của nhà Christie. Sau những “màn chào hỏi” chẳng mấy dễ chịu ban đầu cũng như cuộc đấu súng với tên quản gia Stephen độc ác, Joseph phải ở lại nhà Christie để dưỡng thương. Trong thời gian này Shannon rủ rê Joseph cùng cô sang nước Mỹ với vai trò là người phò tá. Sau khi đấu tranh tư tưởng, Joseph quyết định lên đường cùng Shannon tới “miền đất hứa” xa xôi. Hành trình của Joseph và Shannon gặp không ít gian nan trắc trở. Nhưng chính trong lúc quẫn bách nhất, họ mới thực sự thừa nhận tình cảm dành cho nhau. Trong khi đó ở quê nhà, gia đình Christie cũng khuynh gia bại sản do nông dân nổi dậy. Họ lên đường sang Mỹ tìm lại cô con gái yêu…",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/yNdfm55jkgFk1IeAqxSEPFDPR5x-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/RbMYkzVsWAE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/far-and-away/",
+  "Name": "Miền Đất Hứa"
+}

@@ -1,0 +1,45 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hWAdPlr4tGpfJ2zECj6fSZQzrMS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hWAdPlr4tGpfJ2zECj6fSZQzrMS.jpg",
+      "Name": "Cá Mập Cuồng Loạn 5 - Sharknado 5: Global Swarming"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m3d7qmHv34dB7ttLDC75TQp0iV9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m3d7qmHv34dB7ttLDC75TQp0iV9.jpg",
+      "Name": "Cá Mập Cuồng Loạn 5 - Sharknado 5: Global Swarming"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nHRnuLlbby6KIkH1rrIeuWmo38v.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nHRnuLlbby6KIkH1rrIeuWmo38v.jpg",
+      "Name": "Cá Mập Cuồng Loạn 5 - Sharknado 5: Global Swarming"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim Cá Mập Cuồng Loạn 5 (2017): Sự trở lại sau 5 năm vắng bóng của cơn bão cá mập, lần này cơn bão xuất hiện không chỉ ở một nơi mà trên khắp thế giới đe dọa đến sự sinh tồn của toàn bộ nhân loại.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/tChGHX3tMRkXEiiojoJZ3Vsmlcf-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/sharknado-5-global-swarming/",
+  "Name": "Cá Mập Cuồng Loạn 5"
+}

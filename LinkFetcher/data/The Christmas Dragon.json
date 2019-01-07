@@ -1,0 +1,41 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ehVkq7JIoFwuJnOCVz2xaLS4FBq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ehVkq7JIoFwuJnOCVz2xaLS4FBq.jpg",
+      "Name": "The Christmas Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7KhL4iAqVppScbZGpC2WuSFx6hb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7KhL4iAqVppScbZGpC2WuSFx6hb.jpg",
+      "Name": "The Christmas Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2X3CXQtHpBRQ2uBbIZmrg6fBcE9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2X3CXQtHpBRQ2uBbIZmrg6fBcE9.jpg",
+      "Name": "The Christmas Dragon"
+    }
+  ],
+  "Links": [],
+  "Intro": "Medieval Europe: Father Christmas is a fading memory, after Christmas hasn&#8217;t come for several years. A young orphan girl, Ayden, receives a magic crystal from a dying elf, with a warning that the North has lost its magic, and that she alone can save Christmas. Ayden and her orphan friends begin a perilous journey and must escape dragons, goblins, bandits, ogres, and other fantasy creatures as they team up with Airk, the wayward son of Father Christmas, to return a stolen Christmas orb to the North. When Santa&#8217;s magic cannot overpower the growing Snarl (an evil forest with tentacle branches), Ayden and Airk must deliver Christmas on a sleigh pulled by a young dragon, fulfilling Christmas wishes for children to restore Santa&#8217;s magic and save Christmas.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/tgy5fFL3vg1Tf37P1ESRFoTZsob-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/N50pPqlCcIo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-christmas-dragon/",
+  "Name": "The Christmas Dragon"
+}

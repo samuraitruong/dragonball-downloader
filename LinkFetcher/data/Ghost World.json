@@ -1,0 +1,47 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/faB6wyGOaILrJ0FwV2t9XWbvg9E.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/faB6wyGOaILrJ0FwV2t9XWbvg9E.jpg",
+      "Name": "Ghost World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jR1fH03X1pazeoBwLTk2bID89Iy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jR1fH03X1pazeoBwLTk2bID89Iy.jpg",
+      "Name": "Ghost World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rzAxXkR2nEwkI3PS5Xi4dzHYy10.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rzAxXkR2nEwkI3PS5Xi4dzHYy10.jpg",
+      "Name": "Ghost World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ntuJGOUSiVif3pKoNDILjCcsXM4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ntuJGOUSiVif3pKoNDILjCcsXM4.jpg",
+      "Name": "Ghost World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sBnOWDMfdzsilKplBmiR9GRF1ye.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sBnOWDMfdzsilKplBmiR9GRF1ye.jpg",
+      "Name": "Ghost World"
+    }
+  ],
+  "Links": [],
+  "Intro": "Two quirky, cynical teenaged girls try to figure out what to do with their lives after high school graduation. After they play a prank on an eccentric, middle aged record collector, one of them befriends him, which causes a rift in the girls&#8217; friendship.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/2qdw5cGpXcG56j5pWU4e6UYKk0v-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/4WmCBRkWJ54?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ghost-world/",
+  "Name": "Ghost World"
+}

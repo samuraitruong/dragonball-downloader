@@ -1,0 +1,49 @@
+{
+  "Id": "mov193qW7362154",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bGXryg992BuHb1oWShCkD7e7p8y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bGXryg992BuHb1oWShCkD7e7p8y.jpg",
+      "Name": "Saving Mr. Wu"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tTgDrLm7nEdn7KwOPYiqM6JRKid.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tTgDrLm7nEdn7KwOPYiqM6JRKid.jpg",
+      "Name": "Saving Mr. Wu"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/mov193qw7362154/",
+      "Size": "5.5 GB",
+      "FileSize": 5904523641,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/F2OZN1XDO34Z",
+      "Name": "Saving.Mr.Wu.2015.ViE.720p.BluRay.DTS.x264-MTeam.mkv"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/mov193qw7362154-2/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/sv/vietnamese/1250012",
+      "Name": "Viet - Subtitle"
+    }
+  ],
+  "Intro": "In this suspenseful crime thriller, Mr. Wu, a Hong Kong movie star, is kidnapped by six unpredictable criminals disguised as police officers. The story is based on the 2004 real-life celebrity kidnapping case in China.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/iYkbFpjvhjin4Q1gIHrsIaTh9bV-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Gql0lQf4UPo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/saving-mr-wu/",
+  "Name": "Saving Mr. Wu"
+}

@@ -1,21 +1,63 @@
 {
   "Id": "movWhp3QD166076",
-  "Url": "https://fsharephim.com/movies/superman-unbound/",
-  "Name": "Sức Mạnh Khổng Lồ",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mIbwk59WP9kcRA9pprpHD2cjFxi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mIbwk59WP9kcRA9pprpHD2cjFxi.jpg",
+      "Name": "Sức Mạnh Khổng Lồ - Superman: Unbound"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lNCD7j04luvwDUjoCEtisBroPIR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lNCD7j04luvwDUjoCEtisBroPIR.jpg",
+      "Name": "Sức Mạnh Khổng Lồ - Superman: Unbound"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bsEdn2iiXmLLFW0VF9PvbWpEnDW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bsEdn2iiXmLLFW0VF9PvbWpEnDW.jpg",
+      "Name": "Sức Mạnh Khổng Lồ - Superman: Unbound"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1zZdAara12wzK4uroNRF9FmJ5ZZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1zZdAara12wzK4uroNRF9FmJ5ZZ.jpg",
+      "Name": "Sức Mạnh Khổng Lồ - Superman: Unbound"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movwhp3qd166076/",
-      "Name": "Superman.Unbound.2013.ViE.720p.BluRay.DTS.x264-VAV.mkv",
-      "Url": "https://www.fshare.vn/file/T06M3X4P2T",
       "Size": "4.04 GB",
-      "FileSize": 4333930631
+      "FileSize": 4333930631,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/T06M3X4P2T",
+      "Name": "Superman.Unbound.2013.ViE.720p.BluRay.DTS.x264-VAV.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movwhp3qd166076-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/superman-unbound",
       "Size": "0",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/superman-unbound",
+      "Name": "Subtitle"
     }
-  ]
+  ],
+  "Intro": "Nội dung phim Siêu Nhân: Sức Mạnh Khổng Lồ: Chuyển thể từ bộ &#8216;Superman: Brainiac&#8217; (2008) của Geoff Johns. Superman cùng cô em họ Supergirl (Kara Zor-El) chiến đấu chống lại kẻ thù nguy hiểm đến từ ngoài vũ trụ là Brainiac. Xen với đó là những hồi ức của Supergirl khi thành phố Kandor ở quê hương Krypton bị Brainiac tấn công và thu nhỏ. Giờ hai người phải làm gì khi mục tiêu mới của Brainiac là Trái đất và thành phố Metropolis.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/sbGj8yQeUlIDZdffsuFv4Cy9snk-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/EpnT__PBd6Q?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/superman-unbound/",
+  "Name": "Sức Mạnh Khổng Lồ"
 }

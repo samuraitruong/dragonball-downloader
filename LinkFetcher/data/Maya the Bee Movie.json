@@ -1,21 +1,74 @@
 {
   "Id": "movxsbUOC261103",
-  "Url": "https://fsharephim.com/movies/maya-the-bee-movie/",
-  "Name": "Maya the Bee Movie",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gTHuNNqF3r2GLm34Ojd3ZXpq2IW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gTHuNNqF3r2GLm34Ojd3ZXpq2IW.jpg",
+      "Name": "Maya the Bee Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/98kKZebZIlVT2maOCdLz2AqnV3v.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/98kKZebZIlVT2maOCdLz2AqnV3v.jpg",
+      "Name": "Maya the Bee Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z1JMjdOYxsFYqbK0adDq0iI0czi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z1JMjdOYxsFYqbK0adDq0iI0czi.jpg",
+      "Name": "Maya the Bee Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aWd8x5fOSh9hiI2dWD8zMYba6Qq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aWd8x5fOSh9hiI2dWD8zMYba6Qq.jpg",
+      "Name": "Maya the Bee Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qbfg7DtfUwSnTyUluH3IIX9iySd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qbfg7DtfUwSnTyUluH3IIX9iySd.jpg",
+      "Name": "Maya the Bee Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/df5UpmzE3pg0PQJHsKGLsafGLN8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/df5UpmzE3pg0PQJHsKGLsafGLN8.jpg",
+      "Name": "Maya the Bee Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/525QXXKsFS2f9MSD6RcLwuj1hX1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/525QXXKsFS2f9MSD6RcLwuj1hX1.jpg",
+      "Name": "Maya the Bee Movie"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movxsbuoc261103/",
-      "Name": "Maya.the.Bee.Movie.2014.mkv",
-      "Url": "https://www.fshare.vn/file/WLXN7RX5NJGF",
       "Size": "1.85 GB",
-      "FileSize": 1989563505
+      "FileSize": 1989563505,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/WLXN7RX5NJGF",
+      "Name": "Maya.the.Bee.Movie.2014.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movxsbuoc261103-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/maya-the-bee-movie",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/maya-the-bee-movie",
+      "Name": "Subtitle"
     }
-  ]
+  ],
+  "Intro": "Freshly hatched bee Maya is a little whirlwind and won&#8217;t follow the rules of the hive. One of these rules is not to trust the hornets that live beyond the meadow. When the Royal Jelly is stolen, the hornets are suspected and Maya is thought to be their accomplice. No one believes that she is the innocent victim and no one will stand by her except for her good-natured and best friend Willy. After a long and eventful journey to the hornets hive Maya and Willy soon discover the true culprit and the two friends finally bond with the other residents of the opulent meadow.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/wgcyY5jcEdMODovQwAO9cf2DAeU-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/mSNrUGsxRYM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/maya-the-bee-movie/",
+  "Name": "Maya the Bee Movie"
 }

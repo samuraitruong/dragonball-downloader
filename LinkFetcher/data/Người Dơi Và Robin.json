@@ -1,21 +1,58 @@
 {
   "Id": "movjsskQ6321528",
-  "Url": "https://fsharephim.com/movies/batman-vs-robin/",
-  "Name": "Người Dơi Và Robin",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oERfMmGc1GJRnC8IuFUH7zpR5z5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oERfMmGc1GJRnC8IuFUH7zpR5z5.jpg",
+      "Name": "Người Dơi Và Robin - Batman vs. Robin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/54rbWddVWcIeK0N08vM1o3uD2rX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/54rbWddVWcIeK0N08vM1o3uD2rX.jpg",
+      "Name": "Người Dơi Và Robin - Batman vs. Robin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k1jtMdJNT3mI3EnrAprKJ1ZXO90.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k1jtMdJNT3mI3EnrAprKJ1ZXO90.jpg",
+      "Name": "Người Dơi Và Robin - Batman vs. Robin"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movjsskq6321528/",
-      "Name": "720p - Thuyết Minh",
-      "Url": "https://www.fshare.vn/file/I89DRJ5R42LL",
       "Size": "3.8 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/I89DRJ5R42LL",
+      "Name": "720p - Thuyết Minh"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movjsskq6321528-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/batman-vs-robin",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/batman-vs-robin",
+      "Name": "Subtitle"
     }
-  ]
+  ],
+  "Intro": "Trong lúc vật lộn để thích nghi với cái luật &#8216;Không được giết người&#8217; của Batman, Damian Wayne nhận ra định mệnh của mình được che dấu đằng sau một tổ chức bí mật có tên &#8216;Hội Đồng Cú Vọ&#8217;.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/6g7iQJAgyDn9mep98RXhLI64RcA-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/RzM835MUcaU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/batman-vs-robin/",
+  "Name": "Người Dơi Và Robin"
 }

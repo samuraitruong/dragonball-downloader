@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jSktGJJ0jeT9CHOVLRC12kzCIIB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jSktGJJ0jeT9CHOVLRC12kzCIIB.jpg",
+      "Name": "Sứ Mạng Thần Chết - Bleach"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/daeU2HMBMVSyb68Rb1WuDbrF3Ik.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/daeU2HMBMVSyb68Rb1WuDbrF3Ik.jpg",
+      "Name": "Sứ Mạng Thần Chết - Bleach"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uNWsNqL7r2F9S2SE3PwC7g6osT7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uNWsNqL7r2F9S2SE3PwC7g6osT7.jpg",
+      "Name": "Sứ Mạng Thần Chết - Bleach"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/khx4NJActJirDof2568RoYuulp8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/khx4NJActJirDof2568RoYuulp8.jpg",
+      "Name": "Sứ Mạng Thần Chết - Bleach"
+    }
+  ],
+  "Links": [],
+  "Intro": null,
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/09/b1fV61h5mLO5dSTU09zhgG7IRp4-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/4rm1OdjYYEU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/bleach/",
+  "Name": "Sứ Mạng Thần Chết"
+}

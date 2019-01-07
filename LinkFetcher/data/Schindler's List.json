@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rIpSszng8P0DL0TimSzZbpfnvh1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rIpSszng8P0DL0TimSzZbpfnvh1.jpg",
+      "Name": "Schindler&#8217;s List"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cTNYRUTXkBgPH3wP3kmPUB5U6dA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cTNYRUTXkBgPH3wP3kmPUB5U6dA.jpg",
+      "Name": "Schindler&#8217;s List"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/af98P1bc7lJsFjhHOVWXQgNNgSQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/af98P1bc7lJsFjhHOVWXQgNNgSQ.jpg",
+      "Name": "Schindler&#8217;s List"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hFE0hvwMBrYdkq8diHu90utDxRc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hFE0hvwMBrYdkq8diHu90utDxRc.jpg",
+      "Name": "Schindler&#8217;s List"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oPMvk1QF4LzZPLLRSQLiF5pW3um.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oPMvk1QF4LzZPLLRSQLiF5pW3um.jpg",
+      "Name": "Schindler&#8217;s List"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4Ep0ybrIvUvcOq7Rt5WZurLqlsF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4Ep0ybrIvUvcOq7Rt5WZurLqlsF.jpg",
+      "Name": "Schindler&#8217;s List"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nUY4GMbBu4eqbDxDlSDETmdgYDf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nUY4GMbBu4eqbDxDlSDETmdgYDf.jpg",
+      "Name": "Schindler&#8217;s List"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fhu8fKkb3ov9L4dyYsLo8zniMWY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fhu8fKkb3ov9L4dyYsLo8zniMWY.jpg",
+      "Name": "Schindler&#8217;s List"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wxUuY6Nz75uyegfPB8ay6cMeb2f.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wxUuY6Nz75uyegfPB8ay6cMeb2f.jpg",
+      "Name": "Schindler&#8217;s List"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hFY2SvvHQDaaA2fpKP8q3oMFJMH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hFY2SvvHQDaaA2fpKP8q3oMFJMH.jpg",
+      "Name": "Schindler&#8217;s List"
+    }
+  ],
+  "Links": [],
+  "Intro": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/yPisjyLweCl1tbgwgtzBCNCBle-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/bJcLRFWxRno?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/schindlers-list/",
+  "Name": "Schindler's List"
+}

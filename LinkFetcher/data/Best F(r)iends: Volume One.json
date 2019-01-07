@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tdCHGB6Syji3xg8LRvv5tmvPtRY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tdCHGB6Syji3xg8LRvv5tmvPtRY.jpg ",
+      "Name": "Best F(r)iends: Volume One"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u6AlXGeGD81EyugIhtkyxU1OHkM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u6AlXGeGD81EyugIhtkyxU1OHkM.jpg ",
+      "Name": "Best F(r)iends: Volume One"
+    }
+  ],
+  "Links": [],
+  "Intro": "When a drifter befriends a quirky mortician, an unlikely business partnership is formed. Paranoia soon develops, however, and both men are forced to come to terms with the fragility of friendship and loyalty.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/09/k0sKiTc8awvbWyZES7RInThL4Kw-1-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ZLSgfjKbYCc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/best-friends-volume-one/",
+  "Name": "Best F(r)iends: Volume One"
+}

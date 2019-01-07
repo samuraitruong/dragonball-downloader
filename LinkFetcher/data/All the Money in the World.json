@@ -1,0 +1,54 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kDAIeve5RMx7iy2O5hvAIap2nH4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kDAIeve5RMx7iy2O5hvAIap2nH4.jpg ",
+      "Name": "All the Money in the World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dSNFyArsIZP6JcOKmXwa3rqKkOr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dSNFyArsIZP6JcOKmXwa3rqKkOr.jpg ",
+      "Name": "All the Money in the World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8vRQZzPhcZNbgIQAedJdUzJHqwF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8vRQZzPhcZNbgIQAedJdUzJHqwF.jpg ",
+      "Name": "All the Money in the World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b1hxf4TyVc3GixpbuK7nLGhV2eu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b1hxf4TyVc3GixpbuK7nLGhV2eu.jpg ",
+      "Name": "All the Money in the World"
+    }
+  ],
+  "Links": [],
+  "Intro": "The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/iKCDN1KeDx0lSK8DeMDYCYaNBNN-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/KXHrCBkIxQQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/all-the-money-in-the-world/",
+  "Name": "All the Money in the World"
+}

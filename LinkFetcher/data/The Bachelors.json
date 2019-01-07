@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rTu6iKrUcNE3XEAoT1YQ1BbXJuN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rTu6iKrUcNE3XEAoT1YQ1BbXJuN.jpg",
+      "Name": "The Bachelors"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ln7yZv5rJMQHLbY0xYtQOBE52IN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ln7yZv5rJMQHLbY0xYtQOBE52IN.jpg",
+      "Name": "The Bachelors"
+    }
+  ],
+  "Links": [],
+  "Intro": "After the early death of his wife, a mourning father moves with his teenage son across the country for a private school teaching job. Their lives begin to transform due to two unique women, who help them embrace life and love again",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/pSCKFZHGfGi2wCeOZLZHpBUqf34-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/FwO-fanDWkY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-bachelors/",
+  "Name": "The Bachelors"
+}

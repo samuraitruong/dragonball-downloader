@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xHYCZ4T1wW9lWaEuJbDovxHZjip.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xHYCZ4T1wW9lWaEuJbDovxHZjip.jpg ",
+      "Name": "My Heart Leaps Up"
+    }
+  ],
+  "Links": [],
+  "Intro": "While working on clipart with her schoolmates, 17-year-old Beijing high school student Liu Weiwei develops a crush on her art teacher.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/fxLnEUri9Lwe2BQViYGKKSb0iHL-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/gf13FMZtNnQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/my-heart-leaps-up/",
+  "Name": "My Heart Leaps Up"
+}

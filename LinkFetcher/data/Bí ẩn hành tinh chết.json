@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rRhoMIqgdX9wEtRUOLsqXKkH9I0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rRhoMIqgdX9wEtRUOLsqXKkH9I0.jpg",
+      "Name": "Bí ẩn hành tinh chết - Prometheus"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qfXeiDyuvLgfXqypnP5e3t8mxV4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qfXeiDyuvLgfXqypnP5e3t8mxV4.jpg",
+      "Name": "Bí ẩn hành tinh chết - Prometheus"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cfVoH243KjWXV6JoLzwxqWNb23i.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cfVoH243KjWXV6JoLzwxqWNb23i.jpg",
+      "Name": "Bí ẩn hành tinh chết - Prometheus"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pbxQzfMk6BEBpQi5IuqgdtD3O7W.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pbxQzfMk6BEBpQi5IuqgdtD3O7W.jpg",
+      "Name": "Bí ẩn hành tinh chết - Prometheus"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/agYXPrdGLbokcxs5QKXc1oYnOgE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/agYXPrdGLbokcxs5QKXc1oYnOgE.jpg",
+      "Name": "Bí ẩn hành tinh chết - Prometheus"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b6Bj7BQ1lAP6AfloiZb20jjCY6m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b6Bj7BQ1lAP6AfloiZb20jjCY6m.jpg",
+      "Name": "Bí ẩn hành tinh chết - Prometheus"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yPO150QctZKbUeYTluZSTJEyBvx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yPO150QctZKbUeYTluZSTJEyBvx.jpg",
+      "Name": "Bí ẩn hành tinh chết - Prometheus"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ql71VXwFcLqL48xLE5XSF7sRIkp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ql71VXwFcLqL48xLE5XSF7sRIkp.jpg",
+      "Name": "Bí ẩn hành tinh chết - Prometheus"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fCpqEWXDLYgaowy5gkf9TiFQiIe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fCpqEWXDLYgaowy5gkf9TiFQiIe.jpg",
+      "Name": "Bí ẩn hành tinh chết - Prometheus"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wEIUNatb7eY1LNAA3UwExwZ2BF4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wEIUNatb7eY1LNAA3UwExwZ2BF4.jpg",
+      "Name": "Bí ẩn hành tinh chết - Prometheus"
+    }
+  ],
+  "Links": [],
+  "Intro": "Một nhóm nhà thám hiểm phát hiện ra một đầu mối về nguồn gốc của loài người trên trái đất, dẫn họ vào một cuộc hành trình đến những góc tối nhất của vũ trụ. Ở đó, họ phải chiến đấu một trận chiến đáng sợ để cứu tương lai của loài người.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2012/05/ng8ALjSDhUmwLl7vtjUWIZNQSlt-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/HHcHYisZFLU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/prometheus/",
+  "Name": "Bí ẩn hành tinh chết"
+}

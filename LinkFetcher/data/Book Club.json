@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pozA8qiFEVY2A2ynM1mQwwhyQTW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pozA8qiFEVY2A2ynM1mQwwhyQTW.jpg ",
+      "Name": "Book Club"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9m1BSDrH3Ph9WSBLijPiBp7UXC1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9m1BSDrH3Ph9WSBLijPiBp7UXC1.jpg ",
+      "Name": "Book Club"
+    }
+  ],
+  "Links": [],
+  "Intro": "Four lifelong friends have their lives forever changed after reading Fifty Shades of Grey in their monthly book club.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/08/6ORGBbOA45pfKQXvntPf46NoFGO-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/LDxgPIsv6sY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/book-club/",
+  "Name": "Book Club"
+}

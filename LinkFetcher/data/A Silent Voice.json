@@ -1,14 +1,67 @@
 {
-  "Id": "movSQt69c378064",
-  "Url": "https://fsharephim.com/movies/a-silent-voice/",
-  "Name": "A Silent Voice",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movsqt69c378064/",
-      "Name": "Dáng Hình Thanh Âm - A Silent Voice - Koe no Katachi (2017).mp4",
-      "Url": "https://www.fshare.vn/file/Q7JS4WWM26FDC8X",
-      "Size": "1.14 GB",
-      "FileSize": 1223830965
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/Au9W5gr8lCazWRacuWb659GQMQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/Au9W5gr8lCazWRacuWb659GQMQ.jpg",
+      "Name": "A Silent Voice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
+      "Name": "A Silent Voice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lp1TIgwmhrvhktah74MsfZruWpp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lp1TIgwmhrvhktah74MsfZruWpp.jpg",
+      "Name": "A Silent Voice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/geINneHhMbGDeDCGun0elRjVQ1Z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/geINneHhMbGDeDCGun0elRjVQ1Z.jpg",
+      "Name": "A Silent Voice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yxLd8Y7485bm5PHMLxZYyh273hm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yxLd8Y7485bm5PHMLxZYyh273hm.jpg",
+      "Name": "A Silent Voice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2vKFuvyftRp0Gz1EpET702geAaD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2vKFuvyftRp0Gz1EpET702geAaD.jpg",
+      "Name": "A Silent Voice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bAVIzOfOxrSEwabYebm4FUJEXd9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bAVIzOfOxrSEwabYebm4FUJEXd9.jpg",
+      "Name": "A Silent Voice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lM1GabiTCdF4rgWm3Bukr1XMouY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lM1GabiTCdF4rgWm3Bukr1XMouY.jpg",
+      "Name": "A Silent Voice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4ZWgAa6iDOHJDjtrzbpygVame39.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4ZWgAa6iDOHJDjtrzbpygVame39.jpg",
+      "Name": "A Silent Voice"
+    }
+  ],
+  "Links": [],
+  "Intro": "Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again&#8230; until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late&#8230;?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/drlyoSKDOPnxzJFrRWGqzDsyJvR-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/twUSlecQpGQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/a-silent-voice/",
+  "Name": "A Silent Voice"
 }

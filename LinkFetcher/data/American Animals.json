@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3ccBOsbVpgwN9K5whd2UB9ACebG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3ccBOsbVpgwN9K5whd2UB9ACebG.jpg ",
+      "Name": "American Animals"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/16GzEtsLBZJEpwVqdZ2SOAbVvd6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/16GzEtsLBZJEpwVqdZ2SOAbVvd6.jpg ",
+      "Name": "American Animals"
+    }
+  ],
+  "Links": [],
+  "Intro": "Spencer Reinhard, Warren Lipka, Eric Borsuk and Chas Allen are four friends who live an ordinary existence in Kentucky. After a visit to Transylvania University, Lipka comes up with the idea to steal the rarest and most valuable books from the school&#8217;s library. As one of the most audacious art heists in U.S. history starts to unfold, the men question whether their attempts to inject excitement and purpose into their lives are simply misguided attempts at achieving the American dream.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/08/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/SKvPVvy2Kn8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/american-animals/",
+  "Name": "American Animals"
+}

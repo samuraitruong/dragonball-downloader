@@ -1,0 +1,68 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tBCgCYjkNr6aKdIdJz3uzCVOqXx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tBCgCYjkNr6aKdIdJz3uzCVOqXx.jpg",
+      "Name": "Leviathan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/alH3xsZFe8rSGHg1qvtyjekjEg7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/alH3xsZFe8rSGHg1qvtyjekjEg7.jpg",
+      "Name": "Leviathan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6jFh3TfGHk7pXpSe9l1e88Z4JGL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6jFh3TfGHk7pXpSe9l1e88Z4JGL.jpg",
+      "Name": "Leviathan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/38fHhp37lARzyyTs0yzMhqlaVH5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/38fHhp37lARzyyTs0yzMhqlaVH5.jpg",
+      "Name": "Leviathan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v6fQSTgIvKGlDlTVkINn68r1AKE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v6fQSTgIvKGlDlTVkINn68r1AKE.jpg",
+      "Name": "Leviathan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/x5InlJOZs5hDu25X4rlOA0lPwDH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/x5InlJOZs5hDu25X4rlOA0lPwDH.jpg",
+      "Name": "Leviathan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oyplCwelnE6nW3pq77jtcXMdEPK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oyplCwelnE6nW3pq77jtcXMdEPK.jpg",
+      "Name": "Leviathan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nGf2gda5G7xek41pARedReqrIPq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nGf2gda5G7xek41pARedReqrIPq.jpg",
+      "Name": "Leviathan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/elulZRbV6ITRvmYVnFnEYucUMr5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/elulZRbV6ITRvmYVnFnEYucUMr5.jpg",
+      "Name": "Leviathan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zsNepLIZKTfcPwh0EbYENLz27j0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zsNepLIZKTfcPwh0EbYENLz27j0.jpg",
+      "Name": "Leviathan"
+    }
+  ],
+  "Links": [],
+  "Intro": "In a Russian coastal town, Kolya is forced to fight the corrupt mayor when he is told that his house will be demolished. He recruits a lawyer friend to help, but the man&#8217;s arrival brings further misfortune for Kolya and his family.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/foMdJ8ijYk5G1Jn0HZRplFTu9Dt-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/2oo7H25kirk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/leviathan/",
+  "Name": "Leviathan"
+}

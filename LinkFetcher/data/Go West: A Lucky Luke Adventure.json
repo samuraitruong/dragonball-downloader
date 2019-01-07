@@ -1,14 +1,59 @@
 {
   "Id": "movMqNsmZ34655",
-  "Url": "https://fsharephim.com/movies/go-west-a-lucky-luke-adventure/",
-  "Name": "Go West: A Lucky Luke Adventure",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/mien-tay/",
+      "Name": "Miền Tây"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aZWw5NC3sfertSPIMumoSaFlwOR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aZWw5NC3sfertSPIMumoSaFlwOR.jpg",
+      "Name": "Go West: A Lucky Luke Adventure"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9DIvuL3QpPKVnlftp89BqUnkBDA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9DIvuL3QpPKVnlftp89BqUnkBDA.jpg",
+      "Name": "Go West: A Lucky Luke Adventure"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wqRe466OIckx4OMh5wdN3zlOhOT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wqRe466OIckx4OMh5wdN3zlOhOT.jpg",
+      "Name": "Go West: A Lucky Luke Adventure"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f9ky0AIiEYgkmHQlCV8PAzmD1i3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f9ky0AIiEYgkmHQlCV8PAzmD1i3.jpg",
+      "Name": "Go West: A Lucky Luke Adventure"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movmqnsmz34655/",
-      "Name": "Go.West.A.Lucky.Luke.Adventure.2007.mHD.x264-Thuyet.Minh.mkv",
-      "Url": "https://www.fshare.vn/file/T7T8T8ZRCT",
       "Size": "1.22 GB",
-      "FileSize": 1307268250
+      "FileSize": 1307268250,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/T7T8T8ZRCT",
+      "Name": "Go.West.A.Lucky.Luke.Adventure.2007.mHD.x264-Thuyet.Minh.mkv"
     }
-  ]
+  ],
+  "Intro": "The Daltons have escaped to New York, where their accumulated loot is hidden in the carts of Monsieur Pierre&#8217;s group of honest, naive European immigrants, who naively bought land in California from Crook, who inserted a clause they must claim it within 80 days. Joe emotionally blackmails Luke to guide them there, hoping to escape on the way. The usual route must shortened from 6 to 2 months, so no danger can be avoided. Given Lucky&#8217;s reputation, Crook decides to shadow them to add sabotage, just to be sure- or is it?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/kJ3yr2TQBhtX0m83aJRFptUVEpa-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/FjZIN-QSchg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/go-west-a-lucky-luke-adventure/",
+  "Name": "Go West: A Lucky Luke Adventure"
 }

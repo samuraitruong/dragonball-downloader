@@ -1,0 +1,51 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wvjVMqrIhBdZ1HIvhe8kn01tpSf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wvjVMqrIhBdZ1HIvhe8kn01tpSf.jpg",
+      "Name": "Tubelight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xxaJUWEMNM7ZxcmWSKo60MKAthP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xxaJUWEMNM7ZxcmWSKo60MKAthP.jpg",
+      "Name": "Tubelight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5MLecEBSJ7M1qHl59tRdgUr5ZUu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5MLecEBSJ7M1qHl59tRdgUr5ZUu.jpg",
+      "Name": "Tubelight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vXG2jhgKtPb2zip1G6kS6jPJTKT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vXG2jhgKtPb2zip1G6kS6jPJTKT.jpg",
+      "Name": "Tubelight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1xAjJPOd6ovo4L3IDDprI89MUgj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1xAjJPOd6ovo4L3IDDprI89MUgj.jpg",
+      "Name": "Tubelight"
+    }
+  ],
+  "Links": [],
+  "Intro": "Laxman Singh Bisht (Salman) is nicknamed tube light by his neighbours because he is feeble-minded. Despite being special, Laxman lives by one life-lesson; keep your faith alive and you can do almost anything, even stop a war.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/hy7Ka19Vx2TwXA6OWZSe4XuMDlK-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/PGQRNKHJwH4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/tubelight/",
+  "Name": "Tubelight"
+}

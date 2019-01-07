@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gbo41r6ixGmLkDxL2glqfZu6aW4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gbo41r6ixGmLkDxL2glqfZu6aW4.jpg ",
+      "Name": "Người hầu gái - The Handmaiden"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/499Bcxa6mwZcNLcP7XpS6oS3o4A.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/499Bcxa6mwZcNLcP7XpS6oS3o4A.jpg ",
+      "Name": "Người hầu gái - The Handmaiden"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3upEZ0ltY7WwOSFVXrtiP34D48p.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3upEZ0ltY7WwOSFVXrtiP34D48p.jpg ",
+      "Name": "Người hầu gái - The Handmaiden"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/keQhqxE9i7wNQIM3W5B0iLnjaHW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/keQhqxE9i7wNQIM3W5B0iLnjaHW.jpg ",
+      "Name": "Người hầu gái - The Handmaiden"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jlQAhIxBaEe3qIoyuCgqGWjhKeh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jlQAhIxBaEe3qIoyuCgqGWjhKeh.jpg ",
+      "Name": "Người hầu gái - The Handmaiden"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7rYRwzYu5RwXVocbCaqhBDz56rO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7rYRwzYu5RwXVocbCaqhBDz56rO.jpg ",
+      "Name": "Người hầu gái - The Handmaiden"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pQ2KwaIk78xVlK9jFpXNAKOpzLg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pQ2KwaIk78xVlK9jFpXNAKOpzLg.jpg ",
+      "Name": "Người hầu gái - The Handmaiden"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ICbJ0sTebbjKXVzc3kOiJdicxx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ICbJ0sTebbjKXVzc3kOiJdicxx.jpg ",
+      "Name": "Người hầu gái - The Handmaiden"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iny0YQiB1yb5KrKBE2aLgGgbHQF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iny0YQiB1yb5KrKBE2aLgGgbHQF.jpg ",
+      "Name": "Người hầu gái - The Handmaiden"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7YXNTyUX4taEvMsDCQtqLiZVva.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7YXNTyUX4taEvMsDCQtqLiZVva.jpg ",
+      "Name": "Người hầu gái - The Handmaiden"
+    }
+  ],
+  "Links": [],
+  "Intro": "Người hầu gái là một bộ phim tâm lý rùng rợn về đề tài khiêu dâm của Hàn Quốc năm 2016 do Park Chan-wook đạo diễn và có sự tham gia của Kim Min-hee, Ha Jung-woo và Kim Tae-ri",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/wvzfK5QR6dGLwND8MCzWjsQWG4Q-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/whldChqCsYk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-handmaiden/",
+  "Name": "Người hầu gái"
+}

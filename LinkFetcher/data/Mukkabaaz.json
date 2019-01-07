@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/A6qDUM0KJPcQKh7wf14xseGBphy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/A6qDUM0KJPcQKh7wf14xseGBphy.jpg",
+      "Name": "Mukkabaaz"
+    }
+  ],
+  "Links": [],
+  "Intro": "A low caste boxer (Shravan) trains at a gym controlled by a local Don (Bhagwan Das Mishra). Shravan falls for Mishra&#8217;s niece (Sunaina). The Don does not approve of this match. Shravan strives to win Sunaina&#8217;s hand in marriage and become a successful boxer while trying to avoid retaliation from the Don.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/na0VckuAKuP9hznMQ6NuijGX6Pl-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/fl3gun0J8XM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/mukkabaaz/",
+  "Name": "Mukkabaaz"
+}

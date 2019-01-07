@@ -1,0 +1,50 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1bjoIR8Yb3qDrflszNWlz9uo2JF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1bjoIR8Yb3qDrflszNWlz9uo2JF.jpg ",
+      "Name": "Ngạ Quỷ Tokyo - Tokyo Ghoul"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/btjMe2wSFZKA01JdQFOusm7K6rT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/btjMe2wSFZKA01JdQFOusm7K6rT.jpg ",
+      "Name": "Ngạ Quỷ Tokyo - Tokyo Ghoul"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/snPWACdZUuZqrVkQoc6RsSHf5q2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/snPWACdZUuZqrVkQoc6RsSHf5q2.jpg ",
+      "Name": "Ngạ Quỷ Tokyo - Tokyo Ghoul"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/on6OQtGrxu9WVt2Vv5KsQo2aMgr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/on6OQtGrxu9WVt2Vv5KsQo2aMgr.jpg ",
+      "Name": "Ngạ Quỷ Tokyo - Tokyo Ghoul"
+    }
+  ],
+  "Links": [],
+  "Intro": "Truyện lấy bối cảnh thời hiện đại, một thế giới hoàn toàn khác khi mà loài người không phải loài đứng đầu chuỗi thức ăn, có một loài sinh vật khát máu, mang hình dạng giống con người nhưng phát triển hơn với những khả năng đặc biệt để trở thành kẻ đi săn, và con mồi chính là loài người, vốn tưởng mình làm chủ thế giới. Không cam chịu làm kẻ bị săn, loài người đứng lên chống lại loài sinh vật kia – Ghoul, quỷ ăn thịt. CCG (Ủy ban chống Quỷ ăn thịt) ra đời, đào tạo 1 lực lượng các thanh tra có kỹ năng chiến đấu cao nhằm chống lại sự tàn sát con người của quỷ ăn thịt.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/53Tjv28KGP7ZZh7XqTer90t6tMZ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/MNmeiJJgKmM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/tokyo-ghoul/",
+  "Name": "Ngạ Quỷ Tokyo"
+}

@@ -1,0 +1,494 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tY0i93t3yzzVdIuE3wcgCUq1OlK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tY0i93t3yzzVdIuE3wcgCUq1OlK.jpg",
+      "Name": "Incomplete Life"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/y7WlQ5AMAgeUXVgbaWn94Hx859S.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/y7WlQ5AMAgeUXVgbaWn94Hx859S.jpg",
+      "Name": "Incomplete Life"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x16/",
+      "Name": "Episode 16"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x17/",
+      "Name": "Episode 17"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x18/",
+      "Name": "Episode 18"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x19/",
+      "Name": "Episode 19"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/incomplete-life-1x20/",
+      "Name": "Episode 20"
+    }
+  ],
+  "Intro": "Jang Geu Rae played the board game “baduk” (a strategy game somewhat like chess) since he was a child. Playing the game was everything to him, but he failed to become a professional baduk player. Now he is thrown out into the real world. By an acquaintance’s recommendation, He is able to begin to work at Wonin International as an intern and struggles to adapt working at a company. Meanwhile, Ahn Young Yi is a competent and intelligent new intern and Jang Baek Ki is another co-worker. Oh Sang Sik will play their boss.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/kCRSbmFAwvGZrr93OFqQXn96rJ0-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/gp1ktYPHLgXhq5AsCha0UyMDjnk.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/gp1ktYPHLgXhq5AsCha0UyMDjnk.jpg",
+              "Name": "Incomplete Life 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x1/",
+          "Name": "Incomplete Life 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ye6y7O46hzEI8dShR0dLnT8dZRI.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ye6y7O46hzEI8dShR0dLnT8dZRI.jpg",
+              "Name": "Incomplete Life 1&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x11/",
+          "Name": "Incomplete Life 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/cWD81pQnhO899igJhBipxEcJlYH.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/cWD81pQnhO899igJhBipxEcJlYH.jpg",
+              "Name": "Incomplete Life 1&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x12/",
+          "Name": "Incomplete Life 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/h2TIauXbq5qJs27jEuqvXyVKugE.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/h2TIauXbq5qJs27jEuqvXyVKugE.jpg",
+              "Name": "Incomplete Life 1&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x16/",
+          "Name": "Incomplete Life 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bniFoLdod4CSrOmAyixulbxgCWA.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bniFoLdod4CSrOmAyixulbxgCWA.jpg",
+              "Name": "Incomplete Life 1&#215;17"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x17/",
+          "Name": "Incomplete Life 1x17"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nF50NgncXWbNk5JY8gOi5G1AJxQ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nF50NgncXWbNk5JY8gOi5G1AJxQ.jpg",
+              "Name": "Incomplete Life 1&#215;18"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x18/",
+          "Name": "Incomplete Life 1x18"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kgY3Uyo2r3sDESC7qC2OoOKkJiL.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kgY3Uyo2r3sDESC7qC2OoOKkJiL.jpg",
+              "Name": "Incomplete Life 1&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x2/",
+          "Name": "Incomplete Life 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/aAvd30aHdQXPz53d7Nlkk1CRYL.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/aAvd30aHdQXPz53d7Nlkk1CRYL.jpg",
+              "Name": "Incomplete Life 1&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x6/",
+          "Name": "Incomplete Life 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tJM7y3lmgOm8IqBgt3jordvOltQ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tJM7y3lmgOm8IqBgt3jordvOltQ.jpg",
+              "Name": "Incomplete Life 1&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x7/",
+          "Name": "Incomplete Life 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x9/",
+          "Name": "Lỗi kết nối tới cơ sở dữ liệu"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x5/",
+          "Name": "Lỗi kết nối tới cơ sở dữ liệu"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x15/",
+          "Name": "Lỗi kết nối tới cơ sở dữ liệu"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x20/",
+          "Name": "Lỗi kết nối tới cơ sở dữ liệu"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x10/",
+          "Name": "Lỗi kết nối tới cơ sở dữ liệu"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x8/",
+          "Name": "Lỗi kết nối tới cơ sở dữ liệu"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x14/",
+          "Name": "Lỗi kết nối tới cơ sở dữ liệu"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x19/",
+          "Name": "Lỗi kết nối tới cơ sở dữ liệu"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x4/",
+          "Name": "Lỗi kết nối tới cơ sở dữ liệu"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x13/",
+          "Name": "Lỗi kết nối tới cơ sở dữ liệu"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/incomplete-life-1x3/",
+          "Name": "Lỗi kết nối tới cơ sở dữ liệu"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Oct. 17, 2014"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/incomplete-life/",
+  "Name": "Incomplete Life"
+}

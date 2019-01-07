@@ -1,0 +1,47 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1IHXRAVdUbmKJCwqavJ1Z6pPEcr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1IHXRAVdUbmKJCwqavJ1Z6pPEcr.jpg ",
+      "Name": "20th Century Women"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pgkx3cOHBEFAoRrJ7aOV9zLtDEj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pgkx3cOHBEFAoRrJ7aOV9zLtDEj.jpg ",
+      "Name": "20th Century Women"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6fQ8brCsRGoUrquOumLxo6tPxWn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6fQ8brCsRGoUrquOumLxo6tPxWn.jpg ",
+      "Name": "20th Century Women"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mwJitTR19sm8vRlNzr5ZPkHCLl5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mwJitTR19sm8vRlNzr5ZPkHCLl5.jpg ",
+      "Name": "20th Century Women"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/Iv4U58so7Ej9vaRxLF8VIKoUnv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/Iv4U58so7Ej9vaRxLF8VIKoUnv.jpg ",
+      "Name": "20th Century Women"
+    }
+  ],
+  "Links": [],
+  "Intro": "The story of three women who explore love and freedom in Southern California during the late 1970s.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/03/9vavp7kXnLwPGfOfThJwpW0Mk4v-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/TSADYQgDLfI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/20th-century-women/",
+  "Name": "20th Century Women"
+}

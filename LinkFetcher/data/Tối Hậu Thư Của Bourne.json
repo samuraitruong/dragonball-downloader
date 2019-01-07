@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6WpDOqkZFmhNJ0rwuLJiZVKlZi1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6WpDOqkZFmhNJ0rwuLJiZVKlZi1.jpg ",
+      "Name": "Tối Hậu Thư Của Bourne - The Bourne Ultimatum"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/e6PbG4uzWIrdapFaC2yANHuz0QI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/e6PbG4uzWIrdapFaC2yANHuz0QI.jpg ",
+      "Name": "Tối Hậu Thư Của Bourne - The Bourne Ultimatum"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6R8nLjlpkYlR4yP59Q5iHRVFgpg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6R8nLjlpkYlR4yP59Q5iHRVFgpg.jpg ",
+      "Name": "Tối Hậu Thư Của Bourne - The Bourne Ultimatum"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uEXJJAjdFPsraigbvDTRdEE1ACO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uEXJJAjdFPsraigbvDTRdEE1ACO.jpg ",
+      "Name": "Tối Hậu Thư Của Bourne - The Bourne Ultimatum"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zz8lZrc9H2CtGKPsXRm3Ung6srT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zz8lZrc9H2CtGKPsXRm3Ung6srT.jpg ",
+      "Name": "Tối Hậu Thư Của Bourne - The Bourne Ultimatum"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jlo7OLDOkBAzobOPaMjrHTpKsH0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jlo7OLDOkBAzobOPaMjrHTpKsH0.jpg ",
+      "Name": "Tối Hậu Thư Của Bourne - The Bourne Ultimatum"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/thfHDHI4kiScFfRrLpobsuJaqrt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/thfHDHI4kiScFfRrLpobsuJaqrt.jpg ",
+      "Name": "Tối Hậu Thư Của Bourne - The Bourne Ultimatum"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rEZ0zs6TpxsIW3f9yp9A0WneQDE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rEZ0zs6TpxsIW3f9yp9A0WneQDE.jpg ",
+      "Name": "Tối Hậu Thư Của Bourne - The Bourne Ultimatum"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/993GuvsSHR1vgE7ihX4m5stL7cO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/993GuvsSHR1vgE7ihX4m5stL7cO.jpg ",
+      "Name": "Tối Hậu Thư Của Bourne - The Bourne Ultimatum"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pYqvKrIDtRozIKepxU0AbRw4JQ0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pYqvKrIDtRozIKepxU0AbRw4JQ0.jpg ",
+      "Name": "Tối Hậu Thư Của Bourne - The Bourne Ultimatum"
+    }
+  ],
+  "Links": [],
+  "Intro": "Sau cái chết của Marie, Jason gần như trở nên điên loạn với hàng đống đạn dược và những vũ khí giết người hiện đại. Anh chỉ có một mục tiêu duy nhất là quay trở lại nơi bắt đầu và tìm hiểu về thân phận của mình. Jason phải truy ra quá khứ của mình để tìm ra một tương lai mới cho bản thân.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/fHho6JYYY0nRcETWSoeI19iZsNF-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ZT2ZxjUjSo0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-bourne-ultimatum/",
+  "Name": "Tối Hậu Thư Của Bourne"
+}

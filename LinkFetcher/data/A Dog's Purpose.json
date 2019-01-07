@@ -1,0 +1,75 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2ddVTlMyATZdvUHE7DPExA2X6xF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2ddVTlMyATZdvUHE7DPExA2X6xF.jpg",
+      "Name": "A Dog&#8217;s Purpose"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4dob55emCfHT6y5GxtAfEfmY1Za.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4dob55emCfHT6y5GxtAfEfmY1Za.jpg",
+      "Name": "A Dog&#8217;s Purpose"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/etQENqRbfgqzEh4iFJLCD6bSuw4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/etQENqRbfgqzEh4iFJLCD6bSuw4.jpg",
+      "Name": "A Dog&#8217;s Purpose"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/i8BPTA7yKUbUSqrVONzknfr6itk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/i8BPTA7yKUbUSqrVONzknfr6itk.jpg",
+      "Name": "A Dog&#8217;s Purpose"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sLjeApi5odpyEoCzAnbr5DycL3z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sLjeApi5odpyEoCzAnbr5DycL3z.jpg",
+      "Name": "A Dog&#8217;s Purpose"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iJj0M1uKZ75KP19tYiDBshbV3ja.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iJj0M1uKZ75KP19tYiDBshbV3ja.jpg",
+      "Name": "A Dog&#8217;s Purpose"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/llcW2XXO4fO8Ns81uzgonM7hB05.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/llcW2XXO4fO8Ns81uzgonM7hB05.jpg",
+      "Name": "A Dog&#8217;s Purpose"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k1S5URYcSKTfAip0lcKENyFQNSo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k1S5URYcSKTfAip0lcKENyFQNSo.jpg",
+      "Name": "A Dog&#8217;s Purpose"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zUPCgXxeemSjufIu4fF2Ilihrej.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zUPCgXxeemSjufIu4fF2Ilihrej.jpg",
+      "Name": "A Dog&#8217;s Purpose"
+    }
+  ],
+  "Links": [],
+  "Intro": "A dog goes on quest to discover his purpose in life over the course of several lifetimes with multiple owners.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/05/3jcNvhtVQe5Neoffdic39fRactM-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/1jLOOCADTGs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/a-dogs-purpose/",
+  "Name": "A Dog's Purpose"
+}

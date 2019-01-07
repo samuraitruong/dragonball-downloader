@@ -1,56 +1,89 @@
 {
   "Id": "movKBwkIC487242",
-  "Url": "https://fsharephim.com/movies/suicide-squad-hell-to-pay/",
-  "Name": "Biệt Đội Cảm Tử : Trừng Trị",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aoNr4j80ZQXt0vbabgdh1PFBGys.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aoNr4j80ZQXt0vbabgdh1PFBGys.jpg",
+      "Name": "Biệt Đội Cảm Tử : Trừng Trị - Suicide Squad: Hell to Pay"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yALPJpySAQHR9ASKA5WY8pRUroV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yALPJpySAQHR9ASKA5WY8pRUroV.jpg",
+      "Name": "Biệt Đội Cảm Tử : Trừng Trị - Suicide Squad: Hell to Pay"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movkbwkic487242-5/",
-      "Name": "Suicide.Squad.Hell.to.Pay.2018.BluRay.1080p.DTS-HD.MA.5.1.x264-MTeam.mkv",
-      "Url": "https://www.fshare.vn/file/DKG9M6MFZGX28PM",
       "Size": "5.08 GB",
-      "FileSize": 5455104367
+      "FileSize": 5455104367,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/DKG9M6MFZGX28PM",
+      "Name": "Suicide.Squad.Hell.to.Pay.2018.BluRay.1080p.DTS-HD.MA.5.1.x264-MTeam.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movkbwkic487242-6/",
-      "Name": "Suicide.Squad.Hell.to.Pay.2018.2160p.BluRay.REMUX.HEVC.DTS-HD.5.1-FGT.mkv",
-      "Url": "https://www.fshare.vn/file/OTSAPI6XZXEVZ22",
       "Size": "33.16 GB",
-      "FileSize": 35602744878
+      "FileSize": 35602744878,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/OTSAPI6XZXEVZ22",
+      "Name": "Suicide.Squad.Hell.to.Pay.2018.2160p.BluRay.REMUX.HEVC.DTS-HD.5.1-FGT.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movkbwkic487242-7/",
-      "Name": "suicide-squad-hell-to-pay_vietnamese-1764034.zip",
-      "Url": "https://www.fshare.vn/file/BN38KWKT4VRY",
       "Size": "27.46 KB",
-      "FileSize": 28124
+      "FileSize": 28124,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/BN38KWKT4VRY",
+      "Name": "suicide-squad-hell-to-pay_vietnamese-1764034.zip"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movkbwkic487242-3/",
-      "Name": "Suicide.Squad.Hell.to.Pay.2018.BluRay.720p.DTS.x264-MTeam.mkv",
-      "Url": "https://www.fshare.vn/file/6FAVAIE7L28N",
       "Size": "2.76 GB",
-      "FileSize": 2965328492
+      "FileSize": 2965328492,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/6FAVAIE7L28N",
+      "Name": "Suicide.Squad.Hell.to.Pay.2018.BluRay.720p.DTS.x264-MTeam.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movkbwkic487242-4/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/suicide-squad-hell-to-pay",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/suicide-squad-hell-to-pay",
+      "Name": "Subtitle"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movkbwkic487242-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/suicide-squad-hell-to-pay",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/suicide-squad-hell-to-pay",
+      "Name": "Subtitle"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movkbwkic487242/",
-      "Name": "Suicide Squad Hell to Pay 2018 720p WEB-DL DD5.1 H264-FGT.mkv",
-      "Url": "https://www.fshare.vn/file/NMWDW5OQDDHZ",
       "Size": "2.68 GB",
-      "FileSize": 2878775224
+      "FileSize": 2878775224,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/NMWDW5OQDDHZ",
+      "Name": "Suicide Squad Hell to Pay 2018 720p WEB-DL DD5.1 H264-FGT.mkv"
     }
-  ]
+  ],
+  "Intro": "Để đối phó với tên bạo chúa bất tử Vandal Savage một cách âm thầm , Amanda Waller phải cần đến những kẻ nguy hiểm nhất ( và có lẽ là cặn bã nhất) Trái Đất. Bộ phim sẽ có sự góp mặt của các &#8220;đặc vụ miễn cưỡng&#8221; quen thuộc như Deadshot, Harley Quinn, Captain Boomerang và Killer Frost. Ngoài ra, chúng ta còn sẽ được chứng kiến một đội hình với những nhân tố mới lạ như Zoom, Copperhead và Bronze Tiger&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/va1IgsZeWBbKLsZcFwz3CM1MkMu-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/EPZZvk-wbGE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/suicide-squad-hell-to-pay/",
+  "Name": "Biệt Đội Cảm Tử : Trừng Trị"
 }

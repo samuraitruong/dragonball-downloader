@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/npBxa9C7Um9MsrSHAfOsSaMzNeh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/npBxa9C7Um9MsrSHAfOsSaMzNeh.jpg",
+      "Name": "The Man Who Was Thursday"
+    }
+  ],
+  "Links": [],
+  "Intro": "THE MAN WHO WAS THURSDAY is inspired by the existentialist novel of the same name by G.K. Chesterton (1908). The novel is considered a metaphysical thriller, and our film could be considered the same, though it also can be thought of in more classical cinematic terms a psychological and supernatural thriller.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/6rKXOieu5xIP7gUh9Khnzal3QoZ-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-man-who-was-thursday/",
+  "Name": "The Man Who Was Thursday"
+}

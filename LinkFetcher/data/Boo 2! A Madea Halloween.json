@@ -1,0 +1,27 @@
+{
+  "Id": "movsDUB6x459202",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/78kN1a1AHxAPEh7hQhNjDQhLZ9W.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/78kN1a1AHxAPEh7hQhNjDQhLZ9W.jpg",
+      "Name": "Boo 2! A Madea Halloween"
+    }
+  ],
+  "Links": [],
+  "Intro": "Madea and the gang encounter monsters, goblins and boogeymen at a haunted campground.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/5nvP4etJ8ecQv8qZM08dK4BAzdK-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/eA5MHLL5dwk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/boo-2-a-madea-halloween/",
+  "Name": "Boo 2! A Madea Halloween"
+}

@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oSS43fHkamqQzgqXVOUD9q6Hq4V.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oSS43fHkamqQzgqXVOUD9q6Hq4V.jpg ",
+      "Name": "Please Stand By"
+    }
+  ],
+  "Links": [],
+  "Intro": "A young autistic woman runs away from her caregiver in order to boldly go and deliver her 500-page Star Trek script to a writing competition in Hollywood. On an adventure full of laughter and tears, Wendy, played with exquisite delicacy by Dakota Fanning, follows the guiding spirit of Mr. Spock on her journey into the unknown. &#8220;It is there for us to conquer, not to fear.&#8221;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/uZSJFyW6GoEtQgukMa4MhL21V4p-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ghI4y6otpjY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/please-stand-by/",
+  "Name": "Please Stand By"
+}

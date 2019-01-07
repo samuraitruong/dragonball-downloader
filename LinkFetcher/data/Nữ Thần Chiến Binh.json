@@ -1,21 +1,80 @@
 {
-  "Id": "movBF1b4r15359",
-  "Url": "https://fsharephim.com/movies/wonder-woman-2/",
-  "Name": "Nữ Thần Chiến Binh",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movbf1b4r15359-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/wonder-woman/vietnamese/211640",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movbf1b4r15359/",
-      "Name": "Wonder.Woman.2009.720p.BluRay.x264-CtrlHD.mkv",
-      "Url": "https://www.fshare.vn/file/WLYRPYG1KG9P",
-      "Size": "2.58 GB",
-      "FileSize": 2768499584
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6iUNJZymJBMXXriQyFZfLAKnjO6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6iUNJZymJBMXXriQyFZfLAKnjO6.jpg",
+      "Name": "Nữ Thần Chiến Binh - Wonder Woman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zr9AFBByEYPZk4krrSSHIc22nJR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zr9AFBByEYPZk4krrSSHIc22nJR.jpg",
+      "Name": "Nữ Thần Chiến Binh - Wonder Woman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hA5oCgvgCxj5MEWcLpjXXTwEANF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hA5oCgvgCxj5MEWcLpjXXTwEANF.jpg",
+      "Name": "Nữ Thần Chiến Binh - Wonder Woman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+      "Name": "Nữ Thần Chiến Binh - Wonder Woman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9tuQAYHLA9G02Th6eiV5hq7mpbj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9tuQAYHLA9G02Th6eiV5hq7mpbj.jpg",
+      "Name": "Nữ Thần Chiến Binh - Wonder Woman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/BtUB5ZDu6sc2vNbXFPXTqbD7kv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/BtUB5ZDu6sc2vNbXFPXTqbD7kv.jpg",
+      "Name": "Nữ Thần Chiến Binh - Wonder Woman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f9xwRVV9RHeaz6hwh47Yt7FnJey.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f9xwRVV9RHeaz6hwh47Yt7FnJey.jpg",
+      "Name": "Nữ Thần Chiến Binh - Wonder Woman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h2sCbuEPqMNvGYpti8iA0Jcc9Xu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h2sCbuEPqMNvGYpti8iA0Jcc9Xu.jpg",
+      "Name": "Nữ Thần Chiến Binh - Wonder Woman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/q2IIFDJKZFKMbf0ePj5KCacnvFe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/q2IIFDJKZFKMbf0ePj5KCacnvFe.jpg",
+      "Name": "Nữ Thần Chiến Binh - Wonder Woman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mY3qdtTMSuUDkSPA50bqZPJdbPu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mY3qdtTMSuUDkSPA50bqZPJdbPu.jpg",
+      "Name": "Nữ Thần Chiến Binh - Wonder Woman"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bộ phim kể về quá khứ của nữ chiến binh huyền thoại Diana Prince trước khi nàng trở thành Wonder Woman gặp gỡ Người Dơi và Siêu Nhân trong Batman v Superman: Dawn Of Justice.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/06/gfJGlDaHuWimErCr5Ql0I8x9QSy-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/1Q8fG0TtVAY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/wonder-woman/",
+  "Name": "Nữ Thần Chiến Binh"
 }

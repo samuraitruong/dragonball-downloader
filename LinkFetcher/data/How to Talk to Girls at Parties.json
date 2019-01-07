@@ -1,0 +1,60 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uBz80hwNN5eNkbmpC6MtRzAlVHp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uBz80hwNN5eNkbmpC6MtRzAlVHp.jpg ",
+      "Name": "How to Talk to Girls at Parties - How to Talk to Girls at Parties"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ja1C1e06ZF2L3GlDv2FAXdzYhtD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ja1C1e06ZF2L3GlDv2FAXdzYhtD.jpg ",
+      "Name": "How to Talk to Girls at Parties - How to Talk to Girls at Parties"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bsJa6f4dKwzMpdNT6fcRg77PVj3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bsJa6f4dKwzMpdNT6fcRg77PVj3.jpg ",
+      "Name": "How to Talk to Girls at Parties - How to Talk to Girls at Parties"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jtYhUNYtx4LXdCUiFFjUL9yDzSd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jtYhUNYtx4LXdCUiFFjUL9yDzSd.jpg ",
+      "Name": "How to Talk to Girls at Parties - How to Talk to Girls at Parties"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bCq1KZOeizMXrI3AQZH0Oev1AX2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bCq1KZOeizMXrI3AQZH0Oev1AX2.jpg ",
+      "Name": "How to Talk to Girls at Parties - How to Talk to Girls at Parties"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hjUkiNj0IWGym554fQs0Gnx4XZG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hjUkiNj0IWGym554fQs0Gnx4XZG.jpg ",
+      "Name": "How to Talk to Girls at Parties - How to Talk to Girls at Parties"
+    }
+  ],
+  "Links": [],
+  "Intro": "How to Talk to Girls at Parties của đạo diễn John Cameron Mitchell, dựa trên một truyện ngắn của nhà văn Neil Gailman, theo bước một sinh vật ngoài hành tinh trên chuyến viễn du đến trái đất và dừng chân tại London tấp nập. Dự án tâm huyết này đã ngốn của đạo diễn Mitchell bảy năm trời ròng rã để thực hiện. Trái với hình ảnh nghiêm túc trong hai phim trước đó, lần này mỹ nhân nước Úc sẽ thủ vai người ngoài hành tinh với mái tóc phá cách và bộ trang phục chẳng giống ai.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/tyCt5dQ2yhfEtWcP3KqMgtFk7s0-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/nWzHaRM8jeo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/how-to-talk-to-girls-at-parties/",
+  "Name": "How to Talk to Girls at Parties"
+}

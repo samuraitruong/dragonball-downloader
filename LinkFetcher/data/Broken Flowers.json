@@ -1,0 +1,60 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mQGEByVNnKiOVoAMDJ9KhvlCtgz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mQGEByVNnKiOVoAMDJ9KhvlCtgz.jpg",
+      "Name": "Broken Flowers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1y8VNiI8RZrxRaND9qw8e77vorZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1y8VNiI8RZrxRaND9qw8e77vorZ.jpg",
+      "Name": "Broken Flowers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5iliGtUJwbFDvj6ZUnvQOyNa6Rz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5iliGtUJwbFDvj6ZUnvQOyNa6Rz.jpg",
+      "Name": "Broken Flowers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/99OIwsBXPDIolfqrVystbtNAiQ2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/99OIwsBXPDIolfqrVystbtNAiQ2.jpg",
+      "Name": "Broken Flowers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jLSvpIEj19Ybw1lZH6ZEn2aHJDs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jLSvpIEj19Ybw1lZH6ZEn2aHJDs.jpg",
+      "Name": "Broken Flowers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1wRCcCL4FWicKVecvTwcx1R3TgC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1wRCcCL4FWicKVecvTwcx1R3TgC.jpg",
+      "Name": "Broken Flowers"
+    }
+  ],
+  "Links": [],
+  "Intro": "As the devoutly single Don Johnston is dumped by his latest girlfriend, he receives an anonymous pink letter informing him that he has a son who may be looking for him.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/pvtdRUpJE6YjIi8BLEZ7jhEdeN1-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/GHmFlLwTNLk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/broken-flowers/",
+  "Name": "Broken Flowers"
+}

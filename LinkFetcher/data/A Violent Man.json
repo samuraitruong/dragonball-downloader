@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mJafEc0ZGl4Hy8qMDxy4h6pwkcy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mJafEc0ZGl4Hy8qMDxy4h6pwkcy.jpg",
+      "Name": "A Violent Man"
+    }
+  ],
+  "Links": [],
+  "Intro": "A struggling mixed martial arts fighter finds himself in a fight for his life after his one night stand is found dead in her home.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/dMLJ6dKZvg07ioc9WNV66TEaDGH-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/a-violent-man/",
+  "Name": "A Violent Man"
+}

@@ -1,0 +1,65 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qXsy8GwqI3yDpxMPdBI2YCwjljn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qXsy8GwqI3yDpxMPdBI2YCwjljn.jpg ",
+      "Name": "Câu Chuyện Cảnh Sát 6 - Police Story 2013"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z50WARWFJhID9JnPzMYCoH4KsHq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z50WARWFJhID9JnPzMYCoH4KsHq.jpg ",
+      "Name": "Câu Chuyện Cảnh Sát 6 - Police Story 2013"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mF9irAgZ5jCISmmagCyq0obnykH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mF9irAgZ5jCISmmagCyq0obnykH.jpg ",
+      "Name": "Câu Chuyện Cảnh Sát 6 - Police Story 2013"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gzvir49Ifhnw9ZHIggT3pD3XC9o.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gzvir49Ifhnw9ZHIggT3pD3XC9o.jpg ",
+      "Name": "Câu Chuyện Cảnh Sát 6 - Police Story 2013"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6oRqjkT4veGS4utQ6xALebuZRQF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6oRqjkT4veGS4utQ6xALebuZRQF.jpg ",
+      "Name": "Câu Chuyện Cảnh Sát 6 - Police Story 2013"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wWf6f4B9AfQvjHrPMwXXnEBlDM8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wWf6f4B9AfQvjHrPMwXXnEBlDM8.jpg ",
+      "Name": "Câu Chuyện Cảnh Sát 6 - Police Story 2013"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dbdAXR1TxORZ7elypHqwvZOe5ga.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dbdAXR1TxORZ7elypHqwvZOe5ga.jpg ",
+      "Name": "Câu Chuyện Cảnh Sát 6 - Police Story 2013"
+    }
+  ],
+  "Links": [],
+  "Intro": "Câu chuyện cảnh sát 2013 là tác phẩm điện ảnh mới đánh dấu sự trở lại với series cùng tên của Thành Long sau 10 năm. Phần đầu tiên của series ra lò năm 1985, các phần tiếp theo lần lượt trình làng vào năm 1988, 1992, 1996 và Tân câu chuyện cảnh sát năm 2004.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/yxYlAqBA3EjQwHFtGfb03ztfJmC-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/aXOE5zm2UH0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/police-story-2013/",
+  "Name": "Câu Chuyện Cảnh Sát 6"
+}

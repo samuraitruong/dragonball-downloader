@@ -1,0 +1,62 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yGDCoFRbGazKFvoYxCq8CoOb0ad.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yGDCoFRbGazKFvoYxCq8CoOb0ad.jpg ",
+      "Name": "Rendez-Vous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/957oZQyNPNR9HLIH8wPjdIYeNbf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/957oZQyNPNR9HLIH8wPjdIYeNbf.jpg ",
+      "Name": "Rendez-Vous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4oul9oPj4LkAzcleM069evno6l6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4oul9oPj4LkAzcleM069evno6l6.jpg ",
+      "Name": "Rendez-Vous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7NsuJMECzicG3civXwofTGLiJhS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7NsuJMECzicG3civXwofTGLiJhS.jpg ",
+      "Name": "Rendez-Vous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2DjDBw86g56WUFjXW6Cico9n3E1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2DjDBw86g56WUFjXW6Cico9n3E1.jpg ",
+      "Name": "Rendez-Vous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4QXJ3AvhrVrucqC7GhHl07bQEHH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4QXJ3AvhrVrucqC7GhHl07bQEHH.jpg ",
+      "Name": "Rendez-Vous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bOEkZiqZubuSQsnOBd5eZ5Bngmg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bOEkZiqZubuSQsnOBd5eZ5Bngmg.jpg ",
+      "Name": "Rendez-Vous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5OnXivneBFr3XVgNx7zeezjXFq3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5OnXivneBFr3XVgNx7zeezjXFq3.jpg ",
+      "Name": "Rendez-Vous"
+    }
+  ],
+  "Links": [],
+  "Intro": "Simone inherits a dilapidated farmhouse in France and makes her way there with her husband Eric and their two children. Her dream is to turn the house into a bed and breakfast but as the hectic pace of the rebuilding gets underway, she gets caught up in the romance and chaos of it all. Losing sight of her goals, she must find her way back to the dreams and ambitions which brought her there in the first place.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/ial6Hf9jvIusu5sVIwFVnDD86DE-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/rendez-vous/",
+  "Name": "Rendez-Vous"
+}

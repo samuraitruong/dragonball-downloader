@@ -1,42 +1,80 @@
 {
-  "Id": "movcOPlld270946",
-  "Url": "https://fsharephim.com/movies/penguins-of-madagascar/",
-  "Name": "Biệt đội cánh cụt vùng Madagascar",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movcoplld270946-4/",
-      "Name": "Penguins of Madagascar (2014) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/G7AN6L817MBC",
-      "Size": "1.75 GB",
-      "FileSize": 1880514245
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movcoplld270946-5/",
-      "Name": "Penguins of Madagascar (2014) 1080p AVC DTS-HD MA 7.1.iso",
-      "Url": "https://www.fshare.vn/file/NQGPZID1SLAF",
-      "Size": "29.84 GB",
-      "FileSize": 32037142528
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movcoplld270946-3/",
-      "Name": "Penguins of Madagascar (2014) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/51FUNG3SHPSO",
-      "Size": "1.11 GB",
-      "FileSize": 1191953529
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movcoplld270946/",
-      "Name": "Penguins.of.Madagascar.2014.LT.mkv",
-      "Url": "https://www.fshare.vn/file/ITD2V17MBFWZ",
-      "Size": "1.95 GB",
-      "FileSize": 2091638883
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movcoplld270946-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/penguins-of-madagascar-2014",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zoNAlDm6QYNkcXYVHSUqpquYYVr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zoNAlDm6QYNkcXYVHSUqpquYYVr.jpg",
+      "Name": "Biệt đội cánh cụt vùng Madagascar - Penguins of Madagascar"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/GtodNrQnorVd3Gv6f6i4bdEwkP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/GtodNrQnorVd3Gv6f6i4bdEwkP.jpg",
+      "Name": "Biệt đội cánh cụt vùng Madagascar - Penguins of Madagascar"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2OwYv80bjiDueAJLN6oaDb4InwT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2OwYv80bjiDueAJLN6oaDb4InwT.jpg",
+      "Name": "Biệt đội cánh cụt vùng Madagascar - Penguins of Madagascar"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fWh6NpqPM81XyvvtMyQm9msQfnK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fWh6NpqPM81XyvvtMyQm9msQfnK.jpg",
+      "Name": "Biệt đội cánh cụt vùng Madagascar - Penguins of Madagascar"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5avjVMG51tAV82twASj2WzzsF2F.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5avjVMG51tAV82twASj2WzzsF2F.jpg",
+      "Name": "Biệt đội cánh cụt vùng Madagascar - Penguins of Madagascar"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/poifwnlmJpUfZSazkVidEfcBcbh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/poifwnlmJpUfZSazkVidEfcBcbh.jpg",
+      "Name": "Biệt đội cánh cụt vùng Madagascar - Penguins of Madagascar"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vNVhb2sH3m03K8EUJOXK0TRJycs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vNVhb2sH3m03K8EUJOXK0TRJycs.jpg",
+      "Name": "Biệt đội cánh cụt vùng Madagascar - Penguins of Madagascar"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/44Tbw1SzwptZsRkZ7rSlxRfrfCE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/44Tbw1SzwptZsRkZ7rSlxRfrfCE.jpg",
+      "Name": "Biệt đội cánh cụt vùng Madagascar - Penguins of Madagascar"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9zDT2Sc3wWUYUSZAtDE9ovp30Xp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9zDT2Sc3wWUYUSZAtDE9ovp30Xp.jpg",
+      "Name": "Biệt đội cánh cụt vùng Madagascar - Penguins of Madagascar"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/urqUllsnEw14aP44AaUTTenfdS2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/urqUllsnEw14aP44AaUTTenfdS2.jpg",
+      "Name": "Biệt đội cánh cụt vùng Madagascar - Penguins of Madagascar"
+    }
+  ],
+  "Links": [],
+  "Intro": "Hãy cùng khám phá những bí mật tuyệt vời nhất, hài hước nhất của những chú chim cánh cụt trong thế giới tình báo: Skipper, Kowalski, Rico và Private, khi những điệp viên tinh nhuệ nhất này cùng chung sức với một tổ chức ngầm sang chảnh có tên Ngọn gió Phương Bắc. Cùng nhau họ phải chống lại những âm mưu hủy diệt thế giới này của kẻ nguy hiểm nhất từ trước đến nay &#8211; Tiến sĩ Octavius Brine.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/pRer59eyY4rjkLPeKXKo7fPxCHH-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/KHGHEpUeUwo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/penguins-of-madagascar/",
+  "Name": "Biệt đội cánh cụt vùng Madagascar"
 }

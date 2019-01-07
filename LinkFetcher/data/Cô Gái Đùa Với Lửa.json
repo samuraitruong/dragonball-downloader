@@ -1,0 +1,84 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qMDiCjxfv6Y8JN2DFViTX5D1ORH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qMDiCjxfv6Y8JN2DFViTX5D1ORH.jpg ",
+      "Name": "Cô Gái Đùa Với Lửa - The Girl Who Played with Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tudCM9SJNndUbwjh5u0LLMQHQTw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tudCM9SJNndUbwjh5u0LLMQHQTw.jpg ",
+      "Name": "Cô Gái Đùa Với Lửa - The Girl Who Played with Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mE7gJWjbgnsnGUaiTyZCASHWYFh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mE7gJWjbgnsnGUaiTyZCASHWYFh.jpg ",
+      "Name": "Cô Gái Đùa Với Lửa - The Girl Who Played with Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/Mn5K8dHVaGgH4C3yni1eGPDTzK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/Mn5K8dHVaGgH4C3yni1eGPDTzK.jpg ",
+      "Name": "Cô Gái Đùa Với Lửa - The Girl Who Played with Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oGk7gXTVRHlEBbeWBxmVJCSMazD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oGk7gXTVRHlEBbeWBxmVJCSMazD.jpg ",
+      "Name": "Cô Gái Đùa Với Lửa - The Girl Who Played with Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kPLCXHspl3IQhPkmOVMvA5RL6hZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kPLCXHspl3IQhPkmOVMvA5RL6hZ.jpg ",
+      "Name": "Cô Gái Đùa Với Lửa - The Girl Who Played with Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g6IuOAoelNT8399hr5igJtPdMl5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g6IuOAoelNT8399hr5igJtPdMl5.jpg ",
+      "Name": "Cô Gái Đùa Với Lửa - The Girl Who Played with Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/djjSIsqLYoIOn24URwQnzYVwEfx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/djjSIsqLYoIOn24URwQnzYVwEfx.jpg ",
+      "Name": "Cô Gái Đùa Với Lửa - The Girl Who Played with Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hD1d78O6QYegdiuhQ8HA4XgSIXq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hD1d78O6QYegdiuhQ8HA4XgSIXq.jpg ",
+      "Name": "Cô Gái Đùa Với Lửa - The Girl Who Played with Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9e7snxZITcmTVX8PnENcRfQuyjv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9e7snxZITcmTVX8PnENcRfQuyjv.jpg ",
+      "Name": "Cô Gái Đùa Với Lửa - The Girl Who Played with Fire"
+    }
+  ],
+  "Links": [],
+  "Intro": "Cô Gái Đùa Với Lửa là bộ phim chuyển thể từ cuốn thứ hai của bộ ba tiểu thuyết trinh thám Thiên Niên Kỷ (Millennium) của nhà văn Thụy Điển Stieg Larsson. Cô Gái Đùa Với Lửa là một cuộc săn đuổi mang màu sắc trinh thám giữa những người phá án một đường dây buôn bán tình dục với một cô gái bị tình nghi giết chết ba mạng người.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/qHRpU2d9NWB0WDulwgFwg6a9JRK-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/oSsodK7KFXQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-girl-who-played-with-fire/",
+  "Name": "Cô Gái Đùa Với Lửa"
+}

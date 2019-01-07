@@ -1,0 +1,31 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/slJcG3OKK7zcbtrSOkS4ITvy26X.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/slJcG3OKK7zcbtrSOkS4ITvy26X.jpg ",
+      "Name": "Thợ Săn Bầu - Sky Hunter"
+    }
+  ],
+  "Links": [],
+  "Intro": "Sky Hunter là câu chuyện về những người lính không quân luôn cố gắng giữ gìn và bảo vệ lợi ích quốc gia, bảo vệ hòa bình, chiến đấu trong những trường hợp khẩn cấp kết hợp với cứu viện khi xảy ra khủng bố. Đây là một câu chuyện truyền kỳ về những cuộc chiến trên không trung, “Bá Thiên Lang” là một đoàn binh không quân thần bí, Ngô Định (Lý Thần), Á Lỵ (Phạm Băng Băng), Ba Đồ (Quách Minh Vũ), Cao Nguyên (Lý Thần Hạo) phải trải qua từng đợt kiểm tra khắc nghiệt mới có thể trở thành một trong những thành viên của Bá Thiên Lang.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/uwOrMH50bopUF4qdxGn1Cstvyot-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Sgmg_E2bsY4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/sky-hunter/",
+  "Name": "Thợ Săn Bầu"
+}

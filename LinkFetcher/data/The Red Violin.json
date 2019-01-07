@@ -1,0 +1,49 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/atlwDP7j2yuhYEduyvp3vlH5Ojr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/atlwDP7j2yuhYEduyvp3vlH5Ojr.jpg",
+      "Name": "The Red Violin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ngwh7hD8lSLhm3LhqsxuL4omr0F.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ngwh7hD8lSLhm3LhqsxuL4omr0F.jpg",
+      "Name": "The Red Violin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pHTRO4NOdClnYDA6oJACzFbenE5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pHTRO4NOdClnYDA6oJACzFbenE5.jpg",
+      "Name": "The Red Violin"
+    }
+  ],
+  "Links": [],
+  "Intro": "Spans 300 years in the life of one famed musical instrument that winds up in present-day Montreal on the auction block. Crafted by the Italian master Bussotti (Cecchi) in 1681, the red violin derives its unusual color from the human blood mixed into the finish. With this legacy, the violin travels to Austria, England, China, and Canada, leaving both beauty and tragedy in its wake.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/lh6EZuSSmGzaRgYuJeO7uSynQR4-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/DhqgV4flGdE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-red-violin/",
+  "Name": "The Red Violin"
+}

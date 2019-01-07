@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gYeI3Yo7HnkPGpTWnjP02zqbdQk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gYeI3Yo7HnkPGpTWnjP02zqbdQk.jpg",
+      "Name": "Fabulous 30"
+    }
+  ],
+  "Links": [],
+  "Intro": "Ja, a beautiful woman has everything a woman is supposed to dream of having; a successful career, a partying lifestyle, and a handsome sweetheart. On her 30th birthday, Ja finds her perfect life changed when her boyfriend wants to halt the relationship.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/tqAyS6RphEKSmDA6UPpUNu16mMW-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/fT3F58UeI_g?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/fabulous-30/",
+  "Name": "Fabulous 30"
+}

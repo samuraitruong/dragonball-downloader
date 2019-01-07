@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/q1EJHHcvi9ywsPFjEUY1dYcR8Yx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/q1EJHHcvi9ywsPFjEUY1dYcR8Yx.jpg",
+      "Name": "Nine Months"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cHqZBsUdqsjve3mAV8M6CrtjCm2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cHqZBsUdqsjve3mAV8M6CrtjCm2.jpg",
+      "Name": "Nine Months"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xb6wnyh5coCPrQw3CfxOSlKTRVw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xb6wnyh5coCPrQw3CfxOSlKTRVw.jpg",
+      "Name": "Nine Months"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m4Wfo04OfFpT3ZLH51FEvjhimij.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m4Wfo04OfFpT3ZLH51FEvjhimij.jpg",
+      "Name": "Nine Months"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cNinp9Z8Y4Dlu0nMz4JjKviuRZd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cNinp9Z8Y4Dlu0nMz4JjKviuRZd.jpg",
+      "Name": "Nine Months"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/10lqsWzSYDq5nau48n28vp0cfLB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/10lqsWzSYDq5nau48n28vp0cfLB.jpg",
+      "Name": "Nine Months"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iqTqzbrQKnIAB32aA5aqydCunjb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iqTqzbrQKnIAB32aA5aqydCunjb.jpg",
+      "Name": "Nine Months"
+    }
+  ],
+  "Links": [],
+  "Intro": "When he finds out his longtime girlfriend is pregnant, a commitment-phobe realizes he might have to change his lifestyle for better or much, much worse.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/l6HWwhtqmowlNqWYln011WTTm35-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/dVmOU8HPf_E?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/nine-months/",
+  "Name": "Nine Months"
+}

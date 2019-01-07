@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6wBfey6EVR5qxYLB8pxoTVQYWkS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6wBfey6EVR5qxYLB8pxoTVQYWkS.jpg ",
+      "Name": "Sát Thủ Đánh Thuê - Hitman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dr26z3XBNqV2Mz56ryWPsEULHd6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dr26z3XBNqV2Mz56ryWPsEULHd6.jpg ",
+      "Name": "Sát Thủ Đánh Thuê - Hitman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k7vO3TKmDWSQodyvWCvsh6S1g9q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k7vO3TKmDWSQodyvWCvsh6S1g9q.jpg ",
+      "Name": "Sát Thủ Đánh Thuê - Hitman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6mY10tbNH29CctNcIvfcgFSRSxT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6mY10tbNH29CctNcIvfcgFSRSxT.jpg ",
+      "Name": "Sát Thủ Đánh Thuê - Hitman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aCwbhpPkicBSr1Zu3GyIC3qWBiQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aCwbhpPkicBSr1Zu3GyIC3qWBiQ.jpg ",
+      "Name": "Sát Thủ Đánh Thuê - Hitman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nP4NHxiJyLEIp8nyduGrxk0tBSt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nP4NHxiJyLEIp8nyduGrxk0tBSt.jpg ",
+      "Name": "Sát Thủ Đánh Thuê - Hitman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/n4MDTAiiemQQJeyLbZZOxlr7e5c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/n4MDTAiiemQQJeyLbZZOxlr7e5c.jpg ",
+      "Name": "Sát Thủ Đánh Thuê - Hitman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qS9S8BT09NXeU1mRASLGZVML2cT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qS9S8BT09NXeU1mRASLGZVML2cT.jpg ",
+      "Name": "Sát Thủ Đánh Thuê - Hitman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/th7yoTOYXL0d9Z9d1S33atytHlg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/th7yoTOYXL0d9Z9d1S33atytHlg.jpg ",
+      "Name": "Sát Thủ Đánh Thuê - Hitman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5qvYJMskne4hdJSTwiafgbS7i00.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5qvYJMskne4hdJSTwiafgbS7i00.jpg ",
+      "Name": "Sát Thủ Đánh Thuê - Hitman"
+    }
+  ],
+  "Links": [],
+  "Intro": "Trong bộ vest đen lịch thiệp, với gương mặt pha nét Á Đông lạnh lùng, hắn khiến những con mồi của mình phải chùn bước, run sợ mà nạp mạng cho hắn. Hắn là một Sát thủ chuyên nghiệp, được huấn luyện với tất cả những ngón nghề cùng sự khôn ngoan để lấy mạng kẻ khác, chẳng ai biết tên thật của hắn, chỉ biết hắn được gọi là 47, đó là 2 con số được in cùng 1 thanh mã vạch như trên các gói hàng đằng sau cổ và dưới cái đầu trọc lóc đến lạnh lẽo của hắn.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/1U2FpMotSyaciATw5qfEsKdgpX4-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/XJhNzHyq-IE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/hitman/",
+  "Name": "Sát Thủ Đánh Thuê"
+}

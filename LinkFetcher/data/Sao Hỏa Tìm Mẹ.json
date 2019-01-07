@@ -1,28 +1,91 @@
 {
   "Id": "movTA47uD50321",
-  "Url": "https://fsharephim.com/movies/mars-needs-moms/",
-  "Name": "Sao Hỏa Tìm Mẹ",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l2R7qKAXQgfJR4C7B4clQpJeBq1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l2R7qKAXQgfJR4C7B4clQpJeBq1.jpg",
+      "Name": "Sao Hỏa Tìm Mẹ - Mars Needs Moms"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3TTP2qVda479YgtOLDWxhzaASXU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3TTP2qVda479YgtOLDWxhzaASXU.jpg",
+      "Name": "Sao Hỏa Tìm Mẹ - Mars Needs Moms"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ru1OJSsBy8B775ekFM7NszntaAy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ru1OJSsBy8B775ekFM7NszntaAy.jpg",
+      "Name": "Sao Hỏa Tìm Mẹ - Mars Needs Moms"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z5F6YVkHtg9wNi6BRzztQAJoLCm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z5F6YVkHtg9wNi6BRzztQAJoLCm.jpg",
+      "Name": "Sao Hỏa Tìm Mẹ - Mars Needs Moms"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dJtlBhPOmRpXt8FRzDSpywQ5qLa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dJtlBhPOmRpXt8FRzDSpywQ5qLa.jpg",
+      "Name": "Sao Hỏa Tìm Mẹ - Mars Needs Moms"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vHW2sriwahi7bsLcgO6CTsDwifM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vHW2sriwahi7bsLcgO6CTsDwifM.jpg",
+      "Name": "Sao Hỏa Tìm Mẹ - Mars Needs Moms"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hIpOaD0rSexU5lzLs7b3uPNG33P.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hIpOaD0rSexU5lzLs7b3uPNG33P.jpg",
+      "Name": "Sao Hỏa Tìm Mẹ - Mars Needs Moms"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rMuFhsBukhE9O52zlngrBBqcVbo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rMuFhsBukhE9O52zlngrBBqcVbo.jpg",
+      "Name": "Sao Hỏa Tìm Mẹ - Mars Needs Moms"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movta47ud50321-3/",
-      "Name": "Mars Needs Moms 2011 ViE 1080p 2D3D Blu-ray Remux AVC  DTS-HD MA 5.1​​.iso",
-      "Url": "https://www.fshare.vn/file/SNLSTKZ21O1TTCX",
       "Size": "33.01 GB",
-      "FileSize": 35441737728
+      "FileSize": 35441737728,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/SNLSTKZ21O1TTCX",
+      "Name": "Mars Needs Moms 2011 ViE 1080p 2D3D Blu-ray Remux AVC  DTS-HD MA 5.1​​.iso"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movta47ud50321/",
-      "Name": "Mars.Needs.Mom.2011.VIET.720p.BluRay.DTS.x264-CtrlHD.mkv",
-      "Url": "https://www.fshare.vn/file/T8TMZWHVFT",
       "Size": "4.48 GB",
-      "FileSize": 4807978912
+      "FileSize": 4807978912,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/T8TMZWHVFT",
+      "Name": "Mars.Needs.Mom.2011.VIET.720p.BluRay.DTS.x264-CtrlHD.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movta47ud50321-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/mars-needs-moms",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/mars-needs-moms",
+      "Name": "Subtitle"
     }
-  ]
+  ],
+  "Intro": "Milo – một thiếu niên 9 tuổi phải theo đuổi cuộc hành trình xuyên qua các hành tinh trên chiếc tàu vũ trụ để tìm kiếm người mẹ yêu dấu bị bọn người sao Hỏa bắt cóc cùng với sự trợ giúp của Gribble – chàng trai có đầu óc siêu việt về công nghệ và một cô gái nổi loạn người sao Hỏa tên Ki.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/6S7pkMjLrtmzn8uU5vRyTn5Az2A-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/JWYVQzG0rYk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/mars-needs-moms/",
+  "Name": "Sao Hỏa Tìm Mẹ"
 }

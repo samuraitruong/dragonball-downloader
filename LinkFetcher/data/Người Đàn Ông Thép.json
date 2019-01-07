@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jYLh4mdOqkt30i7LTFs3o02UcGF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jYLh4mdOqkt30i7LTFs3o02UcGF.jpg",
+      "Name": "Người Đàn Ông Thép - Man of Steel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jHC63hQR9HBZRXfIZmXwjFE8T7f.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jHC63hQR9HBZRXfIZmXwjFE8T7f.jpg",
+      "Name": "Người Đàn Ông Thép - Man of Steel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gVAjpwhYMuCCCVf29THHFB6pIRg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gVAjpwhYMuCCCVf29THHFB6pIRg.jpg",
+      "Name": "Người Đàn Ông Thép - Man of Steel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cIjxkC5uE8cUYbKEeYs1SFh6ONT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cIjxkC5uE8cUYbKEeYs1SFh6ONT.jpg",
+      "Name": "Người Đàn Ông Thép - Man of Steel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f8gRZX6goqUHmK3ydUqmMYGSlcF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f8gRZX6goqUHmK3ydUqmMYGSlcF.jpg",
+      "Name": "Người Đàn Ông Thép - Man of Steel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aJRmXwMP8YtYzkZzHH5YL8Nrdc7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aJRmXwMP8YtYzkZzHH5YL8Nrdc7.jpg",
+      "Name": "Người Đàn Ông Thép - Man of Steel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sToKfiVROsdMeqJ6OqbBAo6XMC2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sToKfiVROsdMeqJ6OqbBAo6XMC2.jpg",
+      "Name": "Người Đàn Ông Thép - Man of Steel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/agGCPgI8idobtvg5czdwl66TfaT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/agGCPgI8idobtvg5czdwl66TfaT.jpg",
+      "Name": "Người Đàn Ông Thép - Man of Steel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9RPrRu6fjjKjZZGz0UV19UjC0HD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9RPrRu6fjjKjZZGz0UV19UjC0HD.jpg",
+      "Name": "Người Đàn Ông Thép - Man of Steel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7uJ0nkV3EwlEHgKo3KM87kJfNmz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7uJ0nkV3EwlEHgKo3KM87kJfNmz.jpg",
+      "Name": "Người Đàn Ông Thép - Man of Steel"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bộ phim xoay quanh Clark Kent, trong Man Of Steel, chàng trai từ Krypton được gửi đến Trái Đất do hành tinh của anh bị tấn công và hủy diệt. Phim Man Of Steel kể từ lúc Clark Kent còn nhỏ cho đến lúc trưởng anh, anh được một cặp vợ chồng tốt bụng nhận nuôi và càng lớn Clark Kent càng nhận thức được sức mạnh sẵn có trong người mình. Cho đến một ngày kẻ thù ngày xưa đã tàn phá hành tinh của anh tìm đến để hủy diệt trái đất, anh phải đứng ra bảo vệ trái đất nơi mình đã lớn lên.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/xWlaTLnD8NJMTT9PGOD9z5re1SL-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/KVu3gS7iJu4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/man-of-steel/",
+  "Name": "Người Đàn Ông Thép"
+}

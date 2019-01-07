@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3mEuIswemaTu0PU0vH66hgDLuGq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3mEuIswemaTu0PU0vH66hgDLuGq.jpg",
+      "Name": "Dạ Tiệc Máu - Eat Locals"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/byjfJrjGc1OhVws3hmibia3QAZY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/byjfJrjGc1OhVws3hmibia3QAZY.jpg",
+      "Name": "Dạ Tiệc Máu - Eat Locals"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4aVa0LU1Ibeq8PDNUDVN51Go5Bx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4aVa0LU1Ibeq8PDNUDVN51Go5Bx.jpg",
+      "Name": "Dạ Tiệc Máu - Eat Locals"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4uAvw7ZbSagS9S81cOqDcoYXF6n.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4uAvw7ZbSagS9S81cOqDcoYXF6n.jpg",
+      "Name": "Dạ Tiệc Máu - Eat Locals"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/azkwVGfuK0hMOFsENG6o6zVw6LV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/azkwVGfuK0hMOFsENG6o6zVw6LV.jpg",
+      "Name": "Dạ Tiệc Máu - Eat Locals"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/87gnR7Ug4W3JgX6C3V7d736wt1I.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/87gnR7Ug4W3JgX6C3V7d736wt1I.jpg",
+      "Name": "Dạ Tiệc Máu - Eat Locals"
+    }
+  ],
+  "Links": [],
+  "Intro": "Dạ Tiệc Máu là bộ phim hài giả tưởng với nhân vật chính là những ma cà rồng… lương thiện. Để tồn tại, một nhóm ma cà rồng đã tập ăn chay và chạy trốn loài người suốt hàng trăm năm.Lần này, họ tụ họp tại một trang trại hẻo lánh ở châu Âu sau 45 năm để xử tội một ma cà rồng phá luật và đi ăn thịt trẻ con. Khổ thay, cuộc gặp mặt trở thành cơn ác mộng khi một nhóm thợ săn ma cà rồng xuất hiện. Với sự giúp đỡ của một người bạn là người bình thường, liệu nhóm ma cà rồng có thể sống sót?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/p8THP9EVfSxilWFB23vvDFrCxgk-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/1Wd_xYluz_8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/eat-locals/",
+  "Name": "Dạ Tiệc Máu"
+}

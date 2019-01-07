@@ -1,14 +1,85 @@
 {
   "Id": "movQ5H3pR170522",
-  "Url": "https://fsharephim.com/movies/asterix-the-mansions-of-the-gods/",
-  "Name": "Asterix: The Mansions of the Gods",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gq9MN21DhsJTrI2uKOaB1GmAFiC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gq9MN21DhsJTrI2uKOaB1GmAFiC.jpg",
+      "Name": "Phim Asterix: The Mansions of the Gods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7TBtKIgrM7MoZtmHKJZY7K76nuH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7TBtKIgrM7MoZtmHKJZY7K76nuH.jpg",
+      "Name": "Phim Asterix: The Mansions of the Gods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hci1WXOymW0nI5RvGYoK7rtaHcP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hci1WXOymW0nI5RvGYoK7rtaHcP.jpg",
+      "Name": "Phim Asterix: The Mansions of the Gods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vm7Ngs3THbsvf5XzbtX78vSUyn2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vm7Ngs3THbsvf5XzbtX78vSUyn2.jpg",
+      "Name": "Phim Asterix: The Mansions of the Gods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2iBPmxamsTnPhHKlldlc7NXoUll.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2iBPmxamsTnPhHKlldlc7NXoUll.jpg",
+      "Name": "Phim Asterix: The Mansions of the Gods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/22stHT3lZPmt9KFTYR2L03igOug.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/22stHT3lZPmt9KFTYR2L03igOug.jpg",
+      "Name": "Phim Asterix: The Mansions of the Gods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6bbhEL3Aq1IAhZkHPhEZhl3b9rm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6bbhEL3Aq1IAhZkHPhEZhl3b9rm.jpg",
+      "Name": "Phim Asterix: The Mansions of the Gods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fHjTL6qjLftLjmLZd3R3xGTdss7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fHjTL6qjLftLjmLZd3R3xGTdss7.jpg",
+      "Name": "Phim Asterix: The Mansions of the Gods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uVuM8wQ771GZCd7Y1ebs20b10fa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uVuM8wQ771GZCd7Y1ebs20b10fa.jpg",
+      "Name": "Phim Asterix: The Mansions of the Gods"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2m60QuilI454r4sMc5MwWnLvWYx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2m60QuilI454r4sMc5MwWnLvWYx.jpg",
+      "Name": "Phim Asterix: The Mansions of the Gods"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movq5h3pr170522/",
-      "Name": "ASTERIX 2014 3D_1080p_Haft.SBS_AudioVie.mkv",
-      "Url": "https://www.fshare.vn/file/ZQFLHCYLSXZX",
       "Size": "10.9 GB",
-      "FileSize": 11750608212
+      "FileSize": 11750608212,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/ZQFLHCYLSXZX",
+      "Name": "ASTERIX 2014 3D_1080p_Haft.SBS_AudioVie.mkv"
     }
-  ]
+  ],
+  "Intro": "In order to wipe out the Gaulish village by any means necessary, Caesar plans to absorb the villagers into Roman culture by having an estate built next to the village to start a new Roman colony.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/uGJmA6bh4gtH2nLMn4wlKazpGlj-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/_Npe5FV_dTA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/asterix-the-mansions-of-the-gods/",
+  "Name": "Asterix: The Mansions of the Gods"
 }

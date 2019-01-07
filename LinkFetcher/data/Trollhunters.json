@@ -1,0 +1,744 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong-va-phieu-luu/",
+      "Name": "Hành Động và Phiêu Lưu"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dXFtmCMxipxCG0UoPbvsMNeBqRE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dXFtmCMxipxCG0UoPbvsMNeBqRE.jpg",
+      "Name": "Trollhunters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/w6dTMH5KfBRr6R51oaj1a177upQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/w6dTMH5KfBRr6R51oaj1a177upQ.jpg",
+      "Name": "Trollhunters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/85I4KadEawtAR4ox1DIhVGeMx0c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/85I4KadEawtAR4ox1DIhVGeMx0c.jpg",
+      "Name": "Trollhunters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6YWEAm1ktcR2BOaPOpmcG8749qF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6YWEAm1ktcR2BOaPOpmcG8749qF.jpg",
+      "Name": "Trollhunters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rCTS2wCxxK86HavnaJL3if6yEAF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rCTS2wCxxK86HavnaJL3if6yEAF.jpg",
+      "Name": "Trollhunters"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x1/",
+      "Name": "Becoming: Part 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x2/",
+      "Name": "Becoming: Part 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x3/",
+      "Name": "Wherefore Art Thou, Trollhunter?"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x4/",
+      "Name": "Gnome Your Enemy"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x5/",
+      "Name": "Waka Chaka!"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x6/",
+      "Name": "Win Lose or Draal"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x7/",
+      "Name": "To Catch a Changeling"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x8/",
+      "Name": "Adventures in Trollsitting"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x9/",
+      "Name": "Bittersweet Sixteen"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x10/",
+      "Name": "Young Atlas"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x11/",
+      "Name": "Recipe for Disaster"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x12/",
+      "Name": "Claire and Present Danger"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x13/",
+      "Name": "The Battle of Two Bridges"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x14/",
+      "Name": "Return of the Trollhunter"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x15/",
+      "Name": "Mudslinging"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x16/",
+      "Name": "Roaming Fees May Apply"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x17/",
+      "Name": "Blinky's Day Out"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x18/",
+      "Name": "The Shattered King"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x19/",
+      "Name": "Airheads"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x20/",
+      "Name": "Where Is My Mind?"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x21/",
+      "Name": "Party Monster"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x22/",
+      "Name": "It's About Time"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x23/",
+      "Name": "Wingmen"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x24/",
+      "Name": "Angor Management"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x25/",
+      "Name": "A Night to Remember"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/trollhunters-1x26/",
+      "Name": "Something Rotten This Way Comes"
+    }
+  ],
+  "Intro": "After uncovering a mysterious amulet, an average teen assumes an unlikely destiny and sets out to save two worlds. Created by Guillermo del Toro.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/iHbeVwW6q38SSZZ6BnOg4T35wiL-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/J2oNgZlbSKI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/m5T0T6PAxlzwCpJrphrEjpMnqPj.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/m5T0T6PAxlzwCpJrphrEjpMnqPj.jpg",
+              "Name": "Trollhunters 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": "As a new day dawns in Arcadia, two trolls are locked in an epic battle with major consequences for the human world &#8212; and one human boy in particular.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x1/",
+          "Name": "Trollhunters 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bVbpnoDnCa2IrsKEqcJrvT3uIOE.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bVbpnoDnCa2IrsKEqcJrvT3uIOE.jpg",
+              "Name": "Trollhunters 1&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": "Draal gives Jim a troll-made totem to help curb his anxiety about Claire. But Jim&#8217;s newfound overconfidence leads him to a startling realization.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x10/",
+          "Name": "Trollhunters 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/k7RSQoO8lmQ29cgc3JCun7XjZfx.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/k7RSQoO8lmQ29cgc3JCun7XjZfx.jpg",
+              "Name": "Trollhunters 1&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": "As Claire grows increasingly suspicious, Jim&#8217;s mom invites Strickler over for dinner, where the tension is so thick, you could cut it with a knife.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x11/",
+          "Name": "Trollhunters 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/yQddESfd1vf12xeBa25ieg9BMOz.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/yQddESfd1vf12xeBa25ieg9BMOz.jpg",
+              "Name": "Trollhunters 1&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": "The Killahead Bridge is complete, but the door to the Darklands still won&#8217;t open. Jim is forced to tell Claire the truth when she becomes a target.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x12/",
+          "Name": "Trollhunters 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qILM7TnkwLbc0qTkqfqHI9jM7Lt.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qILM7TnkwLbc0qTkqfqHI9jM7Lt.jpg",
+              "Name": "Trollhunters 1&#215;13"
+            }
+          ],
+          "Links": [],
+          "Intro": "Two fateful battles unfold when Bular and Strickler order Jim to unlock the portal and free Gunmar and his Gumm-Gumm Army from the Darklands.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x13/",
+          "Name": "Trollhunters 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/iQivM3MFSL0tfGj25DJS44wZZIr.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/iQivM3MFSL0tfGj25DJS44wZZIr.jpg",
+              "Name": "Trollhunters 1&#215;14"
+            }
+          ],
+          "Links": [],
+          "Intro": "Claire gets her first look at Heartstone Trollmarket, and Jim receives a ghostly summons. Elsewhere, Strickler awakens an ancient assassin.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x14/",
+          "Name": "Trollhunters 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jJT8QLVeV1ttUEx7vvGVx921NAw.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jJT8QLVeV1ttUEx7vvGVx921NAw.jpg",
+              "Name": "Trollhunters 1&#215;15"
+            }
+          ],
+          "Links": [],
+          "Intro": "Jim searches for a way to kill Gunmar so Claire can bring her brother back home. A power-hungry Strickler returns to Arcadia with Angor Rot.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x15/",
+          "Name": "Trollhunters 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ky7Kr62ChSbTwdviILQzJ8fzHu.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ky7Kr62ChSbTwdviILQzJ8fzHu.jpg",
+              "Name": "Trollhunters 1&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": "The heroes launch a dangerous quest to find the first Triumbric Stone. Angor Rot concocts a charm that links Strickler and Barbara&#8217;s fates.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x16/",
+          "Name": "Trollhunters 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jcthKyvdbtlDViDKZJ8utmCz4wO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jcthKyvdbtlDViDKZJ8utmCz4wO.jpg",
+              "Name": "Trollhunters 1&#215;17"
+            }
+          ],
+          "Links": [],
+          "Intro": "A barely recognizable Blinky experiences the highs and lows of being human. Angor Rot marks Jim for a fate that&#8217;s worse than death.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x17/",
+          "Name": "Trollhunters 1x17"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/c0fdcdLXaePlWqUemgwN3uGFLwt.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/c0fdcdLXaePlWqUemgwN3uGFLwt.jpg",
+              "Name": "Trollhunters 1&#215;18"
+            }
+          ],
+          "Links": [],
+          "Intro": "The heroes&#8217; search for the second Triumbric Stone takes them deep into unfamiliar marshlands. Claire asks Jim to be her dance partner.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x18/",
+          "Name": "Trollhunters 1x18"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hzQlFHIjoMm2eE84WeaB7LWAXYS.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hzQlFHIjoMm2eE84WeaB7LWAXYS.jpg",
+              "Name": "Trollhunters 1&#215;19"
+            }
+          ],
+          "Links": [],
+          "Intro": "Toby and Claire take on a Trollhunter task so Jim can win a Spring King challenge. In the process, they learn to master new weapons.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x19/",
+          "Name": "Trollhunters 1x19"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/y2flS53afUz8Sjr0K0wfDH0uZTa.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/y2flS53afUz8Sjr0K0wfDH0uZTa.jpg",
+              "Name": "Trollhunters 1&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": "Still reeling from the discovery of the amulet&#8217;s power, a stunned Jim meets his new mentors and learns he&#8217;s been tasked with a sacred responsibility.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x2/",
+          "Name": "Trollhunters 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kQIAKv5WiHYjX37q756hzl1BplN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kQIAKv5WiHYjX37q756hzl1BplN.jpg",
+              "Name": "Trollhunters 1&#215;20"
+            }
+          ],
+          "Links": [],
+          "Intro": "A horde of pixies descends on Arcadia Oaks High, sending the student body into a tailspin. Angor Rot comes to Jim with a surprising proposal.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x20/",
+          "Name": "Trollhunters 1x20"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tM1U7pC0X9oTLDP7WoQySOdGJxm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tM1U7pC0X9oTLDP7WoQySOdGJxm.jpg",
+              "Name": "Trollhunters 1&#215;21"
+            }
+          ],
+          "Links": [],
+          "Intro": "The Changeling posing as Claire&#8217;s little brother throws a house party for the trolls of Arcadia. Jim and Toby look for a way to take Strickler&#8217;s ring.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x21/",
+          "Name": "Trollhunters 1x21"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/gQSPuiJWbEw2P67HDkep3LhPxPJ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/gQSPuiJWbEw2P67HDkep3LhPxPJ.jpg",
+              "Name": "Trollhunters 1&#215;22"
+            }
+          ],
+          "Links": [],
+          "Intro": "Every second counts when Jim turns to a time-stopping Kairosect to snatch Strickler&#8217;s ring, save his mother and find the second Triumbric Stone.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x22/",
+          "Name": "Trollhunters 1x22"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/eejOnpnuvy2bMJGPXQii5pO03zO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/eejOnpnuvy2bMJGPXQii5pO03zO.jpg",
+              "Name": "Trollhunters 1&#215;23"
+            }
+          ],
+          "Links": [],
+          "Intro": "A troll queen arrives from afar to take AAARRRGGHH!!! back to his homeland, revealing his devastating secret. Strickler asks Jim for protection.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x23/",
+          "Name": "Trollhunters 1x23"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/gFL7LQUNKp2CUKQ1l4sYMY0SHcg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/gFL7LQUNKp2CUKQ1l4sYMY0SHcg.jpg",
+              "Name": "Trollhunters 1&#215;24"
+            }
+          ],
+          "Links": [],
+          "Intro": "A reluctant Jim joins forces with Strickler to keep Barbara alive. Gnome Chompsky returns from the Darklands with important news about Enrique.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x24/",
+          "Name": "Trollhunters 1x24"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zKCcS5VmkXURPrFjfWKXmWMLBy9.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zKCcS5VmkXURPrFjfWKXmWMLBy9.jpg",
+              "Name": "Trollhunters 1&#215;25"
+            }
+          ],
+          "Links": [],
+          "Intro": "With Barbara&#8217;s life hanging in the balance, Jim races to break the spell that bonds her to Strickler. Angor Rot attacks Toby and Claire.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x25/",
+          "Name": "Trollhunters 1x25"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fbVmBWi1nvuCV17K9ILsNp6b7Tk.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fbVmBWi1nvuCV17K9ILsNp6b7Tk.jpg",
+              "Name": "Trollhunters 1&#215;26"
+            }
+          ],
+          "Links": [],
+          "Intro": "The heroes brace for Angor Rot&#8217;s inevitable invasion and prepare for the fight of their lives. Jim locates the last Triumbric Stone.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x26/",
+          "Name": "Trollhunters 1x26"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hfQrhLSjpBSMeJdlsi8Whl8UTkS.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hfQrhLSjpBSMeJdlsi8Whl8UTkS.jpg",
+              "Name": "Trollhunters 1&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": "Jim and Toby tour Heartstone Trollmarket, where Jim begins his training and the presence of the first human Trollhunter stirs up bitter resentment.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x3/",
+          "Name": "Trollhunters 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wygpMg8so7HMjgrxtIZLiJ0Jfls.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wygpMg8so7HMjgrxtIZLiJ0Jfls.jpg",
+              "Name": "Trollhunters 1&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": "While Jim gets a crash course in troll history, big problems &#8212; and a bully &#8212; await him in the human world. What better time for his first mission?",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x4/",
+          "Name": "Trollhunters 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/iqKxG2mPYxBNyIPUPX7gnQwvot4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/iqKxG2mPYxBNyIPUPX7gnQwvot4.jpg",
+              "Name": "Trollhunters 1&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": "Jim tries to get closer to Claire on a school field trip to the museum, only to learn that the museum&#8217;s curator, Ms. Nomura, has an unsettling secret.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x5/",
+          "Name": "Trollhunters 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fMHMYzxNXhsSRGmCEQaZoF4njCt.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fMHMYzxNXhsSRGmCEQaZoF4njCt.jpg",
+              "Name": "Trollhunters 1&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": "Jim preps for a high-stakes rematch against Draal, the amulet&#8217;s seemingly rightful heir. But their animosity gives way to a surprising partnership.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x6/",
+          "Name": "Trollhunters 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/sPBpdsy7Oz3aCjOj2yXlRb79Ds7.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/sPBpdsy7Oz3aCjOj2yXlRb79Ds7.jpg",
+              "Name": "Trollhunters 1&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": "Armed with an ancient troll-hunting tool, Jim and Toby set out to unmask the Changelings living among them. Claire makes Jim a tempting offer.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x7/",
+          "Name": "Trollhunters 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tVUNujnRrx7csNVXASKiWAdGLum.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tVUNujnRrx7csNVXASKiWAdGLum.jpg",
+              "Name": "Trollhunters 1&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": "While Draal settles into his new digs, Jim volunteers to babysit so he can find out whether Claire&#8217;s little brother, Enrique, is a Changeling.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x8/",
+          "Name": "Trollhunters 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/mK7VqDwg2L47eaScft8aspG5TTD.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/mK7VqDwg2L47eaScft8aspG5TTD.jpg",
+              "Name": "Trollhunters 1&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": "Jim&#8217;s 16th birthday is full of surprises, including the arrival of a terrifying new species of troll that&#8217;s immune to the effects of sunlight.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/trollhunters-1x9/",
+          "Name": "Trollhunters 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Dec. 23, 2016"
+    },
+    {
+      "Episodes": null,
+      "Url": null,
+      "Name": "Season 2 Dec. 15, 2017"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/trollhunters/",
+  "Name": "Trollhunters"
+}

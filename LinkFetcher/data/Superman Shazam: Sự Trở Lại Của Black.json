@@ -1,21 +1,89 @@
 {
   "Id": "movR6loue43641",
-  "Url": "https://fsharephim.com/movies/supermanshazam-the-return-of-black-adam/",
-  "Name": "Superman Shazam: Sự Trở Lại Của Black",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/obJ93Be57aytcEJIlCjL8OE7nUf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/obJ93Be57aytcEJIlCjL8OE7nUf.jpg",
+      "Name": "Superman Shazam: Sự Trở Lại Của Black - Superman/Shazam!: The Return of Black Adam"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jqoy9mPIz0jHzVKyx9s5BdTfCpN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jqoy9mPIz0jHzVKyx9s5BdTfCpN.jpg",
+      "Name": "Superman Shazam: Sự Trở Lại Của Black - Superman/Shazam!: The Return of Black Adam"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xi68YGalOK36SOAFt7vQC1VutLV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xi68YGalOK36SOAFt7vQC1VutLV.jpg",
+      "Name": "Superman Shazam: Sự Trở Lại Của Black - Superman/Shazam!: The Return of Black Adam"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a5Ff3xGTBC9KncnqXpIS7EOAo6t.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a5Ff3xGTBC9KncnqXpIS7EOAo6t.jpg",
+      "Name": "Superman Shazam: Sự Trở Lại Của Black - Superman/Shazam!: The Return of Black Adam"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rElJzyU8V9bmfgW1ZemvrEd6RKX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rElJzyU8V9bmfgW1ZemvrEd6RKX.jpg",
+      "Name": "Superman Shazam: Sự Trở Lại Của Black - Superman/Shazam!: The Return of Black Adam"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wKZ2tJ2ozhG8IPf4A884BeUz9K4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wKZ2tJ2ozhG8IPf4A884BeUz9K4.jpg",
+      "Name": "Superman Shazam: Sự Trở Lại Của Black - Superman/Shazam!: The Return of Black Adam"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hiLwg0TEVEN5VEtlXxTImLNgDFX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hiLwg0TEVEN5VEtlXxTImLNgDFX.jpg",
+      "Name": "Superman Shazam: Sự Trở Lại Của Black - Superman/Shazam!: The Return of Black Adam"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aKak6ixj9pEnHMRMUlZHKlebjwb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aKak6ixj9pEnHMRMUlZHKlebjwb.jpg",
+      "Name": "Superman Shazam: Sự Trở Lại Của Black - Superman/Shazam!: The Return of Black Adam"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lYBZBi7u5v5yYM4ofybF6f8Vd60.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lYBZBi7u5v5yYM4ofybF6f8Vd60.jpg",
+      "Name": "Superman Shazam: Sự Trở Lại Của Black - Superman/Shazam!: The Return of Black Adam"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ppmVV35Cb3QJksnrgml2NqP1W2L.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ppmVV35Cb3QJksnrgml2NqP1W2L.jpg",
+      "Name": "Superman Shazam: Sự Trở Lại Của Black - Superman/Shazam!: The Return of Black Adam"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movr6loue43641/",
-      "Name": "Superman.Shazam.The.Return.of.Black.Adam.2010.720p.BluRay.x264-EbP.mkv",
-      "Url": "https://www.fshare.vn/file/YA6R2Q7KXOENQKB",
       "Size": "2.3 GB",
-      "FileSize": 2418088280
+      "FileSize": 2418088280,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/YA6R2Q7KXOENQKB",
+      "Name": "Superman.Shazam.The.Return.of.Black.Adam.2010.720p.BluRay.x264-EbP.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movr6loue43641-2/",
-      "Name": "Superman.Shazam.The.Return.of.Black.Adam.2010.720p.BluRay.x264-EbP.srt",
-      "Url": "https://www.fshare.vn/file/OV19XOA4EDDGWXO",
       "Size": "27.2 KB",
-      "FileSize": 27864
+      "FileSize": 27864,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/OV19XOA4EDDGWXO",
+      "Name": "Superman.Shazam.The.Return.of.Black.Adam.2010.720p.BluRay.x264-EbP.srt"
     }
-  ]
+  ],
+  "Intro": "Một thiên thạch rơi xuống trái đất. &#8220;Thiên thạch&#8221; này chính là Black Adam, kẻ đã bị lưu đầy khỏi Trái Đất, nay trở lại tìm kiếm sự báo thù.Billy Batson, một cậu bé sống ở khu ổ chuột tồi tàn nhưng lại là người được chọn, và cậu cũng là mục tiêu săn đuổi của Adam.Khi Adam sắp giết Billy, Superman đã xuất hiện kịp thời nhưng cuộc đọ sức giữa Superman và Adam là không cân sức, Adam có thể dùng phép thuật để đánh bại Superman.Billy phải tự tìm ra số phận của mình và hóa thân thành siêu anh hùng để cùng với Superman đánh bại Adam, một viễn cảnh khá khó khăn đối với cậu nhóc trẻ tuổi này.Bộ phim có thời lượng khá ngắn nhưng nội dung súc tích, chứa nhiều cảnh hành động đúng chất &#8220;siêu nhân&#8221;, các em nhỏ chắc chắn sẽ rất thích.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/b6NWMr2oVc8Ajpm1N0nceoK1Pae-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/supermanshazam-the-return-of-black-adam/",
+  "Name": "Superman Shazam: Sự Trở Lại Của Black"
 }

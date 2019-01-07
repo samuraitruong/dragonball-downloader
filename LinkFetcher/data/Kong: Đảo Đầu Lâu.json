@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pGwChWiAY1bdoxL79sXmaFBlYJH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pGwChWiAY1bdoxL79sXmaFBlYJH.jpg",
+      "Name": "Kong: Đảo Đầu Lâu - Kong: Skull Island"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sRg0J1uvz3Yfp6WnHcL33dY4g5w.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sRg0J1uvz3Yfp6WnHcL33dY4g5w.jpg",
+      "Name": "Kong: Đảo Đầu Lâu - Kong: Skull Island"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/w5LHxH5pQN4nyR2QY73TH1ITKxC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/w5LHxH5pQN4nyR2QY73TH1ITKxC.jpg",
+      "Name": "Kong: Đảo Đầu Lâu - Kong: Skull Island"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gupCdZ6BjLCNg4X9zikaGiPmck7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gupCdZ6BjLCNg4X9zikaGiPmck7.jpg",
+      "Name": "Kong: Đảo Đầu Lâu - Kong: Skull Island"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1Y13HoSsn0ubTHefzG6OYe0HdtN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1Y13HoSsn0ubTHefzG6OYe0HdtN.jpg",
+      "Name": "Kong: Đảo Đầu Lâu - Kong: Skull Island"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fea0p25HSIJ93yu5HZ1NLi88SQA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fea0p25HSIJ93yu5HZ1NLi88SQA.jpg",
+      "Name": "Kong: Đảo Đầu Lâu - Kong: Skull Island"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yslaBeFjrbhlO1iFxFF7AFzINXu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yslaBeFjrbhlO1iFxFF7AFzINXu.jpg",
+      "Name": "Kong: Đảo Đầu Lâu - Kong: Skull Island"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/e7IRoB34ohQn4Qvb7rZYj2gLAro.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/e7IRoB34ohQn4Qvb7rZYj2gLAro.jpg",
+      "Name": "Kong: Đảo Đầu Lâu - Kong: Skull Island"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5uLlGFw8miRkn9iJrIJSjTPZWeV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5uLlGFw8miRkn9iJrIJSjTPZWeV.jpg",
+      "Name": "Kong: Đảo Đầu Lâu - Kong: Skull Island"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l9id6tzTppNBEMmHWdaqlkKPSDl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l9id6tzTppNBEMmHWdaqlkKPSDl.jpg",
+      "Name": "Kong: Đảo Đầu Lâu - Kong: Skull Island"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim &#8220;Kong: Skull Island&#8221; (&#8220;Kong: Đảo Đầu Lâu&#8221;) tái hiện lại hình tượng King Kong (Chúa tể loài khỉ) trong một hành trình phiêu lưu, hấp dẫn dưới bàn tay đạo diễn tài ba Jordan Vogt-Robert. &#8220;Kong: Skull Islands&#8221; được quay ngoại cảnh ở Tràng An, Vân Long, Tam Cốc, Vịnh Hạ Long và Động Phong Nha-Kẻ Bàng cùng các địa danh quốc tế như Hawaii, Úc&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/02/5wBbdNb0NdGiZQJYoKHRv6VbiOr-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/44LdLqgOpjo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/kong-skull-island/",
+  "Name": "Kong: Đảo Đầu Lâu"
+}

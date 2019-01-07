@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eSMA1iQGfiveEarHIqs0E2ab2qh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eSMA1iQGfiveEarHIqs0E2ab2qh.jpg ",
+      "Name": "Duckweed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3jD2G3Rex6IyVGOQushGpa8H5HG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3jD2G3Rex6IyVGOQushGpa8H5HG.jpg ",
+      "Name": "Duckweed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qoamJaH3cCEM6bmksPEIlNgLapF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qoamJaH3cCEM6bmksPEIlNgLapF.jpg ",
+      "Name": "Duckweed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/r9xYNp3ctwrvzSuMQXWbM9i2KH7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/r9xYNp3ctwrvzSuMQXWbM9i2KH7.jpg ",
+      "Name": "Duckweed"
+    }
+  ],
+  "Links": [],
+  "Intro": "When a son attempts to reconcile with his father, a series of fateful events allow him to experience the father’s life in the past.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/dp3W8r29xBaIm7bmRXOWbZAdLEJ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Pu7ZARHtX10?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/duckweed/",
+  "Name": "Duckweed"
+}

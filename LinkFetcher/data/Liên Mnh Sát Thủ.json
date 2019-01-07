@@ -1,0 +1,84 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tC0tVH5KQhCwMlddnyA3iWOSuBA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tC0tVH5KQhCwMlddnyA3iWOSuBA.jpg ",
+      "Name": "Liên Mnh Sát Thủ - Allied"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jW94UGkpYhRzy22seQTdvC5VLna.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jW94UGkpYhRzy22seQTdvC5VLna.jpg ",
+      "Name": "Liên Mnh Sát Thủ - Allied"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cvw973b5EEQLGMNi7YvKqQlTaXX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cvw973b5EEQLGMNi7YvKqQlTaXX.jpg ",
+      "Name": "Liên Mnh Sát Thủ - Allied"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/30Seh2tKru9BoxmM0Ye7dDheB9O.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/30Seh2tKru9BoxmM0Ye7dDheB9O.jpg ",
+      "Name": "Liên Mnh Sát Thủ - Allied"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4cFiXuGfc7rVMtxHwUIrRxVMvq0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4cFiXuGfc7rVMtxHwUIrRxVMvq0.jpg ",
+      "Name": "Liên Mnh Sát Thủ - Allied"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9wbW2h98X1euaF4HyV8pRWsD3aD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9wbW2h98X1euaF4HyV8pRWsD3aD.jpg ",
+      "Name": "Liên Mnh Sát Thủ - Allied"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4QSF94P7iQpL6ZGc1eLZiTjC0II.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4QSF94P7iQpL6ZGc1eLZiTjC0II.jpg ",
+      "Name": "Liên Mnh Sát Thủ - Allied"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6o4KCKjP1WcefXLBNRyhEenB2nW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6o4KCKjP1WcefXLBNRyhEenB2nW.jpg ",
+      "Name": "Liên Mnh Sát Thủ - Allied"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uVPnqc1OxKYJ0WMQsdWV6vQkepX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uVPnqc1OxKYJ0WMQsdWV6vQkepX.jpg ",
+      "Name": "Liên Mnh Sát Thủ - Allied"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wdM0mzhD9sQUeea8W9KIIpggamf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wdM0mzhD9sQUeea8W9KIIpggamf.jpg ",
+      "Name": "Liên Mnh Sát Thủ - Allied"
+    }
+  ],
+  "Links": [],
+  "Intro": "LIÊN MINH SÁT THỦ là bộ phim về đề tài điệp viên, xoay quanh câu chuyện về Max Vatan và Marianne Beausejour. Lấy bối cảnh vào năm 1942, trong quá trình thực hiện nhiệm vụ tình báo điệp viên: ám sát một đại sứ người Đức, Max gặp và quen biết Marianne đến từ quân kháng chiến Pháp. Cùng sánh vai nhau trong những thời khắc sống còn, tình cảm giữa hai người đã nảy sinh và họ đã quyết định tiến tới hôn nhân. Mọi chuyện rắc rối xảy ra khi Max nhận được tin tức tình báo, nghi ngờ vợ anh là một gián điệp Đức. Giữa vận mệnh của đất nước và tình cảm cá nhân, anh sẽ nghiêng về bên nào?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/02/nzXzLFTnd0Zb3ExfhOxlQgizgSu-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/0f1_fbdB6RQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/allied/",
+  "Name": "Liên Mnh Sát Thủ"
+}

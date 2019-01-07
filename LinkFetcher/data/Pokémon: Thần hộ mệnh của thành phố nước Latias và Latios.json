@@ -1,14 +1,45 @@
 {
-  "Id": "movkiBANq33875",
-  "Url": "https://fsharephim.com/movies/pokemon-heroes-latios-and-latias/",
-  "Name": "Pokémon: Thần hộ mệnh của thành phố nước Latias và Latios",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movkibanq33875/",
-      "Name": "2002.Pokemon.Latios.and.Latias.Bluray.VIE.1080p.AVC.DD.5.1.mkv",
-      "Url": "https://www.fshare.vn/file/3UQVWM7RZFW1",
-      "Size": "18.77 GB",
-      "FileSize": 20157573292
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sZ5vL6LJTcvo7bgCpQTPIhefLCe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sZ5vL6LJTcvo7bgCpQTPIhefLCe.jpg",
+      "Name": "Pokémon: Thần hộ mệnh của thành phố nước Latias và Latios - Pokémon Heroes: Latios and Latias"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yUG3rhzRjPT9EG7eCdQN7OfqojG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yUG3rhzRjPT9EG7eCdQN7OfqojG.jpg",
+      "Name": "Pokémon: Thần hộ mệnh của thành phố nước Latias và Latios - Pokémon Heroes: Latios and Latias"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jSxG7jRAA8zrgQLgaoLaNOOhQ3p.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jSxG7jRAA8zrgQLgaoLaNOOhQ3p.jpg",
+      "Name": "Pokémon: Thần hộ mệnh của thành phố nước Latias và Latios - Pokémon Heroes: Latios and Latias"
+    }
+  ],
+  "Links": [],
+  "Intro": "Tại một thành phố nhỏ của một hòn đảo một cặp vợ chồng già đang sinh sống đến một ngày thì gặp được hai đứa trẻ đang bị thương trôi dạt vào bờ. Họ đã đem hai đứa bé đó về chăm sóc, sức khỏe của chúng dần hồi phục. Đúng lúc đó một con ác ma đã tấn công vào hòn đảo. Để bảo vệ hai vợ chồng kia hai đứa trẻ đã hóa thân thành những Pokemon ảo mộng Latias Và Latios. Chúng kêu gọi bạn bè tới giúp tiêu diệt ác ma hòa bình được lập lại. Chúng đưa hai vợ chồng kia mảnh vụn trái tim là thứ đã giúp chúng đánh bại quái vật. Từ đó Latias Và Latios vẫn quanh quẩn tại hòn đảo để canh giữ viên ngọc đó.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/ga8kZrYA1VEg5sVRtrKLGSehJE-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/pokemon-heroes-latios-and-latias/",
+  "Name": "Pokémon: Thần hộ mệnh của thành phố nước Latias và Latios"
 }

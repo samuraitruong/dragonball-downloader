@@ -1,21 +1,76 @@
 {
-  "Id": "mov2wzErP77951",
-  "Url": "https://fsharephim.com/movies/walking-with-dinosaurs/",
-  "Name": "Dạo Bước Cùng Khủng Long",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov2wzerp77951/",
-      "Name": "Walking.with.Dinosaurs.2013.LT.mkv",
-      "Url": "https://www.fshare.vn/file/THYB9JXK7T",
-      "Size": "1.69 GB",
-      "FileSize": 1818523057
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov2wzerp77951-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/walking-with-dinosaurs-3d",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/msSfbrMd7LKbCW9ivIupAHo8yvp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/msSfbrMd7LKbCW9ivIupAHo8yvp.jpg ",
+      "Name": "Dạo Bước Cùng Khủng Long - Walking With Dinosaurs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iuCeHroAPjHME3e2KKsTA4T1ay1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iuCeHroAPjHME3e2KKsTA4T1ay1.jpg ",
+      "Name": "Dạo Bước Cùng Khủng Long - Walking With Dinosaurs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fNpxwQkB6cl6bai1olxwlFANd6l.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fNpxwQkB6cl6bai1olxwlFANd6l.jpg ",
+      "Name": "Dạo Bước Cùng Khủng Long - Walking With Dinosaurs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tpnk3BVCyybWM4ZQFab2Icmxson.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tpnk3BVCyybWM4ZQFab2Icmxson.jpg ",
+      "Name": "Dạo Bước Cùng Khủng Long - Walking With Dinosaurs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u54ImJ76tFNk3l6g899A89fHhrJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u54ImJ76tFNk3l6g899A89fHhrJ.jpg ",
+      "Name": "Dạo Bước Cùng Khủng Long - Walking With Dinosaurs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/530XCWrdlAHfkrsNhOXp5nu6Upv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/530XCWrdlAHfkrsNhOXp5nu6Upv.jpg ",
+      "Name": "Dạo Bước Cùng Khủng Long - Walking With Dinosaurs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AsHYViPB9qsyDiVhIQvZycQvCyr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AsHYViPB9qsyDiVhIQvZycQvCyr.jpg ",
+      "Name": "Dạo Bước Cùng Khủng Long - Walking With Dinosaurs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/poiN7TQiUujzP0iCkOoyyFQKBpG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/poiN7TQiUujzP0iCkOoyyFQKBpG.jpg ",
+      "Name": "Dạo Bước Cùng Khủng Long - Walking With Dinosaurs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xhTwPN0VeoFRs9BIR7E8LiLPcA3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xhTwPN0VeoFRs9BIR7E8LiLPcA3.jpg ",
+      "Name": "Dạo Bước Cùng Khủng Long - Walking With Dinosaurs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b9WdfivySFN9vRooHYdTKOd2VMO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b9WdfivySFN9vRooHYdTKOd2VMO.jpg ",
+      "Name": "Dạo Bước Cùng Khủng Long - Walking With Dinosaurs"
+    }
+  ],
+  "Links": [],
+  "Intro": "Walking with Dinosaurs là bộ phim hành động đưa khán giả trở về thế giới thời tiền sử ly kỳ và bí hiểm, nơi mà làm thế nào chúng sống sót trong hàng triệu năm và giải thích những bí ẩn về sự biến mất đột ngột của chúng khi chỉ để lại những mẫu hóa thạch chứng minh sự tồn tại của khủng long&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/3QS2WnruXRj7T4gh9joOFhY6YqB-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/jv7hRBL9ygY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/walking-with-dinosaurs/",
+  "Name": "Dạo Bước Cùng Khủng Long"
 }

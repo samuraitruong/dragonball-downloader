@@ -1,28 +1,105 @@
 {
   "Id": "movrkaYdP227783",
-  "Url": "https://fsharephim.com/movies/the-nut-job/",
-  "Name": "The Nut Job",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/TCtQLLO9PRqCcPCFgpx77a3Pct.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/TCtQLLO9PRqCcPCFgpx77a3Pct.jpg",
+      "Name": "The Nut Job"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z7XcryUUHL94wwcBkhUno1YUFZu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z7XcryUUHL94wwcBkhUno1YUFZu.jpg",
+      "Name": "The Nut Job"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yakxfawtLiVeTmPYDbAl9g94uE1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yakxfawtLiVeTmPYDbAl9g94uE1.jpg",
+      "Name": "The Nut Job"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1wGFOAe61SsGVnZRmGepKeIJxGW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1wGFOAe61SsGVnZRmGepKeIJxGW.jpg",
+      "Name": "The Nut Job"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5ixnOOwc0QuwlPse04qSKZ1eeU7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5ixnOOwc0QuwlPse04qSKZ1eeU7.jpg",
+      "Name": "The Nut Job"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jJACsTuhgbNExZjqMIdcMkE6EvL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jJACsTuhgbNExZjqMIdcMkE6EvL.jpg",
+      "Name": "The Nut Job"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/681DNBHiL4A8Mbqd4a1CPJA9M0N.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/681DNBHiL4A8Mbqd4a1CPJA9M0N.jpg",
+      "Name": "The Nut Job"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/35xA1NUeNvG2xFkUjyoM3hXWLDn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/35xA1NUeNvG2xFkUjyoM3hXWLDn.jpg",
+      "Name": "The Nut Job"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oW4VHcWUAoZyJD8JjhlXNp2doSC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oW4VHcWUAoZyJD8JjhlXNp2doSC.jpg",
+      "Name": "The Nut Job"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sbEIXpPhLbzTcmmF6IiOZrDx8BC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sbEIXpPhLbzTcmmF6IiOZrDx8BC.jpg",
+      "Name": "The Nut Job"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movrkaydp227783-3/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/the-nut-job",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/the-nut-job",
+      "Name": "Subtitle"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movrkaydp227783-2/",
-      "Name": "The.Nut.Job.2014.720p.BluRay.x264-SPARKS.mkv",
-      "Url": "https://www.fshare.vn/file/VCUIPJ6WTH",
       "Size": "2.6 GB",
-      "FileSize": 2837225083
+      "FileSize": 2837225083,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/VCUIPJ6WTH",
+      "Name": "The.Nut.Job.2014.720p.BluRay.x264-SPARKS.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movrkaydp227783/",
-      "Name": "The.Nut.Job.2014.720p.BluRay.x264.YIFY.mp4",
-      "Url": "https://www.fshare.vn/file/BCFVUCXCLPGX",
       "Size": "701.4 MB",
-      "FileSize": 735515912
+      "FileSize": 735515912,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/BCFVUCXCLPGX",
+      "Name": "The.Nut.Job.2014.720p.BluRay.x264.YIFY.mp4"
     }
-  ]
+  ],
+  "Intro": "Surly, a curmudgeon, independent squirrel is banished from his park and forced to survive in the city. Lucky for him, he stumbles on the one thing that may be able to save his life, and the rest of park community, as they gear up for winter &#8211; Maury&#8217;s Nut Store.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/rXdSfDu08cs0fU9S6l3AK1bJqy8-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/fq4qP2oSpIA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-nut-job/",
+  "Name": "The Nut Job"
 }

@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3U0oK7vVKkHTVbhwwdOICPMYZTZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3U0oK7vVKkHTVbhwwdOICPMYZTZ.jpg",
+      "Name": "10,000 Miles"
+    }
+  ],
+  "Links": [],
+  "Intro": "Kevin, a young, fearless runner from a rough neighborhood in Taiwan, falls in love with his tough coach Ellie. When Ellie becomes sick and distant, Kevin fights to survive and conquer the famous 10,000 Miles Silk Road Ultramarathon in order to win her heart.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/8G7NddpndgTRbAOl2QP6RwgnByg-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/10000-miles/",
+  "Name": "10,000 Miles"
+}

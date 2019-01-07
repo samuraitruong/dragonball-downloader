@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/d7lxH3jRbl7kGra3gR1jaRz87wn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/d7lxH3jRbl7kGra3gR1jaRz87wn.jpg ",
+      "Name": "Little Big Master"
+    }
+  ],
+  "Links": [],
+  "Intro": "The story of a hopeful headmaster who perseveres in running a kindergarten for underprivileged children in Yuen Long, despite many challenges and little reward. Based on true events.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/fo6EiY1z8cNSITc9EMi4gaPHFX-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/little-big-master/",
+  "Name": "Little Big Master"
+}

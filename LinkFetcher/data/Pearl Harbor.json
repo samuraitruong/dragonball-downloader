@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cDctk61tUeQz4LX7tTFPknI28ea.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cDctk61tUeQz4LX7tTFPknI28ea.jpg",
+      "Name": "Pearl Harbor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/waPZtiyd9KYhG7vvBTEnYuqKkgm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/waPZtiyd9KYhG7vvBTEnYuqKkgm.jpg",
+      "Name": "Pearl Harbor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rNXjNpfAcjbL6dLW8MM3zzzCJdO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rNXjNpfAcjbL6dLW8MM3zzzCJdO.jpg",
+      "Name": "Pearl Harbor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dmOkofDFvlj3bsb1VYs9xBf4p9l.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dmOkofDFvlj3bsb1VYs9xBf4p9l.jpg",
+      "Name": "Pearl Harbor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/juRRHLkniKwGOMfzT5XGdQcPIYl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/juRRHLkniKwGOMfzT5XGdQcPIYl.jpg",
+      "Name": "Pearl Harbor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fJv1fgIfxQlzH2EJxseTFnkO4mb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fJv1fgIfxQlzH2EJxseTFnkO4mb.jpg",
+      "Name": "Pearl Harbor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2RDf6AjIpoA0rTXDWHBxZssehmr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2RDf6AjIpoA0rTXDWHBxZssehmr.jpg",
+      "Name": "Pearl Harbor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6vUz9wsO4ViQb7Fsd9GCRAeMhqx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6vUz9wsO4ViQb7Fsd9GCRAeMhqx.jpg",
+      "Name": "Pearl Harbor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5W5QvMnaFIHFrOxMrYqJ1WqBLkg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5W5QvMnaFIHFrOxMrYqJ1WqBLkg.jpg",
+      "Name": "Pearl Harbor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nqhph5sAWjbMJRtoRWiQ02EWSIJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nqhph5sAWjbMJRtoRWiQ02EWSIJ.jpg",
+      "Name": "Pearl Harbor"
+    }
+  ],
+  "Links": [],
+  "Intro": "The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan&#8217;s devastating attack on Pearl Harbor on Dec. 7, 1941.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/gzjMpcyV1RksWonaA87DZ8wQTH0-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/oGYcxjywx0o?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/pearl-harbor/",
+  "Name": "Pearl Harbor"
+}

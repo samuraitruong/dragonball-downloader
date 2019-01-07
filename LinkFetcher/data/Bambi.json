@@ -1,21 +1,76 @@
 {
-  "Id": "movxSa5163170",
-  "Url": "https://fsharephim.com/movies/bambi/",
-  "Name": "Bambi",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movxsa5163170/",
-      "Name": "Bambi.1942.720p.BluRay.x264-SiNNERS-HDThuyetMinh.mkv",
-      "Url": "https://www.fshare.vn/file/T7R2510R2T",
-      "Size": "2.34 GB",
-      "FileSize": 2516857451
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movxsa5163170-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/bambi",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zM2Rdsh4kiTEXPkkO9lWBzZpwAH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zM2Rdsh4kiTEXPkkO9lWBzZpwAH.jpg",
+      "Name": "Bambi"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7DR2Aaj0JTnpLaOn2juPJpEBwef.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7DR2Aaj0JTnpLaOn2juPJpEBwef.jpg",
+      "Name": "Bambi"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oLi1vkLqaaonbO5SLuRhcXdkpt5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oLi1vkLqaaonbO5SLuRhcXdkpt5.jpg",
+      "Name": "Bambi"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/37nMDCykqqztoOuiMCgcEMkyiJ8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/37nMDCykqqztoOuiMCgcEMkyiJ8.jpg",
+      "Name": "Bambi"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iagzckJf2HFQjTuwqAxc8YonhdN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iagzckJf2HFQjTuwqAxc8YonhdN.jpg",
+      "Name": "Bambi"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mvDa0rdHnwBhoMcL8legftfw3ET.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mvDa0rdHnwBhoMcL8legftfw3ET.jpg",
+      "Name": "Bambi"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9RtIPYxmBd2Pg7s0YFKXU6oTKqA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9RtIPYxmBd2Pg7s0YFKXU6oTKqA.jpg",
+      "Name": "Bambi"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uw6E44TP5YwvyNrT1cNjZhmhfon.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uw6E44TP5YwvyNrT1cNjZhmhfon.jpg",
+      "Name": "Bambi"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bO5emAPXvRuaUvP89bnbiv8RmW7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bO5emAPXvRuaUvP89bnbiv8RmW7.jpg",
+      "Name": "Bambi"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eFp7W1ch6ysGLbNe6BaKBjjddVB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eFp7W1ch6ysGLbNe6BaKBjjddVB.jpg",
+      "Name": "Bambi"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bambi&#8217;s tale unfolds from season to season as the young prince of the forest learns about life, love, and friends.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/wV9e2y4myJ4KMFsyFfWYcUOawyK-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/nLvX-erABqY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/bambi/",
+  "Name": "Bambi"
 }

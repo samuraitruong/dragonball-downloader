@@ -1,21 +1,97 @@
 {
   "Id": "movvMDxEN9806",
-  "Url": "https://fsharephim.com/movies/the-incredibles/",
-  "Name": "Gia Đình Siêu Nhân",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wiDGnsn9RtNglgKQy4J1jZQBG5v.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wiDGnsn9RtNglgKQy4J1jZQBG5v.jpg",
+      "Name": "Gia Đình Siêu Nhân - The Incredibles"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iGknrkEyebPFmpQoLGy5L0utVxz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iGknrkEyebPFmpQoLGy5L0utVxz.jpg",
+      "Name": "Gia Đình Siêu Nhân - The Incredibles"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wnTFRPAQhNsxnPxWpIS8jFqE4Nd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wnTFRPAQhNsxnPxWpIS8jFqE4Nd.jpg",
+      "Name": "Gia Đình Siêu Nhân - The Incredibles"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3lnKAEGRGQt3BUuxgdwto0RNIvJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3lnKAEGRGQt3BUuxgdwto0RNIvJ.jpg",
+      "Name": "Gia Đình Siêu Nhân - The Incredibles"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ctwb58LcrPyGKspvfkcRPxLXitG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ctwb58LcrPyGKspvfkcRPxLXitG.jpg",
+      "Name": "Gia Đình Siêu Nhân - The Incredibles"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iCwN8Dh0ukM5w7AqBXuO9fZPWjJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iCwN8Dh0ukM5w7AqBXuO9fZPWjJ.jpg",
+      "Name": "Gia Đình Siêu Nhân - The Incredibles"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mYfiUmOCr7Jd0mCZiSkm7ZvhfjX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mYfiUmOCr7Jd0mCZiSkm7ZvhfjX.jpg",
+      "Name": "Gia Đình Siêu Nhân - The Incredibles"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/etEkBSE5S4ONpcu0d1K9nME1QzC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/etEkBSE5S4ONpcu0d1K9nME1QzC.jpg",
+      "Name": "Gia Đình Siêu Nhân - The Incredibles"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/owzRhoRyNCeccL1azmKrkMZiuTu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/owzRhoRyNCeccL1azmKrkMZiuTu.jpg",
+      "Name": "Gia Đình Siêu Nhân - The Incredibles"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aCJS7FuNyTZJvEJ8sJzJXOP65Qb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aCJS7FuNyTZJvEJ8sJzJXOP65Qb.jpg",
+      "Name": "Gia Đình Siêu Nhân - The Incredibles"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movvmdxen9806/",
-      "Name": "The.Incredibles.2004.mkv",
-      "Url": "https://www.fshare.vn/file/TBJGR6NB6T",
       "Size": "2.59 GB",
-      "FileSize": 2780550890
+      "FileSize": 2780550890,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/TBJGR6NB6T",
+      "Name": "The.Incredibles.2004.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movvmdxen9806-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/the-incredibles-2004",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/the-incredibles-2004",
+      "Name": "Subtitle"
     }
-  ]
+  ],
+  "Intro": "The Incredibles là bộ phim nói về gia đình siêu anh hùng Parr, mỗi người có một quyền năng khác nhau. Sau khi chính phủ ra lệnh các siêu anh hùng phải sống ẩn dật trong đời thường, Robert Parr, trước kia là siêu anh hùng có biệt hiệu là &#8220;Mr. Incredible&#8220;, đã phải từ bỏ sự nghiệp cứu giúp mọi người khỏi cái xấu, cái ác để làm một nhân viên bảo hiểm bình thường.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/huGDgQRB24IzkJLNqe5zq1pdvEE-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ECJNnWRM_xA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-incredibles/",
+  "Name": "Gia Đình Siêu Nhân"
 }

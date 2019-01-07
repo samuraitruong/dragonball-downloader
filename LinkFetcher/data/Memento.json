@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oBUznaSdjkY3HtQUzAxgdIZqh4w.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oBUznaSdjkY3HtQUzAxgdIZqh4w.jpg",
+      "Name": "Memento"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/puuwLLytKjZuv73SFqBihd6X5ES.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/puuwLLytKjZuv73SFqBihd6X5ES.jpg",
+      "Name": "Memento"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xIl2DJdCmeoxKDHrbLQnty9H5H5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xIl2DJdCmeoxKDHrbLQnty9H5H5.jpg",
+      "Name": "Memento"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ffEo2u8q82ehiblNSrmijzvnCGN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ffEo2u8q82ehiblNSrmijzvnCGN.jpg",
+      "Name": "Memento"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9YyeGnJSSAF13ZcLxKTEmwQ5Lvv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9YyeGnJSSAF13ZcLxKTEmwQ5Lvv.jpg",
+      "Name": "Memento"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l6wUqXDVxrKeiAmZP95Itp0Ttl6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l6wUqXDVxrKeiAmZP95Itp0Ttl6.jpg",
+      "Name": "Memento"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zaRyCmRDbpcM8z3NWpQmpI9guvT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zaRyCmRDbpcM8z3NWpQmpI9guvT.jpg",
+      "Name": "Memento"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sPkXdw5TmxX5gQFNC9Ck0HkM4nw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sPkXdw5TmxX5gQFNC9Ck0HkM4nw.jpg",
+      "Name": "Memento"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zF61hDBZGgGKi8SzRqDbXwLjhml.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zF61hDBZGgGKi8SzRqDbXwLjhml.jpg",
+      "Name": "Memento"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vzhheEeIACi0CKO8YhDsr8nQ0qW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vzhheEeIACi0CKO8YhDsr8nQ0qW.jpg",
+      "Name": "Memento"
+    }
+  ],
+  "Links": [],
+  "Intro": "Suffering short-term memory loss after a head injury, Leonard Shelby embarks on a grim quest to find the lowlife who murdered his wife in this gritty, complex thriller that packs more knots than a hangman&#8217;s noose. To carry out his plan, Shelby snaps Polaroids of people and places, jotting down contextual notes on the backs of photos to aid in his search and jog his memory. He even tattoos his own body in a desperate bid to remember.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/fQMSaP88cf1nz4qwuNEEFtazuDM-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Rq9eM4ZXRgs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/memento/",
+  "Name": "Memento"
+}

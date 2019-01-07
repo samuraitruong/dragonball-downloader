@@ -1,0 +1,31 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h6W21fsb2ovThec9Fe3rl0eOxcS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h6W21fsb2ovThec9Fe3rl0eOxcS.jpg",
+      "Name": "Alice: Boy from Wonderland"
+    }
+  ],
+  "Links": [],
+  "Intro": "Hye-Joong (Jung So-Min) can&#8217;t remember anything before the age of 4. Every night she experiences terrible nightmares. Unable to cope with the nightmares anymore, she heeds the advice of a shaman and goes back to the villa where her family stayed 24 years ago. The villa is now known as &#8220;Wonderland.&#8221; There, she meets Hwan (Hong Jong-Hyun), Soo-Ryun (Jung Yeon-Joo) and a white rabbit. During the next 15 days, Hye-Joong has to find something that is missing. If she succeeds her nightmares will stop.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/8XyaWZPowuDRbFo9q29Lg4YLdhG-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/alice-boy-from-wonderland/",
+  "Name": "Alice: Boy from Wonderland"
+}

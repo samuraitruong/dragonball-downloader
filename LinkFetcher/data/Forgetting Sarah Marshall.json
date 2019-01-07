@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m6gLGI5PorxfX1ZeicIQ3UgtvHP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m6gLGI5PorxfX1ZeicIQ3UgtvHP.jpg",
+      "Name": "Forgetting Sarah Marshall"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bMKM38kagsyTPXkilIcZJZsgRH6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bMKM38kagsyTPXkilIcZJZsgRH6.jpg",
+      "Name": "Forgetting Sarah Marshall"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rIGqhuKv9x4ttkyVxZTawj9SlwS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rIGqhuKv9x4ttkyVxZTawj9SlwS.jpg",
+      "Name": "Forgetting Sarah Marshall"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3plXNUJDLQ7jZd1CtdtvnT82kqc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3plXNUJDLQ7jZd1CtdtvnT82kqc.jpg",
+      "Name": "Forgetting Sarah Marshall"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xFU7oDEEUGZg5KqZqIpGalJGga3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xFU7oDEEUGZg5KqZqIpGalJGga3.jpg",
+      "Name": "Forgetting Sarah Marshall"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rwelRj26GXsWAQY56vpYvGmmRKg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rwelRj26GXsWAQY56vpYvGmmRKg.jpg",
+      "Name": "Forgetting Sarah Marshall"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8ZbrTYsUlbDsaI20BYz8E8WwgWU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8ZbrTYsUlbDsaI20BYz8E8WwgWU.jpg",
+      "Name": "Forgetting Sarah Marshall"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kuztNtp0N05DOHBPj8K95G5rUtt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kuztNtp0N05DOHBPj8K95G5rUtt.jpg",
+      "Name": "Forgetting Sarah Marshall"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kx2fesaxs1r4I0OoP7kxByoNMO2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kx2fesaxs1r4I0OoP7kxByoNMO2.jpg",
+      "Name": "Forgetting Sarah Marshall"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6QfZX54N6jr73L5ZBl6vl9pQf3d.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6QfZX54N6jr73L5ZBl6vl9pQf3d.jpg",
+      "Name": "Forgetting Sarah Marshall"
+    }
+  ],
+  "Links": [],
+  "Intro": "When Sarah Marshall dumps aspiring musician Peter Bretter for rock star Aldous Snow, Peter&#8217;s world comes crashing down. His best friend suggests that Peter should get away from everything and to fly off to Hawaii to escape all his problems. After arriving in Hawaii and meeting the beautiful Rachel Jansen, Peter is shocked to see not only Aldous Snow in Hawaii, but also Sarah Marshall.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/rAXlZmQ3gg4mScySg1kvs0ZLdCb-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/vWZ7bBfx-1s?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/forgetting-sarah-marshall/",
+  "Name": "Forgetting Sarah Marshall"
+}

@@ -1,0 +1,68 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dvpU3CJxKCfr1XBOzeMcztgDyO3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dvpU3CJxKCfr1XBOzeMcztgDyO3.jpg",
+      "Name": "Apollo 13"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dx7htIWzPs50HEWP0lyvjfyfKyt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dx7htIWzPs50HEWP0lyvjfyfKyt.jpg",
+      "Name": "Apollo 13"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ecjUbuueWlp2rZnmdILS7yIQUR2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ecjUbuueWlp2rZnmdILS7yIQUR2.jpg",
+      "Name": "Apollo 13"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mXMOeWneLWRopecISkwuPpjqaYa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mXMOeWneLWRopecISkwuPpjqaYa.jpg",
+      "Name": "Apollo 13"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m9k0EiUZTgQP1ZQDP7mryW8DUSh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m9k0EiUZTgQP1ZQDP7mryW8DUSh.jpg",
+      "Name": "Apollo 13"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jphjJdHUf4XJvFJdX7V33KKeIGD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jphjJdHUf4XJvFJdX7V33KKeIGD.jpg",
+      "Name": "Apollo 13"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wCYX3rzLN5gypTzafNjVYMkIJJu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wCYX3rzLN5gypTzafNjVYMkIJJu.jpg",
+      "Name": "Apollo 13"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zXKryY6y4EpxDuIgHSsDVo6L9BN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zXKryY6y4EpxDuIgHSsDVo6L9BN.jpg",
+      "Name": "Apollo 13"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yiNo78Sx3uioxKwHuCVjnAu8ZHv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yiNo78Sx3uioxKwHuCVjnAu8ZHv.jpg",
+      "Name": "Apollo 13"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fPKEDgCG1EpYF8fxFecIS1Qnjks.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fPKEDgCG1EpYF8fxFecIS1Qnjks.jpg",
+      "Name": "Apollo 13"
+    }
+  ],
+  "Links": [],
+  "Intro": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1971, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/6JQ9z3V9x4vlU2GSZx2yNO0PvuX-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/KtEIMC58sZo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/apollo-13/",
+  "Name": "Apollo 13"
+}

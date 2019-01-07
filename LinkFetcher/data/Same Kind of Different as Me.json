@@ -1,0 +1,28 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8axMVK30mf5xDOYJBgD0QS08G4N.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8axMVK30mf5xDOYJBgD0QS08G4N.jpg ",
+      "Name": "Same Kind of Different as Me"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5D8DfGzbNzjbvs3mvw4MTCSPwKw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5D8DfGzbNzjbvs3mvw4MTCSPwKw.jpg ",
+      "Name": "Same Kind of Different as Me"
+    }
+  ],
+  "Links": [],
+  "Intro": "International art dealer Ron Hall must befriend a dangerous homeless man in order to save his struggling marriage to his wife, a woman whose dreams will lead all three of them on the journey of their lives.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/cCTwHtXBVL96ImKDwm5T8pPNO41-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/v8MWxtpjVp8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/same-kind-of-different-as-me/",
+  "Name": "Same Kind of Different as Me"
+}

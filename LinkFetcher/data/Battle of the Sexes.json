@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3G5QZHCJyAtGkJhttbxUfWDdh3v.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3G5QZHCJyAtGkJhttbxUfWDdh3v.jpg ",
+      "Name": "Battle of the Sexes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/doBnrABV56SyOxsa00oDfkaNQgM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/doBnrABV56SyOxsa00oDfkaNQgM.jpg ",
+      "Name": "Battle of the Sexes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wCHJuJwEfOrrykgDas8T4m79Bzs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wCHJuJwEfOrrykgDas8T4m79Bzs.jpg ",
+      "Name": "Battle of the Sexes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5gzkftqSov2rnHhNNt4bkjon5Vx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5gzkftqSov2rnHhNNt4bkjon5Vx.jpg ",
+      "Name": "Battle of the Sexes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qJETG8WGoJ2SKqMy5t0aCjREzPV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qJETG8WGoJ2SKqMy5t0aCjREzPV.jpg ",
+      "Name": "Battle of the Sexes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gDEx8PHM7cjlNI4UNiFWHgKuIpj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gDEx8PHM7cjlNI4UNiFWHgKuIpj.jpg ",
+      "Name": "Battle of the Sexes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wEmYsA3kw4kCpjx2DTIsRYeEVqn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wEmYsA3kw4kCpjx2DTIsRYeEVqn.jpg ",
+      "Name": "Battle of the Sexes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v9fvrgSBhEzm6eYVosT87ak01Jd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v9fvrgSBhEzm6eYVosT87ak01Jd.jpg ",
+      "Name": "Battle of the Sexes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5HuEqfNeQZlLu0bMOIDPjfP98AI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5HuEqfNeQZlLu0bMOIDPjfP98AI.jpg ",
+      "Name": "Battle of the Sexes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fC9yPV0Kc7FjyxmRDK2n5F77d9z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fC9yPV0Kc7FjyxmRDK2n5F77d9z.jpg ",
+      "Name": "Battle of the Sexes"
+    }
+  ],
+  "Links": [],
+  "Intro": "The true story of the 1973 tennis match between World number one Billie Jean King and ex-champ and serial hustler Bobby Riggs.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/v3y96NrwyBxqNhVpHIBZix0uPKP-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/5AWP1K7FaFI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/battle-of-the-sexes/",
+  "Name": "Battle of the Sexes"
+}

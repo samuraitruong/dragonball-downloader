@@ -1,0 +1,53 @@
+{
+  "Id": "mov4WhhGb443297",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9RflGiKwPFPLivQJi95Z6o4QhLr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9RflGiKwPFPLivQJi95Z6o4QhLr.jpg",
+      "Name": "Cạm Bẫy Mặt Trăng: Mục Tiêu Trái Đất - Moontrap Target Earth"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/miNsHqbe8BJP7bLDjggMhAv0bM8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/miNsHqbe8BJP7bLDjggMhAv0bM8.jpg",
+      "Name": "Cạm Bẫy Mặt Trăng: Mục Tiêu Trái Đất - Moontrap Target Earth"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/mov4whhgb443297-2/",
+      "Size": "6.6 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/ADP7M8XTZA7S",
+      "Name": "1080p"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/mov4whhgb443297/",
+      "Size": "4.4 GB",
+      "FileSize": 4692513272,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/OPAZSSBV6Z8S",
+      "Name": "Moontrap.Target.Earth.2017.720p.BluRay.x264-GUACAMOLE.mkv"
+    }
+  ],
+  "Intro": "Một bí ẩn về nền văn mình cổ được khám phá khi các nhà khoa học đã tìm ra được một con tàu vũ trụ cũ bị lãng quên trên trái đất. Các cuộc điều tra do Scout tổ chức, họ đưa con tàu ra để khám phá và tìm được dữ liệu đường đến một nên văn minh cổ&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/07/piTPKYtaZjwnCRlu19zwzqaDLuN-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/e-m7k7Y3vDw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/moontrap-target-earth/",
+  "Name": "Cạm Bẫy Mặt Trăng: Mục Tiêu Trái Đất"
+}

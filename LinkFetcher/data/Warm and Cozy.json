@@ -1,0 +1,400 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yLQ9x2K3B4ucptXZWcJgW4YaYx4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yLQ9x2K3B4ucptXZWcJgW4YaYx4.jpg",
+      "Name": "Warm and Cozy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fsQOxajVN7MuD7cP4BEzDuo7JYg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fsQOxajVN7MuD7cP4BEzDuo7JYg.jpg",
+      "Name": "Warm and Cozy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mjICPaNpJAnfem0F2ForquwRSLH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mjICPaNpJAnfem0F2ForquwRSLH.jpg",
+      "Name": "Warm and Cozy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/x5iWs7AICku1Q9YFXqYgaQQqlIJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/x5iWs7AICku1Q9YFXqYgaQQqlIJ.jpg",
+      "Name": "Warm and Cozy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/w3OzCPAZBo7njGXOt8UjD5kN1hU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/w3OzCPAZBo7njGXOt8UjD5kN1hU.jpg",
+      "Name": "Warm and Cozy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/i6KsYMtpL1EhpRMyX5jCy96yDda.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/i6KsYMtpL1EhpRMyX5jCy96yDda.jpg",
+      "Name": "Warm and Cozy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hUgsrEWEwjqbR4CtN1yMrivlVv3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hUgsrEWEwjqbR4CtN1yMrivlVv3.jpg",
+      "Name": "Warm and Cozy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rJo5i0M1hmetSq6hfvEOBqI3KOn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rJo5i0M1hmetSq6hfvEOBqI3KOn.jpg",
+      "Name": "Warm and Cozy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xRKGWgjLRFgtLGZcHT7Jqk8d46e.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xRKGWgjLRFgtLGZcHT7Jqk8d46e.jpg",
+      "Name": "Warm and Cozy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dJOUZ2oTBxhxyyzX91basLnHgd4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dJOUZ2oTBxhxyyzX91basLnHgd4.jpg",
+      "Name": "Warm and Cozy"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x16/",
+      "Name": "Episode 16"
+    }
+  ],
+  "Intro": "Romance occurs for young people who leave the city and attempt to settle down on Jeju Island.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/8O66iOsFcwncgFb0kH5Zoa9SPmB-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x1/",
+          "Name": "Warm and Cozy 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x10/",
+          "Name": "Warm and Cozy 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x11/",
+          "Name": "Warm and Cozy 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x12/",
+          "Name": "Warm and Cozy 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x13/",
+          "Name": "Warm and Cozy 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x14/",
+          "Name": "Warm and Cozy 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x15/",
+          "Name": "Warm and Cozy 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x16/",
+          "Name": "Warm and Cozy 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x2/",
+          "Name": "Warm and Cozy 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x3/",
+          "Name": "Warm and Cozy 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x4/",
+          "Name": "Warm and Cozy 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x5/",
+          "Name": "Warm and Cozy 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x6/",
+          "Name": "Warm and Cozy 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x7/",
+          "Name": "Warm and Cozy 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x8/",
+          "Name": "Warm and Cozy 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/warm-and-cozy-1x9/",
+          "Name": "Warm and Cozy 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 May. 13, 2015"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/warm-and-cozy/",
+  "Name": "Warm and Cozy"
+}

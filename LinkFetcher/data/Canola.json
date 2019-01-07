@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lRQmOwqoQ3ODnBCBwj3gk7to77j.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lRQmOwqoQ3ODnBCBwj3gk7to77j.jpg",
+      "Name": "Canola"
+    }
+  ],
+  "Links": [],
+  "Intro": "A girl who went missing after an accident returns 10 years later and reunites with her grandmother.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/yrwHhEmRdCkweSlrETKVTHJbhRn-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/fdKoajOKZAg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/canola/",
+  "Name": "Canola"
+}

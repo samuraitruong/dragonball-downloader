@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wuUkDlUTdil1qbUkfz7CafCOS8q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wuUkDlUTdil1qbUkfz7CafCOS8q.jpg ",
+      "Name": "Ibiza"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8fWbRQ7VyZ9kX43dFyOUeFVVxqO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8fWbRQ7VyZ9kX43dFyOUeFVVxqO.jpg ",
+      "Name": "Ibiza"
+    }
+  ],
+  "Links": [],
+  "Intro": "When her not exciting job takes her to Ibiza for business reasons, a woman finds love amidst the partying.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/xm0QJ3eumZ5LSewpYKQe6KfwWRW-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Aw27eMJH3H4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ibiza/",
+  "Name": "Ibiza"
+}

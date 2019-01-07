@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uBuMVTfwFKhSUOHM94tSFIZM4lm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uBuMVTfwFKhSUOHM94tSFIZM4lm.jpg",
+      "Name": "Driving Miss Daisy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f2zSymYJiRY5utmY0I293aCmF8q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f2zSymYJiRY5utmY0I293aCmF8q.jpg",
+      "Name": "Driving Miss Daisy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h0uQ01kSxYcKHV5mKk1IL6X4kYw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h0uQ01kSxYcKHV5mKk1IL6X4kYw.jpg",
+      "Name": "Driving Miss Daisy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uK0ihZKox9aatW6KH1yjZh8wkt3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uK0ihZKox9aatW6KH1yjZh8wkt3.jpg",
+      "Name": "Driving Miss Daisy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hutarbcL4lNNJIK591IRCDLYHKj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hutarbcL4lNNJIK591IRCDLYHKj.jpg",
+      "Name": "Driving Miss Daisy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iIYpBMTRiQsdz4uHQBjlMLeaXjX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iIYpBMTRiQsdz4uHQBjlMLeaXjX.jpg",
+      "Name": "Driving Miss Daisy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/viAzhDuQoBSKaYB0yWQ9x4kmCwM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/viAzhDuQoBSKaYB0yWQ9x4kmCwM.jpg",
+      "Name": "Driving Miss Daisy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hCQVED2NiWDCTmtNW03TLaPRw06.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hCQVED2NiWDCTmtNW03TLaPRw06.jpg",
+      "Name": "Driving Miss Daisy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jnQ253Z4lm9IBWnm1kmidkxfTx1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jnQ253Z4lm9IBWnm1kmidkxfTx1.jpg",
+      "Name": "Driving Miss Daisy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9Qd2NADVRINCQ4zdqbHXWlMmwKV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9Qd2NADVRINCQ4zdqbHXWlMmwKV.jpg",
+      "Name": "Driving Miss Daisy"
+    }
+  ],
+  "Links": [],
+  "Intro": "The story of an old Jewish widow named Daisy Werthan and her relationship with her colored chauffeur Hoke. From an initial mere work relationship grew in 25 years a strong friendship between the two very different characters in a time when those types of relationships where shunned upon. Oscar winning tragic comedy with a star-studded cast and based on a play of the same name by Alfred Uhry.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/pSybZBTSHOrPhDjFThDE9YEhCgT-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/pKRj7QCIXnY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/driving-miss-daisy/",
+  "Name": "Driving Miss Daisy"
+}

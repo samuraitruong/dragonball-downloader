@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7lsJgVw4mGHU69ZEQlAFiL1Qee0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7lsJgVw4mGHU69ZEQlAFiL1Qee0.jpg",
+      "Name": "Manhattan Night"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/d8bV8QDJkYKQMPWPW6sYlJykL4x.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/d8bV8QDJkYKQMPWPW6sYlJykL4x.jpg",
+      "Name": "Manhattan Night"
+    }
+  ],
+  "Links": [],
+  "Intro": "Porter Wren is a Manhattan tabloid writer with an appetite for scandal. On the beat he sells murder, tragedy, and anything that passes for the truth. At home, he is a dedicated husband and father. But when Caroline, a seductive stranger asks him to dig into the unsolved murder of her filmmaker husband Simon, he is drawn into a very nasty case of sexual obsession and blackmail&#8211;one that threatens his job, his marriage, and his life.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/s8VsHs12GKX8uKdjtuoUakYAEbQ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/fHQtlAnR1cU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/manhattan-night/",
+  "Name": "Manhattan Night"
+}

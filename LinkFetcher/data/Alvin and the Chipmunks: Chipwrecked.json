@@ -1,14 +1,84 @@
 {
-  "Id": "movBtOI6F55301",
-  "Url": "https://fsharephim.com/movies/alvin-and-the-chipmunks-chipwrecked/",
-  "Name": "Alvin and the Chipmunks: Chipwrecked",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movbtoi6f55301/",
-      "Name": "Alvin.and.the.Chipmunks-Chipwrecked.2011.LT.mkv",
-      "Url": "https://www.fshare.vn/file/TWAVQQ8PNT",
-      "Size": "2.23 GB",
-      "FileSize": 2391424903
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qc0NReaia4MNsr8Ens054x6udrX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qc0NReaia4MNsr8Ens054x6udrX.jpg",
+      "Name": "Alvin and the Chipmunks: Chipwrecked"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oYbnINkS2ZMEjaAFKse2nOa4Uvg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oYbnINkS2ZMEjaAFKse2nOa4Uvg.jpg",
+      "Name": "Alvin and the Chipmunks: Chipwrecked"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9CErAGgL6EKuK1dkcOkpJqKKHol.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9CErAGgL6EKuK1dkcOkpJqKKHol.jpg",
+      "Name": "Alvin and the Chipmunks: Chipwrecked"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t5xm56CV4wEfB9v8qf1nRpb85l9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t5xm56CV4wEfB9v8qf1nRpb85l9.jpg",
+      "Name": "Alvin and the Chipmunks: Chipwrecked"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jDDRwlcKWPBWxJ2dHYdOJk031To.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jDDRwlcKWPBWxJ2dHYdOJk031To.jpg",
+      "Name": "Alvin and the Chipmunks: Chipwrecked"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3HRMkw1qc5lsZ2mD7vD4T5hs5Dc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3HRMkw1qc5lsZ2mD7vD4T5hs5Dc.jpg",
+      "Name": "Alvin and the Chipmunks: Chipwrecked"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fLwN0IJ4Xp6LGHj7HaWZGoBiKs7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fLwN0IJ4Xp6LGHj7HaWZGoBiKs7.jpg",
+      "Name": "Alvin and the Chipmunks: Chipwrecked"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5lOdfdcGwsg2wxDIHX201ygLuG6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5lOdfdcGwsg2wxDIHX201ygLuG6.jpg",
+      "Name": "Alvin and the Chipmunks: Chipwrecked"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fkHNE8rMvtyE4RJHNL3WLEvMVu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fkHNE8rMvtyE4RJHNL3WLEvMVu.jpg",
+      "Name": "Alvin and the Chipmunks: Chipwrecked"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xdGOylMRixklAfq0OUqI0OkD2Vo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xdGOylMRixklAfq0OUqI0OkD2Vo.jpg",
+      "Name": "Alvin and the Chipmunks: Chipwrecked"
+    }
+  ],
+  "Links": [],
+  "Intro": "Playing around while aboard a cruise ship, the Chipmunks and Chipettes accidentally go overboard and end up marooned in a tropical paradise. They discover their new turf is not as deserted as it seems.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/31IPWvH2l4ycyK8EsMOmmwiJC7n-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/-dOc_fqmcZo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/alvin-and-the-chipmunks-chipwrecked/",
+  "Name": "Alvin and the Chipmunks: Chipwrecked"
 }

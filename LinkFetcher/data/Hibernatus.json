@@ -1,0 +1,47 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4O50YwNeA3NRMdnYe4xRzc03Lmh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4O50YwNeA3NRMdnYe4xRzc03Lmh.jpg",
+      "Name": "Hibernatus - Hibernatus"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5PysGegD4bAr2a0V5qr6ZLgKtpy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5PysGegD4bAr2a0V5qr6ZLgKtpy.jpg",
+      "Name": "Hibernatus - Hibernatus"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7WtBWMVeS4Uh6tNDghQbdCjnP8u.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7WtBWMVeS4Uh6tNDghQbdCjnP8u.jpg",
+      "Name": "Hibernatus - Hibernatus"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2RY9xk1xgCpgRFR7ZFdjlzOMs53.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2RY9xk1xgCpgRFR7ZFdjlzOMs53.jpg",
+      "Name": "Hibernatus - Hibernatus"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4LEt7d5jCrLRFiv4fEcPVsc0BBn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4LEt7d5jCrLRFiv4fEcPVsc0BBn.jpg",
+      "Name": "Hibernatus - Hibernatus"
+    }
+  ],
+  "Links": [],
+  "Intro": "Hibernatus là một bộ phim hài Pháp-Ý năm 1969 của đạo diễn Édouard Molinaro và được viết bởi Jean Bernard-Luc . Phim có sự tham gia của Louis de Funès trong vai một nhà công nghiệp tên là Hubert Barrère de Tartas",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/mp1ua0k9jpXQh8VfLuWvwYrkh3L-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/hibernatus/",
+  "Name": "Hibernatus"
+}

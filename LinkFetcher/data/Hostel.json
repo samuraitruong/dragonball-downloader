@@ -1,0 +1,68 @@
+{
+  "Id": "mov2rDCrv1690",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9jTL24i6meo6u5hHEPwUY8TD1N4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9jTL24i6meo6u5hHEPwUY8TD1N4.jpg",
+      "Name": "Hostel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/foNJupJS0pXtjpKetZ2VyPKj88Q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/foNJupJS0pXtjpKetZ2VyPKj88Q.jpg",
+      "Name": "Hostel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o4lpqMqDQGx4RVorWzcHnSaDeRo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o4lpqMqDQGx4RVorWzcHnSaDeRo.jpg",
+      "Name": "Hostel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wCOySKloz9oyCCLiudfxMB1jvBi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wCOySKloz9oyCCLiudfxMB1jvBi.jpg",
+      "Name": "Hostel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u0FDt3rw1aqvoydBqEwUDTtSHjw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u0FDt3rw1aqvoydBqEwUDTtSHjw.jpg",
+      "Name": "Hostel"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/mov2rdcrv1690/",
+      "Size": "8.75 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/GR7GC5EAXKQS",
+      "Name": "1080p"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/mov2rdcrv1690-2/",
+      "Size": "8.75 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://4share.vn/f/7e4b494b4c49474a/Hostel.2005.1080p.BluRay.x264-TFiN.mkv",
+      "Name": "1080p"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/mov2rdcrv1690-3/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/hostel/vietnamese/341022",
+      "Name": "Viet - Subtitle"
+    }
+  ],
+  "Intro": "Three backpackers head to a Slovakian city that promises to meet their hedonistic expectations, with no idea of the hell that awaits them.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/zF3pEs1CUbjPgioxDH4h2MEHsWl-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/4d5_lrn9v-g?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/hostel/",
+  "Name": "Hostel"
+}

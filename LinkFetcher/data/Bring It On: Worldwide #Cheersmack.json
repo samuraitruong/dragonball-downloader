@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6j6zbUNlnSrXn1LD61cLAf1JHfC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6j6zbUNlnSrXn1LD61cLAf1JHfC.jpg ",
+      "Name": "Bring It On: Worldwide #Cheersmack"
+    }
+  ],
+  "Links": [],
+  "Intro": "Vivica A. Fox makes her Bring It On debut as Cheer Goddess, the Internet&#8217;s most popular &#8220;Cheer-lebrity.&#8221; When Destiny (Prosperi), captain of three-time national champions &#8220;The Rebels,&#8221; is challenged to a global cheer showdown by an edgy new team called &#8220;The Truth,&#8221; the Cheer Goddess organizes a virtual battle for squads from all around the world. It seems like the whole world wants to take down Destiny and her team, and they just might succeed, unless Destiny can rise to the challenge, set her ego aside and figure out who her real friends are.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/jNZnw3TXNFWv7KVhZIDOszZnUH9-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/bring-worldwide-cheersmack/",
+  "Name": "Bring It On: Worldwide #Cheersmack"
+}

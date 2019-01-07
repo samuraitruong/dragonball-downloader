@@ -1,21 +1,52 @@
 {
-  "Id": "movPftiHR13683",
-  "Url": "https://fsharephim.com/movies/tarzan-jane/",
-  "Name": "Tarzan & Jane",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movpftihr13683/",
-      "Name": "TARZAN _ JANE HDTV 720.mkv",
-      "Url": "https://www.fshare.vn/file/TBRDRCKD8T",
-      "Size": "1.86 GB",
-      "FileSize": 1999946164
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movpftihr13683-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/tarzan-and-jane",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/x2FeMuxOL6vZt7VY8XlGWUniMcg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/x2FeMuxOL6vZt7VY8XlGWUniMcg.jpg",
+      "Name": "Tarzan &#038; Jane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sXJRsjNLpc3chh3ui0T2c58meEF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sXJRsjNLpc3chh3ui0T2c58meEF.jpg",
+      "Name": "Tarzan &#038; Jane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8soEH6xDTVZPdoVxEJBm9OcSgN2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8soEH6xDTVZPdoVxEJBm9OcSgN2.jpg",
+      "Name": "Tarzan &#038; Jane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dDHJEbBCAWY0IcvlLGMtIQ2I2nJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dDHJEbBCAWY0IcvlLGMtIQ2I2nJ.jpg",
+      "Name": "Tarzan &#038; Jane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/d936NW0mgk7m1h6RVTJ6ntN0TOf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/d936NW0mgk7m1h6RVTJ6ntN0TOf.jpg",
+      "Name": "Tarzan &#038; Jane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/An3J5M3ieqAJdVQp1cEEacN3cDu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/An3J5M3ieqAJdVQp1cEEacN3cDu.jpg",
+      "Name": "Tarzan &#038; Jane"
+    }
+  ],
+  "Links": [],
+  "Intro": "Sprightly amusement for kids of all ages, Disney&#8217;s direct-to-video sequel to its animated hit sandwiches jungle derring-do and lots of silly sight gags between song and dance number. With the first anniversary of her wedding to Tarzan (voice of Michael T. Weiss) beckoning, Jane (Olivia D&#8217;Abo) ponders how to make it the perfect English celebration",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/hy2Jul5g4LWr6pgMo3L2MPN3qsn-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/-YB3tZXbyQ0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/tarzan-jane/",
+  "Name": "Tarzan & Jane"
 }

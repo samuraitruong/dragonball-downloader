@@ -1,21 +1,37 @@
 {
-  "Id": "movsQs35q254263",
-  "Url": "https://fsharephim.com/movies/the-swan-princess-a-royal-family-tale/",
-  "Name": "The Swan Princess: A Royal Family Tale",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movsqs35q254263/",
-      "Name": "The.Swan.Princess.A.Royal.Family.Tale.2014.mkv",
-      "Url": "https://www.fshare.vn/file/TMQSGDG48T",
-      "Size": "2.65 GB",
-      "FileSize": 2845593701
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movsqs35q254263-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/the-swan-princess-a-royal-family-tale",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qCcuXe0w6BOjOLNlOKwuZn3NCNe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qCcuXe0w6BOjOLNlOKwuZn3NCNe.jpg",
+      "Name": "The Swan Princess: A Royal Family Tale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7V06IJAO9GPbC3zwaqwhiRsLZwA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7V06IJAO9GPbC3zwaqwhiRsLZwA.jpg",
+      "Name": "The Swan Princess: A Royal Family Tale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dH7Fzu6b2K3bdKzOC0urPFqFTSF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dH7Fzu6b2K3bdKzOC0urPFqFTSF.jpg",
+      "Name": "The Swan Princess: A Royal Family Tale"
+    }
+  ],
+  "Links": [],
+  "Intro": "Shortly after the Royal Family adopts a young girl named Alise, she is taken away into the forest. Princess Odette, Derek and their woodland friends, must work together to find a way to bring her home to the castle.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/b2A0ZhbvIv4Khp5AHt8KeoyMuWc-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-swan-princess-a-royal-family-tale/",
+  "Name": "The Swan Princess: A Royal Family Tale"
 }

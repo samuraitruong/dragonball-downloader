@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zvuqLQTSTszzGK09netDNjS4yPY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zvuqLQTSTszzGK09netDNjS4yPY.jpg",
+      "Name": "Xác ướp 3: Lăng Mộ Tần Vương - The Mummy: Tomb of the Dragon Emperor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fLQgJwrT8anhipE5iTlRcotv6x6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fLQgJwrT8anhipE5iTlRcotv6x6.jpg",
+      "Name": "Xác ướp 3: Lăng Mộ Tần Vương - The Mummy: Tomb of the Dragon Emperor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/caB8JFUigSHdGsdxOxaK4vZtOiN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/caB8JFUigSHdGsdxOxaK4vZtOiN.jpg",
+      "Name": "Xác ướp 3: Lăng Mộ Tần Vương - The Mummy: Tomb of the Dragon Emperor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rN40voFXcaK3ZrPTvrTU9YxfgMb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rN40voFXcaK3ZrPTvrTU9YxfgMb.jpg",
+      "Name": "Xác ướp 3: Lăng Mộ Tần Vương - The Mummy: Tomb of the Dragon Emperor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/69N3tZpynGQpds4Cu199Xco0lpT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/69N3tZpynGQpds4Cu199Xco0lpT.jpg",
+      "Name": "Xác ướp 3: Lăng Mộ Tần Vương - The Mummy: Tomb of the Dragon Emperor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jvl19t2lGzfCQfTWAWiWrXJZoBQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jvl19t2lGzfCQfTWAWiWrXJZoBQ.jpg",
+      "Name": "Xác ướp 3: Lăng Mộ Tần Vương - The Mummy: Tomb of the Dragon Emperor"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phần thứ 3 của series phim The Mummy lấy bối cảnh Thượng Hải năm 1947. Cậu bé Alex bây giờ là nhà khảo cổ Alex O’Connell đến Trung quốc và do sơ ý đã đánh thức Hoàng đế rồng độc ác. Alex phảI cầu cứu cha mẹ anh nhà thám hiểm Rick O’Connell và vợ là Evelyn cùng anh vợ Jonathan để chiến đấu với xác ướp Tần Thủy Hoàng&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/53hrZvxiV3HgG6pdhuMeErIc7Hg-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ol-U0ibnVD4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-mummy-tomb-of-the-dragon-emperor/",
+  "Name": "Xác ướp 3: Lăng Mộ Tần Vương"
+}

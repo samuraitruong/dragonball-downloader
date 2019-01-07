@@ -1,28 +1,84 @@
 {
-  "Id": "movwavjc69016",
-  "Url": "https://fsharephim.com/movies/treasure-planet/",
-  "Name": "Hành Tinh Báu Vật",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movwavjc69016/",
-      "Name": "Treasure Planet (2002) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/4GPUXT2GX25B",
-      "Size": "1.15 GB",
-      "FileSize": 1238577378
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movwavjc69016-2/",
-      "Name": "Treasure Planet (2002) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/3UT9JNCKHEDA",
-      "Size": "1.82 GB",
-      "FileSize": 1953744594
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movwavjc69016-3/",
-      "Name": "Treasure Planet (2002)1080p BluRay AVC DTS-HD MA5.1.iso",
-      "Url": "https://www.fshare.vn/file/K7XXJL6S8F7F",
-      "Size": "28.7 GB",
-      "FileSize": 30811357184
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3HVvtFm9NvOfn1u3yfeEugh2ZWj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3HVvtFm9NvOfn1u3yfeEugh2ZWj.jpg",
+      "Name": "Hành Tinh Báu Vật - Treasure Planet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hEwbDCvPBWMxfaP9cFImy7rZQtV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hEwbDCvPBWMxfaP9cFImy7rZQtV.jpg",
+      "Name": "Hành Tinh Báu Vật - Treasure Planet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9m5C0hb8uCsPSnLcqGOjP0EOF9v.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9m5C0hb8uCsPSnLcqGOjP0EOF9v.jpg",
+      "Name": "Hành Tinh Báu Vật - Treasure Planet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tAByTck7Sr1pRuiavehJ2gKZiX2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tAByTck7Sr1pRuiavehJ2gKZiX2.jpg",
+      "Name": "Hành Tinh Báu Vật - Treasure Planet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nOspOPeW7Alwfwt6Ojq0pQuZdbg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nOspOPeW7Alwfwt6Ojq0pQuZdbg.jpg",
+      "Name": "Hành Tinh Báu Vật - Treasure Planet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gR3tPQfu7G0IsMdrVRMqhfQ2Wpe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gR3tPQfu7G0IsMdrVRMqhfQ2Wpe.jpg",
+      "Name": "Hành Tinh Báu Vật - Treasure Planet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a7VP1gyko8YEx7JCpyXDYnbbk7F.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a7VP1gyko8YEx7JCpyXDYnbbk7F.jpg",
+      "Name": "Hành Tinh Báu Vật - Treasure Planet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/i079NwpqATebzGe3F74u8P77dFX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/i079NwpqATebzGe3F74u8P77dFX.jpg",
+      "Name": "Hành Tinh Báu Vật - Treasure Planet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gq0qpJp7CvSfm4BOJZGJhAmyF98.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gq0qpJp7CvSfm4BOJZGJhAmyF98.jpg",
+      "Name": "Hành Tinh Báu Vật - Treasure Planet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wOO5YtBxvdCPNCzJ6MmRXiLEKOZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wOO5YtBxvdCPNCzJ6MmRXiLEKOZ.jpg",
+      "Name": "Hành Tinh Báu Vật - Treasure Planet"
+    }
+  ],
+  "Links": [],
+  "Intro": "Cậu bé Jim Hawkins cùng một nhóm bạn tìm kiếm mẫu vật cổ của thuyền trưởng Flint. Nhưng câu chuyện Treasure Island của R. L. Stevenson ngày nào đã được Disney dựng lên phim với bối cảnh là ở ngoài không gian trong một tương lai xa lắm. Cậu bé Jim Hawkins sống cùng với mẹ trong một quán trọ nhỏ rất mê câu chuyện về thuyền trưởng Flint và kho báu khổng lồ của ông ta. Rồi một ngày kia, một vị khách lạ lùng lết vào quán, chỉ kịp trao cho Jim quả cầu chứa bản đồ dẫn đến kho báu của Flint truớc khi tắt thở&#8230;và một cuộc phiêu lưu bắt đầu&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/yfcoA7q9n852yVnYa0VcAchgA72-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ajhZRL1j7a0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/treasure-planet/",
+  "Name": "Hành Tinh Báu Vật"
 }

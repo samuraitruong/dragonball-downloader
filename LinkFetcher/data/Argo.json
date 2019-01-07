@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dluuOrh0uoH0rmqG7RWMlkJf6Gt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dluuOrh0uoH0rmqG7RWMlkJf6Gt.jpg ",
+      "Name": "Argo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7MGIEdu0Mokqt8i7snflYRLbooI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7MGIEdu0Mokqt8i7snflYRLbooI.jpg ",
+      "Name": "Argo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6Fy20wTtylup7EMUzCb5nuqjrU2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6Fy20wTtylup7EMUzCb5nuqjrU2.jpg ",
+      "Name": "Argo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bVokQSyH1ZgwFc5ObKYJMJvKvF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bVokQSyH1ZgwFc5ObKYJMJvKvF.jpg ",
+      "Name": "Argo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mZJM3yanKym3BZ8J4Iy5kZoAxea.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mZJM3yanKym3BZ8J4Iy5kZoAxea.jpg ",
+      "Name": "Argo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fviZDYnvKXCtPhBzk2eb2Fxmyn5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fviZDYnvKXCtPhBzk2eb2Fxmyn5.jpg ",
+      "Name": "Argo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/j4EpJByVs6qhe5AxpsHDVi7MQBt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/j4EpJByVs6qhe5AxpsHDVi7MQBt.jpg ",
+      "Name": "Argo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lOE7sTmyQlpAHwYgacNjqyDcFIS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lOE7sTmyQlpAHwYgacNjqyDcFIS.jpg ",
+      "Name": "Argo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lmehAnRtc16JOYMPbCHh2IIW7aC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lmehAnRtc16JOYMPbCHh2IIW7aC.jpg ",
+      "Name": "Argo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/q3qT5PhP1KTUOkmwMwLkI472V5x.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/q3qT5PhP1KTUOkmwMwLkI472V5x.jpg ",
+      "Name": "Argo"
+    }
+  ],
+  "Links": [],
+  "Intro": "As the Iranian revolution reaches a boiling point, a CIA &#8216;exfiltration&#8217; specialist concocts a risky plan to free six Americans who have found shelter at the home of the Canadian ambassador.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/oai3xLBQHpIh18VJdRCcL7D0Yg0-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/6jP5LYTcfMk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/argo/",
+  "Name": "Argo"
+}

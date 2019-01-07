@@ -1,0 +1,89 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lQaqm6SQJMcKSXMI73Li59iGg1H.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lQaqm6SQJMcKSXMI73Li59iGg1H.jpg",
+      "Name": "Lovely Horribly"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lovely-horribly-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lovely-horribly-1x2/",
+      "Name": "Episode 2"
+    }
+  ],
+  "Intro": "Philip and Eul Soon are bound by an unusual fate: one’s happiness always results in the other’s misfortune. The two start writing a drama together, and the events in the screenplay mysteriously begin occurring in real life.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/08/z4H7HDScnXW270yFqjk7aGquNml-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": "tvvcYp2V1536620",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvvcyp2v1536620/",
+              "Size": "1.8 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/6JYWDW4J5R7E",
+              "Name": "1080p"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lovely-horribly-1x1/",
+          "Name": "Lovely Horribly 1x1"
+        },
+        {
+          "Id": "tvysA0w21536622",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvysa0w21536622/",
+              "Size": "1.8 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/K5Q2O32REFOV",
+              "Name": "1080p"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lovely-horribly-1x2/",
+          "Name": "Lovely Horribly 1x2"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Aug. 13, 2018"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/lovely-horribly/",
+  "Name": "Lovely Horribly"
+}

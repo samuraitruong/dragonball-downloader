@@ -1,0 +1,31 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aUqV5OrITlBSPM8df3bPgDBu4bA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aUqV5OrITlBSPM8df3bPgDBu4bA.jpg",
+      "Name": "Ngộ Không Kỳ Truyện - Wu Kong"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bộ phim là câu chuyện về Tôn Ngộ Không (Bành Vu Yến) trước khi trở thành Tề Thiên Đại Thánh tinh thông 72 phép biến hóa. Với vẻ lãng tử của một hiệp khách giang hồ, Tôn Ngộ Không cùng lòng nhiệt huyết, quyết tâm theo học võ nghệ tại tiên giới. Thế nhưng, trong một trận chiến, Ngộ Không bị ném vào nhân gian.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/sqW4EiJ8m6BXL2VgfOghPkhykXt-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/EpFQaYv8MV4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/wu-kong/",
+  "Name": "Ngộ Không Kỳ Truyện"
+}

@@ -1,0 +1,25 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
+    }
+  ],
+  "Images": [],
+  "Links": [],
+  "Intro": "A young musician from a small town in China tries to save his town&#8217;s treasured Rock Park by organizing a charity rock concert.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/aC3yN9wzFfwYkwZutk8r6hf4jJq-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/city-of-rock/",
+  "Name": "City of Rock"
+}

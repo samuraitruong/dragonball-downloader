@@ -1,21 +1,73 @@
 {
   "Id": "mov2LrWFf76589",
-  "Url": "https://fsharephim.com/movies/justice-league-doom/",
-  "Name": "Chiến Binh Công Lý : Doom",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dfgkhmFGmyynhcejN0Il36eBQc2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dfgkhmFGmyynhcejN0Il36eBQc2.jpg",
+      "Name": "Chiến Binh Công Lý : Doom - Justice League: Doom"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2ffvE5urMw6P5eiePNmzFVEiwMf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2ffvE5urMw6P5eiePNmzFVEiwMf.jpg",
+      "Name": "Chiến Binh Công Lý : Doom - Justice League: Doom"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1LGSAnL35tbHIsi00zPr4HLZHJ6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1LGSAnL35tbHIsi00zPr4HLZHJ6.jpg",
+      "Name": "Chiến Binh Công Lý : Doom - Justice League: Doom"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vTEqLjvTa6yojasDEklhGhSVxQ1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vTEqLjvTa6yojasDEklhGhSVxQ1.jpg",
+      "Name": "Chiến Binh Công Lý : Doom - Justice League: Doom"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sPS9yRarAT9Ji0KGrBf6Nz4XxgH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sPS9yRarAT9Ji0KGrBf6Nz4XxgH.jpg",
+      "Name": "Chiến Binh Công Lý : Doom - Justice League: Doom"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7xHYjRe4nijgazEmz7JAFxjGgXX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7xHYjRe4nijgazEmz7JAFxjGgXX.jpg",
+      "Name": "Chiến Binh Công Lý : Doom - Justice League: Doom"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/mov2lrwff76589/",
-      "Name": "720p",
-      "Url": "https://www.fshare.vn/file/K5QYCJF7GFIX",
       "Size": "2.76 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/K5QYCJF7GFIX",
+      "Name": "720p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/mov2lrwff76589-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/justice-league-doom-2012/indonesian/541979",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/justice-league-doom-2012/indonesian/541979",
+      "Name": "Viet - Subtitle"
     }
-  ]
+  ],
+  "Intro": "Bộ phim xoay quanh âm mưu Vandal Savage để tiêu diệt phần lớn dân số thế giới và bắt đầu một nền văn minh mới. Để đảm bảo rằng Justice League là không thể ngăn chặn anh ta, Savage thuê Gương Thạc sĩ, người hack vào Batcomputer sử dụng một thiết bị được thực hiện bởi LexCorp và đánh cắp các kế Xem Phim Justice League Doom hoạch đưa ra bởi Batman để vô đồng đội của mình giải họ bao giờ nên đi lừa đảo. Savage tập hợp một nhóm các supervillains với vendettas cá nhân đối với các anh hùng và trả tiền Xem Phim Justice League Doom cho họ đa dạng đồng thời tấn công các thành viên của Liên đoàn sử dụng các kế hoạch này, Xem Phim Justice League Doom mặc dù thay đổi để làm chết người.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/4KIk5Odvkpwlf5y0QYqohTTlujw-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/uBrvW9FbfDw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/justice-league-doom/",
+  "Name": "Chiến Binh Công Lý : Doom"
 }

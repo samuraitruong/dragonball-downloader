@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3FweBee0xZoY77uO1bhUOlQorNH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3FweBee0xZoY77uO1bhUOlQorNH.jpg",
+      "Name": "Thần Sấm 2: Thế Giới Bóng Tối - Thor: The Dark World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nEyQyVqjF13ToMxMHUzfro8b4U1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nEyQyVqjF13ToMxMHUzfro8b4U1.jpg",
+      "Name": "Thần Sấm 2: Thế Giới Bóng Tối - Thor: The Dark World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/90seuFwm25GWNbF1ydkaPa4DrdO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/90seuFwm25GWNbF1ydkaPa4DrdO.jpg",
+      "Name": "Thần Sấm 2: Thế Giới Bóng Tối - Thor: The Dark World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bXBrS7gSuBz8e4svaGDXG9GDgnK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bXBrS7gSuBz8e4svaGDXG9GDgnK.jpg",
+      "Name": "Thần Sấm 2: Thế Giới Bóng Tối - Thor: The Dark World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wYdFAUyCApeUbfWWP0YMsu6b4hs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wYdFAUyCApeUbfWWP0YMsu6b4hs.jpg",
+      "Name": "Thần Sấm 2: Thế Giới Bóng Tối - Thor: The Dark World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aiMqL70o4KZHaw59gnJatrv74d2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aiMqL70o4KZHaw59gnJatrv74d2.jpg",
+      "Name": "Thần Sấm 2: Thế Giới Bóng Tối - Thor: The Dark World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AfBMIRqhC8MlDBHchHc77fgmNU7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AfBMIRqhC8MlDBHchHc77fgmNU7.jpg",
+      "Name": "Thần Sấm 2: Thế Giới Bóng Tối - Thor: The Dark World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gSWNmISfhJztAFlSg2dqw3hA19f.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gSWNmISfhJztAFlSg2dqw3hA19f.jpg",
+      "Name": "Thần Sấm 2: Thế Giới Bóng Tối - Thor: The Dark World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7VszaN5PTpxdRVhOOKkwQixRYzN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7VszaN5PTpxdRVhOOKkwQixRYzN.jpg",
+      "Name": "Thần Sấm 2: Thế Giới Bóng Tối - Thor: The Dark World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3GGezmYBpGylyN7uAWLMxSFziFq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3GGezmYBpGylyN7uAWLMxSFziFq.jpg",
+      "Name": "Thần Sấm 2: Thế Giới Bóng Tối - Thor: The Dark World"
+    }
+  ],
+  "Links": [],
+  "Intro": "Thần Sấm 2 nói tiếp về quãng thời gian khi Thor trở thành vua xứ Asgard, lúc này anh phải đối mặt với một kẻ thù vô cùng nguy hiểm và mạnh mẽ, đó là The Dark Elves. Hắn thậm chí còn mạnh hơn cả Odin. Trong tình thế vô cùng nguy cấp, Thor đành phải nhờ đến Loki. Cả hai gác bỏ hiềm khích cùng nhau vượt qua một thế giới đen tối và vô cùng lạnh lẽo, nơi được gọi là The Dark Wold.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/bnX5PqAdQZRXSw3aX3DutDcdso5-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/npvJ9FTgZbM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/thor-the-dark-world/",
+  "Name": "Thần Sấm 2: Thế Giới Bóng Tối"
+}

@@ -1,0 +1,31 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/r6VDERaVGr1WFE3BKBvYirKgxCi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/r6VDERaVGr1WFE3BKBvYirKgxCi.jpg",
+      "Name": "DiDi&#8217;s Dreams"
+    }
+  ],
+  "Links": [],
+  "Intro": "Didi is an actress trying to prove herself before her superstar sister, while Chunmei owns a noodle shop and got dumped by the boy she had fancied forever.When these two distinct lives cross path, where would fate take them?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/rOW6k1lM3Mrf4TbkhSl6J6Xx71T-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/didis-dreams/",
+  "Name": "DiDi's Dreams"
+}

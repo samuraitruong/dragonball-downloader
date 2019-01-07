@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ApykDr2ynigWc7KvP51DWD7N0xB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ApykDr2ynigWc7KvP51DWD7N0xB.jpg",
+      "Name": "RV: Resurrected Victims"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4AwS7GcQe9DIQKrZrKi1PK1khFB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4AwS7GcQe9DIQKrZrKi1PK1khFB.jpg",
+      "Name": "RV: Resurrected Victims"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wpMHWQNpw0lorTw2EPC50pBObgQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wpMHWQNpw0lorTw2EPC50pBObgQ.jpg",
+      "Name": "RV: Resurrected Victims"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hqqcGbWPDGenucED5oL4v2ZbtG1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hqqcGbWPDGenucED5oL4v2ZbtG1.jpg",
+      "Name": "RV: Resurrected Victims"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8DdVNskak7zhjoWHcF71t4Bt49S.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8DdVNskak7zhjoWHcF71t4Bt49S.jpg",
+      "Name": "RV: Resurrected Victims"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jkcnkJsvFxox50NRnIBdjjpBkoK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jkcnkJsvFxox50NRnIBdjjpBkoK.jpg",
+      "Name": "RV: Resurrected Victims"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/clFkX5BRmxgYtuqMDm8Y6vwMpdL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/clFkX5BRmxgYtuqMDm8Y6vwMpdL.jpg",
+      "Name": "RV: Resurrected Victims"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mp43yRS5uWHyytL24SblkqC5HZe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mp43yRS5uWHyytL24SblkqC5HZe.jpg",
+      "Name": "RV: Resurrected Victims"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9sZHGERCSUvSmDCnEbdATlcezuA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9sZHGERCSUvSmDCnEbdATlcezuA.jpg",
+      "Name": "RV: Resurrected Victims"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1bFCarAoZO7uHlsUpxMWeOUbilK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1bFCarAoZO7uHlsUpxMWeOUbilK.jpg",
+      "Name": "RV: Resurrected Victims"
+    }
+  ],
+  "Links": [],
+  "Intro": "Based on the Resurrected Victims Phenomenon where murder victims come back to life to avenge the murderer, a prosecutor is suspected of his mother’s murder.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/fohbn3UI93m7hGxnt6fsQ8aG8XK-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/IzqkYisY5UQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/rv-resurrected-victims/",
+  "Name": "RV: Resurrected Victims"
+}

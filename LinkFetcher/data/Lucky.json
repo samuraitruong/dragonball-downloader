@@ -1,0 +1,53 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/josJUt5eVMANf06mxSKnJlwjELB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/josJUt5eVMANf06mxSKnJlwjELB.jpg ",
+      "Name": "Lucky"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cJQOIpjSTp8e8WlOkcC2yCSEayQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cJQOIpjSTp8e8WlOkcC2yCSEayQ.jpg ",
+      "Name": "Lucky"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/y2iWfbDQ6FVRPTgEh2CBMEFcKnD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/y2iWfbDQ6FVRPTgEh2CBMEFcKnD.jpg ",
+      "Name": "Lucky"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7mCE4QisFuJqxbLGK4WiyM5fjjl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7mCE4QisFuJqxbLGK4WiyM5fjjl.jpg ",
+      "Name": "Lucky"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/16JvcBDRIA5npuEnND6ArazynKm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/16JvcBDRIA5npuEnND6ArazynKm.jpg ",
+      "Name": "Lucky"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m0MApr3gEMDIQdQTdKYsquu3W2C.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m0MApr3gEMDIQdQTdKYsquu3W2C.jpg ",
+      "Name": "Lucky"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/26CLailpivj1tv9Ga8TGywGc8UM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/26CLailpivj1tv9Ga8TGywGc8UM.jpg ",
+      "Name": "Lucky"
+    }
+  ],
+  "Links": [],
+  "Intro": "Follows the journey of a 90-year-old atheist and the quirky characters that inhabit his off-the-map desert town. He finds himself at the precipice of life, thrust into a journey of self-exploration.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/fy2K8jqCV9rNC8fHx9muPJTNaqs-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/2KLLkj84GAo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/lucky/",
+  "Name": "Lucky"
+}

@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2zLULpdiHDWV8Zf5jJ5uOITbxhC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2zLULpdiHDWV8Zf5jJ5uOITbxhC.jpg ",
+      "Name": "Đế Chế Maya - Apocalypto"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fIK7RywZD0aesxBv1DaXWTeOf9U.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fIK7RywZD0aesxBv1DaXWTeOf9U.jpg ",
+      "Name": "Đế Chế Maya - Apocalypto"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pzGegiHEX39M7JHsdBjv1wj7Eno.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pzGegiHEX39M7JHsdBjv1wj7Eno.jpg ",
+      "Name": "Đế Chế Maya - Apocalypto"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qCHLwg6OPq7oW8JrC3lfeZd8JF9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qCHLwg6OPq7oW8JrC3lfeZd8JF9.jpg ",
+      "Name": "Đế Chế Maya - Apocalypto"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ehTNL4EwU2t8Y6xywk39lVi3aTA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ehTNL4EwU2t8Y6xywk39lVi3aTA.jpg ",
+      "Name": "Đế Chế Maya - Apocalypto"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l7XRMURNroPYajcqLlWxyzUlucW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l7XRMURNroPYajcqLlWxyzUlucW.jpg ",
+      "Name": "Đế Chế Maya - Apocalypto"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pG2eEXN7KmHlPuo2T59UcmZzDs5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pG2eEXN7KmHlPuo2T59UcmZzDs5.jpg ",
+      "Name": "Đế Chế Maya - Apocalypto"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yad2THRgzGHcABoOiTDT4jDWYnL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yad2THRgzGHcABoOiTDT4jDWYnL.jpg ",
+      "Name": "Đế Chế Maya - Apocalypto"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dIxRpSNkzBgZ4kt9EqsMZupyjEh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dIxRpSNkzBgZ4kt9EqsMZupyjEh.jpg ",
+      "Name": "Đế Chế Maya - Apocalypto"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nU0XYQ0LwiEiFJPaCbuye92ICup.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nU0XYQ0LwiEiFJPaCbuye92ICup.jpg ",
+      "Name": "Đế Chế Maya - Apocalypto"
+    }
+  ],
+  "Links": [],
+  "Intro": "Lấy bối cảnh ở thế kỷ XVI, chuyện phim Apocalypto kể về cuộc sống bình yên của bộ tộc Maya bỗng chốc trở nên hoang tàn khi một toán lính thiện chiến ập đến bắt họ về để tế thần.Jaguar Paw, chàng thổ dân dũng cảm và cũng có mặt trong đám người xấu số sắp lên đàn hiến tế. Tình thế ngàn cân treo sợi tóc buộc anh phải hành động để cứu lấy dân làng và những người mình yêu thương… Apocalypto là một tuyệt tác của đạo diễn &#8211; diễn viên tài năng Mel Gibson. Dù xếp vào thể loại hành động hay tình cảm, Apocalypto cũng là một bộ phim không thể bỏ qua của năm 2006 với những giây phút hồi hộp tột cùng hay những hình ảnh vô cùng xúc động.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/03/5BTFXR96hcBzmJvd9FwNayV79Xu-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ngWBddVNVZs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/apocalypto/",
+  "Name": "Đế Chế Maya"
+}

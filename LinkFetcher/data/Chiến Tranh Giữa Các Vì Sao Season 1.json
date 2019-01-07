@@ -1,35 +1,44 @@
 {
-  "Id": "movRAqPAt333355",
-  "Url": "https://fsharephim.com/movies/star-wars-clone-wars-volume-1/",
-  "Name": "Chiến Tranh Giữa Các Vì Sao Season 1",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movraqpat333355-3/",
-      "Name": "Star.Wars.The.Clone.Wars.2008.mHD.x264-Thuyet.Minh.mkv",
-      "Url": "https://www.fshare.vn/file/TJK0CBA60T",
-      "Size": "1.2 GB",
-      "FileSize": 1285130505
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movraqpat333355-4/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/star-wars-the-clone-wars-first-season",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movraqpat333355/",
-      "Name": "Star.Wars.The.Clone.Wars.2008.mHD.x264-Thuyet.Minh.mkv",
-      "Url": "https://www.fshare.vn/file/TJK0CBA60T",
-      "Size": "1.2 GB",
-      "FileSize": 1285130505
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movraqpat333355-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/star-wars-the-clone-wars-first-season",
-      "Size": "0",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/obPvIvB3Y9diTb4BwIUvR86Q262.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/obPvIvB3Y9diTb4BwIUvR86Q262.jpg",
+      "Name": "Chiến Tranh Giữa Các Vì Sao Season 1 - Star Wars: Clone Wars — Volume 1"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jwAVVivirH1vCceiTakFdLqiL9o.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jwAVVivirH1vCceiTakFdLqiL9o.jpg",
+      "Name": "Chiến Tranh Giữa Các Vì Sao Season 1 - Star Wars: Clone Wars — Volume 1"
+    }
+  ],
+  "Links": [],
+  "Intro": null,
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/2Bc0Ust8YlcJy6tSwiXTLu66xRa-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/star-wars-clone-wars-volume-1/",
+  "Name": "Chiến Tranh Giữa Các Vì Sao Season 1"
 }

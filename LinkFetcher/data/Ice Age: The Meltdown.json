@@ -1,49 +1,70 @@
 {
-  "Id": "movhw0Sa9950",
-  "Url": "https://fsharephim.com/movies/ice-age-the-meltdown/",
-  "Name": "Ice Age: The Meltdown",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movhw0sa9950/",
-      "Name": "Ice Age The Meltdown 2006 vie mHD BluRay AC3 x264-EPiK.mkv",
-      "Url": "https://www.fshare.vn/file/LYRNPDDFUPOYMU6",
-      "Size": "2.0 GB",
-      "FileSize": 2110367746
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movhw0sa9950-2/",
-      "Name": "Ice.Age.The.Meltdown.2006.720p.BluRay.DTS.x264-EbP.mkv",
-      "Url": "https://www.fshare.vn/file/HFDAZXG7AKSX259",
-      "Size": "4.4 GB",
-      "FileSize": 4696234112
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movhw0sa9950-3/",
-      "Name": "Ice.Age.2.The.Meltdown.2006.1080p.BluRay.AVC.DTS.HDMA-UNTOUCHED.mkv",
-      "Url": "https://www.fshare.vn/file/S52KG8IMBH4XZZN",
-      "Size": "14.4 GB",
-      "FileSize": 15448840871
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movhw0sa9950-4/",
-      "Name": "Ice.Age.The.Meltdown.2006.ViE.720p.BluRay.DTS.x264-EbP.VAV.mkv",
-      "Url": "https://www.fshare.vn/file/5J1B5HPV2AYSQ1N",
-      "Size": "5.2 GB",
-      "FileSize": 5630515692
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movhw0sa9950-5/",
-      "Name": "Ice Age The Meltdown 2006 Vie 1080p Blu-ray AVC DTS-HD MA 5.1-PROTRI.iso",
-      "Url": "https://www.fshare.vn/file/CCEP2UTBU4NPAYS",
-      "Size": "29.5 GB",
-      "FileSize": 31717687296
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movhw0sa9950-6/",
-      "Name": "[TECH24H.VN]Ice.Age.2006.The.Meltdown.720p.BluRay.DTS.x264-EbP.srt",
-      "Url": "https://www.fshare.vn/file/ZBA96S7AMYN7OJF",
-      "Size": "57.4 KB",
-      "FileSize": 58770
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lxNCa4FifUuLeUkWUQl2yuf9JnJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lxNCa4FifUuLeUkWUQl2yuf9JnJ.jpg ",
+      "Name": "Ice Age: The Meltdown"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vPotRRx8kdDu7CkFovXovgnfiN4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vPotRRx8kdDu7CkFovXovgnfiN4.jpg ",
+      "Name": "Ice Age: The Meltdown"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6tQAb6E2dJpyHgm2jlUjeFRn6gy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6tQAb6E2dJpyHgm2jlUjeFRn6gy.jpg ",
+      "Name": "Ice Age: The Meltdown"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7VkeUYnUQpToE8X3d4NYjpjBBNl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7VkeUYnUQpToE8X3d4NYjpjBBNl.jpg ",
+      "Name": "Ice Age: The Meltdown"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dlEUrbkxnPtpRz27QzGjz2YiCxd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dlEUrbkxnPtpRz27QzGjz2YiCxd.jpg ",
+      "Name": "Ice Age: The Meltdown"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/s4vkHvLVt3AEmVKEmZgyu3Ga6kO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/s4vkHvLVt3AEmVKEmZgyu3Ga6kO.jpg ",
+      "Name": "Ice Age: The Meltdown"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/56kjsPeGiLL6HWVCncZeBqkpqaw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/56kjsPeGiLL6HWVCncZeBqkpqaw.jpg ",
+      "Name": "Ice Age: The Meltdown"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a4XCFrpYsDPFU9bylJifdVdd8CQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a4XCFrpYsDPFU9bylJifdVdd8CQ.jpg ",
+      "Name": "Ice Age: The Meltdown"
+    }
+  ],
+  "Links": [],
+  "Intro": "Diego, Manny and Sid return in this sequel to the hit animated movie Ice Age. This time around, the deep freeze is over, and the ice-covered earth is starting to melt, which will destroy the trio&#8217;s cherished valley. The impending disaster prompts them to reunite and warn all the other beasts about the desperate situation.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/isRuztu5Ch7FJdtSBLcG8QSOpEI-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/kDP8ERAUnZc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ice-age-the-meltdown/",
+  "Name": "Ice Age: The Meltdown"
 }

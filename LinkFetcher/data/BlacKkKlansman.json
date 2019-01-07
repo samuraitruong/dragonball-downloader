@@ -1,0 +1,55 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gMVdhfQ7q9DFHhDkehrququjGPd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gMVdhfQ7q9DFHhDkehrququjGPd.jpg ",
+      "Name": "BlacKkKlansman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/csw3mASdxZ3MeYPEQNEdOcJzj7J.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/csw3mASdxZ3MeYPEQNEdOcJzj7J.jpg ",
+      "Name": "BlacKkKlansman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lMnoYqPIAVL0YaLP5YjRy7iwaYv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lMnoYqPIAVL0YaLP5YjRy7iwaYv.jpg ",
+      "Name": "BlacKkKlansman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/97RM7O7yWYhdHpfFYAJ3CaXwMTi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/97RM7O7yWYhdHpfFYAJ3CaXwMTi.jpg ",
+      "Name": "BlacKkKlansman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xE0u5wozQUkOP3E17bPmnf5Pt3A.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xE0u5wozQUkOP3E17bPmnf5Pt3A.jpg ",
+      "Name": "BlacKkKlansman"
+    }
+  ],
+  "Links": [],
+  "Intro": "Ron Stallworth, an African-American police officer from Colorado, successfully manages to infiltrate the local Ku Klux Klan and become the head of the local chapter.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/10/55W6mUVv4CXMMQHHhV2zXtLSpXQ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/pFc6I0rgmgY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/blackkklansman/",
+  "Name": "BlacKkKlansman"
+}

@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fp6X6yhgcxzxCpmM0EVC6V9B8XB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fp6X6yhgcxzxCpmM0EVC6V9B8XB.jpg ",
+      "Name": "La La Land"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vFR4EMDkSH6X2wtpFrgFcT6jCus.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vFR4EMDkSH6X2wtpFrgFcT6jCus.jpg ",
+      "Name": "La La Land"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ek6hPzj3aNsW0ss1WO11ZtyK86f.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ek6hPzj3aNsW0ss1WO11ZtyK86f.jpg ",
+      "Name": "La La Land"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nKQ7d55SdHuf1XyCRt5Xdpe3R9r.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nKQ7d55SdHuf1XyCRt5Xdpe3R9r.jpg ",
+      "Name": "La La Land"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nadTlnTE6DdgmYsN4iWc2a2wiaI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nadTlnTE6DdgmYsN4iWc2a2wiaI.jpg ",
+      "Name": "La La Land"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9eucqg9Kvj8BB18yYZI4Z35WISc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9eucqg9Kvj8BB18yYZI4Z35WISc.jpg ",
+      "Name": "La La Land"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/faEXrvlztaZ7t1SJAVpFafadg6l.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/faEXrvlztaZ7t1SJAVpFafadg6l.jpg ",
+      "Name": "La La Land"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/e2s0WKgXDXgINrgq8UrNAXJCHL5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/e2s0WKgXDXgINrgq8UrNAXJCHL5.jpg ",
+      "Name": "La La Land"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3Qg8WUGCgKNKPuVHGAgkuSSIYGO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3Qg8WUGCgKNKPuVHGAgkuSSIYGO.jpg ",
+      "Name": "La La Land"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/meGzYSwHzBWNQk9lYVNxdUrFqiC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/meGzYSwHzBWNQk9lYVNxdUrFqiC.jpg ",
+      "Name": "La La Land"
+    }
+  ],
+  "Links": [],
+  "Intro": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/04/ylXCdC106IKiarftHkcacasaAcb-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/je0aAf2f8XQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/la-la-land/",
+  "Name": "La La Land"
+}

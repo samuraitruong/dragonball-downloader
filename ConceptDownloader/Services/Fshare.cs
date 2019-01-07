@@ -1,58 +1,139 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using ConceptDownloader.Extensions;
 using ConceptDownloader.Models;
 using RestSharp;
 
 namespace ConceptDownloader.Services
 {
-    public class Fshare : ILinkFetcherService
+    [Service("fshare.vn")]
+    public class Fshare  : ILinkFetcherService
     {
-        private const int TIMEOUT = 100;
-        public Fshare()
+        private readonly string username;
+
+        public string Password { get; }
+        private CookieContainer cookieContainer;
+        private bool logged = false;
+        private string cookieFile;
+        public Fshare(string username, string password)
         {
+            this.username = username;
+            Password = password;
+            cookieContainer = new CookieContainer();
+            cookieFile = "fshare_" + this.username.Replace("@", "_").Replace(".", "_") +".cached";
+            cookieFile = Path.Combine("_cached", "cookies", cookieFile);
+
+        }
+
+        public async Task<string> Get(string url, bool json = false)
+        {
+            using (var client = new HttpClient(new HttpClientHandler()
+            {
+                CookieContainer = cookieContainer
+            }))
+            {
+                var request = new HttpRequestMessage(HttpMethod.Get, url);
+
+                //request.Headers.TryAddWithoutValidation("Postman-Token", "8c77f602-f706-41a3-9fda-23bbed76618e");
+                //request.Headers.TryAddWithoutValidation("cookie", "fshare-app=p3k2f77n4a2as26pgpmr2ccg3p; _uidcms=1546732332542546711; _gid=GA1.2.428558864.1546732335; _gat_gtag_UA_97071061_1=1; _ga=GA1.2.lv0-%2524%2524%2520; _gat=1");
+                request.Headers.TryAddWithoutValidation("accept-language", "en-US,en;q=0.9,vi;q=0.8");
+                //request.Headers.TryAddWithoutValidation("accept-encoding", "gzip, deflate, br");
+                request.Headers.TryAddWithoutValidation("referer", "https://www.fshare.vn/");
+                if (json)
+                {
+                    request.Headers.TryAddWithoutValidation("accept", "application/json");
+                }
+                else
+                    request.Headers.TryAddWithoutValidation("accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8");
+            
+            request.Headers.TryAddWithoutValidation("user-agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36");
+                request.Headers.TryAddWithoutValidation("content-type", "application/x-www-form-urlencoded");
+                //request.Headers.TryAddWithoutValidation("upgrade-insecure-requests", "1");
+                request.Headers.TryAddWithoutValidation("origin", "https://www.fshare.vn");
+                request.Headers.TryAddWithoutValidation("cache-control", "no-cache,no-cache");
+                request.Headers.TryAddWithoutValidation("pragma", "no-cache");
+                request.Headers.TryAddWithoutValidation("authority", "www.fshare.vn");
+                //request.AddParameter("application/x-www-form-urlencoded", "_csrf-app=pshjdNwbCtOVYXTKaCxXf3xIVe3istxN8ggoCxL_RTnwjhQ3mlxioPRVBoBZXSM0Iylio4bckSi0Z21EWMx0fQ%253D%253D&LoginForm%255Bemail%255D=samuraitruong%2540hotmail.com&LoginForm%255Bpassword%255D=%2540bhu8*UHB%2521&LoginForm%255BrememberMe%255D=0&LoginForm%255BrememberMe%255D=1", ParameterType.RequestBody);
+                var res = await client.SendAsync(request);
+                var html = await res.Content.ReadAsStringAsync();
+                return html;
+            }
+        }
+        public async Task<string> Post(string url, Dictionary<string, string> data)
+        {
+            using(var client = new HttpClient(new HttpClientHandler()
+            {
+                CookieContainer = cookieContainer
+            }))
+            {
+                var request = new HttpRequestMessage(HttpMethod.Post, url);
+
+                //request.Headers.TryAddWithoutValidation("Postman-Token", "8c77f602-f706-41a3-9fda-23bbed76618e");
+                //request.Headers.TryAddWithoutValidation("cookie", "fshare-app=p3k2f77n4a2as26pgpmr2ccg3p; _uidcms=1546732332542546711; _gid=GA1.2.428558864.1546732335; _gat_gtag_UA_97071061_1=1; _ga=GA1.2.lv0-%2524%2524%2520; _gat=1");
+                request.Headers.TryAddWithoutValidation("accept-language", "en-US,en;q=0.9,vi;q=0.8");
+                //request.Headers.TryAddWithoutValidation("accept-encoding", "gzip, deflate, br");
+                request.Headers.TryAddWithoutValidation("referer", "https://www.fshare.vn/");
+                request.Headers.TryAddWithoutValidation("accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8");
+                request.Headers.TryAddWithoutValidation("user-agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36");
+                request.Headers.TryAddWithoutValidation("content-type", "application/x-www-form-urlencoded");
+                request.Headers.TryAddWithoutValidation("upgrade-insecure-requests", "1");
+                request.Headers.TryAddWithoutValidation("origin", "https://www.fshare.vn");
+                request.Headers.TryAddWithoutValidation("cache-control", "no-cache,no-cache");
+                request.Headers.TryAddWithoutValidation("pragma", "no-cache");
+                request.Headers.TryAddWithoutValidation("authority", "www.fshare.vn");
+                request.Content = new FormUrlEncodedContent(data);
+                //request.AddParameter("application/x-www-form-urlencoded", "_csrf-app=pshjdNwbCtOVYXTKaCxXf3xIVe3istxN8ggoCxL_RTnwjhQ3mlxioPRVBoBZXSM0Iylio4bckSi0Z21EWMx0fQ%253D%253D&LoginForm%255Bemail%255D=samuraitruong%2540hotmail.com&LoginForm%255Bpassword%255D=%2540bhu8*UHB%2521&LoginForm%255BrememberMe%255D=0&LoginForm%255BrememberMe%255D=1", ParameterType.RequestBody);
+                var res = await client.SendAsync(request);
+                var html = await res.Content.ReadAsStringAsync();
+                return html;
+            }
+        }
+        private Tuple<string , string> ExtractToken(string html)
+        {
+            var paramsMatch = Regex.Match(html, "<meta name=\\\"csrf-param\\\" content=\\\"([^\"]*)\"");
+            var tokenMatch = Regex.Match(html, "<meta name=\\\"csrf-token\\\" content=\\\"([^\"]*)\"");
+            var token = tokenMatch.Groups[1].Value.Trim();
+            var param = paramsMatch.Groups[1].Value.Trim();
+            return new Tuple<string, string>(param, token);
+        }
+        public async Task<bool > Login(bool noCache= false)
+        {
+            var fi = new FileInfo(cookieFile);
+            if (fi.Exists && !noCache)
+            {
+                cookieContainer = cookieContainer.Load(cookieFile);
+                return true;
+            }
+            else
+            {
+                var html = await Get("https://www.fshare.vn");
+                var token = ExtractToken(html);
+                html = await Post("https://www.fshare.vn/site/login", new Dictionary<string, string>()
+                {
+                    {token.Item1, token.Item2},
+                    {"LoginForm[email]", this.username},
+                    {"LoginForm[password]", this.Password},
+                    {"LoginForm[rememberMe]", "1"},
+                });
+            }
+            foreach (Cookie item in cookieContainer.GetAllCookies())
+            {
+                if (item.Name == "_identity-app")
+                {
+
+                    cookieContainer.Save(cookieFile);
+                    return true;
+                }
+            }
+            return false;
         }
         //Get link of 1 file
-        public async Task<DownloadableItem> GetLink(string url)
-        {
-            try
-            {
-                var client = new RestClient("https://getlinkaz.com/get/GetLinkAzFshare/");
-                client.Timeout = TIMEOUT * 1000;
-                var request = new RestRequest(Method.POST);
-                request.AddHeader("Postman-Token", "1b59694d-9425-4fba-80fe-e3ff408d2511");
-                request.AddHeader("referer", "https://getlinkaz.com/fshare/?link=" +url);
-                request.AddHeader("authority", "getlinkaz.com");
-                request.AddHeader("cache-control", "no-cache,no-cache");
-                request.AddHeader("accept", "application/json, text/javascript, */*; q=0.01");
-                request.AddHeader("content-type", "application/x-www-form-urlencoded; charset=UTF-8");
-                request.AddHeader("user-agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36");
-                request.AddHeader("pragma", "no-cache");
-                //request.AddHeader("cookie", "__cfduid=d11ff76823c3efe1f33fe5bec9ad818021545814539; _ga=GA1.2.1027637366.1545814542; _gid=GA1.2.2039428728.1545814542; PHPSESSID=nivomg48ieslgdu3mvsblg8fs6; __asc=04fb7e2b167e9baa327965a97e5; __auc=04fb7e2b167e9baa327965a97e5");
-                request.AddHeader("x-requested-with", "XMLHttpRequest");
-                request.AddHeader("accept-language", "en-US,en;q=0.9,vi;q=0.8");
-                request.AddHeader("origin", "https://getlinkaz.com");
-                request.AddParameter("application/x-www-form-urlencoded; charset=UTF-8", $"link={url}&pass=getlinkaz.comundefined&hash=uk962FFYt.bonVtCyiC6Z.SiTeBurlyZ&captcha=", ParameterType.RequestBody);
-                var response = await client.ExecuteTaskAsync(request);
-                var data = GetlinkAzModel.FromJson(response.Content);
-                return new DownloadableItem()
-                {
-                    Name = data.Filename,
-                    //Size = response.Data.Size,
-                    Url = data.Linkvip
-                };
-
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine("Error get link " + url);
-            }
-            return null;
-        }
 
         public async Task<FShareFolderResponse> GetFilesInFolder(string url)
         {
@@ -131,6 +212,59 @@ namespace ConceptDownloader.Services
             var pattern = "https:\\/\\/www\\.fshare\\.vn\\/folder\\/([A-Z0-9]*)";
             return Regex.IsMatch(url, pattern);
         }
+        public async Task<FShareFile> GetFShareFileInfo(string url, bool userAccount= false)
+        {
+            string fshareApi = url.Replace("https://www.fshare.vn/file/", "https://www.fshare.vn/api/v3/files/folder?linkcode=");
+            if (fshareApi == url) return null;
+            try
+            {
+                string json = "";
+                if (userAccount)
+                {
+                    json = await Get(fshareApi, true);
+                }
+                else
+                {
+                    using (var cl = new HttpClient())
+                    {
+                        json = await cl.GetStringAsync(fshareApi);
+                    };
+                }
+                var response = FShareFolderResponse.FromJson(json);
+                return response.Current;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("GetFShareFileInfo " + ex.Message);
+                return null;
+            }
+        }
+        public async Task<DownloadableItem> GetLink(string url)
+        {
+            if(!logged)
+            {
+                logged = await Login();
+            }
+            var html = await Get(url);
+            var token = ExtractToken(html);
+            string linkCOde = url.Split('?')[0].Split('/').Last();
+            var json = await Post("https://www.fshare.vn/download/get", new Dictionary<string, string>()
+            {
+                {token.Item1, token.Item2},
+                {"linkcode", linkCOde},
+                {"withFcode5", "0"},
+                {"fcode",string.Empty},
+            });
+            var response = FShareGetLinkResponse.FromJson(json);
+            var fi = await GetFShareFileInfo(url);
 
+            return new DownloadableItem()
+            {
+                Name = fi.Name,
+                Size = fi.Size,
+                Url = response.Url
+            };
+
+        }
     }
 }

@@ -1,0 +1,51 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/64jAqTJvrzEwncD3ARZdqYLcqbc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/64jAqTJvrzEwncD3ARZdqYLcqbc.jpg ",
+      "Name": "Giành Anh Từ Biển - Adrift"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8VaKcHqAY64McmsVxDyMon8W9OK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8VaKcHqAY64McmsVxDyMon8W9OK.jpg ",
+      "Name": "Giành Anh Từ Biển - Adrift"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jdXvIFwVT8dawctv9F0xcTKnTgt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jdXvIFwVT8dawctv9F0xcTKnTgt.jpg ",
+      "Name": "Giành Anh Từ Biển - Adrift"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mpZhXy1Z0GO89FnVJX25v1tnjWX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mpZhXy1Z0GO89FnVJX25v1tnjWX.jpg ",
+      "Name": "Giành Anh Từ Biển - Adrift"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bZUmj6wzDTcZXcrRmsB2mEje03g.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bZUmj6wzDTcZXcrRmsB2mEje03g.jpg ",
+      "Name": "Giành Anh Từ Biển - Adrift"
+    }
+  ],
+  "Links": [],
+  "Intro": "Giành Anh từ biển (tên tiếng anh Adrift) là một bộ phim được lấy cảm hứng dựa trên câu chuyện có thật của một đôi tình nhân vượt biển vào năm 1983. Tới Tahiti để theo đuổi những chuyến phiêu lưu, Tami Oldham (Shailene Woodley) nhanh chóng phải lòng chàng thủy thủ Richard Sharp (Sam Claflin) và cả hai thực hiện chuyến du lịch mơ ước xuyên Thái Bình Dương. Nhưng cả hai không ngờ rằng họ sẽ đi thẳng vào một cơn bão thảm khốc nhất trong lịch sử.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/08/5gLDeADaETvwQlQow5szlyuhLbj-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/n9ukI7khQpE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/adrift/",
+  "Name": "Giành Anh Từ Biển"
+}

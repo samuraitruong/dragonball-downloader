@@ -1,21 +1,80 @@
 {
-  "Id": "movYtNn6A13179",
-  "Url": "https://fsharephim.com/movies/tinker-bell/",
-  "Name": "Tiên Nữ Tinker Bell",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movytnn6a13179/",
-      "Name": "Tinker.Bell.2008.mkv",
-      "Url": "https://www.fshare.vn/file/T3ZYVQ9C0T",
-      "Size": "1.75 GB",
-      "FileSize": 1877347742
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movytnn6a13179-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/tinker-bell-aka-tinkerbell",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/j7r0HwdQibJYPxmStqqucqWaX7u.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/j7r0HwdQibJYPxmStqqucqWaX7u.jpg ",
+      "Name": "Tiên Nữ Tinker Bell - Tinker Bell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lhR8N5eGZeXdjrXNC3BCJhAacGf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lhR8N5eGZeXdjrXNC3BCJhAacGf.jpg ",
+      "Name": "Tiên Nữ Tinker Bell - Tinker Bell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aQU5HHym2j0k8pWKQVE92FyXC82.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aQU5HHym2j0k8pWKQVE92FyXC82.jpg ",
+      "Name": "Tiên Nữ Tinker Bell - Tinker Bell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4cs7Osz4aUh4omkOTdtXw69x9cp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4cs7Osz4aUh4omkOTdtXw69x9cp.jpg ",
+      "Name": "Tiên Nữ Tinker Bell - Tinker Bell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/27ZAsvpAWhqR8w7cQhg0a1g0TXn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/27ZAsvpAWhqR8w7cQhg0a1g0TXn.jpg ",
+      "Name": "Tiên Nữ Tinker Bell - Tinker Bell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k3R91Fh8PR0oPJY1ddkIZsJhCRs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k3R91Fh8PR0oPJY1ddkIZsJhCRs.jpg ",
+      "Name": "Tiên Nữ Tinker Bell - Tinker Bell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cBYtB7vvyTBNEPs3hld95T7Hs0Y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cBYtB7vvyTBNEPs3hld95T7Hs0Y.jpg ",
+      "Name": "Tiên Nữ Tinker Bell - Tinker Bell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k8eP9jrDQWYSQiyjkJsDyvv67ST.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k8eP9jrDQWYSQiyjkJsDyvv67ST.jpg ",
+      "Name": "Tiên Nữ Tinker Bell - Tinker Bell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3BHOsGgKKwT0KVCTJPMZcf0xuN3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3BHOsGgKKwT0KVCTJPMZcf0xuN3.jpg ",
+      "Name": "Tiên Nữ Tinker Bell - Tinker Bell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wYobKMUlBxO0ZMQXZRVs82Ex5TQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wYobKMUlBxO0ZMQXZRVs82Ex5TQ.jpg ",
+      "Name": "Tiên Nữ Tinker Bell - Tinker Bell"
+    }
+  ],
+  "Links": [],
+  "Intro": "Tinker Bell được sinh ra từ nụ cười đầu tiên của đứa trẻ sơ sinh và được ngọn gió mang tới Pixie Hollow (một hòn đảo ở Never Land). Tại đây cô gặp những nàng tiên nhỏ khác và biết rằng năng lực của mình là để phục vụ việc hàn gắn mọi thứ &#8211; một thiên thần sửa chữa mọi thứ. Các tiên thợ khác đã giúp nhân viên mới học việc và Tinker Bell đã học được nghề, cô có thể sửa được máy nhạc bằng việc sử dụng nước biển.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/dx9FiWtcY4u5Kla6Cetw1a6W2qK-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/g0CTqqTkXH8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/tinker-bell/",
+  "Name": "Tiên Nữ Tinker Bell"
 }

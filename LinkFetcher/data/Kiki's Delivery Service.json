@@ -1,42 +1,80 @@
 {
-  "Id": "movZqgnaK16859",
-  "Url": "https://fsharephim.com/movies/kikis-delivery-service/",
-  "Name": "Kiki's Delivery Service",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movzqgnak16859-3/",
-      "Name": "Kikis Delivery Service (1989) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/W9CN1V3HXYPC",
-      "Size": "1.24 GB",
-      "FileSize": 1336261937
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movzqgnak16859-4/",
-      "Name": "Kikis Delivery Service (1989) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/ING1GX3B23YA",
-      "Size": "1.96 GB",
-      "FileSize": 2109347410
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movzqgnak16859-5/",
-      "Name": "Kikis Delivery Service (1989) Bluray 1080p AVC DTS-HD MA 2.0.iso",
-      "Url": "https://www.fshare.vn/file/36BTXWGASUL4",
-      "Size": "43.68 GB",
-      "FileSize": 46904901632
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movzqgnak16859/",
-      "Name": "Kiki's.Delivery.Service.1989.720p.HDTV.x264.mkv",
-      "Url": "https://www.fshare.vn/file/TRMVDV6GVT",
-      "Size": "2.82 GB",
-      "FileSize": 3032332026
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movzqgnak16859-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/kikis-delivery-service-majo-no-takkyubin/vietnamese/535533",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fSbiMnUXJ6rrSuf3MN7pFqUtws4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fSbiMnUXJ6rrSuf3MN7pFqUtws4.jpg",
+      "Name": "Kiki&#8217;s Delivery Service"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zNfLIz8EZ5VRJLD6n5AfMIX6UM2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zNfLIz8EZ5VRJLD6n5AfMIX6UM2.jpg",
+      "Name": "Kiki&#8217;s Delivery Service"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sZrjT9cHhLKzJI4g7TYEAb6xfvZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sZrjT9cHhLKzJI4g7TYEAb6xfvZ.jpg",
+      "Name": "Kiki&#8217;s Delivery Service"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/VVaW8V7lwNXRQQ58AOVu3xZlPj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/VVaW8V7lwNXRQQ58AOVu3xZlPj.jpg",
+      "Name": "Kiki&#8217;s Delivery Service"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vBXB3mmySAcDn7eLnHFrR2WopSt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vBXB3mmySAcDn7eLnHFrR2WopSt.jpg",
+      "Name": "Kiki&#8217;s Delivery Service"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mqaeM4Cwvt7gZwnLaVhnqCLhfDK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mqaeM4Cwvt7gZwnLaVhnqCLhfDK.jpg",
+      "Name": "Kiki&#8217;s Delivery Service"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lFGBbLo2y4oS4DW809vQsnOV1v0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lFGBbLo2y4oS4DW809vQsnOV1v0.jpg",
+      "Name": "Kiki&#8217;s Delivery Service"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lk3WzHFLhqwpACmP4BSfA77xj37.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lk3WzHFLhqwpACmP4BSfA77xj37.jpg",
+      "Name": "Kiki&#8217;s Delivery Service"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oSFGVg7p2tNcQWmC9nvZrYPL1Sp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oSFGVg7p2tNcQWmC9nvZrYPL1Sp.jpg",
+      "Name": "Kiki&#8217;s Delivery Service"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1Godj4DJa628sLL4MXlFYTpdjdw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1Godj4DJa628sLL4MXlFYTpdjdw.jpg",
+      "Name": "Kiki&#8217;s Delivery Service"
+    }
+  ],
+  "Links": [],
+  "Intro": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/d5gLpu8kqyPs27bh9IiCuwMDjDh-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/4bG17OYs-GA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/kikis-delivery-service/",
+  "Name": "Kiki's Delivery Service"
 }

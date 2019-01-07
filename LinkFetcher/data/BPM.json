@@ -1,0 +1,68 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9LpK55oCfkcKpRKqu7fCh8B4paa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9LpK55oCfkcKpRKqu7fCh8B4paa.jpg ",
+      "Name": "BPM"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jsaD6llm7kpkS0qfcfLByCmqrub.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jsaD6llm7kpkS0qfcfLByCmqrub.jpg ",
+      "Name": "BPM"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/y4l9AKVHXM9RAQRYxTaHXRyU5Ag.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/y4l9AKVHXM9RAQRYxTaHXRyU5Ag.jpg ",
+      "Name": "BPM"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vRBAp6ILMPErumiK1fOOrbWHaR9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vRBAp6ILMPErumiK1fOOrbWHaR9.jpg ",
+      "Name": "BPM"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2sD6AmPGzewDhNGwny8I3vYDeOG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2sD6AmPGzewDhNGwny8I3vYDeOG.jpg ",
+      "Name": "BPM"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5xsQ5iLDBm2bsBakmIWeAS7xWD0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5xsQ5iLDBm2bsBakmIWeAS7xWD0.jpg ",
+      "Name": "BPM"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sqRKg5tuY35PooECJdXF0fMiK0F.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sqRKg5tuY35PooECJdXF0fMiK0F.jpg ",
+      "Name": "BPM"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kF4SDVobZf2AOC31Sy9wRUVxLfD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kF4SDVobZf2AOC31Sy9wRUVxLfD.jpg ",
+      "Name": "BPM"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z3TEuxRaXQrT2yVW8AX3CCRouA5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z3TEuxRaXQrT2yVW8AX3CCRouA5.jpg ",
+      "Name": "BPM"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7FretNtVSg3f5qF96ksl36G562T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7FretNtVSg3f5qF96ksl36G562T.jpg ",
+      "Name": "BPM"
+    }
+  ],
+  "Links": [],
+  "Intro": "Paris, in the early 1990s: a group of young activists is desperately tied to finding the cure against an unknown lethal disease. They target the pharmaceutical labs that are retaining potential cures, and multiply direct actions, with the hope of saving their lives as well as the ones of future generations.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/azLtGx5ZhdTSP2b4oNLWtiE51OW-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/2fhO2A4SL24?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/bpm/",
+  "Name": "BPM"
+}

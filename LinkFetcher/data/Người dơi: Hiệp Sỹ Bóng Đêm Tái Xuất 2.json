@@ -1,21 +1,79 @@
 {
   "Id": "movbBJ8iC142061",
-  "Url": "https://fsharephim.com/movies/batman-the-dark-knight-returns-part-2/",
-  "Name": "Người dơi: Hiệp Sỹ Bóng Đêm Tái Xuất 2",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ew0ouZ1MSxbNugPMgbOhuTrd3aA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ew0ouZ1MSxbNugPMgbOhuTrd3aA.jpg",
+      "Name": "Người dơi: Hiệp Sỹ Bóng Đêm Tái Xuất 2 - Batman: The Dark Knight Returns, Part 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wDWPuqhgZ0INvqHsyLa470xeabT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wDWPuqhgZ0INvqHsyLa470xeabT.jpg",
+      "Name": "Người dơi: Hiệp Sỹ Bóng Đêm Tái Xuất 2 - Batman: The Dark Knight Returns, Part 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bweED9BTWOeuAKrpSRCjPGGIvPI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bweED9BTWOeuAKrpSRCjPGGIvPI.jpg",
+      "Name": "Người dơi: Hiệp Sỹ Bóng Đêm Tái Xuất 2 - Batman: The Dark Knight Returns, Part 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4vJ5QrV3kfikx2kg0yqQqJuHzhR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4vJ5QrV3kfikx2kg0yqQqJuHzhR.jpg",
+      "Name": "Người dơi: Hiệp Sỹ Bóng Đêm Tái Xuất 2 - Batman: The Dark Knight Returns, Part 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/focCXbssCWn6hPS2GFlDhOnKnf6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/focCXbssCWn6hPS2GFlDhOnKnf6.jpg",
+      "Name": "Người dơi: Hiệp Sỹ Bóng Đêm Tái Xuất 2 - Batman: The Dark Knight Returns, Part 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tZ2MGdxM1QeldfLXkKeZagee3Qd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tZ2MGdxM1QeldfLXkKeZagee3Qd.jpg",
+      "Name": "Người dơi: Hiệp Sỹ Bóng Đêm Tái Xuất 2 - Batman: The Dark Knight Returns, Part 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4elHFZkk26W9DluZ2VE19dxUDuP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4elHFZkk26W9DluZ2VE19dxUDuP.jpg",
+      "Name": "Người dơi: Hiệp Sỹ Bóng Đêm Tái Xuất 2 - Batman: The Dark Knight Returns, Part 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rvAVBF7sXtfp00kDdQbb7917E4D.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rvAVBF7sXtfp00kDdQbb7917E4D.jpg",
+      "Name": "Người dơi: Hiệp Sỹ Bóng Đêm Tái Xuất 2 - Batman: The Dark Knight Returns, Part 2"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movbbj8ic142061/",
-      "Name": "Batman.The.Dark.Knight.Returns.Part.2.2013.720p.mkv",
-      "Url": "https://www.fshare.vn/file/XN9ZWEW4KAEX6R3",
       "Size": "1.4 GB",
-      "FileSize": 1474245965
+      "FileSize": 1474245965,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/XN9ZWEW4KAEX6R3",
+      "Name": "Batman.The.Dark.Knight.Returns.Part.2.2013.720p.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movbbj8ic142061-2/",
-      "Name": "Batman.The.Dark.Knight.Returns.Part.2.2013.720p.srt",
-      "Url": "https://www.fshare.vn/file/FQ568BN342MPGSD",
       "Size": "65.4 KB",
-      "FileSize": 66974
+      "FileSize": 66974,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/FQ568BN342MPGSD",
+      "Name": "Batman.The.Dark.Knight.Returns.Part.2.2013.720p.srt"
     }
-  ]
+  ],
+  "Intro": "Phần hai xoay quanh cuộc chiến đấu cuối cùng dưới nhân dạng Batman của Bruce Wayne tại thành phố tội phạm Gotham. Đan xen vào đó, tác giả còn đặt ra câu chuyện giả định về cuộc chiến tranh hạt nhân giữa nước Nga Xô Viết và Mỹ.Dưới mật lệnh của Tổng Thống Hoa Kỳ, Siêu Nhân buộc phải chấm dứt mọi hành động của của Người Dơi ngay lập tức. Cuộc chiến khốc liệt giữa hai siêu anh hùng và đồng thời cũng là những người bạn lâu năm là không hề khoan nhượng&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/wPeorCnD9MRR2S9Dzh4OpIgNLiv-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/MUyQlvdbANQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/batman-the-dark-knight-returns-part-2/",
+  "Name": "Người dơi: Hiệp Sỹ Bóng Đêm Tái Xuất 2"
 }

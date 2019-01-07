@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/amh3vED4K8gFessZfyWwksStgNQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/amh3vED4K8gFessZfyWwksStgNQ.jpg ",
+      "Name": "Pink"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3KjGhA91KIY5PmaWX0qSQsp5MAH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3KjGhA91KIY5PmaWX0qSQsp5MAH.jpg ",
+      "Name": "Pink"
+    }
+  ],
+  "Links": [],
+  "Intro": "Deepak is a lawyer suffering from bipolar disorder who experiences frequent mood swings. One night, Rajveer and his friends get drunk and try to molest Miss Arora and her two roommates leading to an accident. The film revolves around how Deepak fights the girls&#8217; case against these influential boys.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/6xNhnyKm2M5FEOY7xv5iKiQ5P3-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/AL2TShb6fFs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/pink/",
+  "Name": "Pink"
+}

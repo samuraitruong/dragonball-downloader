@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vdzq7cW9wQgcUl76q62AGgRfh3y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vdzq7cW9wQgcUl76q62AGgRfh3y.jpg ",
+      "Name": "Silence"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7XQ8PSDRUGQbgCTRUlThVyxgcRq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7XQ8PSDRUGQbgCTRUlThVyxgcRq.jpg ",
+      "Name": "Silence"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eBvT5SZ14bjvxVWiLPB6Ll1wydX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eBvT5SZ14bjvxVWiLPB6Ll1wydX.jpg ",
+      "Name": "Silence"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ese1YlnPwVUMS5JCTo0FOkSgG6K.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ese1YlnPwVUMS5JCTo0FOkSgG6K.jpg ",
+      "Name": "Silence"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bJkJUDPQwHpR3VOvmP19TDrNbkG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bJkJUDPQwHpR3VOvmP19TDrNbkG.jpg ",
+      "Name": "Silence"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gAhtJ3nyTpt5NlJmmNEbKfqyNEz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gAhtJ3nyTpt5NlJmmNEbKfqyNEz.jpg ",
+      "Name": "Silence"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oaULZhE5exzcxy6vfEm7AKMQHFU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oaULZhE5exzcxy6vfEm7AKMQHFU.jpg ",
+      "Name": "Silence"
+    }
+  ],
+  "Links": [],
+  "Intro": "Two Jesuit priests, Sebastião Rodrigues and Francis Garrpe, travel to seventeenth century Japan which has, under the Tokugawa shogunate, banned Catholicism and almost all foreign contact.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/03/sHM6i6se7mwKGRDvW4nQC7dkeKI-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/cuTjBL28l0U?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/silence/",
+  "Name": "Silence"
+}

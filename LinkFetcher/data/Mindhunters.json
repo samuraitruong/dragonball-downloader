@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xJtHIxZ8gga6OYuQ4QEx8ZwjcD0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xJtHIxZ8gga6OYuQ4QEx8ZwjcD0.jpg",
+      "Name": "Mindhunters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6lMzEzEx3JjIOtcqHlycACB7BtL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6lMzEzEx3JjIOtcqHlycACB7BtL.jpg",
+      "Name": "Mindhunters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mK01BKpoxjlm5DgysteaSaqOz6x.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mK01BKpoxjlm5DgysteaSaqOz6x.jpg",
+      "Name": "Mindhunters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/w0raadmumkqjjUkSKAZfTlL3HXU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/w0raadmumkqjjUkSKAZfTlL3HXU.jpg",
+      "Name": "Mindhunters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yshhM1okBU1fsoYEgR4BRLi5kWN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yshhM1okBU1fsoYEgR4BRLi5kWN.jpg",
+      "Name": "Mindhunters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oUPFElm36aVuHTMpAY6HaPSwNrG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oUPFElm36aVuHTMpAY6HaPSwNrG.jpg",
+      "Name": "Mindhunters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gZsPf50X5NeWeDip3FRDHoOIxvF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gZsPf50X5NeWeDip3FRDHoOIxvF.jpg",
+      "Name": "Mindhunters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mvEk1ebf3p8hZg6T7gJii5GlAdS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mvEk1ebf3p8hZg6T7gJii5GlAdS.jpg",
+      "Name": "Mindhunters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1gr8sqz3rWelN6LD8dSokophmez.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1gr8sqz3rWelN6LD8dSokophmez.jpg",
+      "Name": "Mindhunters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/axGAUFRILb64o5WHHkAiG5R0x51.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/axGAUFRILb64o5WHHkAiG5R0x51.jpg",
+      "Name": "Mindhunters"
+    }
+  ],
+  "Links": [],
+  "Intro": "Trainees in the FBI&#8217;s psychological profiling program must put their training into practice when they discover a killer in their midst.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/bnGrgK00xeMs85ae5BTOlJjnKTR-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ShaeOlNvHAk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/mindhunters/",
+  "Name": "Mindhunters"
+}

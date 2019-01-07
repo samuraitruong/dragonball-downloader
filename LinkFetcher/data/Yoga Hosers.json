@@ -1,0 +1,40 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iCyCeKbsh4G3IJPTIL3a4OtFkNL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iCyCeKbsh4G3IJPTIL3a4OtFkNL.jpg",
+      "Name": "Yoga Hosers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9OheCRoR3aEC09mlpu2yIQ0nJvM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9OheCRoR3aEC09mlpu2yIQ0nJvM.jpg",
+      "Name": "Yoga Hosers"
+    }
+  ],
+  "Links": [],
+  "Intro": "Two teenage yoga enthusiasts team up with a legendary man-hunter to battle with an ancient evil presence that is threatening their major party plans.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/t9K1uUCJsbrFGKYivSH1JBPfvyc-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/9VQjIoHpC9I?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/yoga-hosers/",
+  "Name": "Yoga Hosers"
+}

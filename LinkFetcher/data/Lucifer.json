@@ -1,0 +1,2395 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao-khoa-hoc/",
+      "Name": "Kỳ Ảo Khoa Học"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6kZCuvbirx6ibJfaWqwV2p90yPI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6kZCuvbirx6ibJfaWqwV2p90yPI.jpg",
+      "Name": "Lucifer"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mcj4ZAh1WlswDx5i0xK1VIV03W7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mcj4ZAh1WlswDx5i0xK1VIV03W7.jpg",
+      "Name": "Lucifer"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vauFEN12Exuck3nO9WWmjB1R5cJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vauFEN12Exuck3nO9WWmjB1R5cJ.jpg",
+      "Name": "Lucifer"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z39DbQZjNjIZouZZ7vKHkvl9yWt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z39DbQZjNjIZouZZ7vKHkvl9yWt.jpg",
+      "Name": "Lucifer"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3gHkTjLhOrLdZ3qb39Mld4nU7ch.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3gHkTjLhOrLdZ3qb39Mld4nU7ch.jpg",
+      "Name": "Lucifer"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/itjsTY18tigrSslevHPF9nUKCQp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/itjsTY18tigrSslevHPF9nUKCQp.jpg",
+      "Name": "Lucifer"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AjD3BHgxj9M3qnbjXAnIUTZi3KS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AjD3BHgxj9M3qnbjXAnIUTZi3KS.jpg",
+      "Name": "Lucifer"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg",
+      "Name": "Lucifer"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/faGi43pKQt7DCIJyILN31sgVuPz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/faGi43pKQt7DCIJyILN31sgVuPz.jpg",
+      "Name": "Lucifer"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gPneISoSj3wO1HhuEQy5x2xvPMn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gPneISoSj3wO1HhuEQy5x2xvPMn.jpg",
+      "Name": "Lucifer"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lucifer-3x1/",
+      "Name": "They're Back, Aren't They?"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lucifer-3x2/",
+      "Name": "The One with the Baby Carrot"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lucifer-3x3/",
+      "Name": "Mr. and Mrs. Mazikeen Smith"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lucifer-3x4/",
+      "Name": "What Would Lucifer Do?"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lucifer-3x5/",
+      "Name": "Welcome back, Charlotte Richards"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lucifer-3x6/",
+      "Name": "Vegas with some Radish"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lucifer-3x7/",
+      "Name": "Off the Record"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lucifer-3x8/",
+      "Name": "Chloe Does Lucifer"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lucifer-3x9/",
+      "Name": "The Sinnerman"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lucifer-3x10/",
+      "Name": "The Sin Bin"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lucifer-3x11/",
+      "Name": "City of Angels?"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lucifer-3x12/",
+      "Name": "All About Her"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lucifer-3x13/",
+      "Name": "Til Death Do Us Part"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lucifer-3x14/",
+      "Name": "My Brother&#039;s Keeper"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lucifer-3x15/",
+      "Name": "High School Poppycock"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lucifer-3x16/",
+      "Name": "Infernal Guinea Pig"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/lucifer-3x17/",
+      "Name": "Let Pinhead Sing!"
+    }
+  ],
+  "Intro": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he&#8217;s away from the underworld, the greater the threat that the worst of humanity could escape.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/wmOuYyqVaczBLXxQNFSaRfAUgPz-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/X4bF_quwNtw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": "tv6pGEDr1130976",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/aSl1ASgOlNkukh0kalKCvGKZeb4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/aSl1ASgOlNkukh0kalKCvGKZeb4.jpg",
+              "Name": "Lucifer 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/uYSkeGzyZMWl7jSFiWuPhN54edb.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/uYSkeGzyZMWl7jSFiWuPhN54edb.jpg",
+              "Name": "Lucifer 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xAkh2lA1kn6gqMSp23RrkQWWkyB.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xAkh2lA1kn6gqMSp23RrkQWWkyB.jpg",
+              "Name": "Lucifer 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qq7cKqCRvC2yubprbgNwNHrKvYM.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qq7cKqCRvC2yubprbgNwNHrKvYM.jpg",
+              "Name": "Lucifer 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/gwIaDfnETnyIUkTaxz2RFYHdhyN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/gwIaDfnETnyIUkTaxz2RFYHdhyN.jpg",
+              "Name": "Lucifer 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/iWa3WtYN9NuWD65wH0tjZ3AeSjO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/iWa3WtYN9NuWD65wH0tjZ3AeSjO.jpg",
+              "Name": "Lucifer 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kHTdUKqcUNqKBv50mkHdTkLTyg5.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kHTdUKqcUNqKBv50mkHdTkLTyg5.jpg",
+              "Name": "Lucifer 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6STON2nW6wDNLEt5bK65gapcA7d.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6STON2nW6wDNLEt5bK65gapcA7d.jpg",
+              "Name": "Lucifer 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nsj5MWozvrwF7cziBRVwSn2RggE.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nsj5MWozvrwF7cziBRVwSn2RggE.jpg",
+              "Name": "Lucifer 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ecqtiY4rxULmJbSDdmeSFCAb7Pu.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ecqtiY4rxULmJbSDdmeSFCAb7Pu.jpg",
+              "Name": "Lucifer 1&#215;1"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1130976-4/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-first-season",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1130976-3/",
+              "Size": "859.57 MB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://4share.vn/f/4175767074777579/Lucifer.S01E01.720p.HDTV.X264-DIMENSION.mkv",
+              "Name": "720p"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1130976-2/",
+              "Size": "1.7 GB",
+              "FileSize": 1847549601,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/QHY26CXEYBDL",
+              "Name": "Lucifer.S01E01.1080p.WEB-DL.DD5.1.H264-RARBG.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1130976/",
+              "Size": "859.6 MB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/HE8OGY8ZYMZR",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "Upon leaving hell, Lucifer Morningstar retreats to Los Angeles for a more exciting life. When the murder of a friend connects him with LAPD detective Chloe Decker, Lucifer becomes intrigued with the idea of punishing criminals, sending the devil himself into a struggle between good and evil.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-1x1/",
+          "Name": "Lucifer 1x1"
+        },
+        {
+          "Id": "tv6pGEDr1165520",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/aqCLf3sbEvGQfLlKg1cYccu1hYK.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/aqCLf3sbEvGQfLlKg1cYccu1hYK.jpg",
+              "Name": "Lucifer 1&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oCaOVIWGSgl14hIqOPKpSYKtMJN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oCaOVIWGSgl14hIqOPKpSYKtMJN.jpg",
+              "Name": "Lucifer 1&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4p6ZaOLtNftf6hkohP5xUIkRKF6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4p6ZaOLtNftf6hkohP5xUIkRKF6.jpg",
+              "Name": "Lucifer 1&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tLidOTwwCW6qyWj7BUcbuwbDGFw.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tLidOTwwCW6qyWj7BUcbuwbDGFw.jpg",
+              "Name": "Lucifer 1&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/thqeMDAtbK42y558q14Xl7nsBFZ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/thqeMDAtbK42y558q14Xl7nsBFZ.jpg",
+              "Name": "Lucifer 1&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lVk7ORHwrSL2p7AsTNRKQy6lGxA.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lVk7ORHwrSL2p7AsTNRKQy6lGxA.jpg",
+              "Name": "Lucifer 1&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/5akTutJHNiDf4qaFa9zl68SLdxP.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/5akTutJHNiDf4qaFa9zl68SLdxP.jpg",
+              "Name": "Lucifer 1&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2CvlWHKNQeaEz6cGdePkOxtDZ6n.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2CvlWHKNQeaEz6cGdePkOxtDZ6n.jpg",
+              "Name": "Lucifer 1&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/w6AqBrndf6o2TjWvGwjguMauzh4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/w6AqBrndf6o2TjWvGwjguMauzh4.jpg",
+              "Name": "Lucifer 1&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/a8G9vNFxveal0cAYnW3qvBaIOiq.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/a8G9vNFxveal0cAYnW3qvBaIOiq.jpg",
+              "Name": "Lucifer 1&#215;10"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1165520-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-first-season",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1165520/",
+              "Size": "858.6 MB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/FR9OENTXUAHD",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "Lucifer and Chloe are tasked with solving the murder of a prominent restaurateur. When they meet his son, they suspect he played a part in the death. Meanwhile, Chloe&#8217;s mom returns home, sending Chloe&#8217;s life into upheaval, as Lucifer learns his own dysfunctional family isn&#8217;t nearly as unique as he thought.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-1x10/",
+          "Name": "Lucifer 1x10"
+        },
+        {
+          "Id": "tv6pGEDr1165521",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kXmtIabvZ9bj9yDbiLsRLeCbxGa.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kXmtIabvZ9bj9yDbiLsRLeCbxGa.jpg",
+              "Name": "Lucifer 1&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qSyS7jm9MZCiQPZQkRIfCz6Vh4O.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qSyS7jm9MZCiQPZQkRIfCz6Vh4O.jpg",
+              "Name": "Lucifer 1&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/k43xNcPFlxc0AtNpFMKzFxMTecu.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/k43xNcPFlxc0AtNpFMKzFxMTecu.jpg",
+              "Name": "Lucifer 1&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/b4D5X4CAlsqCnmXyAkQ3t9RjpvT.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/b4D5X4CAlsqCnmXyAkQ3t9RjpvT.jpg",
+              "Name": "Lucifer 1&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ApEDQrWTn5mD2dop8KJ1uwIVPFz.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ApEDQrWTn5mD2dop8KJ1uwIVPFz.jpg",
+              "Name": "Lucifer 1&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oM3ZaLBrLUW1Vmdp35eHDyBDonO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oM3ZaLBrLUW1Vmdp35eHDyBDonO.jpg",
+              "Name": "Lucifer 1&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/v5lrLEaoqMzH3DEnuBE2VsOHosk.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/v5lrLEaoqMzH3DEnuBE2VsOHosk.jpg",
+              "Name": "Lucifer 1&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/m0EeNM6XyMb2gMKF1b6vyFoaTND.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/m0EeNM6XyMb2gMKF1b6vyFoaTND.jpg",
+              "Name": "Lucifer 1&#215;11"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1165521-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-first-season",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1165521/",
+              "Size": "684.6 MB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/XF55X1441KE2",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "When philanthropist Tim Dunlear is found dead, Lucifer explores his good side by becoming a benefactor for Tim’s glitzy Los Angeles charity.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-1x11/",
+          "Name": "Lucifer 1x11"
+        },
+        {
+          "Id": "tv6pGEDr1165522",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jycEjP6R7cd23FasOdNp61d8Xk1.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jycEjP6R7cd23FasOdNp61d8Xk1.jpg",
+              "Name": "Lucifer 1&#215;12"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rdWzegTzJiRWaVKpsFEwbE9ScXW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rdWzegTzJiRWaVKpsFEwbE9ScXW.jpg",
+              "Name": "Lucifer 1&#215;12"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1165522-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-first-season",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1165522/",
+              "Size": "782.0 MB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/1O2YG3P59M38",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "When a woman is found dead on the Hollywood Walk of Fame &#8211; with her body twisted into the shape of a pentagram &#8211; the investigation leads Lucifer and team into the world of Satanists, where they soon realize, evil doesn&#8217;t always live where we expect it to.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-1x12/",
+          "Name": "Lucifer 1x12"
+        },
+        {
+          "Id": "tv6pGEDr1186049",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fUOlgpJgR9GBHBvLqad0zZUk0aO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fUOlgpJgR9GBHBvLqad0zZUk0aO.jpg",
+              "Name": "Lucifer 1&#215;13"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xPQ58soVENSCQsM2vyzx2WigXKA.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xPQ58soVENSCQsM2vyzx2WigXKA.jpg",
+              "Name": "Lucifer 1&#215;13"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fN1Izd4oG10t0rZTFPgX0B7sXRw.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fN1Izd4oG10t0rZTFPgX0B7sXRw.jpg",
+              "Name": "Lucifer 1&#215;13"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1186049-3/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-first-season",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1186049-2/",
+              "Size": "1.7 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/A829VE2UT8GA",
+              "Name": "1080p"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1186049/",
+              "Size": "780.4 MB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/FTIVL3D9XN8U",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "When Lucifer is framed for murder, he and Chloe must work together to clear his name and prove the identity of the true killer.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-1x13/",
+          "Name": "Lucifer 1x13"
+        },
+        {
+          "Id": "tv6pGEDr1160783",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ck8mSXXijr8xIXNqn2hbx4b2HKj.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ck8mSXXijr8xIXNqn2hbx4b2HKj.jpg",
+              "Name": "Lucifer 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wzqtpUf32vonFUdMHdgX0GvRepq.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wzqtpUf32vonFUdMHdgX0GvRepq.jpg",
+              "Name": "Lucifer 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4AwuZ03XxGkyTqb6Y970gp4Cg2A.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4AwuZ03XxGkyTqb6Y970gp4Cg2A.jpg",
+              "Name": "Lucifer 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6xAJpYGzmhZgkJ24feM8ag4O3rU.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6xAJpYGzmhZgkJ24feM8ag4O3rU.jpg",
+              "Name": "Lucifer 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/vD4kugm8aVaxHQojb6afhQpB0w0.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/vD4kugm8aVaxHQojb6afhQpB0w0.jpg",
+              "Name": "Lucifer 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/5i87NpxsEqCOSL7JENeQReRJUSU.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/5i87NpxsEqCOSL7JENeQReRJUSU.jpg",
+              "Name": "Lucifer 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2eBH0rYWou08hiQe6cfCx9tuH7H.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2eBH0rYWou08hiQe6cfCx9tuH7H.jpg",
+              "Name": "Lucifer 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bbhv63vvvRmNOJcczHUTJxCSRCN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bbhv63vvvRmNOJcczHUTJxCSRCN.jpg",
+              "Name": "Lucifer 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ledjKzwcqZKWMQOlC6mcVMrdCW9.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ledjKzwcqZKWMQOlC6mcVMrdCW9.jpg",
+              "Name": "Lucifer 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/eaRhQuexMvyc6Ndv9WmNLoELIQY.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/eaRhQuexMvyc6Ndv9WmNLoELIQY.jpg",
+              "Name": "Lucifer 1&#215;2"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160783-4/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-first-season",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160783-3/",
+              "Size": "966.16 MB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://4share.vn/f/7a4e4d484c4d4b4c/Lucifer.S01E02.720p.HDTV.X264-DIMENSION.mkv",
+              "Name": "720p"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160783-2/",
+              "Size": "1.7 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/3SJ2B5K3FMKP",
+              "Name": "1080p"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160783/",
+              "Size": "966.2 MB",
+              "FileSize": 1013091667,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/DW5R52MPGSFF",
+              "Name": "Lucifer.S01E02.720p.HDTV.X264-DIMENSION.mkv"
+            }
+          ],
+          "Intro": "When a movie star&#8217;s son is killed after being chased by the paparazzi, Chloe takes a deep look into the case with a little help from Lucifer. Meanwhile, Maze and Amenadiel continue to encourage Lucifer to go back to hell.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-1x2/",
+          "Name": "Lucifer 1x2"
+        },
+        {
+          "Id": "tv6pGEDr1160784",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/eTRQGrNXhg3t1Z3dhNLOsGxomxm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/eTRQGrNXhg3t1Z3dhNLOsGxomxm.jpg",
+              "Name": "Lucifer 1&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ffZhX1G2jhRivgzsAJqBPLkLCH8.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ffZhX1G2jhRivgzsAJqBPLkLCH8.jpg",
+              "Name": "Lucifer 1&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8UGfn4BeALWeGUShwx7Y7F4jXek.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8UGfn4BeALWeGUShwx7Y7F4jXek.jpg",
+              "Name": "Lucifer 1&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tFBHM9kqOmRwVHk4q9uwfHA3fWk.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tFBHM9kqOmRwVHk4q9uwfHA3fWk.jpg",
+              "Name": "Lucifer 1&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lTIRKjbjSSKW24wZtrs250nZ8v0.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lTIRKjbjSSKW24wZtrs250nZ8v0.jpg",
+              "Name": "Lucifer 1&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2oBOkmOpyLsuIBXlisnqUDWYaT6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2oBOkmOpyLsuIBXlisnqUDWYaT6.jpg",
+              "Name": "Lucifer 1&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ylDapUc9u9ozKC5zm9HKthrC6eI.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ylDapUc9u9ozKC5zm9HKthrC6eI.jpg",
+              "Name": "Lucifer 1&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/gnOo3Yn3NFzeHAKZL4MBwPyyeqW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/gnOo3Yn3NFzeHAKZL4MBwPyyeqW.jpg",
+              "Name": "Lucifer 1&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3zJCWRbQPzWLOq1syw91xYXWkYq.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3zJCWRbQPzWLOq1syw91xYXWkYq.jpg",
+              "Name": "Lucifer 1&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/y47H5E9dRdWtO8QaIKCd8VpyYdx.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/y47H5E9dRdWtO8QaIKCd8VpyYdx.jpg",
+              "Name": "Lucifer 1&#215;3"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160784-4/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-first-season",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160784-3/",
+              "Size": "737.78 MB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://4share.vn/f/77434044434e4045/Lucifer.S01E03.720p.HDTV.X264-DIMENSION.mkv",
+              "Name": "720p"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160784-2/",
+              "Size": "1.7 GB",
+              "FileSize": 1793210196,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/ZH3OWAG3SFGR",
+              "Name": "Lucifer.S01E03.1080p.WEB-DL.DD5.1.H264-RARBG.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160784/",
+              "Size": "737.8 MB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/FEGSE9T4R8L2",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "When a 22-year-old future superstar quarterback wakes up to find a dead girl floating in his swimming pool, he turns to his friend, Lucifer, for help. Lucifer enlists Chloe to investigate the case, which leads to the world of big money sports and people who will literally kill to be number one.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-1x3/",
+          "Name": "Lucifer 1x3"
+        },
+        {
+          "Id": "tv6pGEDr1160785",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jT6UcjnRP1MH8zUf0zL7NFGqhNQ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jT6UcjnRP1MH8zUf0zL7NFGqhNQ.jpg",
+              "Name": "Lucifer 1&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2HJKboI9mmMhpr7oaZ0hI5bj2Lg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2HJKboI9mmMhpr7oaZ0hI5bj2Lg.jpg",
+              "Name": "Lucifer 1&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/91PlDpkMVt0Dsytq7jTn0KHTFJ1.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/91PlDpkMVt0Dsytq7jTn0KHTFJ1.jpg",
+              "Name": "Lucifer 1&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/j9vA8kYskUwKSvxIgyrXkT0KlZh.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/j9vA8kYskUwKSvxIgyrXkT0KlZh.jpg",
+              "Name": "Lucifer 1&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/miMtyS78hMkDocDrXyIj1AGJQ9I.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/miMtyS78hMkDocDrXyIj1AGJQ9I.jpg",
+              "Name": "Lucifer 1&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wX6wuVmDoJbONOAiLARzAPVUv0k.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wX6wuVmDoJbONOAiLARzAPVUv0k.jpg",
+              "Name": "Lucifer 1&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9Y4xfhXP9cn9cmuY8UBSe0lFvu6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9Y4xfhXP9cn9cmuY8UBSe0lFvu6.jpg",
+              "Name": "Lucifer 1&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/len5pa8VC7yxiI1KSE9NgB71RQE.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/len5pa8VC7yxiI1KSE9NgB71RQE.jpg",
+              "Name": "Lucifer 1&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/sakyG4gzrYrSiwqadDp0t4LBBYg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/sakyG4gzrYrSiwqadDp0t4LBBYg.jpg",
+              "Name": "Lucifer 1&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xJPc3fbqgWxxJdgNFjNLjeaSfvT.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xJPc3fbqgWxxJdgNFjNLjeaSfvT.jpg",
+              "Name": "Lucifer 1&#215;4"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160785-4/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-first-season",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160785-3/",
+              "Size": "737.23 MB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://4share.vn/f/4d797a797f787874/Lucifer.S01E04.720p.HDTV.X264-DIMENSION.mkv",
+              "Name": "720p"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160785-2/",
+              "Size": "1.6 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/8PMRPW5PW5OQ",
+              "Name": "1080p"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160785/",
+              "Size": "737.2 MB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/ENSQZJGD7L6S",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "In an effort to get over his infatuation with Chloe, Lucifer decides that he must seduce her. Meanwhile the two team up on a missing girl case and Amenadiel confronts Maze about his concerns about Lucifer.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-1x4/",
+          "Name": "Lucifer 1x4"
+        },
+        {
+          "Id": "tv6pGEDr1160786",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nrRGeYit3Tvr2NocDmKEA5bH9sz.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nrRGeYit3Tvr2NocDmKEA5bH9sz.jpg",
+              "Name": "Lucifer 1&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ddhdH9gMqtI07R8TNhwHjaNvj5w.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ddhdH9gMqtI07R8TNhwHjaNvj5w.jpg",
+              "Name": "Lucifer 1&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1xCfuMiKYgOktF1OY8nQQFWed5p.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1xCfuMiKYgOktF1OY8nQQFWed5p.jpg",
+              "Name": "Lucifer 1&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/eyE4Plg5gtgXD3ZFd0o6L5FKkvK.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/eyE4Plg5gtgXD3ZFd0o6L5FKkvK.jpg",
+              "Name": "Lucifer 1&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/q1E5YDt3iwQKR2VidRBXS02VARy.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/q1E5YDt3iwQKR2VidRBXS02VARy.jpg",
+              "Name": "Lucifer 1&#215;5"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160786-4/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-first-season",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160786-3/",
+              "Size": "763.72 MB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://4share.vn/f/3105060405030702/Lucifer.S01E05.720p.HDTV.X264-DIMENSION.mkv",
+              "Name": "720p"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160786-2/",
+              "Size": "1.7 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/A5MDSIWRSFIZ",
+              "Name": "1080p"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160786/",
+              "Size": "763.7 MB",
+              "FileSize": 800814559,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/FR8JRZCH3OV5",
+              "Name": "Lucifer.S01E05.720p.HDTV.X264-DIMENSION.mkv"
+            }
+          ],
+          "Intro": "After a shooting occurs at a fashion show and a young woman is killed, Lucifer becomes intrigued by the danger of the situation and begs Chloe to get in on the case. Meanwhile, when Maze admits to Amenadiel that she wants to go back to hell, he sets his sights on Dr. Linda.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-1x5/",
+          "Name": "Lucifer 1x5"
+        },
+        {
+          "Id": "tv6pGEDr1160787",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/iCPIYG06s4rEUAffTI7D1xuVPvy.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/iCPIYG06s4rEUAffTI7D1xuVPvy.jpg",
+              "Name": "Lucifer 1&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jzObYtLu2pvGZ5l5QdddVUa0L0A.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jzObYtLu2pvGZ5l5QdddVUa0L0A.jpg",
+              "Name": "Lucifer 1&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/uezEYX9aeMqPG9dBnyBlg6ZoLyg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/uezEYX9aeMqPG9dBnyBlg6ZoLyg.jpg",
+              "Name": "Lucifer 1&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lboz4rZxIhf1cW87En7lviefhAA.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lboz4rZxIhf1cW87En7lviefhAA.jpg",
+              "Name": "Lucifer 1&#215;6"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160787-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-first-season",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160787/",
+              "Size": "885.1 MB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/PVZ4BWCN1YET",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "Lucifer bails on Chloe when he becomes bored with her investigation into a ruthless biker gang murder. However, when he discovers something was stolen during the crime that was very personal to him, he demands that Chloe let him rejoin the case.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-1x6/",
+          "Name": "Lucifer 1x6"
+        },
+        {
+          "Id": "tv6pGEDr1160788",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3QkYv78ZlxYf54sLO71xYnoqzMr.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3QkYv78ZlxYf54sLO71xYnoqzMr.jpg",
+              "Name": "Lucifer 1&#215;7"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160788-3/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-first-season",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160788-2/",
+              "Size": "1.19 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://4share.vn/f/7b4f4c4c42494943/Lucifer.S01E07.720p.HDTV.x264-KILLERS.mkv",
+              "Name": "720p"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1160788/",
+              "Size": "1.2 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/GZA95NMV89AE",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "In attempt to find the contents of his stolen container, Lucifer enlists the help of an unlikely ally. Meanwhile, Chloe digs deeper into the Palmetto case, uncovering a lead that might finally expose the truth.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-1x7/",
+          "Name": "Lucifer 1x7"
+        },
+        {
+          "Id": "tv6pGEDr1165518",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kCvPxVQ0OLyQG7VwPOzHTHGsbKV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kCvPxVQ0OLyQG7VwPOzHTHGsbKV.jpg",
+              "Name": "Lucifer 1&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zIeMqkjcF98NdtI6SEHmi6nitQs.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zIeMqkjcF98NdtI6SEHmi6nitQs.jpg",
+              "Name": "Lucifer 1&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/pirdfFTrMlGSUppNKVBN4kel6Cb.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/pirdfFTrMlGSUppNKVBN4kel6Cb.jpg",
+              "Name": "Lucifer 1&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ccQx31zaeegdIVcAokfzJPdVGBZ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ccQx31zaeegdIVcAokfzJPdVGBZ.jpg",
+              "Name": "Lucifer 1&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nuOiwSzZ7Gdy71HDEzdX61LE3jj.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nuOiwSzZ7Gdy71HDEzdX61LE3jj.jpg",
+              "Name": "Lucifer 1&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8Bkpxt2SCUgSOoRZdEWkBfZletg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8Bkpxt2SCUgSOoRZdEWkBfZletg.jpg",
+              "Name": "Lucifer 1&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/pj9n9S1H3J9ypumtTxK4oYvxFWn.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/pj9n9S1H3J9ypumtTxK4oYvxFWn.jpg",
+              "Name": "Lucifer 1&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6HnkcsB1WnPeqPWjfNUi14Cex9J.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6HnkcsB1WnPeqPWjfNUi14Cex9J.jpg",
+              "Name": "Lucifer 1&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nNoX0z7VFRVeWBxVzg6tMlUFmCy.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nNoX0z7VFRVeWBxVzg6tMlUFmCy.jpg",
+              "Name": "Lucifer 1&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/p52yt0NmKhZ6detKNhVA2vlregE.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/p52yt0NmKhZ6detKNhVA2vlregE.jpg",
+              "Name": "Lucifer 1&#215;8"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1165518-3/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-first-season",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1165518-2/",
+              "Size": "913.53 MB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://4share.vn/f/3206050b03050b0b/Lucifer.S01E08.720p.HDTV.X264-DIMENSION.mkv",
+              "Name": "720p"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1165518/",
+              "Size": "913.5 MB",
+              "FileSize": 957906759,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/Z6IQZI8AJM6Q",
+              "Name": "Lucifer.S01E08.720p.HDTV.X264-DIMENSION.mkv"
+            }
+          ],
+          "Intro": "When a therapist is murdered, Lucifer and Chloe enlist the help of Dr. Linda to look into possible suspects. Meanwhile, Malcolm confronts Chloe about the night he was shot, and Lucifer experiences his first bout of jealousy.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-1x8/",
+          "Name": "Lucifer 1x8"
+        },
+        {
+          "Id": "tv6pGEDr1165519",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/guWoA5SLNMVMo6J3vaZSMIEGyXh.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/guWoA5SLNMVMo6J3vaZSMIEGyXh.jpg",
+              "Name": "Lucifer 1&#215;9"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1165519-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-first-season",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv6pgedr1165519/",
+              "Size": "777.8 MB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/QHVOH62H3LII",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "A priest seeks out Lucifer&#8217;s help when he suspects an underground drug operation has set up shop at a neighborhood youth center. Meanwhile, Malcolm manipulates a way to keep an eye on Dan.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-1x9/",
+          "Name": "Lucifer 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Jan. 25, 2016"
+    },
+    {
+      "Episodes": [
+        {
+          "Id": "tvYMAfyX1223443",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lYFabsw3SBbrWfKGWoKEaHTZ3JF.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lYFabsw3SBbrWfKGWoKEaHTZ3JF.jpg",
+              "Name": "Lucifer 2&#215;1"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1223443/",
+              "Size": "828.8 MB",
+              "FileSize": 869096627,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T5VSZDJCTVNA95P",
+              "Name": "Lucifer.S02E01.720p.HDTV.X264-DIMENSION[eztv].mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1223443-2/",
+              "Size": "0",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-second-season-2016",
+              "Name": "--"
+            }
+          ],
+          "Intro": "Lucifer is distracted by his mother’s escape from hell, as he and Chloe investigate the murder of a stand-in actress. Meanwhile, Chloe’s faith in Lucifer is tested by the new medical examiner, Ella. Also, Amenadiel hopes to rein in Lucifer’s wild side, as they both deal with the absence of Maze.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x1/",
+          "Name": "Lucifer 2x1"
+        },
+        {
+          "Id": "tvYMAfyX1231816",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/metpDO4HlXqPV0I4RlCsIEYMTpD.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/metpDO4HlXqPV0I4RlCsIEYMTpD.jpg",
+              "Name": "Lucifer 2&#215;10"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1231816/",
+              "Size": "868.4 MB",
+              "FileSize": 910593042,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/IBSS9LXN5HS69HE",
+              "Name": "Lucifer.S02E10.720p.HDTV.X264-DIMENSION(1).mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1231816-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-second-season-2016",
+              "Name": "--"
+            }
+          ],
+          "Intro": "Charlotte is determined to get Lucifer to leave Earth by turning Chloe against him. Meanwhile, Amenadiel has begun working as Charlotte&#8217;s soldier, which makes Maze question his loyalty.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x10/",
+          "Name": "Lucifer 2x10"
+        },
+        {
+          "Id": "tvYMAfyX1245026",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/gYxxRr8GLKlmn9ICBQ9MdW3TUsy.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/gYxxRr8GLKlmn9ICBQ9MdW3TUsy.jpg",
+              "Name": "Lucifer 2&#215;11"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1245026/",
+              "Size": "757.5 MB",
+              "FileSize": 794275683,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/CMSTHQVXTY3B342",
+              "Name": "Lucifer.S02E11.720p.HDTV.X264-DIMENSION.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1245026-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-second-season-2016",
+              "Name": "--"
+            }
+          ],
+          "Intro": "Lucifer and Chloe investigate the murder of two victims, who happen to be Lucifer’s ex-flames.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x11/",
+          "Name": "Lucifer 2x11"
+        },
+        {
+          "Id": "tvYMAfyX1257961",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/raqY9j057YfyLq58u1gJURGd9K0.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/raqY9j057YfyLq58u1gJURGd9K0.jpg",
+              "Name": "Lucifer 2&#215;12"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/pCB7K8uwOA08mde2l2ECsHb44jm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/pCB7K8uwOA08mde2l2ECsHb44jm.jpg",
+              "Name": "Lucifer 2&#215;12"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/x3RetRgkIyXQ32VskRDyFtrEZt8.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/x3RetRgkIyXQ32VskRDyFtrEZt8.jpg",
+              "Name": "Lucifer 2&#215;12"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1257961/",
+              "Size": "--",
+              "FileSize": 856547997,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/5VSZBBDO1UUINH9",
+              "Name": "Lucifer.S02E12.720p.HDTV.X264-DIMENSION.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1257961-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-second-season-2016",
+              "Name": "--"
+            }
+          ],
+          "Intro": "Lucifer and Chloe investigate a mysterious masked killer who is poisoning college students.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x12/",
+          "Name": "Lucifer 2x12"
+        },
+        {
+          "Id": "tvYMAfyX1262091",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/TJAN3MxjH4DWPz9SHDhAhQRaDd.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/TJAN3MxjH4DWPz9SHDhAhQRaDd.jpg",
+              "Name": "Lucifer 2&#215;13"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/i2C27CFN1WzuGBCTmFo19fweiST.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/i2C27CFN1WzuGBCTmFo19fweiST.jpg",
+              "Name": "Lucifer 2&#215;13"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1262091/",
+              "Size": "733.9 MB",
+              "FileSize": 769511399,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/O32TLBIALWF6DYH",
+              "Name": "Lucifer.S02E13.720p.HDTV.X264-DIMENSION.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1262091-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-second-season-2016",
+              "Name": "--"
+            }
+          ],
+          "Intro": "Lucifer must find the antidote to the Professor&#8217;s poison before it kills Chloe. He travels to hell to find the Professor&#8217;s soul and get him to turn over the antidote. While he&#8217;s there, he is forced to confront his guilt about Uriel&#8217;s death. Mom heads to hell to get Lucifer back, but Lucifer still feels betrayed by his parents because of something he discovers.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x13/",
+          "Name": "Lucifer 2x13"
+        },
+        {
+          "Id": "tvYMAfyX1263279",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hhqmWemUEX5BCoy4vFcm8Y4nla9.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hhqmWemUEX5BCoy4vFcm8Y4nla9.jpg",
+              "Name": "Lucifer 2&#215;14"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1263279/",
+              "Size": "1.1 GB",
+              "FileSize": 1218157349,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/VYWEYCKIL7UIOMU",
+              "Name": "Lucifer.S02E14.720p.HDTV.x264-KILLERS.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1263279-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-second-season-2016",
+              "Name": "--"
+            }
+          ],
+          "Intro": "Lucifer returns to the city with a new bride in tow, oblivious to the distress his absence has caused. Determined to restore his working relationship with Chloe, he inserts himself into the investigation of the murder of an up-and-coming band&#8217;s lead singer.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x14/",
+          "Name": "Lucifer 2x14"
+        },
+        {
+          "Id": "tvYMAfyX1314232",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hepWWJSwEGv3OtjkKEPd9CC1U8T.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hepWWJSwEGv3OtjkKEPd9CC1U8T.jpg",
+              "Name": "Lucifer 2&#215;15"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1314232/",
+              "Size": "947.7 MB",
+              "FileSize": 993783222,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/QYFVWOCEP3YFUS7",
+              "Name": "Lucifer.S02E15.720p.HDTV.x264-KILLERS.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1314232-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-second-season-2016",
+              "Name": "--"
+            }
+          ],
+          "Intro": "When it is discovered that the flaming sword is the only hope for the family returning home safely, the pressure is on for Lucifer to control what he has never been able to control before – his emotions – in order to ignite it. Meanwhile, Chloe wants to air some emotions of her own, but when a therapist and head of admissions at a prestigious private school turns up dead, the team must get to the bottom of it.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x15/",
+          "Name": "Lucifer 2x15"
+        },
+        {
+          "Id": "tvYMAfyX1315166",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/faqOl0Qt3tdeWboW9FAKeti7Yu1.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/faqOl0Qt3tdeWboW9FAKeti7Yu1.jpg",
+              "Name": "Lucifer 2&#215;16"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1315166/",
+              "Size": "1000.1 MB",
+              "FileSize": 1048675049,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/8BN1XBH9IJVKYRO",
+              "Name": "Lucifer.S02E16.REPACK.720p.HDTV.x264-KILLERS.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1315166-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-second-season-2016",
+              "Name": "--"
+            }
+          ],
+          "Intro": "When a grisly murder takes place at an insane asylum, the prime suspect calls himself God. After realizing that this man could actually be his father, Lucifer struggles with his feelings towards him and tries to find the truth, all while trying to discover who the real killer is.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x16/",
+          "Name": "Lucifer 2x16"
+        },
+        {
+          "Id": "tvYMAfyX1315167",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/pShv1t2WbziDPmRfVDs2Qicc61p.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/pShv1t2WbziDPmRfVDs2Qicc61p.jpg",
+              "Name": "Lucifer 2&#215;17"
+            }
+          ],
+          "Links": [],
+          "Intro": "When the man who had the final piece of the Flaming Sword is murdered and the piece goes missing, Mom joins Chloe and Lucifer on the case to track down the killer. But when Lucifer gets sidelined, Maze recruits him to help save Dr. Linda&#8217;s endangered career and confronts him about the secrets he&#8217;s been keeping.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x17/",
+          "Name": "Lucifer 2x17"
+        },
+        {
+          "Id": "tvYMAfyX1315168",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ndpTp1akAYGkJ7ZqGKQ6Ns6IRtj.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ndpTp1akAYGkJ7ZqGKQ6Ns6IRtj.jpg",
+              "Name": "Lucifer 2&#215;18"
+            }
+          ],
+          "Links": [],
+          "Intro": "After Charlotte accidentally charbroils a man to death in self-defense, Lucifer must try and keep Chloe from figuring out the truth. Lucifer puts Maze in charge of finding Charlotte and Amenadiel, who have both gone missing in light of recent circumstances, while he finds a permanent solution for the ticking-time-bomb he calls Mom.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x18/",
+          "Name": "Lucifer 2x18"
+        },
+        {
+          "Id": "tvYMAfyX1224783",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/v6viaCxUbYLqUmBLnTJK56Unpms.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/v6viaCxUbYLqUmBLnTJK56Unpms.jpg",
+              "Name": "Lucifer 2&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/cxClFVPPkVR53BlIABre0JEUW0l.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/cxClFVPPkVR53BlIABre0JEUW0l.jpg",
+              "Name": "Lucifer 2&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nu2is7vKf1UsF92f2BycKufNZ6a.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nu2is7vKf1UsF92f2BycKufNZ6a.jpg",
+              "Name": "Lucifer 2&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/k37yqebmAXEWNeBcDjKZyXrp4Ar.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/k37yqebmAXEWNeBcDjKZyXrp4Ar.jpg",
+              "Name": "Lucifer 2&#215;2"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1224783/",
+              "Size": "515.5 MB",
+              "FileSize": 540501024,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/ZKIK3EGVQTK6UGF",
+              "Name": "Lucifer.S02E02.720p.HDTV.X264-DIMENSION[eztv].mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1224783-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-second-season-2016",
+              "Name": "--"
+            }
+          ],
+          "Intro": "When Lucifer’s mother, Charlotte, turns up at the scene of a grizzly murder pleading innocence, Lucifer is hesitant to believe her tale. Not wanting to leave her on her own, he instructs Maze to babysit her – and not to torture her, allowing him to investigate the case with Chloe.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x2/",
+          "Name": "Lucifer 2x2"
+        },
+        {
+          "Id": "tvYMAfyX1226109",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hIGTO4fmJPD1z6scsKrQ4ItwMXL.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hIGTO4fmJPD1z6scsKrQ4ItwMXL.jpg",
+              "Name": "Lucifer 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wmqdu0HYZaIkfEg8Jdp8O9xuCPz.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wmqdu0HYZaIkfEg8Jdp8O9xuCPz.jpg",
+              "Name": "Lucifer 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/yjdMl6OuRzCDHKZsM32mghApwt8.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/yjdMl6OuRzCDHKZsM32mghApwt8.jpg",
+              "Name": "Lucifer 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/862P99LAJEnSEPkpnc2R5jUjvH5.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/862P99LAJEnSEPkpnc2R5jUjvH5.jpg",
+              "Name": "Lucifer 2&#215;3"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1226109/",
+              "Size": "819.3 MB",
+              "FileSize": 859057418,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/11QB37IQTNLN912",
+              "Name": "Lucifer.S02E03.720p.HDTV.X264-DIMENSION(1).mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1226109-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-second-season-2016",
+              "Name": "--"
+            }
+          ],
+          "Intro": "Lucifer and Chloe investigate a gruesome murder after a video of the crime surfaces on social media. When a second video appears, they realize they have a serial killer on their hands. Meanwhile, Lucifer’s mom returns as Charlotte Richards. Also, Amenadiel, struggling with his loss of power, has an appointment with Linda.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x3/",
+          "Name": "Lucifer 2x3"
+        },
+        {
+          "Id": "tvYMAfyX1227223",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2JLZ7J0frLy06mP62Pti74SpdbO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2JLZ7J0frLy06mP62Pti74SpdbO.jpg",
+              "Name": "Lucifer 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/c7ZzRki57zGk1uA6bYA96nnffkw.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/c7ZzRki57zGk1uA6bYA96nnffkw.jpg",
+              "Name": "Lucifer 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/yNkqP4pBatBnyoBFVu5HatnRAPR.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/yNkqP4pBatBnyoBFVu5HatnRAPR.jpg",
+              "Name": "Lucifer 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/pdjE9N5hCOhxssodEbN7LXpYD2V.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/pdjE9N5hCOhxssodEbN7LXpYD2V.jpg",
+              "Name": "Lucifer 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/q9mMHJReDo6TVgnrjqo5PlPpjeg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/q9mMHJReDo6TVgnrjqo5PlPpjeg.jpg",
+              "Name": "Lucifer 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/mwVgSWq5zdh4HcWmtZo4Q3XAxNK.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/mwVgSWq5zdh4HcWmtZo4Q3XAxNK.jpg",
+              "Name": "Lucifer 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4aZzmyIAgklEfOJjdGgdgBUyeH.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4aZzmyIAgklEfOJjdGgdgBUyeH.jpg",
+              "Name": "Lucifer 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/cCdpRASFwlazYpwd1BZ5X3C8EPH.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/cCdpRASFwlazYpwd1BZ5X3C8EPH.jpg",
+              "Name": "Lucifer 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tBJbEL7CmTSWNyc03GO9UdU9QqP.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tBJbEL7CmTSWNyc03GO9UdU9QqP.jpg",
+              "Name": "Lucifer 2&#215;4"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1227223/",
+              "Size": "1006.0 MB",
+              "FileSize": 1054845671,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/L85ORJ5THL97Y21",
+              "Name": "Lucifer.S02E04.720p.HDTV.X264-DIMENSION(1).mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1227223-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-second-season-2016",
+              "Name": "--"
+            }
+          ],
+          "Intro": "After the bodies of two young L.A. transplants are found poisoned, Chloe and Lucifer hunt for the killer. Upon Maze convincing Chloe to go out for drinks, which the detective perceives as an act of friendship, but is actually part of a bet between Maze and Lucifer, the two make a shocking decision.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x4/",
+          "Name": "Lucifer 2x4"
+        },
+        {
+          "Id": "tvYMAfyX1227224",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6ljSoSp9ImsczGvtepnBpjlRAKq.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6ljSoSp9ImsczGvtepnBpjlRAKq.jpg",
+              "Name": "Lucifer 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nvHrg8bk0vAhUBAm20gSkGyUgGq.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nvHrg8bk0vAhUBAm20gSkGyUgGq.jpg",
+              "Name": "Lucifer 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/aCC1Vmvd45sd3tN5rQYfGOdaxDp.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/aCC1Vmvd45sd3tN5rQYfGOdaxDp.jpg",
+              "Name": "Lucifer 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/sGBq5dhQF6WP6KcTbz1zCW16cK1.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/sGBq5dhQF6WP6KcTbz1zCW16cK1.jpg",
+              "Name": "Lucifer 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8IZKbqG2oz49kKwxHAAjP22BfEL.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8IZKbqG2oz49kKwxHAAjP22BfEL.jpg",
+              "Name": "Lucifer 2&#215;5"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1227224/",
+              "Size": "862.6 MB",
+              "FileSize": 904493715,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/RYDKIJWOGX26E6H",
+              "Name": "Lucifer.S02E05.720p.HDTV.X264-DIMENSION(1).mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1227224-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-second-season-2016",
+              "Name": "--"
+            }
+          ],
+          "Intro": "Lucifer is excited to investigate the murder of his favorite action movie hero, Wesley Cabot. Longtime rival Rolf Van Zandt initially is a suspect, but the investigation soon shifts. Meanwhile, Uriel shows up and Amenadiel is forced to come clean about his lost powers. Also, Lucifer and Uriel fight about Chloe and their mother.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x5/",
+          "Name": "Lucifer 2x5"
+        },
+        {
+          "Id": "tvYMAfyX1227225",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6DD0lTpO4KP8A8J6VBGamcym4i8.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6DD0lTpO4KP8A8J6VBGamcym4i8.jpg",
+              "Name": "Lucifer 2&#215;6"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1227225/",
+              "Size": "1.0 GB",
+              "FileSize": 1113514765,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/QAYN6NG2MOA5L85",
+              "Name": "Lucifer.S02E06.720p.HDTV.X264-DIMENSION(1).mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1227225-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-second-season-2016",
+              "Name": "--"
+            }
+          ],
+          "Intro": "Guilty and self-destructive, Lucifer clashes with Chloe during an investigation, leading her to team up with Dan instead. Meanwhile, Amenadiel bonds with Charlotte, and Maze takes Trixie trick-or-treating.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x6/",
+          "Name": "Lucifer 2x6"
+        },
+        {
+          "Id": "tvYMAfyX1227226",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8BdK5HFFv627REaT0EAaP0s5lH5.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8BdK5HFFv627REaT0EAaP0s5lH5.jpg",
+              "Name": "Lucifer 2&#215;7"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1227226/",
+              "Size": "837.0 MB",
+              "FileSize": 877615489,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/I3J9AH8F568AJIN",
+              "Name": "Lucifer.S02E07.720p.HDTV.X264-DIMENSION(1).mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1227226-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-second-season-2016",
+              "Name": "--"
+            }
+          ],
+          "Intro": "When the prisoner convicted of killing Chloe&#8217;s father is murdered, new evidence suggests he was actually framed. Meanwhile, Maze tries to find a job and Lucifer shadows Dan in order to learn how to be &#8220;normal&#8221;.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x7/",
+          "Name": "Lucifer 2x7"
+        },
+        {
+          "Id": "tvYMAfyX1227227",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9DQESENeZ0S9ZUMBQIEh9hCDlMU.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9DQESENeZ0S9ZUMBQIEh9hCDlMU.jpg",
+              "Name": "Lucifer 2&#215;8"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1227227/",
+              "Size": "823.2 MB",
+              "FileSize": 863210074,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/UXXJL5NMT2HXYTW",
+              "Name": "Lucifer.S02E08.720p.HDTV.X264-DIMENSION(1).mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1227227-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-second-season-2016",
+              "Name": "--"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x8/",
+          "Name": "Lucifer 2x8"
+        },
+        {
+          "Id": "tvYMAfyX1231815",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/80CKoa5pB2sgCacDudK1I3OvEEs.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/80CKoa5pB2sgCacDudK1I3OvEEs.jpg",
+              "Name": "Lucifer 2&#215;9"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1231815/",
+              "Size": "937.8 MB",
+              "FileSize": 983366668,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/AZSPYDP7L3C7NFU",
+              "Name": "Lucifer.S02E09.720p.HDTV.X264-DIMENSION(1).mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvymafyx1231815-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-second-season-2016",
+              "Name": "--"
+            }
+          ],
+          "Intro": "Following the murder of the owner of the building in which Lux is located, Lucifer and Chloe search for the killer, while Lucifer also deals with the fact that the new owner wants to evict him and demolish the place. Lucifer goes to great lengths to protect his home, and is entirely shocked when Chloe is supportive of him. Meanwhile, Maze and Amenadiel follow Charlotte around, as she comes up with a plan to upset Lucifer enough to want to leave earth and go back to Heaven.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-2x9/",
+          "Name": "Lucifer 2x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 2 Sep. 19, 2016"
+    },
+    {
+      "Episodes": [
+        {
+          "Id": "tvdCgE6i1349806",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/sYdotmAglkEL7y1NqVmJLxjWn8J.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/sYdotmAglkEL7y1NqVmJLxjWn8J.jpg",
+              "Name": "Lucifer 3&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tgalczhIlvWgdKESdJpte3wzmwW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tgalczhIlvWgdKESdJpte3wzmwW.jpg",
+              "Name": "Lucifer 3&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/d49OqHassH3zSV2QPLUpqBaNU1y.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/d49OqHassH3zSV2QPLUpqBaNU1y.jpg",
+              "Name": "Lucifer 3&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nvai4duL18Kitzwl6b4MEZI6aZ8.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nvai4duL18Kitzwl6b4MEZI6aZ8.jpg",
+              "Name": "Lucifer 3&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2ss8DkuSZnx5x9pkNaPtFhn4jgc.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2ss8DkuSZnx5x9pkNaPtFhn4jgc.jpg",
+              "Name": "Lucifer 3&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/dGQwdrqENeSpq0pMlho3BSizVIb.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/dGQwdrqENeSpq0pMlho3BSizVIb.jpg",
+              "Name": "Lucifer 3&#215;1"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvdcge6i1349806/",
+              "Size": "1007.6 MB",
+              "FileSize": 1056565563,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/CQFLEX95QX7YZSR",
+              "Name": "Lucifer - S03E01.720p.HDTV.X264-DIMENSION.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvdcge6i1349806-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-third-season-2017",
+              "Name": "--"
+            }
+          ],
+          "Intro": "Lucifer enlists Chloe&#8217;s help to determine why he woke up in the desert with his wings on his back again, which could be related to an active crime scene.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-3x1/",
+          "Name": "Lucifer 3x1"
+        },
+        {
+          "Id": "tvDhQI5a1404330",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/j6vGdven74cWqzJ9tbqeWBPFtjV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/j6vGdven74cWqzJ9tbqeWBPFtjV.jpg",
+              "Name": "Lucifer 3&#215;10"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvdhqi5a1404330/",
+              "Size": "1.5 GB",
+              "FileSize": 1635125304,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/J3KDSORGOSOQ",
+              "Name": "lucifer.s03e10.1080p.web.x264-tbs.mkv"
+            }
+          ],
+          "Intro": "With the Sinnerman in custody, Lucifer is prepared to go to any length to get his devil face back. Meanwhile, Trixie is introduced to Charlotte and questions the relationship she has with her father. The Season 3 fall finale.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-3x10/",
+          "Name": "Lucifer 3x10"
+        },
+        {
+          "Id": "tvCOnrvQ1405202",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9S1rOwsubTJqDxyoJanKHqTPQ90.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9S1rOwsubTJqDxyoJanKHqTPQ90.jpg",
+              "Name": "Lucifer 3&#215;11"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvconrvq1405202/",
+              "Size": "3.2 GB",
+              "FileSize": 3478568962,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/V2C7RW12ZJE4",
+              "Name": "Lucifer.S03E11.City.of.Angels.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+            }
+          ],
+          "Intro": "In a flashback episode that takes place when Lucifer first came to LA, Amenadiel comes to retrieve his fallen brother, but is shocked when he is mugged. Amenadiel enlists Lucifer&#8217;s help to track down the mugger and Lucifer, in turn, offers his assistance &#8211; but only in exchange for a favor. Meanwhile, Chloe and Dan &#8211; who are still married &#8211; investigate the murder of an MMA fighter, Aidan Scott, at the hands of the same killer who mugged Amenadiel.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-3x11/",
+          "Name": "Lucifer 3x11"
+        },
+        {
+          "Id": "tvItSZYC1415335",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wYwcsYwKHF0lxiyQVlpkqO4nC7m.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wYwcsYwKHF0lxiyQVlpkqO4nC7m.jpg",
+              "Name": "Lucifer 3&#215;12"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/55FLGnNRPCNtVDNGEbrstypgwQy.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/55FLGnNRPCNtVDNGEbrstypgwQy.jpg",
+              "Name": "Lucifer 3&#215;12"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/aq8KAfOaf7jphGbDSufgQHv94YB.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/aq8KAfOaf7jphGbDSufgQHv94YB.jpg",
+              "Name": "Lucifer 3&#215;12"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bx1PWA7dCJsHauBa91qTrGQwwhr.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bx1PWA7dCJsHauBa91qTrGQwwhr.jpg",
+              "Name": "Lucifer 3&#215;12"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/gJtiD6uYuqO23SIJWWhAuKHr1Nw.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/gJtiD6uYuqO23SIJWWhAuKHr1Nw.jpg",
+              "Name": "Lucifer 3&#215;12"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvitszyc1415335/",
+              "Size": "1.73 GB",
+              "FileSize": 1857280896,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/JHFGR579F55Y",
+              "Name": "Lucifer.S03E12.All.About.Her.720p.AMZN.WEBRip.DDP5.1.x264-NTb.mkv"
+            }
+          ],
+          "Intro": "After Lt. Pierce&#8217;s true identity is revealed, Lucifer tries to figure out his motives. In order to earn Chloe&#8217;s assistance in his investigation of Pierce, Lucifer goes above and beyond to help her solve the murder of a professional surfer. Meanwhile, Amenadiel deals with a personal health issue.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-3x12/",
+          "Name": "Lucifer 3x12"
+        },
+        {
+          "Id": "tv1R2s7T1417731",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9WphAxgUrS4sSuUmE7xUjACsHzx.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9WphAxgUrS4sSuUmE7xUjACsHzx.jpg",
+              "Name": "Lucifer 3&#215;13"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv1r2s7t1417731/",
+              "Size": "1.53 GB",
+              "FileSize": 1639483499,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/A38PKHE8PLLV",
+              "Name": "lucifer.s03e13.1080p.web.x264-tbs.mkv"
+            }
+          ],
+          "Intro": "When an ecstasy cook-turned-chemistry-teacher is found murdered in a cozy Los Angeles suburb, Lucifer and Pierce must go undercover to help track down the killer. Meanwhile, Maze has a newfound attraction for someone that she used to despise and Charlotte has a revelation.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-3x13/",
+          "Name": "Lucifer 3x13"
+        },
+        {
+          "Id": "tvA6PpKa1422784",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qPXEQdKYevt2JlQRI6OmjpCYn1d.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qPXEQdKYevt2JlQRI6OmjpCYn1d.jpg",
+              "Name": "Lucifer 3&#215;14"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tva6ppka1422784/",
+              "Size": "1.68 GB",
+              "FileSize": 1809061808,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/LT1FQ6CYH9JO",
+              "Name": "Lucifer.S03E14.My.Brothers.Keeper.720p.AMZN.WEBRip.DDP5.1.x264-NTb.mkv"
+            }
+          ],
+          "Intro": "When Chloe and Lucifer&#8217;s investigation into the murder of a diamond thief points to one of Ella&#8217;s brothers as the main suspect, Ella is driven to prove her brother&#8217;s innocence and recruits an unlikely ally. Meanwhile, Linda is upset when Charlotte comes to her for help and Detective Pierce hashes out his issues with Amenadiel.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-3x14/",
+          "Name": "Lucifer 3x14"
+        },
+        {
+          "Id": "tv2oDN9l1431188",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ESqXFEWZyYT3NVDAQDSAgNyxyw.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ESqXFEWZyYT3NVDAQDSAgNyxyw.jpg",
+              "Name": "Lucifer 3&#215;15"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv2odn9l1431188/",
+              "Size": "2.02 GB",
+              "FileSize": 2167505353,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/GBYN21QB231K",
+              "Name": "Lucifer.S03E15.High.School.Poppycock.720p.AMZN.WEBRip.DDP5.1.x264-NTb.mkv"
+            }
+          ],
+          "Intro": "When a best-selling novelist is murdered, Lucifer and Chloe discover that her books are based on real people from her past, and must infiltrate her high school reunion in order to catch her killer. Meanwhile, Amenadiel and Linda struggle with making their relationship public.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-3x15/",
+          "Name": "Lucifer 3x15"
+        },
+        {
+          "Id": "tvSbaiiR1433259",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3pjCT2LKcM1LAdeIGYmFffyobcy.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3pjCT2LKcM1LAdeIGYmFffyobcy.jpg",
+              "Name": "Lucifer 3&#215;16"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8m2qUXj4E8AYAtkOi9OchiniGBU.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8m2qUXj4E8AYAtkOi9OchiniGBU.jpg",
+              "Name": "Lucifer 3&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": "When a murder investigation reveals the dark side of Hollywood, Chloe puts her life on the line to protect an innocent victim. Then, Lucifer comes up with a hell-raising scheme to help Cain, but when Amenadiel and Maze get involved, things don&#8217;t quite go as planned.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-3x16/",
+          "Name": "Lucifer 3x16"
+        },
+        {
+          "Id": "tvGQDoWy1437592",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8wWt2usKxb4e5QWMAwDoSQJnim0.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8wWt2usKxb4e5QWMAwDoSQJnim0.jpg",
+              "Name": "Lucifer 3&#215;17"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvgqdowy1437592/",
+              "Size": "1.77 GB",
+              "FileSize": 1901839257,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/GLEUUHIWRTJZ",
+              "Name": "Lucifer.S03E17.Let.Pinhead.Sing.720p.AMZN.WEBRip.DDP5.1.x264-NTb.mkv"
+            }
+          ],
+          "Intro": "When a superstar singer&#8217;s life is threatened, the team is thrust into the world of big-ticket stadium shows, crazed fans and divas, giving Lucifer a run for his money. Meanwhile, Charlotte tries to help Linda and Maze repair their friendship.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-3x17/",
+          "Name": "Lucifer 3x17"
+        },
+        {
+          "Id": "tvdCgE6i1370882",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zUCFRdUtF8cSPvZBcV1lj2DSAyb.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zUCFRdUtF8cSPvZBcV1lj2DSAyb.jpg",
+              "Name": "Lucifer 3&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jB7gYcBMHofozlJ0LMkOqwvjdbB.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jB7gYcBMHofozlJ0LMkOqwvjdbB.jpg",
+              "Name": "Lucifer 3&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7O1ZBaZIrUXdPEwoah5LLQkCll5.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7O1ZBaZIrUXdPEwoah5LLQkCll5.jpg",
+              "Name": "Lucifer 3&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kZ5kOenzPb8mmwxNGmeymzngAY5.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kZ5kOenzPb8mmwxNGmeymzngAY5.jpg",
+              "Name": "Lucifer 3&#215;2"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvdcge6i1370882/",
+              "Size": "863.3 MB",
+              "FileSize": 905218263,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/4ZCGX5J18T62I5V",
+              "Name": "Lucifer - S03E02.720p.HDTV.X264-DIMENSION.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvdcge6i1370882-2/",
+              "Size": "0",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-third-season-2017",
+              "Name": "--"
+            }
+          ],
+          "Intro": "After Lucifer removes his wings yet again, Linda becomes concerned that he is too focused on tracking down the Sinnerman and neglecting his own well-being. Tensions continue to rise between Lucifer and Chloe, but they realize they must put their differences aside to solve a case in which Lucifer takes a sudden interest. Once Detective Pierce&#8217;s past is revealed though, everyone realizes that the Sinnerman is much more dangerous than they thought.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-3x2/",
+          "Name": "Lucifer 3x2"
+        },
+        {
+          "Id": "tvdCgE6i1375777",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rOFqOxxLtumBpwHJBN3wG0X8CKc.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rOFqOxxLtumBpwHJBN3wG0X8CKc.jpg",
+              "Name": "Lucifer 3&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/pJlXBR4Zkopt9bv1hrYZedwYIS1.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/pJlXBR4Zkopt9bv1hrYZedwYIS1.jpg",
+              "Name": "Lucifer 3&#215;3"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvdcge6i1375777/",
+              "Size": "999.8 MB",
+              "FileSize": 1048398658,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/STD6IOP6FC7QSJZ",
+              "Name": "Lucifer - S03E03.720p.HDTV.X264-DIMENSION.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvdcge6i1375777-2/",
+              "Size": "0",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-third-season-2017",
+              "Name": "--"
+            }
+          ],
+          "Intro": "After talking to Lucifer and Linda, Maze realizes that she is looking for more out of life and decides to head to Canada for a tricky case. Chloe however, becomes concerned when she feels that Maze is being deceived by a scheming conman. Upon further investigation, Lucifer and Chloe make a stunning realization when they find that their target may be much closer than they thought.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-3x3/",
+          "Name": "Lucifer 3x3"
+        },
+        {
+          "Id": "tvdCgE6i1375778",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/75ibCXvPllicf80JEXWMvZmseJM.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/75ibCXvPllicf80JEXWMvZmseJM.jpg",
+              "Name": "Lucifer 3&#215;4"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvdcge6i1375778/",
+              "Size": "1.0 GB",
+              "FileSize": 1078842148,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/64SD6HNIAO9XN8V",
+              "Name": "Lucifer - S03E04.720p.HDTV.X264-DIMENSION.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvdcge6i1375778-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/lucifer-third-season-2017",
+              "Name": "--"
+            }
+          ],
+          "Intro": "When a youth counselor is found murdered, Lucifer and Chloe venture into the world of high-end reform programs to find the killer. Meanwhile, Amenadiel adjusts his lifestyle in an attempt to help Lucifer, and Chloe questions Lt. Pierce&#8217;s feelings towards her.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-3x4/",
+          "Name": "Lucifer 3x4"
+        },
+        {
+          "Id": "tv2GNHGD1384456",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zV0XERJbmKbsI68RoURnzfV1btj.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zV0XERJbmKbsI68RoURnzfV1btj.jpg",
+              "Name": "Lucifer 3&#215;5"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv2gnhgd1384456/",
+              "Size": "860.1 MB",
+              "FileSize": 901878665,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/XWJOKIJVJT63PYI",
+              "Name": "Lucifer - S03E05.720p.HDTV.X264-DIMENSION.mkv"
+            }
+          ],
+          "Intro": "When a food chemist is found dead, Lucifer and Chloe&#8217;s investigation pits them against an unexpected face &#8211; criminal defense attorney Charlotte Richards. Everyone is caught off guard when they see her back in the precinct. As Lucifer tries to understand her return, he makes a shocking discovery that helps solve the case.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-3x5/",
+          "Name": "Lucifer 3x5"
+        },
+        {
+          "Id": "tvHeOiJ51387161",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/5HToR937sgQy1qi0GNlO8Igu6sY.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/5HToR937sgQy1qi0GNlO8Igu6sY.jpg",
+              "Name": "Lucifer 3&#215;6"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvheoij51387161/",
+              "Size": "1.5 GB",
+              "FileSize": 1652119758,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/F2P7K132RFLE",
+              "Name": "lucifer.s03e06.1080p.web.x264-tbs.mkv"
+            }
+          ],
+          "Intro": "When Lucifer discovers Candy has gone missing, he hightails it to Las Vegas with Ella in tow. They work to find her, but interesting secrets could compromise the investigation. Meanwhile, Chloe is upset that Lucifer left on her birthday.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-3x6/",
+          "Name": "Lucifer 3x6"
+        },
+        {
+          "Id": "tvm7Pg5N1391126",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nhOIE0oMogNVxeB9RwDwPv8C9CD.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nhOIE0oMogNVxeB9RwDwPv8C9CD.jpg",
+              "Name": "Lucifer 3&#215;7"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvm7pg5n1391126/",
+              "Size": "4.1 GB",
+              "FileSize": 4382960560,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/4ZGZCEREEI2J",
+              "Name": "Lucifer.S03E07.Off.the.Record.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+            }
+          ],
+          "Intro": "A reporter seeks revenge when he discovers Lucifer has been sleeping with his estranged wife; a serial killer from Lucifer&#8217;s past resurfaces.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-3x7/",
+          "Name": "Lucifer 3x7"
+        },
+        {
+          "Id": "tvqT9XS01393929",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/iI374DAQ04zFIcX2xMzClp89i5T.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/iI374DAQ04zFIcX2xMzClp89i5T.jpg",
+              "Name": "Lucifer 3&#215;8"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvqt9xs01393929/",
+              "Size": "1.5 GB",
+              "FileSize": 1645033632,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/KYV74NPDFSD7",
+              "Name": "lucifer.s03e08.1080p.web.x264-tbs.mkv"
+            }
+          ],
+          "Intro": "When a murder is connected to a celebrity dating app, Lucifer and Chloe question all they know about the world of social media in order to solve the case. Meanwhile, Ella tries to avoid Charlotte, and Amenadiel helps Linda deal with the death of her ex-husband.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-3x8/",
+          "Name": "Lucifer 3x8"
+        },
+        {
+          "Id": "tvM4itC71393930",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zdwnu9GR87wc59FxbCFlEDcsVBa.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zdwnu9GR87wc59FxbCFlEDcsVBa.jpg",
+              "Name": "Lucifer 3&#215;9"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvm4itc71393930/",
+              "Size": "1.5 GB",
+              "FileSize": 1643864351,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/FNQFNQI2I3ML",
+              "Name": "lucifer.s03e09.1080p.web.x264-tbs.mkv"
+            }
+          ],
+          "Intro": "Lucifer is worried when he realizes that recipients of his favors start to turn up dead. After he and Chloe investigate, they are finally brought face-to-face with the Sinnerman. Meanwhile, Detective Pierce returns to work after taking a bullet, Charlotte finds a new career and Amenadiel has a new love interest.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/lucifer-3x9/",
+          "Name": "Lucifer 3x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 3 Oct. 02, 201710"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/lucifer/",
+  "Name": "Lucifer"
+}

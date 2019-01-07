@@ -1,0 +1,47 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t2e1YlxEJADQMZ9MGTLY9rqNs03.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t2e1YlxEJADQMZ9MGTLY9rqNs03.jpg",
+      "Name": "How to Keep the Red Lamp Burning"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7nfdvuyOWFz8bUqFc5i2BfozAR6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7nfdvuyOWFz8bUqFc5i2BfozAR6.jpg",
+      "Name": "How to Keep the Red Lamp Burning"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/diRFDtKb8Tnb5L1PveoVcwoQlqf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/diRFDtKb8Tnb5L1PveoVcwoQlqf.jpg",
+      "Name": "How to Keep the Red Lamp Burning"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/c9PHRZXRonGcKWMB9DCGDQBT5bi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/c9PHRZXRonGcKWMB9DCGDQBT5bi.jpg",
+      "Name": "How to Keep the Red Lamp Burning"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hrISs49dnKqp3JeF5Rw7EkqStTv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hrISs49dnKqp3JeF5Rw7EkqStTv.jpg",
+      "Name": "How to Keep the Red Lamp Burning"
+    }
+  ],
+  "Links": [],
+  "Intro": "The film consists of three novels. The film begins with the fact that the Bernard Blier hero removes a lantern from the entrance to a brothel. The second part is about how the lantern and jewelery were stolen from a young baroness. And in the third part the hero of Louis de Funes hangs a lantern at the entrance to his house.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/58TeN5aCh2LbgSQciPQ4Axz6yCv-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/how-to-keep-the-red-lamp-burning/",
+  "Name": "How to Keep the Red Lamp Burning"
+}

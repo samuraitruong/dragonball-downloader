@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aspwvEbx4DbVcTg0ckFPWMJMqVd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aspwvEbx4DbVcTg0ckFPWMJMqVd.jpg ",
+      "Name": "Siberia"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/p720Zk4oromytTk36gJl1FqrUxL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/p720Zk4oromytTk36gJl1FqrUxL.jpg ",
+      "Name": "Siberia"
+    }
+  ],
+  "Links": [],
+  "Intro": "A diamond trader travels to Russia to arrange a sale. When his partner goes missing (along with the gems), the diamond trader winds up disappearing to Siberia. There, he begins a relationship with a local cafe owner, only to have his past soon catch up with him.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/07/eGfIsvdrUhTlQOkxQIELU7obDYj-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/FrXPIZN2ehY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/siberia/",
+  "Name": "Siberia"
+}

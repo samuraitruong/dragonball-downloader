@@ -1,0 +1,649 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x16/",
+      "Name": "Episode 16"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x17/",
+      "Name": "Episode 17"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x18/",
+      "Name": "Episode 18"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x19/",
+      "Name": "Episode 19"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x20/",
+      "Name": "Episode 20"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x21/",
+      "Name": "Episode 21"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x22/",
+      "Name": "Episode 22"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x23/",
+      "Name": "Episode 23"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x24/",
+      "Name": "Episode 24"
+    }
+  ],
+  "Intro": "Haute couture meets the high court in this drama based on Lady Jang Hui Bin, or Jang Ok Jung, one of the most celebrated royal concubines of the Joseon Dynasty. Lady Jang establishes herself as a coveted fashion designer who quickly finds herself sought after not only by fashionable noblewomen, but by the king himself. Political drama and the catwalk collide in this tale of fashioning dreams into reality!",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/e2rqZhVYMxbD8ODZIcA6LY1qIMe-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/CrHBViJEIA0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/mfv4VX4CzytvCCWwOFSqv7kKfbI.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/mfv4VX4CzytvCCWwOFSqv7kKfbI.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": "Jang Ok Jung, a naturally gifted dressmaker, has her garment showcase sabotaged when it is discovered that she is the daughter of a lowly slave.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x1/",
+          "Name": "Jang Ok Jung, Living by Love 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/w2e14G64mqKF8Stiwfvdrtv9Snr.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/w2e14G64mqKF8Stiwfvdrtv9Snr.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ok Jung finds short-lived protection with Prince Dongpyung, and Lee Soon and Inhyeon strike a deal.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x10/",
+          "Name": "Jang Ok Jung, Living by Love 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bbMa0PJ5gxmrflIVIkX7g9N56KH.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bbMa0PJ5gxmrflIVIkX7g9N56KH.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ok Jung finds her way back to Lee Soon and the Palace, but her presence continues to cause trouble with the Queen Mother.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x11/",
+          "Name": "Jang Ok Jung, Living by Love 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bcDq92Oxang8QqUKWgop8WzeKEO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bcDq92Oxang8QqUKWgop8WzeKEO.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ok Jung finds a way to utilize her powerful secrets.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x12/",
+          "Name": "Jang Ok Jung, Living by Love 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/orRjKGtgdZLhyuB995BDotVboDg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/orRjKGtgdZLhyuB995BDotVboDg.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;13"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ok Jung executes a dangerous plan, and a newcomer comes to town.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x13/",
+          "Name": "Jang Ok Jung, Living by Love 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6tEG9HBaZSMaaqVx8hr7CltYfmt.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6tEG9HBaZSMaaqVx8hr7CltYfmt.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;14"
+            }
+          ],
+          "Links": [],
+          "Intro": "After the Queen Mother acts upon one of her devious plots, Ok Jung and Lee Soon make a pact that only strengthens their bond.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x14/",
+          "Name": "Jang Ok Jung, Living by Love 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bgMVCPOcKwkJAKqPLx0PEo4l4xo.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bgMVCPOcKwkJAKqPLx0PEo4l4xo.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;15"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ok Jung must find a way to counteract a deal she was forced to make.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x15/",
+          "Name": "Jang Ok Jung, Living by Love 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/d3cLBLFQxndfpC0Qsj4cdBzFrrW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/d3cLBLFQxndfpC0Qsj4cdBzFrrW.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": "The investigation into who poisoned the King&#8217;s food comes to an end with a surprising confession.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x16/",
+          "Name": "Jang Ok Jung, Living by Love 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/sodgiYM1HlCf7Xv2ltIoxhzSr62.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/sodgiYM1HlCf7Xv2ltIoxhzSr62.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;17"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ok Jung and the Queen&#8217;s relationship becomes even more contentious as Ok Jung prepares to give birth. The King receives news that shakes up the government.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x17/",
+          "Name": "Jang Ok Jung, Living by Love 1x17"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1NpThzZXYleDpua2g8hRltkqX4J.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1NpThzZXYleDpua2g8hRltkqX4J.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;18"
+            }
+          ],
+          "Links": [],
+          "Intro": "With the King unconscious, the Western Party plots how to gain complete control and throw Ok Jung out of the Palace.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x18/",
+          "Name": "Jang Ok Jung, Living by Love 1x18"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/pelLjFXs8J3AUAqQdxVtJtg3B8l.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/pelLjFXs8J3AUAqQdxVtJtg3B8l.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;19"
+            }
+          ],
+          "Links": [],
+          "Intro": "The King continues to push for Queen Inhyeon to be dethroned and for Ok Jung to take the throne.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x19/",
+          "Name": "Jang Ok Jung, Living by Love 1x19"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qaWs9pT35gAcFOMSDwE2PKKsetn.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qaWs9pT35gAcFOMSDwE2PKKsetn.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": "As adolescents, Jang Ok Jung and Lee Soon become involved in a first love romance during a pivotal time for both their destinies.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x2/",
+          "Name": "Jang Ok Jung, Living by Love 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/trASdxHDUgV6M8Qm0h6hYMA1uKh.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/trASdxHDUgV6M8Qm0h6hYMA1uKh.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;20"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ok Jung&#8217;s new title as Queen proves to be difficult for her to manage as she tries to forget the dethroned Queen&#8217;s ominous warning.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x20/",
+          "Name": "Jang Ok Jung, Living by Love 1x20"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/cO9BqdwYLlaEO9maUMxOgwE9ckS.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/cO9BqdwYLlaEO9maUMxOgwE9ckS.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;21"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ok Jung must deal with the many schemes to remove her from the throne, while at the same time mending her rocky relationship with the King.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x21/",
+          "Name": "Jang Ok Jung, Living by Love 1x21"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8mk1sVAiDyIIXocF0E1ici7dIS2.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8mk1sVAiDyIIXocF0E1ici7dIS2.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;22"
+            }
+          ],
+          "Links": [],
+          "Intro": "An attempted murder through poisoning is used as leverage to dethrone Ok Jung and restore In Hyeon as Queen.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x22/",
+          "Name": "Jang Ok Jung, Living by Love 1x22"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/KidKTHBPab1E1A012ngW9W3DpA.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/KidKTHBPab1E1A012ngW9W3DpA.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;23"
+            }
+          ],
+          "Links": [],
+          "Intro": "A series of misfortunes falls upon the palace as both newly restored Queen Inhyeon and Crowned Prince Yoon become critically ill.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x23/",
+          "Name": "Jang Ok Jung, Living by Love 1x23"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6cuDZjIJ94pSeqLacCsdyRVOFi6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6cuDZjIJ94pSeqLacCsdyRVOFi6.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;24"
+            }
+          ],
+          "Links": [],
+          "Intro": "Jang Ok Jung is wrongly framed for committing crimes punishable by death, forcing the King to order her execution. But because of his love for her, he is deteremined to find a way to save her.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x24/",
+          "Name": "Jang Ok Jung, Living by Love 1x24"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2VuPTAX7C1v2xZXz6vvA0lFyynk.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2VuPTAX7C1v2xZXz6vvA0lFyynk.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": "The preliminary round to select the Crowned Princess has begun and Jang Ok Jung finds herself involved in a most unexpected way.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x3/",
+          "Name": "Jang Ok Jung, Living by Love 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8jobwvmBGF4hlDplgQeAmQzuF0m.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8jobwvmBGF4hlDplgQeAmQzuF0m.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": "Jang Ok Jung joins Lee Soon and his soldiers where she observes their training to create new and improved armor.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x4/",
+          "Name": "Jang Ok Jung, Living by Love 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ugXZaTfNk3WkWLahi4ID4ODmW1k.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ugXZaTfNk3WkWLahi4ID4ODmW1k.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": "A plot to kill the King unfolds, and The Queen Dowager conducts a search for a court maid to mold a great destiny for.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x5/",
+          "Name": "Jang Ok Jung, Living by Love 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4AZex77pY2UeiGocfGHP0QKrl6k.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4AZex77pY2UeiGocfGHP0QKrl6k.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ok Jang begins life as a court maid, and the King attends the Prime Minister&#8217;s birthday party.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x6/",
+          "Name": "Jang Ok Jung, Living by Love 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/pvOFefrRdu9XFnVPhwr6DsKT9VS.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/pvOFefrRdu9XFnVPhwr6DsKT9VS.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ok Jung discovers Lee Soon&#8217;s true identity, and the Queen falls gravely ill.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x7/",
+          "Name": "Jang Ok Jung, Living by Love 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/y0yNaAcmPIBfVBdCgopNZA6YdBR.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/y0yNaAcmPIBfVBdCgopNZA6YdBR.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": "With Queen Inkyung&#8217;s passing, the Queen Mother puts a plan in motion to ensure Inhyeon becomes the next Queen.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x8/",
+          "Name": "Jang Ok Jung, Living by Love 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/iuZWyLLGrLDphDKUECeLi5MDUd4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/iuZWyLLGrLDphDKUECeLi5MDUd4.jpg",
+              "Name": "Jang Ok Jung, Living by Love 1&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": "The Dowager Queen and Queen Mother clash over the selection of the next queen, and Lee Soon&#8217;s uncontrollable displays of affection toward Ok Jung causes a bad situation to get much worse.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/jang-ok-jung-living-by-love-1x9/",
+          "Name": "Jang Ok Jung, Living by Love 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Apr. 08, 2013"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/jang-ok-jung-living-by-love/",
+  "Name": "Jang Ok Jung, Living by Love"
+}

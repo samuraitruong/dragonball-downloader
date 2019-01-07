@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dXpwPlJF0yKGdVIVwJXCY59ak8Q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dXpwPlJF0yKGdVIVwJXCY59ak8Q.jpg",
+      "Name": "Harry Potter and the Philosopher&#8217;s Stone"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fUjPnCmmBVHLNdgz2sqb1zp39Pr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fUjPnCmmBVHLNdgz2sqb1zp39Pr.jpg",
+      "Name": "Harry Potter and the Philosopher&#8217;s Stone"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gZkNOS6E58wqR95WYzHaVvQnlVR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gZkNOS6E58wqR95WYzHaVvQnlVR.jpg",
+      "Name": "Harry Potter and the Philosopher&#8217;s Stone"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uD93T339xX1k3fnDUaeopZBiajY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uD93T339xX1k3fnDUaeopZBiajY.jpg",
+      "Name": "Harry Potter and the Philosopher&#8217;s Stone"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5FsHGkFAS1MAd1kBMhxh8iGTw4t.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5FsHGkFAS1MAd1kBMhxh8iGTw4t.jpg",
+      "Name": "Harry Potter and the Philosopher&#8217;s Stone"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vYZvThuxWBmjXOyRK5IoY9kOSq9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vYZvThuxWBmjXOyRK5IoY9kOSq9.jpg",
+      "Name": "Harry Potter and the Philosopher&#8217;s Stone"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2wDSkrTZ5Oh3JEybSE3EiCDZMgw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2wDSkrTZ5Oh3JEybSE3EiCDZMgw.jpg",
+      "Name": "Harry Potter and the Philosopher&#8217;s Stone"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pnPqiUA7m5QI9xyWvUTj29RnWVZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pnPqiUA7m5QI9xyWvUTj29RnWVZ.jpg",
+      "Name": "Harry Potter and the Philosopher&#8217;s Stone"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eZKm5h5f2kuBvN8EH1NXouOQ5qB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eZKm5h5f2kuBvN8EH1NXouOQ5qB.jpg",
+      "Name": "Harry Potter and the Philosopher&#8217;s Stone"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sVYxEauMCLBD6UdVKmTEfxG5g9T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sVYxEauMCLBD6UdVKmTEfxG5g9T.jpg",
+      "Name": "Harry Potter and the Philosopher&#8217;s Stone"
+    }
+  ],
+  "Links": [],
+  "Intro": "Harry Potter has lived under the stairs at his aunt and uncle&#8217;s house his whole life. But on his 11th birthday, he learns he&#8217;s a powerful wizard &#8212; with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school&#8217;s kindly headmaster, Harry uncovers the truth about his parents&#8217; deaths &#8212; and about the villain who&#8217;s to blame.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/dCtFvscYcXQKTNvyyaQr2g2UacJ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/PbdM1db3JbY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/harry-potter-and-the-philosophers-stone/",
+  "Name": "Harry Potter and the Philosopher's Stone"
+}

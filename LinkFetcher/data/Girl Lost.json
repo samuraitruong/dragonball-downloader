@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/j3FnUedjz0NHYFfZ62u9WsBU0wy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/j3FnUedjz0NHYFfZ62u9WsBU0wy.jpg",
+      "Name": "Girl Lost"
+    }
+  ],
+  "Links": [],
+  "Intro": "Girl Lost tackles the issue of underage prostitution as told through the eyes of a wayward teen. Groomed by her own mother to work in the underbelly of Los Angeles, the young girl struggles to survive in this dark world.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/gODHgS79rvVFb8UUg5qQjgAdBzy-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/9zd2VC11tt4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/girl-lost/",
+  "Name": "Girl Lost"
+}

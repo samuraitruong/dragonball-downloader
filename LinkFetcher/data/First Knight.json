@@ -1,0 +1,50 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wKOoD7RvfJOIW13tQWYV7cMzzn0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wKOoD7RvfJOIW13tQWYV7cMzzn0.jpg ",
+      "Name": "First Knight - First Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/q6wlJgyRa3O68zV9y4b7ipUmkEG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/q6wlJgyRa3O68zV9y4b7ipUmkEG.jpg ",
+      "Name": "First Knight - First Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bOoiUXsw0WvuRPHimMC3PAlXevn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bOoiUXsw0WvuRPHimMC3PAlXevn.jpg ",
+      "Name": "First Knight - First Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vPLaj7vOf7bAlyVZ4FYDZGW0CtF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vPLaj7vOf7bAlyVZ4FYDZGW0CtF.jpg ",
+      "Name": "First Knight - First Knight"
+    }
+  ],
+  "Links": [],
+  "Intro": "Công nương Guinevere (Julia Ormond) không những là một thiếu nữ có sắc đẹp tuyệt trần mà còn nổi tiếng thông minh đức độ, được thần dân hết lòng yêu quý. Tuy vậy Leonesse là một vương quốc nhỏ bé nên kẻ thù bên ngoài luôn rắp tâm xâm chiếm. Một trong số đó là Malagant (Ben Cross) &#8211; một kẻ nổi tiếng tàn bạo đã nhiều lần đem quân vượt biên giới Leonesse để phá phách cướp bóc dân xứ Leonesse.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/8SRi8laZyPBdigx9qn7m3mriiRQ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/zO1_r6slUlk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/first-knight/",
+  "Name": "First Knight"
+}

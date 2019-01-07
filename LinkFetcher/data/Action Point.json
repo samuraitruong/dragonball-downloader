@@ -1,0 +1,45 @@
+{
+  "Id": "movZTsFW9454283",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gdkDkgS9DUcH46Gl87j6wIE5zfN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gdkDkgS9DUcH46Gl87j6wIE5zfN.jpg",
+      "Name": "Action Point"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xP0KA1XgnxrfcFtWCOypiRlFUds.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xP0KA1XgnxrfcFtWCOypiRlFUds.jpg",
+      "Name": "Action Point"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movztsfw9454283-2/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/action-point",
+      "Name": "Subtitle"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movztsfw9454283/",
+      "Size": "6.55 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/D2YCJD2SMG65",
+      "Name": "1080p"
+    }
+  ],
+  "Intro": "A daredevil designs and operates his own theme park with his friends.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/08/5lqJx0uNKrD1cEKgaqF1LBsLAoi-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ri1Cc3Yz09U?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/action-point/",
+  "Name": "Action Point"
+}

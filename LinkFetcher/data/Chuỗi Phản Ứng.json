@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vMvhEC7nBtsjFfNZfnw1odoQPUK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vMvhEC7nBtsjFfNZfnw1odoQPUK.jpg ",
+      "Name": "Chuỗi Phản Ứng - Chain Reaction"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/RpVE8C5oExULO2vCJky6WwGCwM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/RpVE8C5oExULO2vCJky6WwGCwM.jpg ",
+      "Name": "Chuỗi Phản Ứng - Chain Reaction"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9MwRRFoBPKyPuCEBkHLMnYrulgA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9MwRRFoBPKyPuCEBkHLMnYrulgA.jpg ",
+      "Name": "Chuỗi Phản Ứng - Chain Reaction"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lGI8MNMBXoIZYKrm0hTrwqaNiAW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lGI8MNMBXoIZYKrm0hTrwqaNiAW.jpg ",
+      "Name": "Chuỗi Phản Ứng - Chain Reaction"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dwpLqIzd4mKNneoH1lQ8HhJHcHi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dwpLqIzd4mKNneoH1lQ8HhJHcHi.jpg ",
+      "Name": "Chuỗi Phản Ứng - Chain Reaction"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vTO5wUHlt0vDdtxKM8ZltjqKDjR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vTO5wUHlt0vDdtxKM8ZltjqKDjR.jpg ",
+      "Name": "Chuỗi Phản Ứng - Chain Reaction"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a0cWP94lZueZNaJvSERTREr5UuY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a0cWP94lZueZNaJvSERTREr5UuY.jpg ",
+      "Name": "Chuỗi Phản Ứng - Chain Reaction"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/63BbKTNRlkGxjQvLSiuE6g9uw6p.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/63BbKTNRlkGxjQvLSiuE6g9uw6p.jpg ",
+      "Name": "Chuỗi Phản Ứng - Chain Reaction"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jHsvTNl6FyczvVfOh7q6tJDbNwC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jHsvTNl6FyczvVfOh7q6tJDbNwC.jpg ",
+      "Name": "Chuỗi Phản Ứng - Chain Reaction"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oih1EdMqweldt6p5jjAPNJRhpit.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oih1EdMqweldt6p5jjAPNJRhpit.jpg ",
+      "Name": "Chuỗi Phản Ứng - Chain Reaction"
+    }
+  ],
+  "Links": [],
+  "Intro": "Eddie Kasalivich, sinh viên năm cuối của trường đại học đang làm thêm tại một cơ quan nghiên cứu khoa học. Anh đã sáng chế ra một loại nhiên liệu mới với giá thành thấp. Khi người đứng đầu của nhóm nghiên cứu bị sát hại và phát minh bị đánh cắp, Paul Shannon, giám đốc của một công ty khoa học vô tình đã thu món lời lớn từ phát minh của chính học trò mình. Eddie và nhà vật lý Lily Sinclair đã cùng bên nhau để nhằm đòi lại sáng chế, với hi vọng sẽ đưa mọi chuyện ra ánh sáng.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/t6anpB9iny456N7sVLd3S0QARGv-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/XmqvTVuOzgA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/chain-reaction/",
+  "Name": "Chuỗi Phản Ứng"
+}

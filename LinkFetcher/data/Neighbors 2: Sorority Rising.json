@@ -1,0 +1,53 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8HuO1RMDI3prfWDkF7t1y8EhLVO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8HuO1RMDI3prfWDkF7t1y8EhLVO.jpg",
+      "Name": "Neighbors 2: Sorority Rising"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wp37tny3MDJBYo1LAiPzyFFKdYV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wp37tny3MDJBYo1LAiPzyFFKdYV.jpg",
+      "Name": "Neighbors 2: Sorority Rising"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iIC8taoblENtLMEK0b2ZHwgh7yN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iIC8taoblENtLMEK0b2ZHwgh7yN.jpg",
+      "Name": "Neighbors 2: Sorority Rising"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/maprEqyMB4P3LfIMpxsqTn4H6KY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/maprEqyMB4P3LfIMpxsqTn4H6KY.jpg",
+      "Name": "Neighbors 2: Sorority Rising"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7NBwSRrPVvAeuTVvv3MDsdUGAY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7NBwSRrPVvAeuTVvv3MDsdUGAY.jpg",
+      "Name": "Neighbors 2: Sorority Rising"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dggNpfoL1n1g3ELtREwl0FOTj0o.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dggNpfoL1n1g3ELtREwl0FOTj0o.jpg",
+      "Name": "Neighbors 2: Sorority Rising"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/arn6ow4K0JSUBwOZaNdPUCVDANg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/arn6ow4K0JSUBwOZaNdPUCVDANg.jpg",
+      "Name": "Neighbors 2: Sorority Rising"
+    }
+  ],
+  "Links": [],
+  "Intro": "A sorority moves in next door to the home of Mac and Kelly Radner who have a young child. The Radner&#8217;s enlist their former nemeses from the fraternity to help battle the raucous sisters.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/bWUeJHbKIyT306WtJFRHoSzX9nk-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/X2i9Zz_AqTg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/neighbors-2-sorority-rising/",
+  "Name": "Neighbors 2: Sorority Rising"
+}

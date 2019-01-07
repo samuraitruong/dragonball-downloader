@@ -1,0 +1,84 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/mien-tay/",
+      "Name": "Miền Tây"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2n7Zn6WxJ76ccOwnuQHuhSFMbqt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2n7Zn6WxJ76ccOwnuQHuhSFMbqt.jpg",
+      "Name": "Tòa tháp bóng đêm - The Dark Tower"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pVVobDO8cezhVPvwD6EBUN0g3mt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pVVobDO8cezhVPvwD6EBUN0g3mt.jpg",
+      "Name": "Tòa tháp bóng đêm - The Dark Tower"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3AFJLBHijyzfDDNakUrShp0LKB9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3AFJLBHijyzfDDNakUrShp0LKB9.jpg",
+      "Name": "Tòa tháp bóng đêm - The Dark Tower"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1yD3Z2OaUHAQqgFqGE0uSjY2PvJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1yD3Z2OaUHAQqgFqGE0uSjY2PvJ.jpg",
+      "Name": "Tòa tháp bóng đêm - The Dark Tower"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wgYX3BXUpiCFHHlJHQdHLCOjSZX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wgYX3BXUpiCFHHlJHQdHLCOjSZX.jpg",
+      "Name": "Tòa tháp bóng đêm - The Dark Tower"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3ozx8dQIeQniuvFLIMOFh8yCXv2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3ozx8dQIeQniuvFLIMOFh8yCXv2.jpg",
+      "Name": "Tòa tháp bóng đêm - The Dark Tower"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yFp3bQGZzpyJahxEh0SFQYjypIS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yFp3bQGZzpyJahxEh0SFQYjypIS.jpg",
+      "Name": "Tòa tháp bóng đêm - The Dark Tower"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uojSaJOia3a0Y1CQxL18if3notO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uojSaJOia3a0Y1CQxL18if3notO.jpg",
+      "Name": "Tòa tháp bóng đêm - The Dark Tower"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/r5vW0EqFdLavxVVulCNB0QZ8qgX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/r5vW0EqFdLavxVVulCNB0QZ8qgX.jpg",
+      "Name": "Tòa tháp bóng đêm - The Dark Tower"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wWei8fTVC3pJMtOAjzqnO1a0Rxz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wWei8fTVC3pJMtOAjzqnO1a0Rxz.jpg",
+      "Name": "Tòa tháp bóng đêm - The Dark Tower"
+    }
+  ],
+  "Links": [],
+  "Intro": "The Dark Tower là bộ phim hành động gay cấn về cuộc chiến của người và quỷ.“Xạ thủ” Roland Deschain và “Người mặc áo đen” Walter Padick đến từ một thế giới song song mang tên Mid-World, nơi các thế hệ chiến binh mang danh hiệu Gunslinger (Xạ thủ) làm nhiệm vụ bảo vệ tòa tháp cân bằng ánh sáng &#8211; bóng tối The Dark Tower khỏi những thế lực tà ác. Trong khi đó, “Người mặc áo đen” lại là cánh tay phải đắc lực của chúa quỷ Crimson King, kẻ mang trong mình dã tâm nhấn chìm các thế giới vào bóng tối vĩnh hằng.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/i9GUSgddIqrroubiLsvvMRYyRy0-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/GjwfqXTebIY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-dark-tower/",
+  "Name": "Tòa tháp bóng đêm"
+}

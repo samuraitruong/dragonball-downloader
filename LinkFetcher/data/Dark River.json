@@ -1,0 +1,51 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pfEdmzLr6OtBPnBPoSW09O3xsER.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pfEdmzLr6OtBPnBPoSW09O3xsER.jpg",
+      "Name": "Dark River"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bqGeunlPqWwXlX71pzmCxI5vuka.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bqGeunlPqWwXlX71pzmCxI5vuka.jpg",
+      "Name": "Dark River"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wp5cdvfcJnYosY6j8qwDT2cHMK1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wp5cdvfcJnYosY6j8qwDT2cHMK1.jpg",
+      "Name": "Dark River"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uqsTdhRvwiKwJVXopU1Ax60W8zd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uqsTdhRvwiKwJVXopU1Ax60W8zd.jpg",
+      "Name": "Dark River"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/73eWrlIDEmpez8soXc5UBSZMiMu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/73eWrlIDEmpez8soXc5UBSZMiMu.jpg",
+      "Name": "Dark River"
+    }
+  ],
+  "Links": [],
+  "Intro": "After her father dies, a young woman returns to her Yorkshire village for the first time in 15 years to claim the family farm she believes is hers.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/06/hgzMPafOXa4wCGMvHGNpJLbr7Xv-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/6-9rTDmTeDI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/dark-river/",
+  "Name": "Dark River"
+}

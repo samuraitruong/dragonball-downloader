@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7mYGrnsqbP0FVCmbEEWHK3zNVrr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7mYGrnsqbP0FVCmbEEWHK3zNVrr.jpg ",
+      "Name": "Tháp Lửa - The Tower"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uBguYpktRcvjrLMfcrCTIWVeqtJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uBguYpktRcvjrLMfcrCTIWVeqtJ.jpg ",
+      "Name": "Tháp Lửa - The Tower"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fKiLN4zMWoysuLtzuZWN7srOfau.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fKiLN4zMWoysuLtzuZWN7srOfau.jpg ",
+      "Name": "Tháp Lửa - The Tower"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kl37rCK6UlyWqi2FRDpbidYgQAR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kl37rCK6UlyWqi2FRDpbidYgQAR.jpg ",
+      "Name": "Tháp Lửa - The Tower"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ceVof3arOnXNP7XPPznRQSbANxg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ceVof3arOnXNP7XPPznRQSbANxg.jpg ",
+      "Name": "Tháp Lửa - The Tower"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/67HQBaVdHBevu0wt4pA28oaN45I.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/67HQBaVdHBevu0wt4pA28oaN45I.jpg ",
+      "Name": "Tháp Lửa - The Tower"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2ZAEfQWWD1O6dzdZWP2BAtoz721.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2ZAEfQWWD1O6dzdZWP2BAtoz721.jpg ",
+      "Name": "Tháp Lửa - The Tower"
+    }
+  ],
+  "Links": [],
+  "Intro": "Trong đêm giáng sinh vui vẻ, mọi người tụ họp làm lễ đón noel trong tòa tháp tháp đôi cao 108 tầng tại trung tâm Seoul. Trong lúc mọi người đang nhộn nhịp thì thảm họa đã xảy ra, tòa nhà bổng nhiên bị cháy và trở thành một tháp lửa khổng lồ, hàng ngàn người bị mắc trong đó với sự hoảng loạn và nỗi sợ hãi. Đêm Giáng sinh trở thành đêm của địa ngục. The Tower là bộ phim sâu sắc về tình cảm gia đình, tình yêu, sự dũng cảm&#8230; của những người dân thuộc mọi tầng lớp. The Tower cũng được nhận xét là không hề thua kém bom tấn Mỹ với những hiệu ứng máy tính đầy ấn tượng, nhất là đồ họa 3D kèm theo những cảnh quay thực tế.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/08/c968ZIK5O2mECYwP6waZkQYMIft-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/rKwuzez_CuA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-tower/",
+  "Name": "Tháp Lửa"
+}

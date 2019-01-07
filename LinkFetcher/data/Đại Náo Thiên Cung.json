@@ -1,0 +1,61 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nKpPN3QGFJkZJSKwE5z2tafclhT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nKpPN3QGFJkZJSKwE5z2tafclhT.jpg",
+      "Name": "Đại Náo Thiên Cung - The Monkey King"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ctXbqCHxdXiuf0hfVQLjoGhO3RN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ctXbqCHxdXiuf0hfVQLjoGhO3RN.jpg",
+      "Name": "Đại Náo Thiên Cung - The Monkey King"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2HdPUDnllaGoKtPA3YKz7gYIdW9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2HdPUDnllaGoKtPA3YKz7gYIdW9.jpg",
+      "Name": "Đại Náo Thiên Cung - The Monkey King"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kAHycfOohBc1prWpW0aecUVjOTc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kAHycfOohBc1prWpW0aecUVjOTc.jpg",
+      "Name": "Đại Náo Thiên Cung - The Monkey King"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jAYQXOXRgujwTqgCRq7y4uZf3BH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jAYQXOXRgujwTqgCRq7y4uZf3BH.jpg",
+      "Name": "Đại Náo Thiên Cung - The Monkey King"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/j11alYejvcQhHuOVa2ZUiToyJt5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/j11alYejvcQhHuOVa2ZUiToyJt5.jpg",
+      "Name": "Đại Náo Thiên Cung - The Monkey King"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mtX966sUt9AfgwIPmsjaFuC3bQj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mtX966sUt9AfgwIPmsjaFuC3bQj.jpg",
+      "Name": "Đại Náo Thiên Cung - The Monkey King"
+    }
+  ],
+  "Links": [],
+  "Intro": "Đại Náo Thiên Cung là câu chuyện về cuộc đời của Tôn Ngộ Không trước chuyến tháp tùng Đường Tăng đi Ấn Độ thỉnh kinh. Ngưu Ma Vương vì muốn đưa người vợ yêu là Thiết phiến công chúa và con trai là Hồng hài nhi lên thiên đàng nên đã xúi giục Tôn Ngộ Không tấn công triều đình. Do phạm tội đại náo thiên cung nên Tôn Ngộ Không bị Phật Tổ Như Lai phạt nhốt dưới Ngũ Hành Sơn 500 năm cho đến khi được Tam Tạng giải thoát và theo ông đi thỉnh kinh.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/nHMuPTRH2PLgeaedfJ1f9OROAv8-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/zCj-XP5cjOY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-monkey-king/",
+  "Name": "Đại Náo Thiên Cung"
+}

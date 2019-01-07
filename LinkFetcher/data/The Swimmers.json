@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uvly21s0jbnVquumAbfhQSRSitZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uvly21s0jbnVquumAbfhQSRSitZ.jpg",
+      "Name": "The Swimmers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gKhk5d2uaL9vcqrnyL8oHCajbpw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gKhk5d2uaL9vcqrnyL8oHCajbpw.jpg",
+      "Name": "The Swimmers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/coSKP0cMqmDYzlNG5kJUqbYbC3b.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/coSKP0cMqmDYzlNG5kJUqbYbC3b.jpg",
+      "Name": "The Swimmers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mbe8dW9gxVxfv7UvaCYdHRRMNqZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mbe8dW9gxVxfv7UvaCYdHRRMNqZ.jpg",
+      "Name": "The Swimmers"
+    }
+  ],
+  "Links": [],
+  "Intro": "After falling pregnant to Perth, her boyfriend&#8217;s best friend, Ice commits suicide. She returns to haunt Perth while Tan seeks out the person who made her kill herself for his own revenge.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/s3Djyqf9lKYixSZAOnJjY5eXrq5-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/fS0vGsNY99E?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-swimmers/",
+  "Name": "The Swimmers"
+}

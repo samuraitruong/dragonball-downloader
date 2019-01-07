@@ -1,35 +1,94 @@
 {
   "Id": "moveviNqu56590",
-  "Url": "https://fsharephim.com/movies/all-star-superman/",
-  "Name": "Siêu Nhân Trờ Lại",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/FTpFec420ztDa6HSpwLxGuwzis.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/FTpFec420ztDa6HSpwLxGuwzis.jpg",
+      "Name": "Siêu Nhân Trờ Lại - All Star Superman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5LUOO1NLTY4B03mtqfdXn2xhG6l.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5LUOO1NLTY4B03mtqfdXn2xhG6l.jpg",
+      "Name": "Siêu Nhân Trờ Lại - All Star Superman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/isdLUy0A5tusUdTqdbOUrNgQ11G.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/isdLUy0A5tusUdTqdbOUrNgQ11G.jpg",
+      "Name": "Siêu Nhân Trờ Lại - All Star Superman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zXWW7M8aqUz11sfNX2C0gI4zb2m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zXWW7M8aqUz11sfNX2C0gI4zb2m.jpg",
+      "Name": "Siêu Nhân Trờ Lại - All Star Superman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qOk4DXiCGQMUJsRe6CRJuL6BBHR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qOk4DXiCGQMUJsRe6CRJuL6BBHR.jpg",
+      "Name": "Siêu Nhân Trờ Lại - All Star Superman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5lMQovHYVRcwvMnoPbfa5lJAeEB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5lMQovHYVRcwvMnoPbfa5lJAeEB.jpg",
+      "Name": "Siêu Nhân Trờ Lại - All Star Superman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mXsRXopjrc716JrKdb14BoL7T9Z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mXsRXopjrc716JrKdb14BoL7T9Z.jpg",
+      "Name": "Siêu Nhân Trờ Lại - All Star Superman"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movevinqu56590-4/",
-      "Name": "1080p",
-      "Url": "https://www.fshare.vn/file/9YTUL6TAN5IU",
       "Size": "4.21 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/9YTUL6TAN5IU",
+      "Name": "1080p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movevinqu56590/",
-      "Name": "All.Star.Superman.2011.m720p.BluRay.AC3.x264-EliteCoder(1).mkv",
-      "Url": "https://www.fshare.vn/file/X4HS9ODH3Q41LLX",
       "Size": "1.9 GB",
-      "FileSize": 2092390752
+      "FileSize": 2092390752,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/X4HS9ODH3Q41LLX",
+      "Name": "All.Star.Superman.2011.m720p.BluRay.AC3.x264-EliteCoder(1).mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movevinqu56590-2/",
-      "Name": "All.Star.Superman.2011.720p.Bluray.DTS.x264-DON_I-Max.VN.mkv",
-      "Url": "https://www.fshare.vn/file/4OTSBSUJYU5WT4R",
       "Size": "3.6 GB",
-      "FileSize": 3815908302
+      "FileSize": 3815908302,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/4OTSBSUJYU5WT4R",
+      "Name": "All.Star.Superman.2011.720p.Bluray.DTS.x264-DON_I-Max.VN.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movevinqu56590-3/",
-      "Name": "Viet - Subtitle",
-      "Url": "http://www.fshare.vn/file/VXRQ59IK17NB",
       "Size": "81.0 KB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/VXRQ59IK17NB",
+      "Name": "Viet - Subtitle"
     }
-  ]
+  ],
+  "Intro": "Phim hoạt hình All Star Superman dựa trên bộ Comic cùng tên của DC comics do Grant Morrison viết, Frank Quitely vẽ. Nội dung chính là khi Lex Luthor lợi dụng 1 khả năng của Superman làm cho các tế bào của Superman hấp thụ một lượng rất lớn bức xạ mặt trời. Và Superman đang chết dần, chỉ còn 1 năm để sống. Anh giấu mọi người chuyện đó và cố gắng làm những điều mình cần làm trước khi chết&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/yVPzeI4OsJtJ5g17NM3ZBYdEVRW-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/u6PZUsD9Ygk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/all-star-superman/",
+  "Name": "Siêu Nhân Trờ Lại"
 }

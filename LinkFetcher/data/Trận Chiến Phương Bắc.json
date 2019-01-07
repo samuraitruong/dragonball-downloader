@@ -1,0 +1,46 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tFZIZhuJrYjmLXerzbh2bBdsygB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tFZIZhuJrYjmLXerzbh2bBdsygB.jpg",
+      "Name": "Trận Chiến Phương Bắc - The Northlander"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wYoxQfCh8P7sk7ox4N9wNyq4FoS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wYoxQfCh8P7sk7ox4N9wNyq4FoS.jpg",
+      "Name": "Trận Chiến Phương Bắc - The Northlander"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l0Ma4cfFwCqEGEMDqBPNRnUfG71.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l0Ma4cfFwCqEGEMDqBPNRnUfG71.jpg",
+      "Name": "Trận Chiến Phương Bắc - The Northlander"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/Uj8kB5siJJRX9gY7nx1ufBMYQY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/Uj8kB5siJJRX9gY7nx1ufBMYQY.jpg",
+      "Name": "Trận Chiến Phương Bắc - The Northlander"
+    }
+  ],
+  "Links": [],
+  "Intro": "Năm 2961, khi loài người và tự nhiên hồi phục. Một thợ săn tên Cygnus có nhiệm vụ cung cấp cho Last Arc &#8211; một nhóm du cư gồm những người còn sống sót &#8211; nguồn thức ăn và nước uống ngày càng khan hiếm. Câu trả lời cần được tìm ra trước khi một nhóm dị giáo tấn công họ. Trên hành trình đi tìm hạt mầm hy vọng đầy cạm bẫy và nguy hiểm, Cynus nhận ra điều anh luôn săn tìm là thân phận của anh.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/06/2wfdhpd8wtcGKtsmyTm7aZdcVjl-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/yUB9Rf1uHS0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-northlander/",
+  "Name": "Trận Chiến Phương Bắc"
+}

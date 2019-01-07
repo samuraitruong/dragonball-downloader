@@ -1,28 +1,52 @@
 {
   "Id": "movMZC4HE255718",
-  "Url": "https://fsharephim.com/movies/barbie-the-pearl-princess/",
-  "Name": "Barbie: The Pearl Princess",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nNNh84CLDFDejq2YkKelo83HrUk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nNNh84CLDFDejq2YkKelo83HrUk.jpg",
+      "Name": "Barbie: The Pearl Princess"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movmzc4he255718/",
-      "Name": "Barbie.The.Pearl.Princess.2014.VIE.720p.Blu-ray.DD5.1.x264-PublicHD.mkv",
-      "Url": "https://www.fshare.vn/file/2UT9LWHFGPW6UJU",
       "Size": "3.3 GB",
-      "FileSize": 3586651864
+      "FileSize": 3586651864,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/2UT9LWHFGPW6UJU",
+      "Name": "Barbie.The.Pearl.Princess.2014.VIE.720p.Blu-ray.DD5.1.x264-PublicHD.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movmzc4he255718-2/",
-      "Name": "Barbie The Pearl Princess 2014 VIE 1080p Blu-ray Remux AVC DTS-HD MA 5.1-Chivas.iso",
-      "Url": "https://www.fshare.vn/file/9M3B1XBJE6CXEW5",
       "Size": "19.4 GB",
-      "FileSize": 20825309184
+      "FileSize": 20825309184,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/9M3B1XBJE6CXEW5",
+      "Name": "Barbie The Pearl Princess 2014 VIE 1080p Blu-ray Remux AVC DTS-HD MA 5.1-Chivas.iso"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movmzc4he255718-3/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/barbie-the-pearl-princess/vietnamese/",
       "Size": "0",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/barbie-the-pearl-princess/vietnamese/",
+      "Name": "Viet - Subtitle"
     }
-  ]
+  ],
+  "Intro": "Barbie plays Lumina, a mermaid girl with the power to change the color of pearls. Cheerful and creative, Lumina finds herself working in a mermaid salon customizing fabulous hairstyles. And when Lumina has the chance to attend the royal ball, her friends adorn her with a gown fit for a princess. At the ball, villains try to seize power over the kingdom, and Lumina finds within herself an unexpected power that proves she is much more than a hair stylist.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/47e8w90G5JIDd5iK6Hcyg49ciw3-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/jv8FtZLDKuY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/barbie-the-pearl-princess/",
+  "Name": "Barbie: The Pearl Princess"
 }

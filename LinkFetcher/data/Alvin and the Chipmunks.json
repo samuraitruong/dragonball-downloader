@@ -1,14 +1,69 @@
 {
-  "Id": "movbNAQy16477",
-  "Url": "https://fsharephim.com/movies/alvin-and-the-chipmunks/",
-  "Name": "Alvin and the Chipmunks",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movbnaqy16477/",
-      "Name": "720p",
-      "Url": "https://www.fshare.vn/folder/TAQDPJLPXW",
-      "Size": "Folder",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9gm6655C6a3M6hJt0MQ180gmd8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9gm6655C6a3M6hJt0MQ180gmd8.jpg",
+      "Name": "Alvin and the Chipmunks"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ljjr1LTE6Xsg8bQxcymXhcaQyLw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ljjr1LTE6Xsg8bQxcymXhcaQyLw.jpg",
+      "Name": "Alvin and the Chipmunks"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pmbWMrIhaxugUv14u819LxFk7jb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pmbWMrIhaxugUv14u819LxFk7jb.jpg",
+      "Name": "Alvin and the Chipmunks"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b1ksEs4Zw7vF1slypxeIeVRqWTA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b1ksEs4Zw7vF1slypxeIeVRqWTA.jpg",
+      "Name": "Alvin and the Chipmunks"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dCtZgziW1S5EJyEpzCxZJrXFVfA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dCtZgziW1S5EJyEpzCxZJrXFVfA.jpg",
+      "Name": "Alvin and the Chipmunks"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qtG43WW6yJgAsXUqcNNYoGzw5x1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qtG43WW6yJgAsXUqcNNYoGzw5x1.jpg",
+      "Name": "Alvin and the Chipmunks"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kJkMeZCVjgVqomtgC0v4xvzeB74.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kJkMeZCVjgVqomtgC0v4xvzeB74.jpg",
+      "Name": "Alvin and the Chipmunks"
+    }
+  ],
+  "Links": [],
+  "Intro": "A struggling songwriter named Dave Seville finds success when he comes across a trio of singing chipmunks: mischievous leader Alvin, brainy Simon, and chubby, impressionable Theodore.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/sAt2yb4dgrpkHjbB9dQaKD9Caor-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/xA6cOSEZhzM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/alvin-and-the-chipmunks/",
+  "Name": "Alvin and the Chipmunks"
 }

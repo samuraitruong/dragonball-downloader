@@ -1,0 +1,62 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/laDq2WbQZD4Dtd87EfDzy0KF6MS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/laDq2WbQZD4Dtd87EfDzy0KF6MS.jpg ",
+      "Name": "Amour"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4JB1kXY713EBrcWOoO6EkznCV4h.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4JB1kXY713EBrcWOoO6EkznCV4h.jpg ",
+      "Name": "Amour"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uDBTbHlu7F2Ffu6LCPcYmbE5TXy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uDBTbHlu7F2Ffu6LCPcYmbE5TXy.jpg ",
+      "Name": "Amour"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oHBNHWICBAvFAnDrhVdvDqsHHB2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oHBNHWICBAvFAnDrhVdvDqsHHB2.jpg ",
+      "Name": "Amour"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mGfZ9S0YZb5WeJm95r1GBtzdZgx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mGfZ9S0YZb5WeJm95r1GBtzdZgx.jpg ",
+      "Name": "Amour"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/w7Z4BVMin49voNN61IUWyN9DopV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/w7Z4BVMin49voNN61IUWyN9DopV.jpg ",
+      "Name": "Amour"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kLvdpwOV8tU4z6d61vnVZfViiDu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kLvdpwOV8tU4z6d61vnVZfViiDu.jpg ",
+      "Name": "Amour"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xlnmnTwefUaqACEHdGtAKcxgJ12.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xlnmnTwefUaqACEHdGtAKcxgJ12.jpg ",
+      "Name": "Amour"
+    }
+  ],
+  "Links": [],
+  "Intro": "Georges and Anne are in their eighties. They are cultivated, retired music teachers. Their daughter, who is also a musician, lives abroad with her family. One day, Anne has a stroke, and the couple&#8217;s bond of love is severely tested.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/tvy6ogpgIDCZlxAletXNZg8xFi8-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/VMOugpyFf3A?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/amour/",
+  "Name": "Amour"
+}

@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lRWdqqOoSJVSiNLZvt28vQ2jZY2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lRWdqqOoSJVSiNLZvt28vQ2jZY2.jpg",
+      "Name": "Diary of a Wimpy Kid: Rodrick Rules"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9bEL5GLsnAiUDFMBoBF0K07UvjY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9bEL5GLsnAiUDFMBoBF0K07UvjY.jpg",
+      "Name": "Diary of a Wimpy Kid: Rodrick Rules"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AcCK0WmwTGw0iUXc8kKfPCA3zmC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AcCK0WmwTGw0iUXc8kKfPCA3zmC.jpg",
+      "Name": "Diary of a Wimpy Kid: Rodrick Rules"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zuPI1WSAoa4c2rLwslIZ3wmwo25.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zuPI1WSAoa4c2rLwslIZ3wmwo25.jpg",
+      "Name": "Diary of a Wimpy Kid: Rodrick Rules"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ru2ycqBzh51TcRIrocIMgeewhI5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ru2ycqBzh51TcRIrocIMgeewhI5.jpg",
+      "Name": "Diary of a Wimpy Kid: Rodrick Rules"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lgWRlnfAV9yrvUo9uZbNmsTzwFp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lgWRlnfAV9yrvUo9uZbNmsTzwFp.jpg",
+      "Name": "Diary of a Wimpy Kid: Rodrick Rules"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/47ktA1aQOgkP8LbAvNHYZJ0qz6O.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/47ktA1aQOgkP8LbAvNHYZJ0qz6O.jpg",
+      "Name": "Diary of a Wimpy Kid: Rodrick Rules"
+    }
+  ],
+  "Links": [],
+  "Intro": "Back in middle school after summer vacation, Greg Heffley and his older brother Rodrick must deal with their parents&#8217; misguided attempts to have them bond.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/b7ASKxUMqgarJIN4pH3Q8hbyPGA-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ZbqqYuG1TCM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/diary-of-a-wimpy-kid-rodrick-rules/",
+  "Name": "Diary of a Wimpy Kid: Rodrick Rules"
+}

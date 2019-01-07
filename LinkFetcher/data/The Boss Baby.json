@@ -1,56 +1,76 @@
 {
-  "Id": "movg3cTWx295693",
-  "Url": "https://fsharephim.com/movies/the-boss-baby/",
-  "Name": "The Boss Baby",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movg3ctwx295693-7/",
-      "Name": "The.Boss.Baby.2017.ViE.1080p.BluRay.DTS.x264-SPARKS (1).mkv",
-      "Url": "https://www.fshare.vn/file/GBV9EX82C9YV",
-      "Size": "5.8 GB",
-      "FileSize": 6203868133
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movg3ctwx295693-6/",
-      "Name": "The.Boss.Baby.2017.1080p.BluRay.DTS.x264-SPARKS.mkv",
-      "Url": "https://www.fshare.vn/file/QNSQZH9HC2ZH",
-      "Size": "5.5 GB",
-      "FileSize": 5867766514
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movg3ctwx295693-5/",
-      "Name": "The.Boss.Baby.2017.720p.BluRay.DTS.x264-SPARKS.mkv",
-      "Url": "https://www.fshare.vn/file/M1YKM5K4LF4W",
-      "Size": "3.3 GB",
-      "FileSize": 3519491608
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movg3ctwx295693-4/",
-      "Name": "The.Boss.Baby.2017.1080p.WEB-DL.H264.AC3-EVO_encoded.mp4",
-      "Url": "https://www.fshare.vn/file/YXJM8XQOU2C9",
-      "Size": "1.6 GB",
-      "FileSize": 1712768615
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movg3ctwx295693-3/",
-      "Name": "The Boss Baby 2017 ViE 720p HD-TS x264 AC3-CPG.mkv",
-      "Url": "https://www.fshare.vn/file/XTY26CYLT3NRMIG",
-      "Size": "2.3 GB",
-      "FileSize": 2473532198
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movg3ctwx295693-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/the-boss-baby/vietnamese",
-      "Size": "--",
-      "FileSize": 0
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movg3ctwx295693/",
-      "Name": "The.Boss.Baby.2017.1080p.WEB-DL.H264.AC3-EVO.mkv",
-      "Url": "https://www.fshare.vn/file/FW3B4DAXN6L83HW",
-      "Size": "3.3 GB",
-      "FileSize": 3579601305
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8keMlLuzB9XIUBnbdEq5DCqZdHQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8keMlLuzB9XIUBnbdEq5DCqZdHQ.jpg",
+      "Name": "The Boss Baby"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bTFeSwh07oX99ofpDI4O2WkiFJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bTFeSwh07oX99ofpDI4O2WkiFJ.jpg",
+      "Name": "The Boss Baby"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/frlfy7RFqx5J4jrcMo25PqyasL3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/frlfy7RFqx5J4jrcMo25PqyasL3.jpg",
+      "Name": "The Boss Baby"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4IrZC1uuaDpGScO4TDyEe4E4bq2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4IrZC1uuaDpGScO4TDyEe4E4bq2.jpg",
+      "Name": "The Boss Baby"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gkZOUZpM4F6hceQ8xE6TEdrGJgT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gkZOUZpM4F6hceQ8xE6TEdrGJgT.jpg",
+      "Name": "The Boss Baby"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7hr2n1a6SxXIEjkOZ2grKn1aHae.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7hr2n1a6SxXIEjkOZ2grKn1aHae.jpg",
+      "Name": "The Boss Baby"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5izAuyw3Pjb3Axms7rTTRxe8rsC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5izAuyw3Pjb3Axms7rTTRxe8rsC.jpg",
+      "Name": "The Boss Baby"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4kFUCfvJ8GoEnVPZ5LoVGIN6mHF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4kFUCfvJ8GoEnVPZ5LoVGIN6mHF.jpg",
+      "Name": "The Boss Baby"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/d7J1Z3003TBPosj1Z4O0bRPgZVr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/d7J1Z3003TBPosj1Z4O0bRPgZVr.jpg",
+      "Name": "The Boss Baby"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sHxKYVmOmkwd9etYl5NgUbScCSA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sHxKYVmOmkwd9etYl5NgUbScCSA.jpg",
+      "Name": "The Boss Baby"
+    }
+  ],
+  "Links": [],
+  "Intro": "A story about how a new baby&#8217;s arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/02/67NXPYvK92oQgEQvLppF2Siol9q-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Ud8j5GaqH3c?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-boss-baby/",
+  "Name": "The Boss Baby"
 }

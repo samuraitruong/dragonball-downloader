@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wcAkWEK38LY5L6xXyP3NhBh43mu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wcAkWEK38LY5L6xXyP3NhBh43mu.jpg",
+      "Name": "New York, New York"
+    }
+  ],
+  "Links": [],
+  "Intro": "It’s 1994 and Lu Tu (Ethan Juan) is the youngest concierge ever at five-star Chinese hotel; smart, loyal and honest, he’s respected by his fellow employees and lauded by his superiors. When he’s tempted with an invitation to run a new hotel in the Big Apple, everyone around him looks to take advantage of the move, including a love interest (Du Juan) who may not be as trustworthy as she seems.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/tllLiDmXRuTNov3dQT6OjOi8ZzE-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/v=8aHspfZxLuY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/new-york-new-york/",
+  "Name": "New York, New York"
+}

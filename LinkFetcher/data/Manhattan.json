@@ -1,0 +1,71 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qjm30F9hwJ6BNbsb7iOrrKwkY3n.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qjm30F9hwJ6BNbsb7iOrrKwkY3n.jpg",
+      "Name": "Manhattan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7OzHKga2gEj37QIsA86rcbr8PGf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7OzHKga2gEj37QIsA86rcbr8PGf.jpg",
+      "Name": "Manhattan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/odXPsc6GyLlAHa64orhAkpmYNLU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/odXPsc6GyLlAHa64orhAkpmYNLU.jpg",
+      "Name": "Manhattan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/A3ibauxbybutqvXlYFnkELPN3ad.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/A3ibauxbybutqvXlYFnkELPN3ad.jpg",
+      "Name": "Manhattan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hPFZzguY6bUvhfu9s0ynik58tOC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hPFZzguY6bUvhfu9s0ynik58tOC.jpg",
+      "Name": "Manhattan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/adnSTomHU9YyqV2lx38CgM0UxLS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/adnSTomHU9YyqV2lx38CgM0UxLS.jpg",
+      "Name": "Manhattan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ohJFDJRU547aWFVjaM3ppY0oFj6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ohJFDJRU547aWFVjaM3ppY0oFj6.jpg",
+      "Name": "Manhattan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pwLUHphR29ZLFqD6UTT66npbJzb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pwLUHphR29ZLFqD6UTT66npbJzb.jpg",
+      "Name": "Manhattan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pKWKkb0OwqFhfeLwiQ4w5vtySzG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pKWKkb0OwqFhfeLwiQ4w5vtySzG.jpg",
+      "Name": "Manhattan"
+    }
+  ],
+  "Links": [],
+  "Intro": "The life of a divorced television writer dating a teenage girl is further complicated when he falls in love with his best friend&#8217;s mistress.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/k4eT3EvfxW1L9Wmt04UqJqCvCR6-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/BNiIMhC8oII?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/manhattan/",
+  "Name": "Manhattan"
+}

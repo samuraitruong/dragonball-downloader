@@ -1,56 +1,46 @@
 {
-  "Id": "movM4AJLI364689",
-  "Url": "https://fsharephim.com/movies/ferdinand/",
-  "Name": "Ferdinand",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movm4ajli364689-6/",
-      "Name": "4K",
-      "Url": "https://www.fshare.vn/file/6K4IZ6L818S2",
-      "Size": "12.86 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movm4ajli364689-7/",
-      "Name": "4K",
-      "Url": "http://4share.vn/f/685d5f5d5f505158/Ferdinand.2017.2160p.UHD.BluRay.x265-WhiteRhino.mkv.file",
-      "Size": "12.86 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movm4ajli364689-5/",
-      "Name": "720p - Lồng Tiếng",
-      "Url": "http://www.fshare.vn/file/NU2ELJM7TCXE",
-      "Size": "5.23 GB",
-      "FileSize": 0
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movm4ajli364689-4/",
-      "Name": "1080p",
-      "Url": "http://www.fshare.vn/file/P2TR2O1SMF3S",
-      "Size": "5.46 GB",
-      "FileSize": 0
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movm4ajli364689-3/",
-      "Name": "720p",
-      "Url": "http://www.fshare.vn/file/3EI2GUL6TCZL",
-      "Size": "3.28 GB",
-      "FileSize": 0
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movm4ajli364689/",
-      "Name": "Xem phim Ferdinand Phiêu Lưu Ký - Ferdinand (2017).TS",
-      "Url": "https://www.fshare.vn/file/CH5WYROV4MG7E2T",
-      "Size": "866.7 MB",
-      "FileSize": 908849716
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movm4ajli364689-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/ferdinand",
-      "Size": "0",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sTOhZruocNubL0HxjvdouwCEL9I.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sTOhZruocNubL0HxjvdouwCEL9I.jpg ",
+      "Name": "Ferdinand"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tirtMoebpAPrkHovuB4dnA4Y8do.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tirtMoebpAPrkHovuB4dnA4Y8do.jpg ",
+      "Name": "Ferdinand"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xqzpw3MkSss0F8vwRPBZiJLtZe7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xqzpw3MkSss0F8vwRPBZiJLtZe7.jpg ",
+      "Name": "Ferdinand"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/80r42T4xabOhOjQ5k54R7BOD3xW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/80r42T4xabOhOjQ5k54R7BOD3xW.jpg ",
+      "Name": "Ferdinand"
+    }
+  ],
+  "Links": [],
+  "Intro": "Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow, but one day five men come to choose the &#8220;biggest, fastest, roughest bull&#8221; for the bullfights in Madrid and Ferdinand is mistakenly chosen. Based on the classic 1936 children&#8217;s book by Munro Leaf.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/qfuoOaCJLwNngfboYM7uxYaZvQx-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/HBXVM7oUPVk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ferdinand/",
+  "Name": "Ferdinand"
 }

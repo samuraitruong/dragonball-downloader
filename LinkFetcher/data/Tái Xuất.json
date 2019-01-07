@@ -1,0 +1,50 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gMgYVrhOeOsxbHTMVTBq36dVZgN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gMgYVrhOeOsxbHTMVTBq36dVZgN.jpg ",
+      "Name": "Tái Xuất - Re: Born"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1MYNMsMmXZ0klkIVxt1V8ERAAVU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1MYNMsMmXZ0klkIVxt1V8ERAAVU.jpg ",
+      "Name": "Tái Xuất - Re: Born"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eTN7No1mkQpinOeooXdGXdyHb8s.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eTN7No1mkQpinOeooXdGXdyHb8s.jpg ",
+      "Name": "Tái Xuất - Re: Born"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cwNjkSkq4IJgc2E8NK0SZgNFgPt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cwNjkSkq4IJgc2E8NK0SZgNFgPt.jpg ",
+      "Name": "Tái Xuất - Re: Born"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim Tái Xuất Một đặc vụ huyền thoại đang ẩn cư lại một lần nữa đứng lên chiến đấu bảo vệ cho người thân của mình…",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/fkIsBtjuf8q8hDQ9mxMEPzOYgPc-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/uxM6vsMNwXs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/re-born/",
+  "Name": "Tái Xuất"
+}

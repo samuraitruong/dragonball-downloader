@@ -1,0 +1,1204 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao-khoa-hoc/",
+      "Name": "Kỳ Ảo Khoa Học"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sJjrJWsOCUUeVMexxANNC6s3dWV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sJjrJWsOCUUeVMexxANNC6s3dWV.jpg",
+      "Name": "Gravity Falls"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nurditvDM6wHFAhloGrXzUcf9gm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nurditvDM6wHFAhloGrXzUcf9gm.jpg",
+      "Name": "Gravity Falls"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8PzAa3AICYgRrpSjwRhSIEp3QIy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8PzAa3AICYgRrpSjwRhSIEp3QIy.jpg",
+      "Name": "Gravity Falls"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xw0c8B7zYkbwQMZ0VYF8plwotdB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xw0c8B7zYkbwQMZ0VYF8plwotdB.jpg",
+      "Name": "Gravity Falls"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oZTUXWpH6G01yUD2WpJk3vbuIga.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oZTUXWpH6G01yUD2WpJk3vbuIga.jpg",
+      "Name": "Gravity Falls"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x1/",
+      "Name": "Scary-oke"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x2/",
+      "Name": "Into the Bunker"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x3/",
+      "Name": "The Golf War"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x4/",
+      "Name": "Sock Opera"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x5/",
+      "Name": "Soos and the Real Girl"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x6/",
+      "Name": "Little Gift Shop of Horrors"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x7/",
+      "Name": "Society of the Blind Eye"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x8/",
+      "Name": "Blendin's Game"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x9/",
+      "Name": "The Love God"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x10/",
+      "Name": "Northwest Mansion Noir"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x11/",
+      "Name": "Not What He Seems"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x12/",
+      "Name": "A Tale of Two Stans"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x13/",
+      "Name": "Dungeons, Dungeons, & More Dungeons"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x14/",
+      "Name": "The Stanchurian Candidate"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x15/",
+      "Name": "The Last Mabelcorn"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x16/",
+      "Name": "Roadside Attraction"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x17/",
+      "Name": "Dipper and Mabel vs. the Future"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x18/",
+      "Name": "Weirdmageddon Part I"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x19/",
+      "Name": "Weirdmageddon 2: Escape From Reality"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/gravity-falls-2x20/",
+      "Name": "Weirdmageddon 3: Take Back the Falls"
+    }
+  ],
+  "Intro": "Twin brother and sister Dipper and Mabel Pines are in for an unexpected adventure when they spend the summer helping their great uncle Stan run a tourist trap in the mysterious town of Gravity Falls, Oregon.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/oGsgxjeZ9rd20eCJsGSMGgWvl4P-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/645xo1qyLW8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jdanXbFmeD9kdQ6XNTdrKUkNDmU.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jdanXbFmeD9kdQ6XNTdrKUkNDmU.jpg",
+              "Name": "Gravity Falls 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/q1HEhANRfYFh7SZaCmFtNOqi3bj.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/q1HEhANRfYFh7SZaCmFtNOqi3bj.jpg",
+              "Name": "Gravity Falls 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1ZPWiAR3l4at4sqR8i0T1cH6lvR.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1ZPWiAR3l4at4sqR8i0T1cH6lvR.jpg",
+              "Name": "Gravity Falls 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/sOC3ZAJLTu6lWBAqDFgfaXc879B.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/sOC3ZAJLTu6lWBAqDFgfaXc879B.jpg",
+              "Name": "Gravity Falls 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": "Twins Dipper and Mabel Pines visit their eccentric great-uncle for a summer in Gravity Falls, Oregon, where he operates the world&#8217;s most bizarre museum. As soon as the twins arrive in Gravity Falls, they discover something amiss in the remote town.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x1/",
+          "Name": "Gravity Falls 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/5ry3UPnV9c7qFSfesvq12p6qT8L.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/5ry3UPnV9c7qFSfesvq12p6qT8L.jpg",
+              "Name": "Gravity Falls 1&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tcA6HWmoDsKo0J1M213xouMqzYX.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tcA6HWmoDsKo0J1M213xouMqzYX.jpg",
+              "Name": "Gravity Falls 1&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": "After being challenged to a video game battle by Robbie, Dipper is shocked when his favorite playable fighter, Rumble McSkirmish, comes to life to defend him. But Dipper soon loses control over Rumble McSkirmish and has to find a way to stop him.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x10/",
+          "Name": "Gravity Falls 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/A3OkkE2jSgqqhmCj8FIVJDDDuGC.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/A3OkkE2jSgqqhmCj8FIVJDDDuGC.jpg",
+              "Name": "Gravity Falls 1&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/yMU7K00IxzaZr6zoJuScaNMWFDJ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/yMU7K00IxzaZr6zoJuScaNMWFDJ.jpg",
+              "Name": "Gravity Falls 1&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": "Dipper is self-conscious that Mabel is taller than him and seeks a magic solution. Meanwhile Lil&#8217; Gideon takes advantage of Dipper&#8217;s and Mabel&#8217;s height discrepancy.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x11/",
+          "Name": "Gravity Falls 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2HNtYeGoqdAXZh0fKIkbphPHlN5.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2HNtYeGoqdAXZh0fKIkbphPHlN5.jpg",
+              "Name": "Gravity Falls 1&#215;12"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/cge8YOjXSrwvVZyPdHm4oVzhimV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/cge8YOjXSrwvVZyPdHm4oVzhimV.jpg",
+              "Name": "Gravity Falls 1&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": "Dipper and Mabel go trick-or-treating in the summer and encounter a candy-loving monster who threatens to devour them if they don&#8217;t bring him sweet things to eat.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x12/",
+          "Name": "Gravity Falls 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qPJgTETJIM2gGjQBdwH6i4Zccnq.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qPJgTETJIM2gGjQBdwH6i4Zccnq.jpg",
+              "Name": "Gravity Falls 1&#215;13"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ef3RWZzd3NPgWc8psLJvIYy8YUc.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ef3RWZzd3NPgWc8psLJvIYy8YUc.jpg",
+              "Name": "Gravity Falls 1&#215;13"
+            }
+          ],
+          "Links": [],
+          "Intro": "Stan leaves Mabel in charge of the Mystery Shack while he is gone and the power goes to her head.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x13/",
+          "Name": "Gravity Falls 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/c5yEJOGe2b9KDzb94PRd9xdwvMN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/c5yEJOGe2b9KDzb94PRd9xdwvMN.jpg",
+              "Name": "Gravity Falls 1&#215;14"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bO1HFQlRhT4r1mTQ5VuGkvIR04M.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bO1HFQlRhT4r1mTQ5VuGkvIR04M.jpg",
+              "Name": "Gravity Falls 1&#215;14"
+            }
+          ],
+          "Links": [],
+          "Intro": "While Stan, Dipper, Mabel and Soos are falling in a bottomless pit, they tell stories to pass the time.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x14/",
+          "Name": "Gravity Falls 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/5GqfHtq5E8w8dKekD1B27CDL5m.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/5GqfHtq5E8w8dKekD1B27CDL5m.jpg",
+              "Name": "Gravity Falls 1&#215;15"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8EZEnKGtx4W7eYkTPUwFevZFbiV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8EZEnKGtx4W7eYkTPUwFevZFbiV.jpg",
+              "Name": "Gravity Falls 1&#215;15"
+            }
+          ],
+          "Links": [],
+          "Intro": "When Mabel befriends a cute merman trapped in the public pool, she&#8217;s determined to help him out. Meanwhile, Dipper decides to volunteer as a lifeguard to see Wendy.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x15/",
+          "Name": "Gravity Falls 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zjbwpttSwnj6ObBMyz6hmxfshDn.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zjbwpttSwnj6ObBMyz6hmxfshDn.jpg",
+              "Name": "Gravity Falls 1&#215;16"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/5R6UcThJqMDg294EZK30YLpT2oV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/5R6UcThJqMDg294EZK30YLpT2oV.jpg",
+              "Name": "Gravity Falls 1&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": "The twins discover a hidden room inside the Mystery Shack and compete over who should have it.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x16/",
+          "Name": "Gravity Falls 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/gDnAZRu44XtHejwfbYVUu4IzDr.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/gDnAZRu44XtHejwfbYVUu4IzDr.jpg",
+              "Name": "Gravity Falls 1&#215;17"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/i96F1Q4lm0JEvNJpjRMM5WpeLxs.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/i96F1Q4lm0JEvNJpjRMM5WpeLxs.jpg",
+              "Name": "Gravity Falls 1&#215;17"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/t1I1uYHVyekaCJFYwv5L3m6yMZ3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/t1I1uYHVyekaCJFYwv5L3m6yMZ3.jpg",
+              "Name": "Gravity Falls 1&#215;17"
+            }
+          ],
+          "Links": [],
+          "Intro": "When Mabel discovers that her favorite boy band is actually a bunch of imprisoned clones, she sets them free, only to decide on keeping them for herself. Meanwhile, Dipper is convinced that Robbie plans to brainwash Wendy with a secret message hidden inside one of his songs.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x17/",
+          "Name": "Gravity Falls 1x17"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/iPq4WcEG6sa1CX3VowVD1jXVV3z.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/iPq4WcEG6sa1CX3VowVD1jXVV3z.jpg",
+              "Name": "Gravity Falls 1&#215;18"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3CuFmOK1Mkd8c7VBvZIENDaxWZd.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3CuFmOK1Mkd8c7VBvZIENDaxWZd.jpg",
+              "Name": "Gravity Falls 1&#215;18"
+            }
+          ],
+          "Links": [],
+          "Intro": "When Waddles is snatched by a prehistoric beast, Dipper, Mabel, Stan, Soos, and Old Man McGucket must journey to a mysterious land trapped in time to rescue him.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x18/",
+          "Name": "Gravity Falls 1x18"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/or9cjkwvrSW7B1HvQmlkSi66YMi.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/or9cjkwvrSW7B1HvQmlkSi66YMi.jpg",
+              "Name": "Gravity Falls 1&#215;19"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kJzmETvN2u9yNrwRVZporuT44AW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kJzmETvN2u9yNrwRVZporuT44AW.jpg",
+              "Name": "Gravity Falls 1&#215;19"
+            }
+          ],
+          "Links": [],
+          "Intro": "Dipper, Mabel, and Soos must travel through Grunkle Stan&#8217;s mind to defeat a tricky dream demon summoned by Lil Gideon.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x19/",
+          "Name": "Gravity Falls 1x19"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9e17jiaO8BihsendSvSVpC6D1uR.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9e17jiaO8BihsendSvSVpC6D1uR.jpg",
+              "Name": "Gravity Falls 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/upUVU3E5ofq7qvGJIOhUHmU326T.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/upUVU3E5ofq7qvGJIOhUHmU326T.jpg",
+              "Name": "Gravity Falls 1&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": "When Dipper and Mabel hear rumors of a sea monster that lives at the bottom of the local lake, they enlist Soos to take them on a boating expedition to prove it really does exist.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x2/",
+          "Name": "Gravity Falls 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1VR84pLvOgD0lO6GUQKygTsaPST.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1VR84pLvOgD0lO6GUQKygTsaPST.jpg",
+              "Name": "Gravity Falls 1&#215;20"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/o6x5f2ix0kIC0Y0AszOaTmyCYMf.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/o6x5f2ix0kIC0Y0AszOaTmyCYMf.jpg",
+              "Name": "Gravity Falls 1&#215;20"
+            }
+          ],
+          "Links": [],
+          "Intro": "Li&#8217;l Gideon swindles the Mystery Shack away, forcing Grunkle Stan and the kids to move in with Soos. While Stan weighs how he can still care for his grandniece and nephew, they decide to take on Gideon.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x20/",
+          "Name": "Gravity Falls 1x20"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/o57KbgV5TDKCMmxEHVNnWFqIycM.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/o57KbgV5TDKCMmxEHVNnWFqIycM.jpg",
+              "Name": "Gravity Falls 1&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/m3zLj1L4P2HSd6rFSuXvsihdHvZ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/m3zLj1L4P2HSd6rFSuXvsihdHvZ.jpg",
+              "Name": "Gravity Falls 1&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": "When someone tampers with Mabel&#8217;s life-size wax statue of Grunkle Stan, she and Dipper set out to find the culprit. Meanwhile, Grunkle Stan mourns over the loss of his wax doppelganger.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x3/",
+          "Name": "Gravity Falls 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/dRyHz2G6cV1wuwRGskOyE31wp1v.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/dRyHz2G6cV1wuwRGskOyE31wp1v.jpg",
+              "Name": "Gravity Falls 1&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oVOvvWWZQVhBx5USHow2pMOWQoq.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oVOvvWWZQVhBx5USHow2pMOWQoq.jpg",
+              "Name": "Gravity Falls 1&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": "Dipper and Mabel discover that their seemingly cherubic new neighbor, Lil&#8217; Gideon, happens to be the town&#8217;s adored psychic. But when Lil&#8217; Gideon guilts her into dating him, she and Dipper soon learn that his cuteness can fade all too quickly.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x4/",
+          "Name": "Gravity Falls 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/og0nCOem2TSGX16fQl8cjiy4JOe.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/og0nCOem2TSGX16fQl8cjiy4JOe.jpg",
+              "Name": "Gravity Falls 1&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/taXZeh9B5ffch8JMSksgclMa6G3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/taXZeh9B5ffch8JMSksgclMa6G3.jpg",
+              "Name": "Gravity Falls 1&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": "Dipper is invited by Wendy and her teen friends on a trek that leads to an abandoned convenience store that may be haunted.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x5/",
+          "Name": "Gravity Falls 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/cBgCheYpdoP51VUdD4XeZ1y5KWJ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/cBgCheYpdoP51VUdD4XeZ1y5KWJ.jpg",
+              "Name": "Gravity Falls 1&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wkvdrmL4vKlCUBprFqKWmzztfXC.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wkvdrmL4vKlCUBprFqKWmzztfXC.jpg",
+              "Name": "Gravity Falls 1&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": "In a quest to attain manliness, Dipper ventures into the forest to battle the notorious Multi-Bear. Meanwhile, Mabel tries to teach Grunkle Stan how to be attractive to women, particularly the waitress in the local diner, Lazy Susan.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x6/",
+          "Name": "Gravity Falls 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lFnNm44mlhShh7c07Gzk7j8Si9l.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lFnNm44mlhShh7c07Gzk7j8Si9l.jpg",
+              "Name": "Gravity Falls 1&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/71kgB0OtInXDnoMfAFPqjQA3hqb.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/71kgB0OtInXDnoMfAFPqjQA3hqb.jpg",
+              "Name": "Gravity Falls 1&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": "Stan throws a big weekend party to promote the Mystery Shack. Dipper makes clones of himself to impress Wendy. Mabel fights for the Party Queen title in honor of her two friends.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x7/",
+          "Name": "Gravity Falls 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xSxvwfJTbIxZLlTL3ISaqn4F4Ut.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xSxvwfJTbIxZLlTL3ISaqn4F4Ut.jpg",
+              "Name": "Gravity Falls 1&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lO1imCuPvWoBA1pzHAg796Mue2m.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lO1imCuPvWoBA1pzHAg796Mue2m.jpg",
+              "Name": "Gravity Falls 1&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": "When Dipper and Mabel discover evidence that the reported town founder is a hoax, they set out to expose the historical cover-up and prove that Mabel&#8217;s silliness is not a bad thing.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x8/",
+          "Name": "Gravity Falls 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/paeKQn9QeaMvFzSSBR1tGHdidAV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/paeKQn9QeaMvFzSSBR1tGHdidAV.jpg",
+              "Name": "Gravity Falls 1&#215;9"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/e7UtxNoWfFCkN31gQEYsiP4Uwzg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/e7UtxNoWfFCkN31gQEYsiP4Uwzg.jpg",
+              "Name": "Gravity Falls 1&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": "Dipper wants to correct a mistake he made in the past with assistance from a time machine. Mabel is overjoyed when she wins a pet pig at a fair.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-1x9/",
+          "Name": "Gravity Falls 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Jun. 15, 2012"
+    },
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/p6DUpMpPgKH5TsPVWRii7IEj1Wq.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/p6DUpMpPgKH5TsPVWRii7IEj1Wq.jpg",
+              "Name": "Gravity Falls 2&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/chB6O6smamVC4X5I8OsteQvNQEO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/chB6O6smamVC4X5I8OsteQvNQEO.jpg",
+              "Name": "Gravity Falls 2&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/cNZvo61Iy3YA8VLRnRoz12v5Z5S.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/cNZvo61Iy3YA8VLRnRoz12v5Z5S.jpg",
+              "Name": "Gravity Falls 2&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": "The Pines family is starting to get everything back to normal after the Lil&#8217; Gideon incident. They throw a “Mystery Shack Is Back” party, but some unwelcome guests intend to crash it.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x1/",
+          "Name": "Gravity Falls 2x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8nkdaewRB1EJcPsOJSJoQuZUMEJ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8nkdaewRB1EJcPsOJSJoQuZUMEJ.jpg",
+              "Name": "Gravity Falls 2&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": "Pacifica enlists Dipper’s help to rid the Northwest Mansion of a ghost before he wreaks havoc on her fancy party.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x10/",
+          "Name": "Gravity Falls 2x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/dmNpXBe4Zs6OTnvTmjiHA3CIWDd.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/dmNpXBe4Zs6OTnvTmjiHA3CIWDd.jpg",
+              "Name": "Gravity Falls 2&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3QIxxGvLpFmstbjoOxhwCTSkDqF.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3QIxxGvLpFmstbjoOxhwCTSkDqF.jpg",
+              "Name": "Gravity Falls 2&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/aK6ryKcM45ZV8GEZkit2u35LD3A.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/aK6ryKcM45ZV8GEZkit2u35LD3A.jpg",
+              "Name": "Gravity Falls 2&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/soL4D68U9hJBGKVRnD0nWXm6fZa.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/soL4D68U9hJBGKVRnD0nWXm6fZa.jpg",
+              "Name": "Gravity Falls 2&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7Vy0Pu2wxhhsd8DOBwVOu2eus40.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7Vy0Pu2wxhhsd8DOBwVOu2eus40.jpg",
+              "Name": "Gravity Falls 2&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": "After agents Powers and Trigger take Stan into custody, Dipper and Mabel begin to wonder how much they actually know about their Grunkle Stan.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x11/",
+          "Name": "Gravity Falls 2x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/s6gHbBsSypA1kOg3CMDE3EdViHx.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/s6gHbBsSypA1kOg3CMDE3EdViHx.jpg",
+              "Name": "Gravity Falls 2&#215;12"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/noeCVoCD4swXecRcTZtUpfTlRYo.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/noeCVoCD4swXecRcTZtUpfTlRYo.jpg",
+              "Name": "Gravity Falls 2&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": "Cornered underneath the Mystery Shack, Stan must finally reveal the secrets of his past and his mysterious portal to Dipper and Mabel.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x12/",
+          "Name": "Gravity Falls 2x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kWRZtBWCKGQszBkUo8U4aD9ict.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kWRZtBWCKGQszBkUo8U4aD9ict.jpg",
+              "Name": "Gravity Falls 2&#215;13"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/esYOCrL2K9UkzWLyp52Tr6kCszz.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/esYOCrL2K9UkzWLyp52Tr6kCszz.jpg",
+              "Name": "Gravity Falls 2&#215;13"
+            }
+          ],
+          "Links": [],
+          "Intro": "Dipper finds an unlikely friend to join him with his newest obsession, a board game called “Dungeons, Dungeons &#038; More Dungeons.”",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x13/",
+          "Name": "Gravity Falls 2x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7ESTJuUKxSNjiC2dPsnTHLAQo1F.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7ESTJuUKxSNjiC2dPsnTHLAQo1F.jpg",
+              "Name": "Gravity Falls 2&#215;14"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8ybrzdnfYqIZKmkSsCASIjhtx1X.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8ybrzdnfYqIZKmkSsCASIjhtx1X.jpg",
+              "Name": "Gravity Falls 2&#215;14"
+            }
+          ],
+          "Links": [],
+          "Intro": "When Grunkle Stan decides to run for mayor, Dipper and Mabel have their work cut out for them trying to turn their gaffe-prone uncle into the perfect candidate.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x14/",
+          "Name": "Gravity Falls 2x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/llHcvIrufxO52QpHMjNe11HpF4W.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/llHcvIrufxO52QpHMjNe11HpF4W.jpg",
+              "Name": "Gravity Falls 2&#215;15"
+            }
+          ],
+          "Links": [],
+          "Intro": "A new threat leads Mabel to venture into the enchanted realm of the unicorns. Meanwhile, Dipper learns an unexpected twist about the enigmatic Bill Cipher.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x15/",
+          "Name": "Gravity Falls 2x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fnE2GuA5TQxoSlkOYO3SD9xhgZ4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fnE2GuA5TQxoSlkOYO3SD9xhgZ4.jpg",
+              "Name": "Gravity Falls 2&#215;16"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2YnzSgkdX4xoJUfM4sTC4JndNLY.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2YnzSgkdX4xoJUfM4sTC4JndNLY.jpg",
+              "Name": "Gravity Falls 2&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": "Grunkle Stan takes the kids with him on a road-trip to sabotage all the other tourist traps in Oregon.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x16/",
+          "Name": "Gravity Falls 2x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bsRf4khXHwUtBpyVvdeaM45wVA1.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bsRf4khXHwUtBpyVvdeaM45wVA1.jpg",
+              "Name": "Gravity Falls 2&#215;17"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9kBBBaocf6GqowVRjrVYLGATFgL.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9kBBBaocf6GqowVRjrVYLGATFgL.jpg",
+              "Name": "Gravity Falls 2&#215;17"
+            }
+          ],
+          "Links": [],
+          "Intro": "Mabel makes plans for her and Dipper&#8217;s 13th birthday party; Dipper ventures below the town and discovers its most shocking secret.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x17/",
+          "Name": "Gravity Falls 2x17"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/a4v7uSSLkPIbp2NJ6lqmYeKkX6z.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/a4v7uSSLkPIbp2NJ6lqmYeKkX6z.jpg",
+              "Name": "Gravity Falls 2&#215;18"
+            }
+          ],
+          "Links": [],
+          "Intro": "Bill has returned to take down the Pines family. But this time he has brought some of his friends with him.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x18/",
+          "Name": "Gravity Falls 2x18"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fWsQhzQSTihitZIEGexqCtzGKiX.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fWsQhzQSTihitZIEGexqCtzGKiX.jpg",
+              "Name": "Gravity Falls 2&#215;19"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fhnSQySAEdBpJRyevdBtmmuatbf.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fhnSQySAEdBpJRyevdBtmmuatbf.jpg",
+              "Name": "Gravity Falls 2&#215;19"
+            }
+          ],
+          "Links": [],
+          "Intro": "Dipper, Soos and Wendy must save Mabel from a strange new world, while Bill&#8217;s forces plan their next move.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x19/",
+          "Name": "Gravity Falls 2x19"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/5O0HnQ96hGbwMxKrIJg8CwJHz7E.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/5O0HnQ96hGbwMxKrIJg8CwJHz7E.jpg",
+              "Name": "Gravity Falls 2&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": "Dipper’s secret journal pages lead him and the gang to the author’s hidden bunker where they find themselves face-to-face with a mysterious figure from Gravity Falls’ lore.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x2/",
+          "Name": "Gravity Falls 2x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zDAyQ7r1DxTMVKNSZLSd10CUZUJ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zDAyQ7r1DxTMVKNSZLSd10CUZUJ.jpg",
+              "Name": "Gravity Falls 2&#215;20"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ford discovers Bill’s true motives and a final confrontation with Bill leads to the Pines family’s ultimate fate and greatest sacrifice.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x20/",
+          "Name": "Gravity Falls 2x20"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/e51f1OYEgGvxRQIXakITV78gyDw.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/e51f1OYEgGvxRQIXakITV78gyDw.jpg",
+              "Name": "Gravity Falls 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/yOZ6TzDVc23C5EGvSBcTuOmbsL.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/yOZ6TzDVc23C5EGvSBcTuOmbsL.jpg",
+              "Name": "Gravity Falls 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fRMEG0bExs1rwv248vnTEXI5FH2.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fRMEG0bExs1rwv248vnTEXI5FH2.jpg",
+              "Name": "Gravity Falls 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oRATz9QD5QNTw7Dtj000xnEruN1.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oRATz9QD5QNTw7Dtj000xnEruN1.jpg",
+              "Name": "Gravity Falls 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3HOG2sN9mPVYgaibt0EPM6bu90K.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3HOG2sN9mPVYgaibt0EPM6bu90K.jpg",
+              "Name": "Gravity Falls 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/58WzzlabamCOQE94v5XXC0WR9jl.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/58WzzlabamCOQE94v5XXC0WR9jl.jpg",
+              "Name": "Gravity Falls 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ghNXgHQUWd0LwLqVs204kljjtwm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ghNXgHQUWd0LwLqVs204kljjtwm.jpg",
+              "Name": "Gravity Falls 2&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": "After being belittled by Pacifica one too many times, Mabel challenges her to a miniature golf-off which gets a tad out of control when some local residents offer their help.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x3/",
+          "Name": "Gravity Falls 2x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1hXSXAVxuVXPhCxFm8pIPSSkYsd.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1hXSXAVxuVXPhCxFm8pIPSSkYsd.jpg",
+              "Name": "Gravity Falls 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/gth5Hqvuobj95i6lxvucDzfZdol.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/gth5Hqvuobj95i6lxvucDzfZdol.jpg",
+              "Name": "Gravity Falls 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6yFQw0PrGbbq7fcpzT3V23csqzV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6yFQw0PrGbbq7fcpzT3V23csqzV.jpg",
+              "Name": "Gravity Falls 2&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": "Mabel decides to put on a sock puppet rock opera to impress a local puppeteer, but her show goes awry when Dipper&#8217;s drive to uncover more of the journal&#8217;s secrets leads to a supernatural disaster.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x4/",
+          "Name": "Gravity Falls 2x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zOkP6Y4IL1yQPdmV9AEZ9AURO4v.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zOkP6Y4IL1yQPdmV9AEZ9AURO4v.jpg",
+              "Name": "Gravity Falls 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4BVgxP9QeGEtFVTHdTEt0nK1eY0.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4BVgxP9QeGEtFVTHdTEt0nK1eY0.jpg",
+              "Name": "Gravity Falls 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wCf9QXo24H8XzoE1PHur7JielX3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wCf9QXo24H8XzoE1PHur7JielX3.jpg",
+              "Name": "Gravity Falls 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qqmu7z4UtezBYaybhlEOJM5OdWA.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qqmu7z4UtezBYaybhlEOJM5OdWA.jpg",
+              "Name": "Gravity Falls 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zcRTVcHos6Dsqppf3GEOuZ0WQbG.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zcRTVcHos6Dsqppf3GEOuZ0WQbG.jpg",
+              "Name": "Gravity Falls 2&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": "Soos needs a date for his cousin Reggie&#8217;s engagement party and looks to a dating simulator game to help him talk to girls.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x5/",
+          "Name": "Gravity Falls 2x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/s9pAM7rmLqjmghcWxgduhRegyvK.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/s9pAM7rmLqjmghcWxgduhRegyvK.jpg",
+              "Name": "Gravity Falls 2&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lQGXIlXKHTtlIHbdsRN2tDuiWYJ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lQGXIlXKHTtlIHbdsRN2tDuiWYJ.jpg",
+              "Name": "Gravity Falls 2&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1UX0uuGRA9mfmjTtLS2eaN0UpWf.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1UX0uuGRA9mfmjTtLS2eaN0UpWf.jpg",
+              "Name": "Gravity Falls 2&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6W8t9Pmnzq7OW0vX3zzqMUTe3SK.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6W8t9Pmnzq7OW0vX3zzqMUTe3SK.jpg",
+              "Name": "Gravity Falls 2&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/b80uZQxY3R4Skdklo1dmulCMSiF.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/b80uZQxY3R4Skdklo1dmulCMSiF.jpg",
+              "Name": "Gravity Falls 2&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": "In three separate mysterious tales, Stan is cursed by a Witch, Waddles accidentally eats a bowl of brain-enhancing jelly and builds a machine that allows him to speak, and Mabel faces her fear of claymation.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x6/",
+          "Name": "Gravity Falls 2x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fYzjnTF6IAZiUhpa9kIhKLLZtCc.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fYzjnTF6IAZiUhpa9kIhKLLZtCc.jpg",
+              "Name": "Gravity Falls 2&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": "The kids, along with Old Man McGucket&#8217;s help, discover there is a secret society in Gravity Falls.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x7/",
+          "Name": "Gravity Falls 2x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/aqQy9G8moCBzhmpgf7eP7OOjOfL.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/aqQy9G8moCBzhmpgf7eP7OOjOfL.jpg",
+              "Name": "Gravity Falls 2&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": "Blendin returns to face off with Dipper and Mabel in a futuristic battle that could trap them forever in time jail.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x8/",
+          "Name": "Gravity Falls 2x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qnuJLHlZIib8JJQPOEs2ueKG7sh.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qnuJLHlZIib8JJQPOEs2ueKG7sh.jpg",
+              "Name": "Gravity Falls 2&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": "Mabel takes matchmaking too far when she steals a love potion from a real Love God.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/gravity-falls-2x9/",
+          "Name": "Gravity Falls 2x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 2 Aug. 01, 2014"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/gravity-falls/",
+  "Name": "Gravity Falls"
+}

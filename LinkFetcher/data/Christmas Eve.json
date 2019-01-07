@@ -1,0 +1,41 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8laFqSOECZJqGgwKdnOQVUzLbtZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8laFqSOECZJqGgwKdnOQVUzLbtZ.jpg",
+      "Name": "Christmas Eve"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9xZNGSJG6RlNOlgPIf9E6Mrdoue.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9xZNGSJG6RlNOlgPIf9E6Mrdoue.jpg",
+      "Name": "Christmas Eve"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cOWDw5zLALx6lfpYFIZcNv04XPH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cOWDw5zLALx6lfpYFIZcNv04XPH.jpg",
+      "Name": "Christmas Eve"
+    }
+  ],
+  "Links": [],
+  "Intro": "Hilarity, romance, and transcendence prevail after a power outage traps six different groups of New Yorkers inside elevators on Christmas Eve.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/cjclP7PpxTS1RCO1P6sETPxf820-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/UOnfE7z7-u8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/christmas-eve/",
+  "Name": "Christmas Eve"
+}

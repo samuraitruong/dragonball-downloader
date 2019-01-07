@@ -1,0 +1,74 @@
+{
+  "Id": "movhWRo8f75821",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iKiJo02NqAR1WezYXQe6R6Tk9yb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iKiJo02NqAR1WezYXQe6R6Tk9yb.jpg",
+      "Name": "Quái Vật Biển - Sector 7"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/obao3SlqxVAXk4qFsIcrOG21sfT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/obao3SlqxVAXk4qFsIcrOG21sfT.jpg",
+      "Name": "Quái Vật Biển - Sector 7"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aRdibBuyJbMQjsvLQjX1sQn76YB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aRdibBuyJbMQjsvLQjX1sQn76YB.jpg",
+      "Name": "Quái Vật Biển - Sector 7"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movhwro8f75821-3/",
+      "Size": "1.6 GB",
+      "FileSize": 1769343540,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/Z6L5PVYWF2TN",
+      "Name": "SECTOR.7.2011.720p-CHD___Mr.Tom_HDVN_encoded.mp4"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movhwro8f75821-2/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/sector-7",
+      "Name": "Subtitle"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movhwro8f75821/",
+      "Size": "5.5 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/4AX21KGS2G",
+      "Name": "720p"
+    }
+  ],
+  "Intro": "&#8220;Sector 7&#8221; kể câu chuyện về một nhóm thợ chiến đấu chống lại quái vật lạ ở vùng mỏ dầu.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/07/jhRsq0E9fkPiweNtMeMpYb6h2xh-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/InsBvSqvONo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/sector-7/",
+  "Name": "Quái Vật Biển"
+}

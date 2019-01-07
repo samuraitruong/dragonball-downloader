@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pthuMQIXSRDdGGS8p6n6IG21ZRJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pthuMQIXSRDdGGS8p6n6IG21ZRJ.jpg",
+      "Name": "The Wailing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/deTXOtk6oMBvFK4di1bJSTRY5RR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/deTXOtk6oMBvFK4di1bJSTRY5RR.jpg",
+      "Name": "The Wailing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5s1tWWSiq0TqlDbPG6WYO2KX0LT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5s1tWWSiq0TqlDbPG6WYO2KX0LT.jpg",
+      "Name": "The Wailing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yXOmmebn6lfP63vS7mm9grh8UKD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yXOmmebn6lfP63vS7mm9grh8UKD.jpg",
+      "Name": "The Wailing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kJHMQ1ZJCUAgRrpSMjlmjrqzrT9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kJHMQ1ZJCUAgRrpSMjlmjrqzrT9.jpg",
+      "Name": "The Wailing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f1bjJFfOEUOYKLxjAsrvOfbYnhF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f1bjJFfOEUOYKLxjAsrvOfbYnhF.jpg",
+      "Name": "The Wailing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/khF1ppWl4WybtJ56vmdp3DPdSbC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/khF1ppWl4WybtJ56vmdp3DPdSbC.jpg",
+      "Name": "The Wailing"
+    }
+  ],
+  "Links": [],
+  "Intro": "A stranger arrives in a little village and soon after a mysterious sickness starts spreading. A policeman is drawn into the incident and is forced to solve the mystery in order to save his daughter.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/aijmq2I4O8zZrJtqAZm6o4tOM6g-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/43uAputjI4k?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-wailing/",
+  "Name": "The Wailing"
+}

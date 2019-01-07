@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nxhfenC1jb5EcTI5GYxqnjYZMId.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nxhfenC1jb5EcTI5GYxqnjYZMId.jpg",
+      "Name": "Amélie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vQmnWGgvlu4BxkavBOXmThEvlkM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vQmnWGgvlu4BxkavBOXmThEvlkM.jpg",
+      "Name": "Amélie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/A7UQYUpKyg6nTXE7b9UD2ySF2YU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/A7UQYUpKyg6nTXE7b9UD2ySF2YU.jpg",
+      "Name": "Amélie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2Sr5jXIDdqibFAWWdh9wYipj5dq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2Sr5jXIDdqibFAWWdh9wYipj5dq.jpg",
+      "Name": "Amélie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xQtzv4ckHEDAtvIrnRY7uXWn5N1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xQtzv4ckHEDAtvIrnRY7uXWn5N1.jpg",
+      "Name": "Amélie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oqb85E4CUs6adoiuWo1QOzH4JjV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oqb85E4CUs6adoiuWo1QOzH4JjV.jpg",
+      "Name": "Amélie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ycTTNMDHKZcYYCq97SEOWIFGIUa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ycTTNMDHKZcYYCq97SEOWIFGIUa.jpg",
+      "Name": "Amélie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dcFtubnhiz8npInniQfmvyFGYl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dcFtubnhiz8npInniQfmvyFGYl.jpg",
+      "Name": "Amélie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lnjoYcrIt2zo53AqzffjsiF5MeT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lnjoYcrIt2zo53AqzffjsiF5MeT.jpg",
+      "Name": "Amélie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bxRsjzT03ExVRAOWyQiXONCr2TI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bxRsjzT03ExVRAOWyQiXONCr2TI.jpg",
+      "Name": "Amélie"
+    }
+  ],
+  "Links": [],
+  "Intro": "At a tiny Parisian café, the adorable yet painfully shy Amélie (Audrey Tautou) accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/pM20xF4WFyX7G3ie0YBXFp75aEC-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/HUECWi5pX7o?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/amelie/",
+  "Name": "Amélie"
+}

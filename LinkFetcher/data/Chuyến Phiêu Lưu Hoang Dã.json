@@ -1,0 +1,33 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hDtiyCztpFdv9yLNSwNblhOjLKJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hDtiyCztpFdv9yLNSwNblhOjLKJ.jpg ",
+      "Name": "Chuyến Phiêu Lưu Hoang Dã - Wildlife"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oxNwxyibPBs1FhRKMQ3eKEmDDQT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oxNwxyibPBs1FhRKMQ3eKEmDDQT.jpg ",
+      "Name": "Chuyến Phiêu Lưu Hoang Dã - Wildlife"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2QDulDhQxoiBst7SkX0DDssZA36.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2QDulDhQxoiBst7SkX0DDssZA36.jpg ",
+      "Name": "Chuyến Phiêu Lưu Hoang Dã - Wildlife"
+    }
+  ],
+  "Links": [],
+  "Intro": "Joe, 14 tuổi, là người con duy nhất của Jeanette và Jerry, là nội trợ và cũng là một tay golf chuyên nghiệp tại một thị trấn nhỏ ở Montana những năm 1960. Cũng gần thị trấn nhỏ đó có một đám cháy rừng không được kiểm soát nổi lên gần biên giới Canada, khi Jerry mất việc, và ý thức của anh ta bảo anh phải quyết định tham gia vào việc chữa cháy, để vợ và con trai của anh ta tự lo liệu.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2019/01/hQSUwjSSRtWCA5EBoY22gGzaE8Y-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/OoJpVQTY_t4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/wildlife/",
+  "Name": "Chuyến Phiêu Lưu Hoang Dã"
+}

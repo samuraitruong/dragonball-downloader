@@ -1,21 +1,84 @@
 {
-  "Id": "movyYGRFx809",
-  "Url": "https://fsharephim.com/movies/shrek-2/",
-  "Name": "Gã Chằn Tinh Tốt Bụng Phần 2",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movyygrfx809/",
-      "Name": "Shrek.2.2004.mkv",
-      "Url": "https://www.fshare.vn/file/TRSAST22XT",
-      "Size": "2.08 GB",
-      "FileSize": 2233170076
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movyygrfx809-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/shrek-2",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gdFAYLb5NR5HqcEKnPloOM6fX4B.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gdFAYLb5NR5HqcEKnPloOM6fX4B.jpg ",
+      "Name": "Gã Chằn Tinh Tốt Bụng Phần 2 - Shrek 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oJRhl7MatF7SXuAwCgcWfWWLmqP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oJRhl7MatF7SXuAwCgcWfWWLmqP.jpg ",
+      "Name": "Gã Chằn Tinh Tốt Bụng Phần 2 - Shrek 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rieLCLsemrccxbRozuQVysaBt4A.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rieLCLsemrccxbRozuQVysaBt4A.jpg ",
+      "Name": "Gã Chằn Tinh Tốt Bụng Phần 2 - Shrek 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6WOXLySAHZg9W2OcPPuGONnQuXz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6WOXLySAHZg9W2OcPPuGONnQuXz.jpg ",
+      "Name": "Gã Chằn Tinh Tốt Bụng Phần 2 - Shrek 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7Y4JMIhbex546Dv5M8OQTssmKiq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7Y4JMIhbex546Dv5M8OQTssmKiq.jpg ",
+      "Name": "Gã Chằn Tinh Tốt Bụng Phần 2 - Shrek 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/odSGDgCtYvVvihBKQrgxSf3xyll.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/odSGDgCtYvVvihBKQrgxSf3xyll.jpg ",
+      "Name": "Gã Chằn Tinh Tốt Bụng Phần 2 - Shrek 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yo2Tx1C92KTxb62vVqj9WtmvANJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yo2Tx1C92KTxb62vVqj9WtmvANJ.jpg ",
+      "Name": "Gã Chằn Tinh Tốt Bụng Phần 2 - Shrek 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uxkW1kGYxBUixsGWTonQsvILx7K.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uxkW1kGYxBUixsGWTonQsvILx7K.jpg ",
+      "Name": "Gã Chằn Tinh Tốt Bụng Phần 2 - Shrek 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2dGivU7pigJk4PQVsgLFVlGJDcX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2dGivU7pigJk4PQVsgLFVlGJDcX.jpg ",
+      "Name": "Gã Chằn Tinh Tốt Bụng Phần 2 - Shrek 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m39gdqdNXX02aKI1SP4NxwkX5pN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m39gdqdNXX02aKI1SP4NxwkX5pN.jpg ",
+      "Name": "Gã Chằn Tinh Tốt Bụng Phần 2 - Shrek 2"
+    }
+  ],
+  "Links": [],
+  "Intro": "Sau khi đánh bại con rồng lửa và lãnh chúa Farquaad để giành lấy trái tim của công chúa Fiona; gã chằn tinh Shrek giờ sống cuộc sống yên bình. Cả hai trải qua kỳ nghỉ trăng mật đầy lãng mạn.Cơn ác mộng thực sự đến khi quốc vương và hoàng hậu xứ Xa thật xa vời hai con về gặp mặt.Cùng với Lừa lắm mồm, đôi vợ chồng trẻ quay về kinh thành náo nhiệt. Kinh thành thân quen chào đón công chúa Fiona, xong không ai ngờ chàng phò mã là&#8230; chằn tinh. Còn cô công chúa yểu điệu ngày nào giờ cũng trong bộ dạng phục phịch xanh lét như chồng.Chàng rể trái ý quốc vương đã khiến Bà tiên đỡ đầu, Hoàng tử quyến rũ và tên sát thủ Mèo đi hia vào cuộc nhằm&#8230; thủ tiêu Shrek để lập phò mã mới!",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/akWDA0BMVYK4OTM92T5i91DYnsT-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/dB7a9utApIQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/shrek-2/",
+  "Name": "Gã Chằn Tinh Tốt Bụng Phần 2"
 }

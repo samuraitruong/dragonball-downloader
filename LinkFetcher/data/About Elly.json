@@ -1,0 +1,58 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8LBt89PMdIeLsI5MdgacfgErDHy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8LBt89PMdIeLsI5MdgacfgErDHy.jpg",
+      "Name": "About Elly"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/XNUYnsL51BCckM69GFGs6JSkV2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/XNUYnsL51BCckM69GFGs6JSkV2.jpg",
+      "Name": "About Elly"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dAYqhe3b7UsK3szMvseZ5OordIT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dAYqhe3b7UsK3szMvseZ5OordIT.jpg",
+      "Name": "About Elly"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nYT3UvKSfjkj7lr2OaPFipABNvN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nYT3UvKSfjkj7lr2OaPFipABNvN.jpg",
+      "Name": "About Elly"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cTm3CV94vGaddV1GiY6d3eJkMqo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cTm3CV94vGaddV1GiY6d3eJkMqo.jpg",
+      "Name": "About Elly"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/esI7T5zdUnwa35DYcHdqIYiU1gz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/esI7T5zdUnwa35DYcHdqIYiU1gz.jpg",
+      "Name": "About Elly"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ApSUZ3vrBGNFrppLGNDWEJNcflk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ApSUZ3vrBGNFrppLGNDWEJNcflk.jpg",
+      "Name": "About Elly"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/81N4HOkvwlu3qWZktR0Spp67i5L.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/81N4HOkvwlu3qWZktR0Spp67i5L.jpg",
+      "Name": "About Elly"
+    }
+  ],
+  "Links": [],
+  "Intro": "The mysterious disappearance of a kindergarten teacher during a picnic in the north of Iran is followed by a series of misadventures for her fellow travelers.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/dDxZSK4qXQutLMk7RsOOC2eAspu-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/S-CAKV2CUU0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/about-elly/",
+  "Name": "About Elly"
+}

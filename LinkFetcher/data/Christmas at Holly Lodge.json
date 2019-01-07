@@ -1,0 +1,31 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/tv-movie/",
+      "Name": "TV Movie"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yJeDQ6ChvIZDttPl6egyrOYt7dS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yJeDQ6ChvIZDttPl6egyrOYt7dS.jpg ",
+      "Name": "Christmas at Holly Lodge"
+    }
+  ],
+  "Links": [],
+  "Intro": "Sophie Bennett begins a new holiday tradition of spending every holiday at the Evergreen Inn and Ski Lodge, which she inherited from her parents. Evergreen Inn is a special place filled with people who cannot make it home for the holidays or who have had such wonderful experiences that it has become their home-away-from-holiday-home. This Christmas, Sophie will meet an unforgettable family, and her own life will be forever changed.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/j1HnwKaYa9TtIfvuPAjDlZbxYNr-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/christmas-at-holly-lodge/",
+  "Name": "Christmas at Holly Lodge"
+}

@@ -1,14 +1,85 @@
 {
   "Id": "movgcKP2t65759",
-  "Url": "https://fsharephim.com/movies/happy-feet-two/",
-  "Name": "Happy Feet Two",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4MnCCfVAvLx7pP9ZvMQyvkb5awB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4MnCCfVAvLx7pP9ZvMQyvkb5awB.jpg",
+      "Name": "Happy Feet Two"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dUy3Kh5DIl1CkuMmTP58gOMGxU6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dUy3Kh5DIl1CkuMmTP58gOMGxU6.jpg",
+      "Name": "Happy Feet Two"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2ItHN3UMJyWmRdAoaXmdiffjiGR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2ItHN3UMJyWmRdAoaXmdiffjiGR.jpg",
+      "Name": "Happy Feet Two"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yZ3hJdp5qyMPzgzUtpR2I1NzI1Y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yZ3hJdp5qyMPzgzUtpR2I1NzI1Y.jpg",
+      "Name": "Happy Feet Two"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kDeKDIvKsRAIXG5prwWGKgeQ86n.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kDeKDIvKsRAIXG5prwWGKgeQ86n.jpg",
+      "Name": "Happy Feet Two"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h8jd11NYZgPpU5TTmqAuJkml02X.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h8jd11NYZgPpU5TTmqAuJkml02X.jpg",
+      "Name": "Happy Feet Two"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/A7VfL5iMCKyBY54eFCaIjo3hj8v.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/A7VfL5iMCKyBY54eFCaIjo3hj8v.jpg",
+      "Name": "Happy Feet Two"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/suMrGBv8MrS4Q6a8qqchhv4fs7g.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/suMrGBv8MrS4Q6a8qqchhv4fs7g.jpg",
+      "Name": "Happy Feet Two"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pSz22C5RWxiByIsr9uSevx2DDkf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pSz22C5RWxiByIsr9uSevx2DDkf.jpg",
+      "Name": "Happy Feet Two"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/67zzq0X7FVnfRiVZw5G7iftUYtE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/67zzq0X7FVnfRiVZw5G7iftUYtE.jpg",
+      "Name": "Happy Feet Two"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movgckp2t65759/",
-      "Name": "Happy.Feet.Two.2012.mkv",
-      "Url": "https://www.fshare.vn/file/TK7H32RGVT",
       "Size": "2.23 GB",
-      "FileSize": 2396237681
+      "FileSize": 2396237681,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/TK7H32RGVT",
+      "Name": "Happy.Feet.Two.2012.mkv"
     }
-  ]
+  ],
+  "Intro": "Mumble the penguin has a problem: his son Erik, who is reluctant to dance, encounters The Mighty Sven, a penguin who can fly! Things get worse for Mumble when the world is shaken by powerful forces, causing him to brings together the penguin nations and their allies to set things right.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/gY8lWCObaGvcDsmeM8QHBF4AZVk-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/gKWNUyTGqss?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/happy-feet-two/",
+  "Name": "Happy Feet Two"
 }

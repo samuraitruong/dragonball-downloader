@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ngoai-quoc/",
+      "Name": "Ngoại Quốc"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9bIMWDXyG0QTL7ygEwgESLIR5cP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9bIMWDXyG0QTL7ygEwgESLIR5cP.jpg ",
+      "Name": "Chiến Lang Truyền Thuyết - Legend of The Wolf"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tVNfKQjWv1zEjc7DTNEv2HLKiUG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tVNfKQjWv1zEjc7DTNEv2HLKiUG.jpg ",
+      "Name": "Chiến Lang Truyền Thuyết - Legend of The Wolf"
+    }
+  ],
+  "Links": [],
+  "Intro": "Chung Tử Đơn vào vai 1 sơn tặc tên Văn Hiến đã rửa tay gác kiếm nhưng kẻ thù cũ không buông tha và ra sức truy đuổi anh, đến nơi anh tá túc chúng tàn sát dã man những dân làng vô tội&#8230;Thế là anh Chung ra tay nghĩa hiệp để cứu dân làng và tính chuyện sòng phẳng với những kẻ trước kia đã cùng chung chiến tuyến với mình.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/fjKqEkng0R5gTwrQdoQsBe676Bl-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/legend-of-the-wolf/",
+  "Name": "Chiến Lang Truyền Thuyết"
+}

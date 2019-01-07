@@ -1,0 +1,53 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rxYjrlnDWTE8OdhthCfUrEHpUBe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rxYjrlnDWTE8OdhthCfUrEHpUBe.jpg ",
+      "Name": "King Lear"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f3ek4mn4q1lltYWOt7FQ5OgRhiY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f3ek4mn4q1lltYWOt7FQ5OgRhiY.jpg ",
+      "Name": "King Lear"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8PGX0g9J5xbZsqjlQCzTDr7sFJq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8PGX0g9J5xbZsqjlQCzTDr7sFJq.jpg ",
+      "Name": "King Lear"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2gwmFpFM9oyuIUfubnSB1mXss1z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2gwmFpFM9oyuIUfubnSB1mXss1z.jpg ",
+      "Name": "King Lear"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fsWfO4nKndMMwx5t5mjyLqwOtBR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fsWfO4nKndMMwx5t5mjyLqwOtBR.jpg ",
+      "Name": "King Lear"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dOvVD9B4IACZ5nH3DMJDyPWQgDW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dOvVD9B4IACZ5nH3DMJDyPWQgDW.jpg ",
+      "Name": "King Lear"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aPTecz0ZxtztDgtS56QkqkaG2Kc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aPTecz0ZxtztDgtS56QkqkaG2Kc.jpg ",
+      "Name": "King Lear"
+    }
+  ],
+  "Links": [],
+  "Intro": "An aging King invites disaster, when he abdicates to his corrupt, toadying daughters, and rejects his loving and honest one.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/09/dHd0YS1PGxjfZCVbYi9Hetg7zZd-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/utsDahZ42ys?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/king-lear/",
+  "Name": "King Lear"
+}

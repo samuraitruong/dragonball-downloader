@@ -1,0 +1,35 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ljqvhVWBP8R1y0bsZ0Jr8q3Kj8B.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ljqvhVWBP8R1y0bsZ0Jr8q3Kj8B.jpg ",
+      "Name": "Phi Vụ Cuối Cùng - The Adventurers"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phi Vụ Cuối Cùng:Tên trộm khét tiếng Trương Đan trong một lần hành động gặp phải đối thủ khiến phi vụ thất bại rồi anh bị bắt vào tù. Sau 5 năm bị giam giữ, Trương Đan được phóng thích. Anh liền hợp tác cùng đồng bọn cũ, Tiểu Bảo, và tay lính mới Diệp Hồng liên tiếp thực hiện thành công nhiều phi vụ ngay dưới mũi của Pierre , thám tử người Pháp đã truy bắt anh suốt nhiều năm qua.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/5Vml5t3V1mnRAPyduPFUc8ew8HN-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Uo2_s0vxWdc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-adventurers/",
+  "Name": "Phi Vụ Cuối Cùng"
+}

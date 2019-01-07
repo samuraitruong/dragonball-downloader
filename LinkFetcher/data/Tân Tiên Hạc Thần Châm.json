@@ -1,0 +1,46 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4S7hKCobCeukmczmkYRY21MeuIs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4S7hKCobCeukmczmkYRY21MeuIs.jpg",
+      "Name": "Tân Tiên Hạc Thần Châm - The Magic Crane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pfr5X7eVPprKxfb7SUKPL2BMCHr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pfr5X7eVPprKxfb7SUKPL2BMCHr.jpg",
+      "Name": "Tân Tiên Hạc Thần Châm - The Magic Crane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/diEd2Ri0rvl6nH60Mt5Xuz49I9K.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/diEd2Ri0rvl6nH60Mt5Xuz49I9K.jpg",
+      "Name": "Tân Tiên Hạc Thần Châm - The Magic Crane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fDcWFHOR8trGLypd4CFnvEG64aC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fDcWFHOR8trGLypd4CFnvEG64aC.jpg",
+      "Name": "Tân Tiên Hạc Thần Châm - The Magic Crane"
+    }
+  ],
+  "Links": [],
+  "Intro": "Đây là một bộ phim kiếm hiệp cổ trang mang một chút hài hước. Phim có sự tham gia của các diễn viên gạo cội của điện ảnh Hồng Kông như Lương Triều Vĩ, Lưu Tùng Nhân, Mai Diễm Phương.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/rBmMgcLZJRwCeflrp4CVsOge2Mc-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/PIEBCAmrEJQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-magic-crane/",
+  "Name": "Tân Tiên Hạc Thần Châm"
+}

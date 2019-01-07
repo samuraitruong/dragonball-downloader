@@ -1,0 +1,33 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/Ak9bbieOA2iNtp7jK7gtFm7UR1t.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/Ak9bbieOA2iNtp7jK7gtFm7UR1t.jpg",
+      "Name": "You Call It Passion"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tVbfUxKzZslg8P0T7lWC4zI7Iul.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tVbfUxKzZslg8P0T7lWC4zI7Iul.jpg",
+      "Name": "You Call It Passion"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uRnYkhLIwG1soNLgDIWx6UAyD8X.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uRnYkhLIwG1soNLgDIWx6UAyD8X.jpg",
+      "Name": "You Call It Passion"
+    }
+  ],
+  "Links": [],
+  "Intro": "Ra-hee is ready for the real world. She has graduated from a respectable college and begins to apply for full-time jobs but is rejected by every company that she applies to. When all hope is lost, she gets a phone call from a newspaper company and is recruited as an intern in the entertainment section. Although reluctant at first, as she believes herself to be over-qualified for the job, she soon learns and understands the passion of the press. During her rollercoaster experience as an entertainment journalist/intern, she discovers the dirty and hidden aspects of the journalism industry.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/jgmkr4oF7mY4zWaZEZDjCzuekiV-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/you-call-it-passion/",
+  "Name": "You Call It Passion"
+}

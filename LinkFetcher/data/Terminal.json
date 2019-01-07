@@ -1,0 +1,66 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bwvxvrHH3nTbcwpEcJhA72kkI94.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bwvxvrHH3nTbcwpEcJhA72kkI94.jpg ",
+      "Name": "Terminal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mIQ59rId4zysUQre6kQIyRM9JG6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mIQ59rId4zysUQre6kQIyRM9JG6.jpg ",
+      "Name": "Terminal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k00wJ1PiF3Q1439zEQKIfZxcN3M.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k00wJ1PiF3Q1439zEQKIfZxcN3M.jpg ",
+      "Name": "Terminal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5o3O3fmroHRE0wf7vWMMHNKn3vi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5o3O3fmroHRE0wf7vWMMHNKn3vi.jpg ",
+      "Name": "Terminal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nW0ZGcJFnIgxBVr9sE9TdaSL0CM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nW0ZGcJFnIgxBVr9sE9TdaSL0CM.jpg ",
+      "Name": "Terminal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ezUzV9LqS9fEek3KkpPacMFX5HQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ezUzV9LqS9fEek3KkpPacMFX5HQ.jpg ",
+      "Name": "Terminal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pIRrWfRdx5rICNQa960YgOQEgtA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pIRrWfRdx5rICNQa960YgOQEgtA.jpg ",
+      "Name": "Terminal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wHJSxyzOsUQ9U68SZZv0lGrlNmf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wHJSxyzOsUQ9U68SZZv0lGrlNmf.jpg ",
+      "Name": "Terminal"
+    }
+  ],
+  "Links": [],
+  "Intro": "In the dark heart of a sprawling, anonymous city, &#8220;Terminal&#8221; follows the twisting tales of two assassins carrying out a sinister mission, a teacher battling a fatal illness, an enigmatic janitor and a curious waitress leading a dangerous double life. Murderous consequences unravel in the dead of night as their lives all intertwine at the hands of a mysterious criminal mastermind hell-bent on revenge.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/xi7pA3lL6Wb78p6Y6PgWoHDMjrM-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/0le19v80S80?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/terminal/",
+  "Name": "Terminal"
+}

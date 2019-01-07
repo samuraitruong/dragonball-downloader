@@ -1,0 +1,31 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mgKO8vKaEuXdqMc0Ftm28Q2Hpzt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mgKO8vKaEuXdqMc0Ftm28Q2Hpzt.jpg",
+      "Name": "Hangman"
+    }
+  ],
+  "Links": [],
+  "Intro": "A homicide detective teams up with a criminal profiler to catch a serial killer whose crimes are inspired by the children&#8217;s game Hangman.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/zRucAVFCKGtFK0JEe6sybNxZdwB-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/msfROsXKbws?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/hangman-2/",
+  "Name": "Hangman"
+}

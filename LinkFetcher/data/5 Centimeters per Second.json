@@ -1,35 +1,61 @@
 {
-  "Id": "mov7ULj3q38142",
-  "Url": "https://fsharephim.com/movies/5-centimeters-per-second/",
-  "Name": "5 Centimeters per Second",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov7ulj3q38142-3/",
-      "Name": "5 Centimeters Per Second (2007) 1080p BrRip x264.mkv",
-      "Url": "https://www.fshare.vn/file/J75SBV72ELJL",
-      "Size": "3.27 GB",
-      "FileSize": 3506371077
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov7ulj3q38142-4/",
-      "Name": "5 Centimeters Per Second (2007) Global Edition 1080p Bluray AVC DTS-HD MA 5.1.iso",
-      "Url": "https://www.fshare.vn/file/38NA7WPKEYG1H4R",
-      "Size": "20.9 GB",
-      "FileSize": 22439002112
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov7ulj3q38142/",
-      "Name": "WebRip - 720p",
-      "Url": "https://www.fshare.vn/file/TBDH1T5PST/",
-      "Size": "1.46 GB",
-      "FileSize": 0
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/mov7ulj3q38142-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/5-centimeters-per-second-bysoku-5-senchimtoru",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/na51OUflawJy5K2cgvF07nrgGrl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/na51OUflawJy5K2cgvF07nrgGrl.jpg",
+      "Name": "5 Centimeters per Second"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zEGMF8FrsX87YgEPAdgJ2LlIaVh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zEGMF8FrsX87YgEPAdgJ2LlIaVh.jpg",
+      "Name": "5 Centimeters per Second"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ukxXDeC4qps2U9kxbC99QfwulCj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ukxXDeC4qps2U9kxbC99QfwulCj.jpg",
+      "Name": "5 Centimeters per Second"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xvZcjjPmYBlYU2pzyk7IbMctEq0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xvZcjjPmYBlYU2pzyk7IbMctEq0.jpg",
+      "Name": "5 Centimeters per Second"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gutlooXIlbwj3lT8W7HMka3Ac2k.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gutlooXIlbwj3lT8W7HMka3Ac2k.jpg",
+      "Name": "5 Centimeters per Second"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sjtdKJPBgkMyI1cr2O2gbvAl8gM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sjtdKJPBgkMyI1cr2O2gbvAl8gM.jpg",
+      "Name": "5 Centimeters per Second"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g2fe0oluJhXcZTiZ2NJ1tMYn32K.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g2fe0oluJhXcZTiZ2NJ1tMYn32K.jpg",
+      "Name": "5 Centimeters per Second"
+    }
+  ],
+  "Links": [],
+  "Intro": "Takaki and Akari are two classmates in elementary school. During their time together they have become close friends. Their relationship is tested when Akari moves to another city because of her parents&#8217; jobs. Both of them struggle to keep their friendship alive, as time and distance slowly pulls them apart. When Takaki finds out that he is moving further away, he decides to visit Akari one last time.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/wX7RbjclqHoSWd4NGouDisBHq1o-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/PxKn5AwOTis?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/5-centimeters-per-second/",
+  "Name": "5 Centimeters per Second"
 }

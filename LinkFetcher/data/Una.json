@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rgF8QN2JrV2xkwFdLtUx306uy5k.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rgF8QN2JrV2xkwFdLtUx306uy5k.jpg",
+      "Name": "Una"
+    }
+  ],
+  "Links": [],
+  "Intro": "When a young woman unexpectedly arrives at an older man’s workplace, looking for answers, the secrets of the past threaten to unravel his new life.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/xvEhxYOHf7eKzLWeorlyrg3Dpru-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/gq19hpbwH0A?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/una/",
+  "Name": "Una"
+}

@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/unMc1jEyqCnzba976GviSFKGagt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/unMc1jEyqCnzba976GviSFKGagt.jpg ",
+      "Name": "Cỗ Máy Tội Phạm - A Clockwork Orange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6GKCSrUmV83q3iGhKKxg19qtluD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6GKCSrUmV83q3iGhKKxg19qtluD.jpg ",
+      "Name": "Cỗ Máy Tội Phạm - A Clockwork Orange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6nGaLgORQWY6qesyNpKkUO2mBn2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6nGaLgORQWY6qesyNpKkUO2mBn2.jpg ",
+      "Name": "Cỗ Máy Tội Phạm - A Clockwork Orange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qgBm3wTu1wBI0HG4mJ5YnOcjszt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qgBm3wTu1wBI0HG4mJ5YnOcjszt.jpg ",
+      "Name": "Cỗ Máy Tội Phạm - A Clockwork Orange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cS3LHJAkarMTk0rsouLPrRU7EQW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cS3LHJAkarMTk0rsouLPrRU7EQW.jpg ",
+      "Name": "Cỗ Máy Tội Phạm - A Clockwork Orange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cuajHs7j41RiENdWMjimuGyna9A.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cuajHs7j41RiENdWMjimuGyna9A.jpg ",
+      "Name": "Cỗ Máy Tội Phạm - A Clockwork Orange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kftx24gWij4Ep3t5jPJQsoxzvdd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kftx24gWij4Ep3t5jPJQsoxzvdd.jpg ",
+      "Name": "Cỗ Máy Tội Phạm - A Clockwork Orange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/93xXzA02SIIpBT3lpDUj0ycybjX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/93xXzA02SIIpBT3lpDUj0ycybjX.jpg ",
+      "Name": "Cỗ Máy Tội Phạm - A Clockwork Orange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/55b4nvbDoANxPDFbKn6EwIkW7BE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/55b4nvbDoANxPDFbKn6EwIkW7BE.jpg ",
+      "Name": "Cỗ Máy Tội Phạm - A Clockwork Orange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qPuQ6rQy9rpco8WwHqdp6XgJXAV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qPuQ6rQy9rpco8WwHqdp6XgJXAV.jpg ",
+      "Name": "Cỗ Máy Tội Phạm - A Clockwork Orange"
+    }
+  ],
+  "Links": [],
+  "Intro": "Câu chuyện xoay quanh nhân vật trung tâm là thằng nhóc 15 tuổi Alex Delarge, tên tội phạm bẩm sinh với 3 thứ khoái lạc: bạo lực, hiếp dâm và nhạc Beethoven&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/kgAi87gyx6b4oGJYSC36tVkJyJu-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/2gtPhs84Jdg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/a-clockwork-orange/",
+  "Name": "Cỗ Máy Tội Phạm"
+}

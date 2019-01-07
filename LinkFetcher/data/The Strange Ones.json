@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qNwWRC1lRoy8Ls76Id7PvogdwEv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qNwWRC1lRoy8Ls76Id7PvogdwEv.jpg ",
+      "Name": "The Strange Ones"
+    }
+  ],
+  "Links": [],
+  "Intro": "Mysterious events surround the travels of two brothers as they make their way across a remote American landscape. On the surface all seems normal, but what appears to be a simple vacation soon gives way to a dark and complex web of secrets. This is the feature film version of the 2011 short film going by the same name.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/39gn1Mr9PPMYo5Zul9l972ZBfKk-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/zfV2ERT4664?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-strange-ones/",
+  "Name": "The Strange Ones"
+}

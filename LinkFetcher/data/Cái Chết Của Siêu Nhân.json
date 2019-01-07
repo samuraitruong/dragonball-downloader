@@ -1,14 +1,49 @@
 {
   "Id": "movv18lUT487670",
-  "Url": "https://fsharephim.com/movies/the-death-of-superman/",
-  "Name": "Cái Chết Của Siêu Nhân",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/guSmJAhFHtqhk4ADq8karRN2lOK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/guSmJAhFHtqhk4ADq8karRN2lOK.jpg",
+      "Name": "Cái Chết Của Siêu Nhân - The Death of Superman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/p3AhoU3vRl2jaaZKnJWWb3bKrym.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/p3AhoU3vRl2jaaZKnJWWb3bKrym.jpg",
+      "Name": "Cái Chết Của Siêu Nhân - The Death of Superman"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movv18lut487670/",
-      "Name": "WEB-DL-1080p",
-      "Url": "http://www.fshare.vn/file/LODJAHCXH8IK",
       "Size": "3.13 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/LODJAHCXH8IK",
+      "Name": "WEB-DL-1080p"
     }
-  ]
+  ],
+  "Intro": "Một sinh vật to lớn, hung dữ tên Doomsday đến Trái đất, đe dọa phá hủy thế giới. Đội Liên Minh Công Lý đến ngăn chặn nhưng các siêu anh hùng như Wonder Woman, Green Lantern, Batman&#8230; đều bị đánh bại. Chỉ có Superman (Jerry O&#8217;Connell lồng tiếng) đủ khỏe để chống trả con quái vật hùng mạnh. Anh và Doomsday vừa chiến đấu vừa di chuyển khắp nước Mỹ&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/06/y0uxSHaSFmt6XaBJgjkeLqe7aM-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/yQoMhtoQw18?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-death-of-superman/",
+  "Name": "Cái Chết Của Siêu Nhân"
 }

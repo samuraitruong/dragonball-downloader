@@ -1,0 +1,67 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kR48L1E3OLOkQcnlmpi5wDj7ZZt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kR48L1E3OLOkQcnlmpi5wDj7ZZt.jpg ",
+      "Name": "T2 Trainspotting"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dxJynNxoG6jRttYPoXOGx7OWJvq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dxJynNxoG6jRttYPoXOGx7OWJvq.jpg ",
+      "Name": "T2 Trainspotting"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8pWSju52P8gvwWVfKeiYhw3We3e.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8pWSju52P8gvwWVfKeiYhw3We3e.jpg ",
+      "Name": "T2 Trainspotting"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uOT7hxiS1xBgvcId5sRYmcrmAX4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uOT7hxiS1xBgvcId5sRYmcrmAX4.jpg ",
+      "Name": "T2 Trainspotting"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7TcnUsDLy6jBNDQZZKfRMlVrd6b.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7TcnUsDLy6jBNDQZZKfRMlVrd6b.jpg ",
+      "Name": "T2 Trainspotting"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/19GG32yZp2DQrndlSpCqSDLBS5L.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/19GG32yZp2DQrndlSpCqSDLBS5L.jpg ",
+      "Name": "T2 Trainspotting"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9ewXBuxEzMt56nmhG6xBfrWOeyt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9ewXBuxEzMt56nmhG6xBfrWOeyt.jpg ",
+      "Name": "T2 Trainspotting"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u0xyP31xI2osxhikMWEu2K1pm3D.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u0xyP31xI2osxhikMWEu2K1pm3D.jpg ",
+      "Name": "T2 Trainspotting"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sKz3P6awi430esHmIdfxsSm8nOU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sKz3P6awi430esHmIdfxsSm8nOU.jpg ",
+      "Name": "T2 Trainspotting"
+    }
+  ],
+  "Links": [],
+  "Intro": "After 20 years abroad, Mark Renton returns to Scotland and reunites with his old friends Sick Boy, Spud and Begbie.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/fbHXfr2N4pI2j7i9RLYiddjotBl-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/EsozpEE543w?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/t2-trainspotting/",
+  "Name": "T2 Trainspotting"
+}

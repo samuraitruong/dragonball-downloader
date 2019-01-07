@@ -1,0 +1,46 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hYFoIBasOjQGok8xX3uQ3NIkncH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hYFoIBasOjQGok8xX3uQ3NIkncH.jpg",
+      "Name": "Chronicle of a Blood Merchant"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5kiQuWT8509wJdvrzEHnGC4JiED.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5kiQuWT8509wJdvrzEHnGC4JiED.jpg",
+      "Name": "Chronicle of a Blood Merchant"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/btWCinMeOopdQ9EbluxJUeOlkva.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/btWCinMeOopdQ9EbluxJUeOlkva.jpg",
+      "Name": "Chronicle of a Blood Merchant"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uiD6a5M1h1Su7UXZq6yEGPzwzZN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uiD6a5M1h1Su7UXZq6yEGPzwzZN.jpg",
+      "Name": "Chronicle of a Blood Merchant"
+    }
+  ],
+  "Links": [],
+  "Intro": "Set in a village right after the Korean War, poor but good-hearted Heo Sam-gwan sets out to win the most beautiful girl in the village, Heo Ok-ran, by selling his blood to earn money. Years later, the two are happily married with three children, but their family undergoes a crisis when Sam-gwan&#8217;s eldest son doesn&#8217;t resemble him and rumors spread about the boy&#8217;s paternity.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/ePPgBhXSJycu4x2eh4JZj2AJC18-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Y9mBdN6F1SI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/chronicle-of-a-blood-merchant/",
+  "Name": "Chronicle of a Blood Merchant"
+}

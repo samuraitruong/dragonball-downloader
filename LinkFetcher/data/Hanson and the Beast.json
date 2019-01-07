@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f6MlqTGJzr9t4AbbobUc2d9ybWY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f6MlqTGJzr9t4AbbobUc2d9ybWY.jpg",
+      "Name": "Hanson and the Beast"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qGkMdktC4d0T1o4b23myKe8D8sW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qGkMdktC4d0T1o4b23myKe8D8sW.jpg",
+      "Name": "Hanson and the Beast"
+    }
+  ],
+  "Links": [],
+  "Intro": "Yuan Shuai, a debt-ridden animal-breeder, tries to get out of his financial predicament by finding a wealthy girlfriend through matchmaking dates. He unexpectedly meets and fall in love with the fox demon, Bai Xianchu, who has arrived to the mortal realm to repay her gratitude. However, the head of the Demon tribe Yun Zhonghe forbids a love relationship between a demon and a human; and takes Bai Xianchu away. To seek his lover, Yuan Shuai bravely crashes the demonic world.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/ehCnVVuVIyR0jjzPr2DNHzNHV6m-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/TYjvyhd_CLU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/hanson-and-the-beast/",
+  "Name": "Hanson and the Beast"
+}

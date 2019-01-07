@@ -1,21 +1,45 @@
 {
   "Id": "movH4n9u810228",
-  "Url": "https://fsharephim.com/movies/pokemon-the-first-movie-mewtwo-strikes-back/",
-  "Name": "Pokémon: The First Movie: Mewtwo Strikes Back",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xZvVOnaM3b2te7rf7u4gRVDcamR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xZvVOnaM3b2te7rf7u4gRVDcamR.jpg",
+      "Name": "Pokémon: The First Movie: Mewtwo Strikes Back"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3wf6uJt8SeTctqsC3tkduaBjisK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3wf6uJt8SeTctqsC3tkduaBjisK.jpg",
+      "Name": "Pokémon: The First Movie: Mewtwo Strikes Back"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movh4n9u810228-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/pokmon-the-first-moviemewtwo-strikes-back",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/pokmon-the-first-moviemewtwo-strikes-back",
+      "Name": "Subtitle"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movh4n9u810228/",
-      "Name": "1998.Pokemon.Mewtwo.Strikes.Back.Bluray.VIE.1080p.AVC.DD.2.0.mkv",
-      "Url": "https://www.fshare.vn/file/6MDP7JUGD8PM",
       "Size": "18.5 GB",
-      "FileSize": 19861847705
+      "FileSize": 19861847705,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/6MDP7JUGD8PM",
+      "Name": "1998.Pokemon.Mewtwo.Strikes.Back.Bluray.VIE.1080p.AVC.DD.2.0.mkv"
     }
-  ]
+  ],
+  "Intro": "The adventure explodes into action with the debut of Mewtwo, a bio-engineered Pokemon created from the DNA of Mew, the rarest of all Pokemon. Determined to prove its superiority, Mewtwo lures Ash, Pikachu and others into a Pokemon match like none before. Mewtwo vs. Mew. Super-clones vs. Pokemon. It&#8217;s the ultimate showdown &#8230; with the very future of the world at stake!",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/aalTziefHGUVLg44iyWS8B7ee5u-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/WcUgfKR5q4c?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/pokemon-the-first-movie-mewtwo-strikes-back/",
+  "Name": "Pokémon: The First Movie: Mewtwo Strikes Back"
 }

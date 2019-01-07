@@ -1,0 +1,38 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rb7vAsYlHEZsLNftMOsBYJYukdY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rb7vAsYlHEZsLNftMOsBYJYukdY.jpg ",
+      "Name": "The Empress of China"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ztRgrel8C7MDOLo4hqVF68C2PGF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ztRgrel8C7MDOLo4hqVF68C2PGF.jpg ",
+      "Name": "The Empress of China"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ebf7rjlbPYBt4514paW0fpgYv7d.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ebf7rjlbPYBt4514paW0fpgYv7d.jpg ",
+      "Name": "The Empress of China"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/guolpgbDEJSDwSvt7z5EygLa4P0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/guolpgbDEJSDwSvt7z5EygLa4P0.jpg ",
+      "Name": "The Empress of China"
+    }
+  ],
+  "Links": [],
+  "Intro": "Based on events in 7th and 8th-century Tang dynasty and starring producer Fan Bingbing as the titular character Wu Zetian, The Empress of China is the story of the only woman in Chinese history to rule as an emperor.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/i2ToVDDbXYa8QvTI2ipJuocfM9K-1-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/tv-shows/the-empress-of-china/",
+  "Name": "The Empress of China"
+}

@@ -1,28 +1,84 @@
 {
-  "Id": "movlgV6mG12222",
-  "Url": "https://fsharephim.com/movies/horton-hears-a-who/",
-  "Name": "Horton Hears a Who!",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movlgv6mg12222-3/",
-      "Name": "Bluray - Vie",
-      "Url": "https://www.fshare.vn/file/F9PKGAPJ8887",
-      "Size": "24.55 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movlgv6mg12222/",
-      "Name": "BDRip - 720",
-      "Url": "https://www.fshare.vn/file/TQC51FAA2T/",
-      "Size": "2.19 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movlgv6mg12222-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/horton-hears-a-who",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jft2L1Jhe9xhKhB5uYBzYIjGXkw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jft2L1Jhe9xhKhB5uYBzYIjGXkw.jpg",
+      "Name": "Horton Hears a Who!"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vNUNqtcJxG2jFp5UHzKLhXqZONs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vNUNqtcJxG2jFp5UHzKLhXqZONs.jpg",
+      "Name": "Horton Hears a Who!"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rv4mx3VXgnyzlSs0fcUp17LlbZo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rv4mx3VXgnyzlSs0fcUp17LlbZo.jpg",
+      "Name": "Horton Hears a Who!"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lBn8qsIRKRgKKkqTrOpxbpwd9jM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lBn8qsIRKRgKKkqTrOpxbpwd9jM.jpg",
+      "Name": "Horton Hears a Who!"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kGobTXyWHFVsRtyTjSMafpGpgZn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kGobTXyWHFVsRtyTjSMafpGpgZn.jpg",
+      "Name": "Horton Hears a Who!"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/e7k4XIK0c9GV0yl57RI0k5Lm2WV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/e7k4XIK0c9GV0yl57RI0k5Lm2WV.jpg",
+      "Name": "Horton Hears a Who!"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3kc9kVt1eNme8Nr8Dh6AM2BcFjd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3kc9kVt1eNme8Nr8Dh6AM2BcFjd.jpg",
+      "Name": "Horton Hears a Who!"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jgqXhJiGsqZ53ZG178A5htCC7fi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jgqXhJiGsqZ53ZG178A5htCC7fi.jpg",
+      "Name": "Horton Hears a Who!"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oqwp3nzhT9FFb0aV3bfZppWFISS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oqwp3nzhT9FFb0aV3bfZppWFISS.jpg",
+      "Name": "Horton Hears a Who!"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lExS1eYuJiHH4zHQfhc6h2gqbik.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lExS1eYuJiHH4zHQfhc6h2gqbik.jpg",
+      "Name": "Horton Hears a Who!"
+    }
+  ],
+  "Links": [],
+  "Intro": "One day, Horton the elephant hears a cry from help coming from a speck of dust. Even though he can&#8217;t see anyone on the speck, he decides to help it. As it turns out, the speck of dust is home to the Whos, who live in their city of Whoville. Horton agrees to help protect the Whos and their home",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/cYc2MbsXsDbMcf3tZDSiuNLn7kn-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/MIQFTBsGccA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/horton-hears-a-who/",
+  "Name": "Horton Hears a Who!"
 }

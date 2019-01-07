@@ -1,0 +1,37 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mL3Wi7JaxHnyKl3ZE8nhwJkkera.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mL3Wi7JaxHnyKl3ZE8nhwJkkera.jpg",
+      "Name": "Gia đình võ thuật - The Kick"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nNvnVl9sI1BSZxyRrxhm9kXrvQC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nNvnVl9sI1BSZxyRrxhm9kXrvQC.jpg",
+      "Name": "Gia đình võ thuật - The Kick"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qnSYEDIpbnrpyPlK2AywkC8edl4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qnSYEDIpbnrpyPlK2AywkC8edl4.jpg",
+      "Name": "Gia đình võ thuật - The Kick"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim kể về 1 gia đình Hàn Quốc nhập cư sang Thái Lan và mở 1 lớp dạy Taekwondo. Có 1 băng nhóm xã hội đen Thái Lan đã đánh cướp &#8221;Thanh kiếm thần của vị vua cuối cùng của Thái La &#8221;được triển lãm ở Bảo tàng Quốc gia. Bằng võ nghệ cao cường, gia đình Moon dành lại báu vật trên tay bọn chúng và trở thành những người hùng của Thái Lan. Nhưng điều đó làm bọn tội phạm càng giận dữ. Chúng bắt cóc cậu con trai út và đòi lấy Thanh kiếm của Đức vua để trao đổi.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/o8dhF8yNT0kkIZvOCAdfrHp7KeE-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-kick/",
+  "Name": "Gia đình võ thuật"
+}

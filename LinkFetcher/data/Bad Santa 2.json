@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9tB94sgqEYlGbsJzYaGdqeYF6iF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9tB94sgqEYlGbsJzYaGdqeYF6iF.jpg",
+      "Name": "Bad Santa 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mqgxY8FpLhbSJldmRBATUnf2Jc8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mqgxY8FpLhbSJldmRBATUnf2Jc8.jpg",
+      "Name": "Bad Santa 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yPuqJgAaJ846OoMq673cTiLuDkG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yPuqJgAaJ846OoMq673cTiLuDkG.jpg",
+      "Name": "Bad Santa 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vgOw5mwRFHgQ3gVPE2vpwWfRpNI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vgOw5mwRFHgQ3gVPE2vpwWfRpNI.jpg",
+      "Name": "Bad Santa 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yUK77BNTm1ecp5udrBWW99Bu3sW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yUK77BNTm1ecp5udrBWW99Bu3sW.jpg",
+      "Name": "Bad Santa 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pYlxIN3xae22rIP05yS0i3VG4j1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pYlxIN3xae22rIP05yS0i3VG4j1.jpg",
+      "Name": "Bad Santa 2"
+    }
+  ],
+  "Links": [],
+  "Intro": "Fueled by cheap whiskey, greed and hatred, Willie Soke teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie&#8217;s sliver of humanity. Issues arise when the pair are joined by Willie&#8217;s horror story of a mother, who raises the bar for the gang&#8217;s ambitions, while somehow lowering the standards of criminal behavior.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/rZASGQ8ZbwnFTQ9L8IBlQnkVSFJ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/HGcZxBNNpKM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/bad-santa-2/",
+  "Name": "Bad Santa 2"
+}

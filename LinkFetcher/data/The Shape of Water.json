@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bAISaVhsaoyyQMZ55cpTwCdzek4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bAISaVhsaoyyQMZ55cpTwCdzek4.jpg ",
+      "Name": "The Shape of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rgyhSn3mINvkuy9iswZK0VLqQO3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rgyhSn3mINvkuy9iswZK0VLqQO3.jpg ",
+      "Name": "The Shape of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/82CVGkxgTZGX6WoCsXsAwNE2g6Y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/82CVGkxgTZGX6WoCsXsAwNE2g6Y.jpg ",
+      "Name": "The Shape of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6rhXCI4I6FRTWMka7hz39dQCiL7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6rhXCI4I6FRTWMka7hz39dQCiL7.jpg ",
+      "Name": "The Shape of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cos0Xh8dsKp4rjSGhL5gF9TJcFC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cos0Xh8dsKp4rjSGhL5gF9TJcFC.jpg ",
+      "Name": "The Shape of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9iwbuxV7S8RFsbhfxZu05RIPKfp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9iwbuxV7S8RFsbhfxZu05RIPKfp.jpg ",
+      "Name": "The Shape of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aPzHNHOqEfW4x44WLdGoW91rfUE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aPzHNHOqEfW4x44WLdGoW91rfUE.jpg ",
+      "Name": "The Shape of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/14V52okHeig65E0tg9Z0Itwwtkz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/14V52okHeig65E0tg9Z0Itwwtkz.jpg ",
+      "Name": "The Shape of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2uNi8709gLNQRlz54zDX3Pk8Jr9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2uNi8709gLNQRlz54zDX3Pk8Jr9.jpg ",
+      "Name": "The Shape of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9fIFL1vI9eljM4ZedB5set0iVvg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9fIFL1vI9eljM4ZedB5set0iVvg.jpg ",
+      "Name": "The Shape of Water"
+    }
+  ],
+  "Links": [],
+  "Intro": "An other-worldly story, set against the backdrop of Cold War era America circa 1962, where a mute janitor working at a lab falls in love with an amphibious man being held captive there and devises a plan to help him escape.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/iLYLADGA5oKGM92Ns1j9CDgk3iI-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/XFYWazblaUA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-shape-of-water/",
+  "Name": "The Shape of Water"
+}

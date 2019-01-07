@@ -1,21 +1,65 @@
 {
-  "Id": "mov3EOCpO202575",
-  "Url": "https://fsharephim.com/movies/thunder-and-the-house-of-magic/",
-  "Name": "Ngôi Nhà Phép Thuật",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov3eocpo202575/",
-      "Name": "The.House.of.Magic.2013.720p.Blu-ray.DTS.x264-RARBG.mkv",
-      "Url": "https://www.fshare.vn/file/OX60M171I3",
-      "Size": "3.89 GB",
-      "FileSize": 4174731392
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov3eocpo202575-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/the-house-of-magic",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k8d8q0ast6Ozv48xEHSG7BEvplR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k8d8q0ast6Ozv48xEHSG7BEvplR.jpg",
+      "Name": "Ngôi Nhà Phép Thuật - Thunder and the House of Magic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9ik7upfTkerY1W7S2HmKFLSJi0c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9ik7upfTkerY1W7S2HmKFLSJi0c.jpg",
+      "Name": "Ngôi Nhà Phép Thuật - Thunder and the House of Magic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9SYPd5wrJMGuXO4rSexxnUZ8mHz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9SYPd5wrJMGuXO4rSexxnUZ8mHz.jpg",
+      "Name": "Ngôi Nhà Phép Thuật - Thunder and the House of Magic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/febbAqLgnu02T3tFVBtYPFsTKNe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/febbAqLgnu02T3tFVBtYPFsTKNe.jpg",
+      "Name": "Ngôi Nhà Phép Thuật - Thunder and the House of Magic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4hWa2HCAXYuT3e6kbG31yiTOZpd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4hWa2HCAXYuT3e6kbG31yiTOZpd.jpg",
+      "Name": "Ngôi Nhà Phép Thuật - Thunder and the House of Magic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4QC9p08FGUeswN5GxFY5Gh5KRfL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4QC9p08FGUeswN5GxFY5Gh5KRfL.jpg",
+      "Name": "Ngôi Nhà Phép Thuật - Thunder and the House of Magic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t0KQ30UyZBKuiMMR4CxTSQsuLCb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t0KQ30UyZBKuiMMR4CxTSQsuLCb.jpg",
+      "Name": "Ngôi Nhà Phép Thuật - Thunder and the House of Magic"
+    }
+  ],
+  "Links": [],
+  "Intro": "Trong phim Ngôi Nhà Phép Thuật: Thunder, một con mèo bị bỏ rơi tìm kiếm nơi trú ẩn trong một cơn bão, tình cờ vào một ngôi nhà lạ lùng không thể tưởng tượng được, thuộc sở hữu của một nhà ảo thuật già. Không ai cũng hoan nghênh việc có mặt của chú mèo, đặc biệt là Jack Rabbit và Maggie Mouse luôn âm mưu đuổi Thunder đi. Tình hình trở nên tồi tệ khi ngôi nhà sắp bị quy hoạch&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/unD7Hsmqw2LBRE09RUfGKjtaSdC-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Tb4fZLrjtSY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/thunder-and-the-house-of-magic/",
+  "Name": "Ngôi Nhà Phép Thuật"
 }

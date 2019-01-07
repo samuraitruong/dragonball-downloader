@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zcbnS1dMfehU0lxkdUODqHoChh4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zcbnS1dMfehU0lxkdUODqHoChh4.jpg",
+      "Name": "The Philadelphia Story"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uWM4sxm6gvkeiu1ix3HiotFq6oT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uWM4sxm6gvkeiu1ix3HiotFq6oT.jpg",
+      "Name": "The Philadelphia Story"
+    }
+  ],
+  "Links": [],
+  "Intro": "Philadelphia heiress Tracy Lord throws out her playboy husband C.K. Dexter Haven shortly after their marriage. Two years later, Tracy is about to marry respectable George Kittredge whilst Dexter has been working for &#8220;Spy&#8221; magazine. Dexter arrives at the Lord mansion the day before the wedding with journalist Mike Connor and photographer Liz Imbrie, determined to spoil things.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/kCbG5jNI3FogXAAl74zddPyup25-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/6CtquHsxoZo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-philadelphia-story/",
+  "Name": "The Philadelphia Story"
+}

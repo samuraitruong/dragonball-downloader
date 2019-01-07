@@ -1,21 +1,84 @@
 {
-  "Id": "movphpodZ41513",
-  "Url": "https://fsharephim.com/movies/the-smurfs/",
-  "Name": "Xì Trum",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movphpodz41513/",
-      "Name": "The.Smurfs.2011.mkv",
-      "Url": "https://www.fshare.vn/file/T5SZMFAAJT",
-      "Size": "2.3 GB",
-      "FileSize": 2474372648
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movphpodz41513-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/the-smurfs-2011",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/83lCHxDeIrovVxPw2ztvwcoH6rA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/83lCHxDeIrovVxPw2ztvwcoH6rA.jpg ",
+      "Name": "Xì Trum - The Smurfs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/szna5KyojRMU7qO8fNpTXaUbcvz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/szna5KyojRMU7qO8fNpTXaUbcvz.jpg ",
+      "Name": "Xì Trum - The Smurfs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wDWtimW82b1Fo2DwkxAt3aCi8KT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wDWtimW82b1Fo2DwkxAt3aCi8KT.jpg ",
+      "Name": "Xì Trum - The Smurfs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l8VNasawW4Jt1XOIqRzm4eTMDbI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l8VNasawW4Jt1XOIqRzm4eTMDbI.jpg ",
+      "Name": "Xì Trum - The Smurfs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qH6ZeizL1woc9Woh1dAtYc229Kw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qH6ZeizL1woc9Woh1dAtYc229Kw.jpg ",
+      "Name": "Xì Trum - The Smurfs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mrxCoZi1kyhqPyxyMEGkVnXS2Su.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mrxCoZi1kyhqPyxyMEGkVnXS2Su.jpg ",
+      "Name": "Xì Trum - The Smurfs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kxbAdGmX859gMgz0ZsH98Lx4FTa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kxbAdGmX859gMgz0ZsH98Lx4FTa.jpg ",
+      "Name": "Xì Trum - The Smurfs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zCIvcFXOVAI6HPYzi09cVBiPAzb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zCIvcFXOVAI6HPYzi09cVBiPAzb.jpg ",
+      "Name": "Xì Trum - The Smurfs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2BcJL3hjHsFn0zR8akgzvjV06Rn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2BcJL3hjHsFn0zR8akgzvjV06Rn.jpg ",
+      "Name": "Xì Trum - The Smurfs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jroCDSRTGuCqlNG9YYcSUdtZUx2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jroCDSRTGuCqlNG9YYcSUdtZUx2.jpg ",
+      "Name": "Xì Trum - The Smurfs"
+    }
+  ],
+  "Links": [],
+  "Intro": "Lão phù thủy độc ác Gargamel rượt đưổi các chú xì &#8211; trum ra khỏi ngôi làng của mình. Tình cờ họ đã vô tình lạc vào hang động cấm mà không biết đó chính là Blue moon , một cánh cửa thần kỳ giúp đưa các xì trum đến thời hiện tại ở công viên Trung tâm New York. Họ đã phải nương náu tại nhà của một cặp đôi mới cưới và tìm cách quay trở lại ngôi làng của họ trước khi lão Gargamel tóm gọn.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/ntP7anZWyi7TxFARKp78bHTLEVr-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/yhBpgqXwrt8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-smurfs/",
+  "Name": "Xì Trum"
 }

@@ -1,0 +1,51 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1Wg8AmasOfb3HvkaS33AzJ6puph.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1Wg8AmasOfb3HvkaS33AzJ6puph.jpg",
+      "Name": "The Deep"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cgly4pRKTXvwgWVrtK0PSBF5fe9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cgly4pRKTXvwgWVrtK0PSBF5fe9.jpg",
+      "Name": "The Deep"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aF7VPdv8sdg2avwKzr8twOGLwjC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aF7VPdv8sdg2avwKzr8twOGLwjC.jpg",
+      "Name": "The Deep"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/p11f1fccCO1eF68frzVxAvk9pwR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/p11f1fccCO1eF68frzVxAvk9pwR.jpg",
+      "Name": "The Deep"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6xZm8rdfZw4MiQru65qZNJtVicO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6xZm8rdfZw4MiQru65qZNJtVicO.jpg",
+      "Name": "The Deep"
+    }
+  ],
+  "Links": [],
+  "Intro": "A pair of young vacationers are involved in a dangerous conflict with treasure hunters when they discover a way into a deadly wreck in Bermuda waters&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/mEd0GbC1rt3R8JfbatHYo4QBTBD-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/-LQzTL2RZyY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-deep/",
+  "Name": "The Deep"
+}

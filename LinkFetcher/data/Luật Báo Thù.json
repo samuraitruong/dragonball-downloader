@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lQRszNtjq5Kx6Shvqh80PVqvq1L.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lQRszNtjq5Kx6Shvqh80PVqvq1L.jpg ",
+      "Name": "Luật Báo Thù - Acts of Vengeance"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6KRAfiClZi773kB9quyHPTN0HEu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6KRAfiClZi773kB9quyHPTN0HEu.jpg ",
+      "Name": "Luật Báo Thù - Acts of Vengeance"
+    }
+  ],
+  "Links": [],
+  "Intro": "Frank Valera (Banderas) là một luật sư, sống cùng với vợ con, nhưng tiếc là không có nhiều thời gian dành cho họ. Trong buổi trình diễn tài năng của nhà trường tổ chức, con anh đã trông anh đến nhưng anh đã đến muộn khi phần diễn xuất của con gái đã kết thúc. Hối hận, anh về trong một cơn mưa kéo dài và anh nhận được tin của cảnh sát rằng con gái đã bị giết chết. Cảnh sát dường như không tìm thấy bất cứ bằng chứng nào dẫn tới nghi phạm. Điều đó làm cho Frank thêm đau khổ và anh quyết tâm đi tìm thủ phạm để trả thù&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/z0DI76o9q0OMxG9cCvMRfysnu2k-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/f4Lrm7w6O4M?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/acts-of-vengeance/",
+  "Name": "Luật Báo Thù"
+}

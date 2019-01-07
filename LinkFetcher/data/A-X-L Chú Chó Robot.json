@@ -1,0 +1,50 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l1nYo0yzKjf84atnBDbx0do16vQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l1nYo0yzKjf84atnBDbx0do16vQ.jpg ",
+      "Name": "A-X-L Chú Chó Robot - A-X-L"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5bE4YCIobmpakrQKigtMLlUhvDO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5bE4YCIobmpakrQKigtMLlUhvDO.jpg ",
+      "Name": "A-X-L Chú Chó Robot - A-X-L"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eS59ZQVgYKxZHoU5DYLgo1xG24g.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eS59ZQVgYKxZHoU5DYLgo1xG24g.jpg ",
+      "Name": "A-X-L Chú Chó Robot - A-X-L"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iby60dQ6vTAfoT0suW9LnsBWO2g.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iby60dQ6vTAfoT0suW9LnsBWO2g.jpg ",
+      "Name": "A-X-L Chú Chó Robot - A-X-L"
+    }
+  ],
+  "Links": [],
+  "Intro": "Trong một lần đi chơi, Miles &#8211; cậu thanh niên có niềm đam mê với máy móc và tốc độ phát hiện ra một chú chó máy quân sự được tạo ra với chức năng tấn công những vị trí mà phương tiện cơ giới không thể đến mang tên A-X-L.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/11/9kB56ZdMB6RgY5QtX9Bar45jCeI-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/--8nr2kt4uk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/a-x-l/",
+  "Name": "A-X-L Chú Chó Robot"
+}

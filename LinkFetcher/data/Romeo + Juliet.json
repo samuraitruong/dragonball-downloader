@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ldiZsKkwVR7sHnkQZmzoPhKmEo3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ldiZsKkwVR7sHnkQZmzoPhKmEo3.jpg",
+      "Name": "Romeo + Juliet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1z8haZxOcvqA3qZhd1eoOtNIjDb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1z8haZxOcvqA3qZhd1eoOtNIjDb.jpg",
+      "Name": "Romeo + Juliet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/grmpMys3yf23Uy8ShYkx8oRxH1H.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/grmpMys3yf23Uy8ShYkx8oRxH1H.jpg",
+      "Name": "Romeo + Juliet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mGjPRn7dUsIS48c1PSqTMdxCLO1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mGjPRn7dUsIS48c1PSqTMdxCLO1.jpg",
+      "Name": "Romeo + Juliet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nByvxW2fDBEwIHkhJsb3hGFTpQx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nByvxW2fDBEwIHkhJsb3hGFTpQx.jpg",
+      "Name": "Romeo + Juliet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hSupROBmMg0e2thRJeNGS0JoMTU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hSupROBmMg0e2thRJeNGS0JoMTU.jpg",
+      "Name": "Romeo + Juliet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iAwdDdoK0wK05etaSjt6IDGmZLx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iAwdDdoK0wK05etaSjt6IDGmZLx.jpg",
+      "Name": "Romeo + Juliet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kHexnAzW1c8iAijYTOaqEWh3u85.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kHexnAzW1c8iAijYTOaqEWh3u85.jpg",
+      "Name": "Romeo + Juliet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kzdM8WjHbteZURjxzyki6IgJ3S2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kzdM8WjHbteZURjxzyki6IgJ3S2.jpg",
+      "Name": "Romeo + Juliet"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9LrcEixkelJGyPQOc1MVETtPNHZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9LrcEixkelJGyPQOc1MVETtPNHZ.jpg",
+      "Name": "Romeo + Juliet"
+    }
+  ],
+  "Links": [],
+  "Intro": "In director Baz Luhrmann&#8217;s contemporary take on William Shakespeare&#8217;s classic tragedy, the Montagues and Capulets have moved their ongoing feud to the sweltering suburb of Verona Beach, where Romeo and Juliet fall in love and secretly wed. Though the film is visually modern, the bard&#8217;s dialogue remains.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/6VsRWzhx9i3FNcggVrNwYLMUdxa-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/fpP6osQNMh0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/romeo-juliet/",
+  "Name": "Romeo + Juliet"
+}

@@ -1,14 +1,45 @@
 {
   "Id": "movwMw77X34067",
-  "Url": "https://fsharephim.com/movies/pokemon-lucario-and-the-mystery-of-mew/",
-  "Name": "Pokémon: Lucario and the Mystery of Mew",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rqNrZpTN2uVQO8ZWCxFQMzJIopJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rqNrZpTN2uVQO8ZWCxFQMzJIopJ.jpg",
+      "Name": "Pokémon: Lucario and the Mystery of Mew"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yLWuTqymfTigGq66RLAfvJBp1rW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yLWuTqymfTigGq66RLAfvJBp1rW.jpg",
+      "Name": "Pokémon: Lucario and the Mystery of Mew"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movwmw77x34067/",
-      "Name": "2005.Pokemon.Lucario.and.the.Mystery.of.Mew.Bluray.VIE.1080p.AVC.DD.5.1.mkv",
-      "Url": "https://www.fshare.vn/file/SMG52KF7DZMU",
       "Size": "19.41 GB",
-      "FileSize": 20845782614
+      "FileSize": 20845782614,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/SMG52KF7DZMU",
+      "Name": "2005.Pokemon.Lucario.and.the.Mystery.of.Mew.Bluray.VIE.1080p.AVC.DD.5.1.mkv"
     }
-  ]
+  ],
+  "Intro": "In the legendary past, before Poké Balls were made; an aura-guiding hero Pokémon named Lucario sensed two groups of armies about to clash, and a threat of a massive war in front of Cameron Palace in Kanto that would leave no survivors. He transferred this message to his master, the legendary hero Sir Aaron, while he was being attacked by a violent group of Houndoom. During the battle, his sense of sight was lost and he was rendered unable to see. He used the detection of his Aura, and so with the offensive Aura Sphere, he eliminated them. Though by the threat, the queen of Cameroon, Lady Rin was resolute to die with her civilians, and so Sir Aaron made a choice.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/2EEMtGPbOMlsIwX3dqkP3TnxyFU-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/cksY3fTkc_I?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/pokemon-lucario-and-the-mystery-of-mew/",
+  "Name": "Pokémon: Lucario and the Mystery of Mew"
 }

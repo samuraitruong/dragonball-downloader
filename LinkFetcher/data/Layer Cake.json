@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rk6RDd6HNbehPtIfPivDJyfpLlD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rk6RDd6HNbehPtIfPivDJyfpLlD.jpg ",
+      "Name": "Layer Cake"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lGUQSoAtk1MzlKZjgt02ub4yyZG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lGUQSoAtk1MzlKZjgt02ub4yyZG.jpg ",
+      "Name": "Layer Cake"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o4wcA4Mt47HKyDU51tY2cyPLb97.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o4wcA4Mt47HKyDU51tY2cyPLb97.jpg ",
+      "Name": "Layer Cake"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ajXWkMLz4ffBN0NbEb6C1Wkw8vH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ajXWkMLz4ffBN0NbEb6C1Wkw8vH.jpg ",
+      "Name": "Layer Cake"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wcP5El00saRfkN6dfpgVcGEDkjk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wcP5El00saRfkN6dfpgVcGEDkjk.jpg ",
+      "Name": "Layer Cake"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hCYjxMQMAS6YnkCKkXaASb1XHZb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hCYjxMQMAS6YnkCKkXaASb1XHZb.jpg ",
+      "Name": "Layer Cake"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v3s580B4EqONEG0N4yLhhKXkDtN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v3s580B4EqONEG0N4yLhhKXkDtN.jpg ",
+      "Name": "Layer Cake"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/q7fA3CCbfD7ZlG2kMW8PLDOovB9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/q7fA3CCbfD7ZlG2kMW8PLDOovB9.jpg ",
+      "Name": "Layer Cake"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/95J82f0fJiKNGB2RxwQHvPSZFsc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/95J82f0fJiKNGB2RxwQHvPSZFsc.jpg ",
+      "Name": "Layer Cake"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zrw0T4F1logsTjiTtfRTq1GPTEH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zrw0T4F1logsTjiTtfRTq1GPTEH.jpg ",
+      "Name": "Layer Cake"
+    }
+  ],
+  "Links": [],
+  "Intro": "When a seemingly straight-forward drug deal goes awry, XXXX has to break his die-hard rules and turn up the heat, not only to outwit the old regime and come out on top, but to save his own skin&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/y6BzUkrx789OhVMDXZiBBVHu6OQ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/QtrbWfZtxxM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/layer-cake/",
+  "Name": "Layer Cake"
+}

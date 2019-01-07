@@ -1,0 +1,74 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qXLXEvYSycdllvdKvmhFXLUcFhM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qXLXEvYSycdllvdKvmhFXLUcFhM.jpg ",
+      "Name": "Danh Vọng - Chicago"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iNBhno1wRFj1RV3X6nCsJISg5AP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iNBhno1wRFj1RV3X6nCsJISg5AP.jpg ",
+      "Name": "Danh Vọng - Chicago"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wsSq74Ro736Tt4zZ5P2mdV2Ywcm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wsSq74Ro736Tt4zZ5P2mdV2Ywcm.jpg ",
+      "Name": "Danh Vọng - Chicago"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ch68DxIGJax75qPRZJwt9dxJNV9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ch68DxIGJax75qPRZJwt9dxJNV9.jpg ",
+      "Name": "Danh Vọng - Chicago"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bAxZUOAFVJhL7c5XkY2CX0v2Ljr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bAxZUOAFVJhL7c5XkY2CX0v2Ljr.jpg ",
+      "Name": "Danh Vọng - Chicago"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jhJ70OWbI8lfbbNfaOWlcnat0C6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jhJ70OWbI8lfbbNfaOWlcnat0C6.jpg ",
+      "Name": "Danh Vọng - Chicago"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6r1KW8A4cXgN2pyc9EH2PfSG0LJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6r1KW8A4cXgN2pyc9EH2PfSG0LJ.jpg ",
+      "Name": "Danh Vọng - Chicago"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v56QzdyisvqZiQuooKEoEdHo8nm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v56QzdyisvqZiQuooKEoEdHo8nm.jpg ",
+      "Name": "Danh Vọng - Chicago"
+    }
+  ],
+  "Links": [],
+  "Intro": "Danh Vọng hai cô gái xinh đẹp với hai mảnh đời khác nhau. Một người xinh đẹp có ước mơ trở trở thành một người nổi tiếng, nhưng cô đã bị bỏ tù vì đã bắn kẻ đã lừa cô vào hộp đêm. Khi ở trong tù cô quen với một cô gái khác, cô ta đã bắn chết người tình và em của mình bởi họ lăng nhăng với nhau. Cả hai cùng nhau tìm luật sư chạy án cho mình thoát khỏi lao tù&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/18pCc2XZ5MO7wsywOYEbhoeuxNw-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/8IxcfbldgBY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/chicago/",
+  "Name": "Danh Vọng"
+}

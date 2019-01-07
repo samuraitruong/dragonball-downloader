@@ -1,14 +1,64 @@
 {
   "Id": "movXRQKtf10996",
-  "Url": "https://fsharephim.com/movies/stuart-little-2/",
-  "Name": "Chú Chuột Siêu Quậy 2",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dZIRC5SwtfScz3DSSsMPqyTjsni.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dZIRC5SwtfScz3DSSsMPqyTjsni.jpg",
+      "Name": "Chú Chuột Siêu Quậy 2 - Stuart Little 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nVkD2PIpC1hzH0DiSj0s9Bur3mz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nVkD2PIpC1hzH0DiSj0s9Bur3mz.jpg",
+      "Name": "Chú Chuột Siêu Quậy 2 - Stuart Little 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/J1QdXkvnJWnk5EfmINFyllgMqs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/J1QdXkvnJWnk5EfmINFyllgMqs.jpg",
+      "Name": "Chú Chuột Siêu Quậy 2 - Stuart Little 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bg1wD6JycMvWILlk6XWm5lskM7O.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bg1wD6JycMvWILlk6XWm5lskM7O.jpg",
+      "Name": "Chú Chuột Siêu Quậy 2 - Stuart Little 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/p8Z1nsE1HXSQgh8thJVAlMSSSHz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/p8Z1nsE1HXSQgh8thJVAlMSSSHz.jpg",
+      "Name": "Chú Chuột Siêu Quậy 2 - Stuart Little 2"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movxrqktf10996/",
-      "Name": "1080p",
-      "Url": "http://www.fshare.vn/file/41JBPDFSD7L3",
       "Size": "1.48 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/41JBPDFSD7L3",
+      "Name": "1080p"
     }
-  ]
+  ],
+  "Intro": "Trở thành thành viên chính thức trong gia đình Little quả là một việc không hề đơn giản với Stuart. Họ phải học cách sống chung với cậu, chấp nhận tất cả những sự khác biệt ở cậu. Nhưng đồng thời cậu có một kẻ thù không chịu đội trời chung là chú mèo Snowbell. Không chỉ chú mèo Snowbell mà bên ngoài còn cả một đám mèo lang thang rình rập đe dọa tính mạng của Stuart bé nhỏ. Stuart bằng nỗ lực của mình đã giành chiến thắng trong cuộc đua thuyền buồm điều khiển từ xa, bất chấp những nguy hiểm nhãn tiền trong sự hò reo cổ vũ của anh trai George. Nhưng cuối cùng thì Stuart cũng tìm thấy cha mẹ đẻ của mình bên ngôi nhà nhỏ trong Công viên Trung tâm&#8230; Cuộc sống cũng như những cuộc phiêu lưu đã làm cho Stuart hiểu được những giá trị đích thực của gia đình, của tình bạn và lòng trung thành.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/07/bbTU6npKQaUowoYzfcD4VSVrZbd-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/HvdNtZ5zPTs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/stuart-little-2/",
+  "Name": "Chú Chuột Siêu Quậy 2"
 }

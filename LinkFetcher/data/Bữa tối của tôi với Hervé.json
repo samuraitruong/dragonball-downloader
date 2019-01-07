@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/givyOg8mdy0aFCdENMn8FIVuS4o.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/givyOg8mdy0aFCdENMn8FIVuS4o.jpg ",
+      "Name": "Bữa tối của tôi với Hervé - My Dinner With Hervé"
+    }
+  ],
+  "Links": [],
+  "Intro": "An unlikely friendship evolves over one wild night in LA between a struggling journalist and actor Hervé Villechaize, the world&#8217;s most famous gun-tothing dwarf, resulting in life-changing consequences for both",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/10/qYdxf8lqWrCwUJY5haScpHzJt1G-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/S2WfK1hsuRA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/my-dinner-with-herve/",
+  "Name": "Bữa tối của tôi với Hervé"
+}

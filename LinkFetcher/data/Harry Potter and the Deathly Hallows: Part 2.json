@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6n0DAcyjTHS6888mt8U9ZsLy9nR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6n0DAcyjTHS6888mt8U9ZsLy9nR.jpg",
+      "Name": "Harry Potter and the Deathly Hallows: Part 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gWGBM7mluVkFZaqM78lrDwxHP4K.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gWGBM7mluVkFZaqM78lrDwxHP4K.jpg",
+      "Name": "Harry Potter and the Deathly Hallows: Part 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xl6lt6AONOEMGl4z07KCBOyVOXK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xl6lt6AONOEMGl4z07KCBOyVOXK.jpg",
+      "Name": "Harry Potter and the Deathly Hallows: Part 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kCwgJ3CLOtkgEeItgJEiTLIlV2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kCwgJ3CLOtkgEeItgJEiTLIlV2.jpg",
+      "Name": "Harry Potter and the Deathly Hallows: Part 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gblLAEIDoWRN0vBLJyFGUZnf6j5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gblLAEIDoWRN0vBLJyFGUZnf6j5.jpg",
+      "Name": "Harry Potter and the Deathly Hallows: Part 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lijNdegIi9zAONLkrlDTayuyHs4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lijNdegIi9zAONLkrlDTayuyHs4.jpg",
+      "Name": "Harry Potter and the Deathly Hallows: Part 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/15lSo6B8V9yy7RggrLpjhK6Wy2K.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/15lSo6B8V9yy7RggrLpjhK6Wy2K.jpg",
+      "Name": "Harry Potter and the Deathly Hallows: Part 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4xbG3jMflRXBPJKAWIUkZMPLw0N.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4xbG3jMflRXBPJKAWIUkZMPLw0N.jpg",
+      "Name": "Harry Potter and the Deathly Hallows: Part 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zhiy0jw0G3j4SOz9nG8es2lGpIY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zhiy0jw0G3j4SOz9nG8es2lGpIY.jpg",
+      "Name": "Harry Potter and the Deathly Hallows: Part 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kbsHeWiSldEsVnyoXMwRMY0iUpW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kbsHeWiSldEsVnyoXMwRMY0iUpW.jpg",
+      "Name": "Harry Potter and the Deathly Hallows: Part 2"
+    }
+  ],
+  "Links": [],
+  "Intro": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort&#8217;s formidable skills.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/fTplI1NCSuEDP4ITLcTps739fcC-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/mObK5XD8udk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/harry-potter-and-the-deathly-hallows-part-2/",
+  "Name": "Harry Potter and the Deathly Hallows: Part 2"
+}

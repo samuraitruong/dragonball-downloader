@@ -1,0 +1,52 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4cuMgrl1TVGjMaRQ3bKWTu61nem.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4cuMgrl1TVGjMaRQ3bKWTu61nem.jpg ",
+      "Name": "Tulip Fever"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mWTh8tbND3xXmvsgKhU2ME1H8P7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mWTh8tbND3xXmvsgKhU2ME1H8P7.jpg ",
+      "Name": "Tulip Fever"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oMLC1KgQVhg86Gi03uP6mPxrpaS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oMLC1KgQVhg86Gi03uP6mPxrpaS.jpg ",
+      "Name": "Tulip Fever"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4igixXGMPv3XbK59zKN75IiZ9Fx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4igixXGMPv3XbK59zKN75IiZ9Fx.jpg ",
+      "Name": "Tulip Fever"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fKe9lWFvLXgTWaj9NpdAQxeRpom.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fKe9lWFvLXgTWaj9NpdAQxeRpom.jpg ",
+      "Name": "Tulip Fever"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/s86JskkTTsyfOlOSvF8EgxAH0Gn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/s86JskkTTsyfOlOSvF8EgxAH0Gn.jpg ",
+      "Name": "Tulip Fever"
+    }
+  ],
+  "Links": [],
+  "Intro": "An artist falls for a married young woman while he&#8217;s commissioned to paint her portrait. The two invest in the risky tulip market in hopes to build a future together.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/bmgCbKJX3jsp73gShFLqV5PnuC8-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/puqEadT824c?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/tulip-fever/",
+  "Name": "Tulip Fever"
+}

@@ -1,42 +1,46 @@
 {
-  "Id": "movCVP1X311430",
-  "Url": "https://fsharephim.com/movies/the-lion-king-1%c2%bd/",
-  "Name": "The Lion King 1½",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movcvp1x311430-3/",
-      "Name": "The Lion King 3 (2004) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/UUE5ARPYEVYW",
-      "Size": "500.62 MB",
-      "FileSize": 524940512
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movcvp1x311430-4/",
-      "Name": "The Lion King 3 (2004) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/V18QSJ17NEQB",
-      "Size": "1.45 GB",
-      "FileSize": 1561542308
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movcvp1x311430-5/",
-      "Name": "Lion King 3 (2004) 1080p Bluray AVC DTS-HD MA 5.1.iso",
-      "Url": "https://www.fshare.vn/file/N4EB5GJ6VM93",
-      "Size": "28.57 GB",
-      "FileSize": 30676090880
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movcvp1x311430/",
-      "Name": "The.Lion.King.1½.2004.mkv",
-      "Url": "https://www.fshare.vn/file/T91SAQS2KT",
-      "Size": "1.39 GB",
-      "FileSize": 1496293528
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movcvp1x311430-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/the-lion-king-1-the-lion-king-1-12",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pql1l2FPU5e4nPxoY2TbYaPwjLj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pql1l2FPU5e4nPxoY2TbYaPwjLj.jpg",
+      "Name": "The Lion King 1½"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ycw3fFPYFDMTvSV0240WHQL8Vik.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ycw3fFPYFDMTvSV0240WHQL8Vik.jpg",
+      "Name": "The Lion King 1½"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wwLfQf8iiRdEiBuYvVsLi6TNGe8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wwLfQf8iiRdEiBuYvVsLi6TNGe8.jpg",
+      "Name": "The Lion King 1½"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2fFLOziDKJUsZsKP989DUNymCUX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2fFLOziDKJUsZsKP989DUNymCUX.jpg",
+      "Name": "The Lion King 1½"
+    }
+  ],
+  "Links": [],
+  "Intro": "Timon the meerkat and Pumbaa the warthog are best pals and the unsung heroes of the African savanna. This prequel to the smash Disney animated adventure takes you back &#8212; way back &#8212; before Simba&#8217;s adventure began. You&#8217;ll find out all about Timon and Pumbaa and tag along as they search for the perfect home and attempt to raise a rambunctious lion cub.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/nCSu6jqZXqbXW1HeeveMYNOU02H-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/I7UCIHiR91U?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-lion-king-1%c2%bd/",
+  "Name": "The Lion King 1½"
 }

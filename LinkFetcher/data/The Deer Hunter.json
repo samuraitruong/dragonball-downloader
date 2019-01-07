@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kzRUFR2FiITeP9LMPe8j2zrC7Xv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kzRUFR2FiITeP9LMPe8j2zrC7Xv.jpg",
+      "Name": "The Deer Hunter"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4OhQUH3djw5Eev0ue4fDbwIkuma.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4OhQUH3djw5Eev0ue4fDbwIkuma.jpg",
+      "Name": "The Deer Hunter"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jJl85A8AXWWCbTSCHZg6p0P19rl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jJl85A8AXWWCbTSCHZg6p0P19rl.jpg",
+      "Name": "The Deer Hunter"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rYKCJ0NiVRmvRyfgO9GjLhSpfV3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rYKCJ0NiVRmvRyfgO9GjLhSpfV3.jpg",
+      "Name": "The Deer Hunter"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uJvVU7ngFlZqpUSEKnj8zVE7UeQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uJvVU7ngFlZqpUSEKnj8zVE7UeQ.jpg",
+      "Name": "The Deer Hunter"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4B7IVbPZyXk5WDxCbd6pYhQtvM8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4B7IVbPZyXk5WDxCbd6pYhQtvM8.jpg",
+      "Name": "The Deer Hunter"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8k3zuNTm710II82Hcx43Dw8hsdT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8k3zuNTm710II82Hcx43Dw8hsdT.jpg",
+      "Name": "The Deer Hunter"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zfhedoyFfUbZW9p7Xbn33A1ZYJI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zfhedoyFfUbZW9p7Xbn33A1ZYJI.jpg",
+      "Name": "The Deer Hunter"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vPmWsE81oNK6BuZ0AYNEnpLDabC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vPmWsE81oNK6BuZ0AYNEnpLDabC.jpg",
+      "Name": "The Deer Hunter"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wZFsr9e5v9FH5PHeB4HanGI2Zgn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wZFsr9e5v9FH5PHeB4HanGI2Zgn.jpg",
+      "Name": "The Deer Hunter"
+    }
+  ],
+  "Links": [],
+  "Intro": "A group of working-class friends decides to enlist in the Army during the Vietnam War and finds it to be hellish chaos &#8212; not the noble venture they imagined. Before they left, Steven married his pregnant girlfriend &#8212; and Michael and Nick were in love with the same woman. But all three are different men upon their return.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/slNJESItHPqp1CENEJQUPw8d7WE-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/vw-Tyr6Rb6I?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-deer-hunter/",
+  "Name": "The Deer Hunter"
+}

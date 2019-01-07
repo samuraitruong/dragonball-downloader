@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t8jgjMxmzxzhILZZX713HaJQi6I.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t8jgjMxmzxzhILZZX713HaJQi6I.jpg",
+      "Name": "Evolution"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/TEopJRIPgeFkIqQcGlrrzTLqzg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/TEopJRIPgeFkIqQcGlrrzTLqzg.jpg",
+      "Name": "Evolution"
+    }
+  ],
+  "Links": [],
+  "Intro": "11-year-old Nicolas lives with his mother in a seaside housing estate. The only place that ever sees any activity is the hospital. It is there that all the boys from the village are forced to undergo strange medical trials that attempt to disrupt the phases of evolution.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/rySXb3722jTRSkKKlwo3ZFusbKF-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/QXf8VS6iK_g?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/evolution/",
+  "Name": "Evolution"
+}

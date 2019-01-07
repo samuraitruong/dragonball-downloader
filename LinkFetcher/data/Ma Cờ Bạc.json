@@ -1,0 +1,35 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ngoai-quoc/",
+      "Name": "Ngoại Quốc"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2uGhccmoBk0WGEhm1ZdnSB1jajs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2uGhccmoBk0WGEhm1ZdnSB1jajs.jpg ",
+      "Name": "Ma Cờ Bạc - The Gambling Ghost"
+    }
+  ],
+  "Links": [],
+  "Intro": "Hồng Kim Bảo đóng ba nhân vật: cậu Béo, Cha và Bố của cậu Béo. Do khao khát giàu nhanh chóng nên anh và bạn của mình thường xuyên lừa đảo tiền đặt cược. Một ngày nọ, người bạn bị những tên côn đồ bắt. Do đó, cần phải tìm đủ một triệu đô la để đưa cho bọn chúng.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/4qo75cnSRR9MkFnOVj9djuIaKQp-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-gambling-ghost/",
+  "Name": "Ma Cờ Bạc"
+}

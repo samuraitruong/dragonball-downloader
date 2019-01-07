@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mCDtYK962oCEqNBZ7nWkheBXCIj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mCDtYK962oCEqNBZ7nWkheBXCIj.jpg",
+      "Name": "Woodshock"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m5tepFOTxmyM6Ar0Gwd22kjHz55.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m5tepFOTxmyM6Ar0Gwd22kjHz55.jpg",
+      "Name": "Woodshock"
+    }
+  ],
+  "Links": [],
+  "Intro": "Theresa, a haunted young woman spiraling in the wake of profound loss, is torn between her fractured emotional state and the reality-altering effects of a potent cannabinoid drug.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/pl7ro8KxVGJHw4nuFLkZVuMKjg9-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/RpscZ_YD-ns?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/woodshock/",
+  "Name": "Woodshock"
+}

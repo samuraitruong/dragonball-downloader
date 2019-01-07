@@ -1,0 +1,75 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7vVgZuGsy9tzlazdcBExz2dNoaG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7vVgZuGsy9tzlazdcBExz2dNoaG.jpg",
+      "Name": "Cô gái và gã khổng lồ - Colossal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/y5qDjStKZ6y4IHQDhJGMlfZwH92.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/y5qDjStKZ6y4IHQDhJGMlfZwH92.jpg",
+      "Name": "Cô gái và gã khổng lồ - Colossal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jqwx5WlHxcjpNooQz4ldfONCFBd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jqwx5WlHxcjpNooQz4ldfONCFBd.jpg",
+      "Name": "Cô gái và gã khổng lồ - Colossal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fmhc4Zqoy7ZmNNv7spfc5vGl1Fv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fmhc4Zqoy7ZmNNv7spfc5vGl1Fv.jpg",
+      "Name": "Cô gái và gã khổng lồ - Colossal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aQUsuDDHofPco5YgXxEdObyisCs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aQUsuDDHofPco5YgXxEdObyisCs.jpg",
+      "Name": "Cô gái và gã khổng lồ - Colossal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tDv7PrId38L1o87qEPKVMIQBBPX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tDv7PrId38L1o87qEPKVMIQBBPX.jpg",
+      "Name": "Cô gái và gã khổng lồ - Colossal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wUibSJsm0A0unQCkcUMhAXP0BiJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wUibSJsm0A0unQCkcUMhAXP0BiJ.jpg",
+      "Name": "Cô gái và gã khổng lồ - Colossal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jcCVu9A4SOn9Y3ZI3pbYNSaUSlP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jcCVu9A4SOn9Y3ZI3pbYNSaUSlP.jpg",
+      "Name": "Cô gái và gã khổng lồ - Colossal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1vSXZETphyoRSByCxDPw34j0XKp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1vSXZETphyoRSByCxDPw34j0XKp.jpg",
+      "Name": "Cô gái và gã khổng lồ - Colossal"
+    }
+  ],
+  "Links": [],
+  "Intro": "Colossal – Cô gái và gã khổng lồ: xoay quanh câu chuyện về Gloria (Anne Hathaway) – một người phụ nữ bình thường đang ở trong một tình cảnh vô cùng khó khăn: mất việc, bị bạn trai cũ tống ra khỏi nhà. Không thể trụ lại ở New York, Gloria đã buộc phải trở về quê nhà của mình.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/05/4VOyofBd1pexblxtDZYtYIk7NI4-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ojLzEjAN5xE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/colossal/",
+  "Name": "Cô gái và gã khổng lồ"
+}

@@ -1,56 +1,137 @@
 {
   "Id": "mov1NSpGW260514",
-  "Url": "https://fsharephim.com/movies/cars-3/",
-  "Name": "Cars 3",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rND0GSv8X2Zzs7VhyFAs9BCEmYE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rND0GSv8X2Zzs7VhyFAs9BCEmYE.jpg",
+      "Name": "Cars 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6M4uK8futkQZcRryd0KjPFTwCSQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6M4uK8futkQZcRryd0KjPFTwCSQ.jpg",
+      "Name": "Cars 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kqL4hOlQaf5bJqqqBJFzLgAV2U9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kqL4hOlQaf5bJqqqBJFzLgAV2U9.jpg",
+      "Name": "Cars 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eXTjmClopilyoFu5o2H1PpmK8RD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eXTjmClopilyoFu5o2H1PpmK8RD.jpg",
+      "Name": "Cars 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/d1zfVkdmp1ITPfdMtRHVYRQ6z2H.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/d1zfVkdmp1ITPfdMtRHVYRQ6z2H.jpg",
+      "Name": "Cars 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oD7HA17X704VMeeraeesAdoWSER.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oD7HA17X704VMeeraeesAdoWSER.jpg",
+      "Name": "Cars 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wpFDGHlfwP0fnW8SKu1VQjk60UV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wpFDGHlfwP0fnW8SKu1VQjk60UV.jpg",
+      "Name": "Cars 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nI8esXkj5w2tunOByJuflMdct2Y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nI8esXkj5w2tunOByJuflMdct2Y.jpg",
+      "Name": "Cars 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ajHQD0QGVxfeh8rqu1lRVxsZfzE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ajHQD0QGVxfeh8rqu1lRVxsZfzE.jpg",
+      "Name": "Cars 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg",
+      "Name": "Cars 3"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/mov1nspgw260514-9/",
-      "Name": "1080p - Thuyết Minh",
-      "Url": "http://4share.vn/f/5164676468676262/Cars.3.2017.ViE.1080p.BluRay.DTS.x264-HDChina.mkv.file",
       "Size": "10.63 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://4share.vn/f/5164676468676262/Cars.3.2017.ViE.1080p.BluRay.DTS.x264-HDChina.mkv.file",
+      "Name": "1080p - Thuyết Minh"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/mov1nspgw260514-10/",
-      "Name": "1080p",
-      "Url": "http://4share.vn/f/2e1b181b17181e1d/Cars.3.2017.1080p.BluRay.DTS.x264-HDChina.mkv.file",
       "Size": "9.54 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://4share.vn/f/2e1b181b17181e1d/Cars.3.2017.1080p.BluRay.DTS.x264-HDChina.mkv.file",
+      "Name": "1080p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/mov1nspgw260514-3/",
-      "Name": "Cars.3.2017.720p.BluRay.x264.DTS-HDChina.mkv",
-      "Url": "https://www.fshare.vn/file/NJHK5NN1XBG2",
       "Size": "4.6 GB",
-      "FileSize": 4947654326
+      "FileSize": 4947654326,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/NJHK5NN1XBG2",
+      "Name": "Cars.3.2017.720p.BluRay.x264.DTS-HDChina.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/mov1nspgw260514-5/",
-      "Name": "720p - Thuyết Minh",
-      "Url": "http://4share.vn/f/6055565559565059/Cars.3.2017.ViE.720p.BluRay.DTS.x264-HDChina.mkv.file",
       "Size": "5.69 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://4share.vn/f/6055565559565059/Cars.3.2017.ViE.720p.BluRay.DTS.x264-HDChina.mkv.file",
+      "Name": "720p - Thuyết Minh"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/mov1nspgw260514-6/",
-      "Name": "720p",
-      "Url": "http://4share.vn/f/320704070b040202/Cars.3.2017.720p.BluRay.x264.DTS-HDChina.mkv.file",
       "Size": "4.61 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://4share.vn/f/320704070b040202/Cars.3.2017.720p.BluRay.x264.DTS-HDChina.mkv.file",
+      "Name": "720p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/mov1nspgw260514-2/",
-      "Name": "Cars.3.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO.mkv",
-      "Url": "https://www.fshare.vn/file/1YIE43VT8E3VXRS",
       "Size": "3.3 GB",
-      "FileSize": 3586576210
+      "FileSize": 3586576210,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/1YIE43VT8E3VXRS",
+      "Name": "Cars.3.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/mov1nspgw260514/",
-      "Name": "Cars.3.2017.ViE.1080p.WEB-DL.DD2.0.H264-EVO   .mkv",
-      "Url": "https://www.fshare.vn/file/EQAXHFEFP1O2W7Y",
       "Size": "3.5 GB",
-      "FileSize": 3734236027
+      "FileSize": 3734236027,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/EQAXHFEFP1O2W7Y",
+      "Name": "Cars.3.2017.ViE.1080p.WEB-DL.DD2.0.H264-EVO   .mkv"
     }
-  ]
+  ],
+  "Intro": "Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn&#8217;t through yet will test the heart of a champion on Piston Cup Racing’s biggest stage!",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/07/fyy1nDC8wm553FCiBDojkJmKLCs-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/E4K7JgPJ8-s?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/cars-3/",
+  "Name": "Cars 3"
 }

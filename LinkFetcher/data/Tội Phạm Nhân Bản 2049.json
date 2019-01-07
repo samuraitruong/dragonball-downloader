@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5hJ0XDCxE3qGfp1H3h7HQP9rLfU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5hJ0XDCxE3qGfp1H3h7HQP9rLfU.jpg ",
+      "Name": "Tội Phạm Nhân Bản 2049 - Blade Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tv8J6uCTKsTlASa8luJqrFiJlBX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tv8J6uCTKsTlASa8luJqrFiJlBX.jpg ",
+      "Name": "Tội Phạm Nhân Bản 2049 - Blade Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/c8iM9ipgkZNDSyfQYNSKBB7ORaG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/c8iM9ipgkZNDSyfQYNSKBB7ORaG.jpg ",
+      "Name": "Tội Phạm Nhân Bản 2049 - Blade Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k36huckDH0v3LP1zo7maFt3mJC0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k36huckDH0v3LP1zo7maFt3mJC0.jpg ",
+      "Name": "Tội Phạm Nhân Bản 2049 - Blade Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yNlVk0HnxvY5Z1raID9N6SKeFid.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yNlVk0HnxvY5Z1raID9N6SKeFid.jpg ",
+      "Name": "Tội Phạm Nhân Bản 2049 - Blade Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rj6rHZVrNJBOgvIrd8MuDZgvRol.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rj6rHZVrNJBOgvIrd8MuDZgvRol.jpg ",
+      "Name": "Tội Phạm Nhân Bản 2049 - Blade Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/WtCMzZyc3X8ttK1IzK4O24TpqW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/WtCMzZyc3X8ttK1IzK4O24TpqW.jpg ",
+      "Name": "Tội Phạm Nhân Bản 2049 - Blade Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hlT4kVdcXqEK4Ol81HRL8gEqsha.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hlT4kVdcXqEK4Ol81HRL8gEqsha.jpg ",
+      "Name": "Tội Phạm Nhân Bản 2049 - Blade Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uUkZ8rA36erYx77hKCRibAJcNlM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uUkZ8rA36erYx77hKCRibAJcNlM.jpg ",
+      "Name": "Tội Phạm Nhân Bản 2049 - Blade Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eJ8CHKGhRjXaDab2kYt4vQqajKD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eJ8CHKGhRjXaDab2kYt4vQqajKD.jpg ",
+      "Name": "Tội Phạm Nhân Bản 2049 - Blade Runner"
+    }
+  ],
+  "Links": [],
+  "Intro": "35 năm sau ngày phần đầu tiên ra mắt, Blade Runner trở lại với những gương mặt mới, câu chuyện mới, đầy hứa hẹn vẫn sẽ giữ được cái “chất” khiến thương hiệu này trở thành tác phẩm kinh điển trong lịch sử điện ảnh.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/p64TtbZGCElxQHpAMWmDHkWJlH2-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/PSIiGE105iA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/blade-runner/",
+  "Name": "Tội Phạm Nhân Bản 2049"
+}

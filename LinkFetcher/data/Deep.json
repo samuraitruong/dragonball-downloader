@@ -1,0 +1,38 @@
+{
+  "Id": "movvtfRIz430474",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3fUule7CGt4Eq1lPPqyz3qSXa8C.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3fUule7CGt4Eq1lPPqyz3qSXa8C.jpg",
+      "Name": "Deep"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1Z2LtTZz86YnbBR2XHhbq1eS6Id.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1Z2LtTZz86YnbBR2XHhbq1eS6Id.jpg",
+      "Name": "Deep"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yViw4wR2e67wmu88LlBXMSK6dtC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yViw4wR2e67wmu88LlBXMSK6dtC.jpg",
+      "Name": "Deep"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6kSUgMLbdFUD3D8OXLGdcNkL2XK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6kSUgMLbdFUD3D8OXLGdcNkL2XK.jpg",
+      "Name": "Deep"
+    }
+  ],
+  "Links": [],
+  "Intro": "In 2100, when humanity has abandoned the earth, a colony of extravagant creatures still thrives in the deepest abyss of the ocean.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/zMZTBbBa9eevwpWoVIVHh4Gm1ij-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/lpQ0DvCFBf0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/deep/",
+  "Name": "Deep"
+}

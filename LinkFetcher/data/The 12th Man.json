@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/30Dv2pY9PPqtf2pD2shogYomS9G.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/30Dv2pY9PPqtf2pD2shogYomS9G.jpg",
+      "Name": "The 12th Man"
+    }
+  ],
+  "Links": [],
+  "Intro": "After a failed anti-Nazi sabotage mission leaves his 11 comrades dead, Norwegian resistance fighter Jan Baalsrud finds himself fleeing from the Gestapo through the snowbound reaches of Scandinavia.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/dxZ8iGf5jQoLcNqBJL6uzNTivp-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/OrTTmXWeTkE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-12th-man/",
+  "Name": "The 12th Man"
+}

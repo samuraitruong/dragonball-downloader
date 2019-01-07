@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3iQjHDKkZhpFUTvpZ2sarwNBZWI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3iQjHDKkZhpFUTvpZ2sarwNBZWI.jpg",
+      "Name": "Wild Card"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sYA3UDNXKBPDQKdqZhlFdZHZ1q1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sYA3UDNXKBPDQKdqZhlFdZHZ1q1.jpg",
+      "Name": "Wild Card"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eDbziZrNBBX4FXUrifWnYdO7V1e.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eDbziZrNBBX4FXUrifWnYdO7V1e.jpg",
+      "Name": "Wild Card"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hJGqSanlHxPOHXnTQk5zsfuXoJN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hJGqSanlHxPOHXnTQk5zsfuXoJN.jpg",
+      "Name": "Wild Card"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gYSnPK3FSJFaPcjO1mEeJIF7nhs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gYSnPK3FSJFaPcjO1mEeJIF7nhs.jpg",
+      "Name": "Wild Card"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tm5DQMU1jCSHCAjSyC6MzGGbWw7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tm5DQMU1jCSHCAjSyC6MzGGbWw7.jpg",
+      "Name": "Wild Card"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ll7ww5QDSysTsYU5uRLcDTcDCln.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ll7ww5QDSysTsYU5uRLcDTcDCln.jpg",
+      "Name": "Wild Card"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nJPu83tE69SQnpfmgQ8BH2xXV0Z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nJPu83tE69SQnpfmgQ8BH2xXV0Z.jpg",
+      "Name": "Wild Card"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dlLFh5Eprq0fwUwlQLx4m0WwI0G.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dlLFh5Eprq0fwUwlQLx4m0WwI0G.jpg",
+      "Name": "Wild Card"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pbZtww8VsNDSwt9eMnG0faELwYV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pbZtww8VsNDSwt9eMnG0faELwYV.jpg",
+      "Name": "Wild Card"
+    }
+  ],
+  "Links": [],
+  "Intro": "When a Las Vegas bodyguard with lethal skills and a gambling problem gets in trouble with the mob, he has one last play… and it&#8217;s all or nothing.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/s5qUhHvFAZZ7Q4r5Dn3GdsfaPKI-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/7fJGbTfFPkM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/wild-card/",
+  "Name": "Wild Card"
+}

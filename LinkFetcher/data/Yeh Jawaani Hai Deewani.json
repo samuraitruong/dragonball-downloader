@@ -1,0 +1,53 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lMHpTri1I1Xl13lOtL98ArVbLUU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lMHpTri1I1Xl13lOtL98ArVbLUU.jpg",
+      "Name": "Yeh Jawaani Hai Deewani"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4cMW8RIHtxQ35ZBCPKoAhafeMtc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4cMW8RIHtxQ35ZBCPKoAhafeMtc.jpg",
+      "Name": "Yeh Jawaani Hai Deewani"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tZ2GOrgjs8AVmKgEwOLBXMjcK4q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tZ2GOrgjs8AVmKgEwOLBXMjcK4q.jpg",
+      "Name": "Yeh Jawaani Hai Deewani"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uH7M89FGZQ1uGKX2cLYSVjmy3FJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uH7M89FGZQ1uGKX2cLYSVjmy3FJ.jpg",
+      "Name": "Yeh Jawaani Hai Deewani"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/YdjpIkS5iUvi4RG63R63HUgVS6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/YdjpIkS5iUvi4RG63R63HUgVS6.jpg",
+      "Name": "Yeh Jawaani Hai Deewani"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yhIDiG5lWThNKcxgOTOnU36kqDe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yhIDiG5lWThNKcxgOTOnU36kqDe.jpg",
+      "Name": "Yeh Jawaani Hai Deewani"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ltuwINxltXntL7cyobqRWjIYPtb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ltuwINxltXntL7cyobqRWjIYPtb.jpg",
+      "Name": "Yeh Jawaani Hai Deewani"
+    }
+  ],
+  "Links": [],
+  "Intro": "Yeh Jawaani Hai Deewani features two polar opposite characters, who at one point were classmates in Modern School. The first is Naina Talwar (Deepika Padukone), a studious bespectacled young girl. The second is Bunny (Ranbir Kapoor), a carefree young travel-show host, intent on breaking out of the pattern of getting an education, a career, a wife, children, retirement, and eventually death.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/xO0YSVxtyJSTWHJyPsQutIQT9xf-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/16uUd5cFrzM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/yeh-jawaani-hai-deewani/",
+  "Name": "Yeh Jawaani Hai Deewani"
+}

@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fEroBnbu1hW5iZVNI5QyqSyP9dC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fEroBnbu1hW5iZVNI5QyqSyP9dC.jpg",
+      "Name": "Splash Splash Love"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iRnpmbDDopSYhxUdapWhZep2Ffb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iRnpmbDDopSYhxUdapWhZep2Ffb.jpg",
+      "Name": "Splash Splash Love"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/splash-splash-love-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/splash-splash-love-1x2/",
+      "Name": "Episode 2"
+    }
+  ],
+  "Intro": "Dan-Bi (Kim Seul-Gi) is a senior high school student. She has a special ability which allows her to transport to anywhere on rainy days. For her university entrance exam, Dan-Bi can&#8217;t deal with the pressure and runs off to a playground. Without knowing why, she goes into a puddle and finds herself transported to the Joseon period. There, she meets Lee Do (Yoon Doo-Joon). He is a young King of the Joseon period. Lee Do is in a difficult situation due to droughts and the spread of an epidemic.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/rNdurbFhJlErJsp9RCkWphchqAK-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/splash-splash-love-1x1/",
+          "Name": "Splash Splash Love 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/splash-splash-love-1x2/",
+          "Name": "Splash Splash Love 1x2"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Dec. 13, 2015"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/splash-splash-love/",
+  "Name": "Splash Splash Love"
+}

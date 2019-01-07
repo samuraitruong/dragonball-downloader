@@ -1,0 +1,31 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ohmXJkHDKpdVKIayEwo0ndRY79j.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ohmXJkHDKpdVKIayEwo0ndRY79j.jpg ",
+      "Name": "Kẻ Chết Trở Lại - Dead Drop"
+    }
+  ],
+  "Links": [],
+  "Intro": "Một cựu đặc vụ CIA đã sống sót một cách thần kỳ sau khi rơi khỏi máy bay từ độ cao 3000 feet xuống đại dương. Ngay lập tức, anh quay lại Mexico để thực hiện tiếp nhiệm vụ thâm nhập vào tổ chức buôn bán ma túy lớn nhất ở đây. Bên cạnh đó, anh còn muốn tìm hiểu sự thật rằng ai là kẻ đã đẩy anh từ máy bay? Kẻ đó có phải là người bạn tốt nhất của anh?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/rJ3Kjzgrx7ZsIG1Lv4ZQP3pMk2y-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/HojVEhOL_lQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/dead-drop/",
+  "Name": "Kẻ Chết Trở Lại"
+}

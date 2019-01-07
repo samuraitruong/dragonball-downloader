@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o8nhhDXuyFxdWMbtmRGEXPlQ8VY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o8nhhDXuyFxdWMbtmRGEXPlQ8VY.jpg ",
+      "Name": "Kẻ Bình Phàm - Ordinary Person"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tMMDSZ0EyHuH7vFEZP1RO3SQiTD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tMMDSZ0EyHuH7vFEZP1RO3SQiTD.jpg ",
+      "Name": "Kẻ Bình Phàm - Ordinary Person"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kI0FWpk1tRvWfX3kLCnEPRJx5Ae.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kI0FWpk1tRvWfX3kLCnEPRJx5Ae.jpg ",
+      "Name": "Kẻ Bình Phàm - Ordinary Person"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/igoJHrrMzjMfc0D8T6RVK8DBp8K.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/igoJHrrMzjMfc0D8T6RVK8DBp8K.jpg ",
+      "Name": "Kẻ Bình Phàm - Ordinary Person"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kR9S5KAQ4XiknTAv0f4cldrEs7C.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kR9S5KAQ4XiknTAv0f4cldrEs7C.jpg ",
+      "Name": "Kẻ Bình Phàm - Ordinary Person"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/67YUnBEjTkZeubB2vqhDzjhr5Gs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/67YUnBEjTkZeubB2vqhDzjhr5Gs.jpg ",
+      "Name": "Kẻ Bình Phàm - Ordinary Person"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1rMLFtjR6Oi7cBhUdFsZ3C4mHqz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1rMLFtjR6Oi7cBhUdFsZ3C4mHqz.jpg ",
+      "Name": "Kẻ Bình Phàm - Ordinary Person"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hWm3DDOQFTWZXz0NrC0yrncDyCW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hWm3DDOQFTWZXz0NrC0yrncDyCW.jpg ",
+      "Name": "Kẻ Bình Phàm - Ordinary Person"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8WcnKEQZeUOOZkwNfizsL6fcKZf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8WcnKEQZeUOOZkwNfizsL6fcKZf.jpg ",
+      "Name": "Kẻ Bình Phàm - Ordinary Person"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bh5ZnOrGOeJpUZpltROdC8HaEKh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bh5ZnOrGOeJpUZpltROdC8HaEKh.jpg ",
+      "Name": "Kẻ Bình Phàm - Ordinary Person"
+    }
+  ],
+  "Links": [],
+  "Intro": "Mùa xuân năm 1987, Sung Jin (Son Hyun Joo) là một cảnh sát tâm huyết với nghề. Ước mơ của anh ta là được sống bên gia đình, nơi có người vợ (Ra Mi Ran) và cậu con trai của hai người. Một ngày, Sung Jin vô tình bắt được Tae Sung (Jo Dal Hwan), người bị tình nghi là kẻ đứng sau vụ án giết người hàng loạt. Vì chuyện này, vị cảnh sát đã bị kéo vào một tổ chức bí mật do Kyu Nam (Jang Hyuk) đứng đầu.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/xAC4JWC92hZNV7gYbvB6u3TQhRv-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ordinary-person/",
+  "Name": "Kẻ Bình Phàm"
+}

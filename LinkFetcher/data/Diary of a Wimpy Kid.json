@@ -1,0 +1,67 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ag3LIUYCclnXltzoVZX3nPKmQt7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ag3LIUYCclnXltzoVZX3nPKmQt7.jpg",
+      "Name": "Diary of a Wimpy Kid"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/feCe1IwHb1SuGVPTrjOm0rCUdBh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/feCe1IwHb1SuGVPTrjOm0rCUdBh.jpg",
+      "Name": "Diary of a Wimpy Kid"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/n1hFLCPMoprAdfm3D6e7Qk1TuHA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/n1hFLCPMoprAdfm3D6e7Qk1TuHA.jpg",
+      "Name": "Diary of a Wimpy Kid"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nNVlRTGs7jw2OVWbjQq14b9PWi7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nNVlRTGs7jw2OVWbjQq14b9PWi7.jpg",
+      "Name": "Diary of a Wimpy Kid"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cDPqb4WkPoKtRTmfQQdFuQXZY4q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cDPqb4WkPoKtRTmfQQdFuQXZY4q.jpg",
+      "Name": "Diary of a Wimpy Kid"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g5tXO4eOBiSOoQDVNQCQNmaVyEJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g5tXO4eOBiSOoQDVNQCQNmaVyEJ.jpg",
+      "Name": "Diary of a Wimpy Kid"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rUV5vx9jEvb7WSJhC4Uk1yCpIZG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rUV5vx9jEvb7WSJhC4Uk1yCpIZG.jpg",
+      "Name": "Diary of a Wimpy Kid"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6ui51GTopFM9rCngCSDo4QAoqWG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6ui51GTopFM9rCngCSDo4QAoqWG.jpg",
+      "Name": "Diary of a Wimpy Kid"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b3qYH3xCzqH165FMkLyGxg63gFs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b3qYH3xCzqH165FMkLyGxg63gFs.jpg",
+      "Name": "Diary of a Wimpy Kid"
+    }
+  ],
+  "Links": [],
+  "Intro": "Greg Heffley is headed for big things, but first he has to survive the scariest, most humiliating experience of any kid’s life – middle school! That won’t be easy, considering he’s surrounded by hairy-freckled morons, wedgie-loving bullies and a moldy slice of cheese with nuclear cooties!",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/tyGsEW5Aiusr7qKKLITPfVFCmW-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/T1x0bYr0bgY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/diary-of-a-wimpy-kid/",
+  "Name": "Diary of a Wimpy Kid"
+}

@@ -1,21 +1,51 @@
 {
-  "Id": "mov05btFR411840",
-  "Url": "https://fsharephim.com/movies/surfs-up-2-wavemania/",
-  "Name": "Surf's Up 2: WaveMania",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov05btfr411840/",
-      "Name": "Surfs.Up.2.WaveMania.2017.DVDRip.XviD.AC3-EVO(tp).avi",
-      "Url": "https://www.fshare.vn/file/53MN5GMG52KF4ZE",
-      "Size": "1.2 GB",
-      "FileSize": 1284725532
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov05btfr411840-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/surfs-up-2-wavemania",
-      "Size": "0",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/am0HLptKPN8u1Ttgs9f6xvLxCZh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/am0HLptKPN8u1Ttgs9f6xvLxCZh.jpg",
+      "Name": "Surf&#8217;s Up 2: WaveMania"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aa9zD3BjvFi82UTiO4tcPiTth2g.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aa9zD3BjvFi82UTiO4tcPiTth2g.jpg",
+      "Name": "Surf&#8217;s Up 2: WaveMania"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cwoYm453QQXHCERhapKBE1PyHKp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cwoYm453QQXHCERhapKBE1PyHKp.jpg",
+      "Name": "Surf&#8217;s Up 2: WaveMania"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dZwLkZQrJlgpzpAzt0kpZsuhwjI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dZwLkZQrJlgpzpAzt0kpZsuhwjI.jpg",
+      "Name": "Surf&#8217;s Up 2: WaveMania"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tTsZSokKYT8VEe6ESjxZBS8Zm12.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tTsZSokKYT8VEe6ESjxZBS8Zm12.jpg",
+      "Name": "Surf&#8217;s Up 2: WaveMania"
+    }
+  ],
+  "Links": [],
+  "Intro": "An animated comedy that features WWE Superstars, providing their own voices while matching up against talking animals.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/w9UDvjElSaGd2bI5eA7hfSRf1jb-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/zJarcJEmwgQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/surfs-up-2-wavemania/",
+  "Name": "Surf's Up 2: WaveMania"
 }

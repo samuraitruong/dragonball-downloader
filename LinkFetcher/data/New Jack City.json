@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dwXtZnPJwYI8tOju4k8VnBu3EVS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dwXtZnPJwYI8tOju4k8VnBu3EVS.jpg",
+      "Name": "New Jack City"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8OgrTdOd8YHhJ9c4xqKCVtjpuNs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8OgrTdOd8YHhJ9c4xqKCVtjpuNs.jpg",
+      "Name": "New Jack City"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/x05naGU4jeS9x6NvSneTAbNMVAJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/x05naGU4jeS9x6NvSneTAbNMVAJ.jpg",
+      "Name": "New Jack City"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/w3EOPVbWHDykGNArb9iBP33FHS3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/w3EOPVbWHDykGNArb9iBP33FHS3.jpg",
+      "Name": "New Jack City"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oXBt12uM9rZGIoDN6bap8KWSR56.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oXBt12uM9rZGIoDN6bap8KWSR56.jpg",
+      "Name": "New Jack City"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a1YyWIsmh35A31XryWpMToH5wFF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a1YyWIsmh35A31XryWpMToH5wFF.jpg",
+      "Name": "New Jack City"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xfWswe0RRH42ARgRozm5Zxgyx4t.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xfWswe0RRH42ARgRozm5Zxgyx4t.jpg",
+      "Name": "New Jack City"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3gfj59kMk1Oqj9b4Y5Bfkiks79j.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3gfj59kMk1Oqj9b4Y5Bfkiks79j.jpg",
+      "Name": "New Jack City"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3CljH7RC01NOn28okEcfwjRi1Ub.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3CljH7RC01NOn28okEcfwjRi1Ub.jpg",
+      "Name": "New Jack City"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pMZ9tUt6s3XLKYH3dz8b4YlhZ1G.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pMZ9tUt6s3XLKYH3dz8b4YlhZ1G.jpg",
+      "Name": "New Jack City"
+    }
+  ],
+  "Links": [],
+  "Intro": "A gangster, Nino, is in the Cash Money Brothers, making a million dollars every week selling crack. A cop, Scotty, discovers that the only way to infiltrate the gang is to become a dealer himself.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/txv0O2JFb2FimlR3Afhzc1z2Gas-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/new-jack-city/",
+  "Name": "New Jack City"
+}

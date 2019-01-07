@@ -1,0 +1,120 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/Z26uT3FxHKmAkDCvsCq6Ju5EDX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/Z26uT3FxHKmAkDCvsCq6Ju5EDX.jpg",
+      "Name": "The Most Beautiful Goodbye"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ySgqm6z6smSNmBrTli11UaJsZrW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ySgqm6z6smSNmBrTli11UaJsZrW.jpg",
+      "Name": "The Most Beautiful Goodbye"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-most-beautiful-goodbye-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-most-beautiful-goodbye-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-most-beautiful-goodbye-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/the-most-beautiful-goodbye-1x4/",
+      "Name": "Episode 4"
+    }
+  ],
+  "Intro": "An ordinary middle-aged woman has devoted her life to her family. She is diagnosed with terminal cancer and must prepare her goodbye to her family.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/vhQ27ikrAHDNFZ1JPr78Xuj2M1y-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-most-beautiful-goodbye-1x1/",
+          "Name": "The Most Beautiful Goodbye 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-most-beautiful-goodbye-1x2/",
+          "Name": "The Most Beautiful Goodbye 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-most-beautiful-goodbye-1x3/",
+          "Name": "The Most Beautiful Goodbye 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-most-beautiful-goodbye-1x4/",
+          "Name": "The Most Beautiful Goodbye 1x4"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Dec. 09, 2017"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/the-most-beautiful-goodbye/",
+  "Name": "The Most Beautiful Goodbye"
+}

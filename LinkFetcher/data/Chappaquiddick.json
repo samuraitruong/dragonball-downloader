@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/htJlsFavD4lXiJL9Q3n670uo0z9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/htJlsFavD4lXiJL9Q3n670uo0z9.jpg ",
+      "Name": "Chappaquiddick"
+    }
+  ],
+  "Links": [],
+  "Intro": "Ted Kennedy&#8217;s life and political career become derailed in the aftermath of a fatal car accident in 1969 that claims the life of a young campaign strategist, Mary Jo Kopechne.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/ugPhfPmKkcl9Gbmrc4gnATCnW9o-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/jTzPXc2DW2k?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/chappaquiddick/",
+  "Name": "Chappaquiddick"
+}

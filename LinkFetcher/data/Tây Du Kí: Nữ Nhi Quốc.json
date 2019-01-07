@@ -1,0 +1,61 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xCF6Vkq1L5tTGENb07vzlQyXwKv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xCF6Vkq1L5tTGENb07vzlQyXwKv.jpg",
+      "Name": "Tây Du Kí: Nữ Nhi Quốc - The Monkey King 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nt4Xh3kig4Aph5ggRCCoZtSUNJB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nt4Xh3kig4Aph5ggRCCoZtSUNJB.jpg",
+      "Name": "Tây Du Kí: Nữ Nhi Quốc - The Monkey King 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xTtCwWkWY0sKgILdUFaWUhyRrQE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xTtCwWkWY0sKgILdUFaWUhyRrQE.jpg",
+      "Name": "Tây Du Kí: Nữ Nhi Quốc - The Monkey King 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bAxWAZzsiRgIK8JIn284bChjpS3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bAxWAZzsiRgIK8JIn284bChjpS3.jpg",
+      "Name": "Tây Du Kí: Nữ Nhi Quốc - The Monkey King 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/thQ6hiLFvoQmaUuPdNBJOwmztV4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/thQ6hiLFvoQmaUuPdNBJOwmztV4.jpg",
+      "Name": "Tây Du Kí: Nữ Nhi Quốc - The Monkey King 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7kZaqsqgPHGK3rKuDPHJ12w07JK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7kZaqsqgPHGK3rKuDPHJ12w07JK.jpg",
+      "Name": "Tây Du Kí: Nữ Nhi Quốc - The Monkey King 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vlGApRoXVRzbojh8TL4j6or6wH5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vlGApRoXVRzbojh8TL4j6or6wH5.jpg",
+      "Name": "Tây Du Kí: Nữ Nhi Quốc - The Monkey King 3"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bốn thầy trò Tam Tạng (Phùng Thiệu Phong), Tôn Ngộ Không (Quách Phú Thành), Trư Bát Giới (Tiểu Thẩm Dương) và Sa Tăng (La Trọng Khiêm) du ngoạn cảnh sắc đồng thời vượt ải mỹ nhân tại Nữ Nhi Quốc của Nữ Vương (Triệu Lệ Dĩnh). Với kinh phí sản xuất lên tới hơn 1,500 tỷ VNĐ, phim hứa hẹn sẽ đem tới cho khán giả một bữa tiệc giải trí đầu xuân mãn nhãn và đầy ý nghĩa.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/fCeCvnVsALuuJqBnIm7C4AHlycV-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/F7MR5MsIoSQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-monkey-king-3/",
+  "Name": "Tây Du Kí: Nữ Nhi Quốc"
+}

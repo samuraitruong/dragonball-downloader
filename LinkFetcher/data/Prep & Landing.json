@@ -1,21 +1,68 @@
 {
   "Id": "movag6Hg326809",
-  "Url": "https://fsharephim.com/movies/prep-landing/",
-  "Name": "Prep & Landing",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/shsHOfjTIFojvxCKE4K9LreHwi5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/shsHOfjTIFojvxCKE4K9LreHwi5.jpg",
+      "Name": "Prep &#038; Landing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/Lr4vjK0Yt3Nobz5KomRtw3ONug.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/Lr4vjK0Yt3Nobz5KomRtw3ONug.jpg",
+      "Name": "Prep &#038; Landing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zK1ICfTsXdxWl7u3BiVorAzNh9I.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zK1ICfTsXdxWl7u3BiVorAzNh9I.jpg",
+      "Name": "Prep &#038; Landing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6BMOKOzE662T0D2nHZLqXDPlgDP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6BMOKOzE662T0D2nHZLqXDPlgDP.jpg",
+      "Name": "Prep &#038; Landing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kH5HnIwR9TOqqIJ13v3bolq2VRs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kH5HnIwR9TOqqIJ13v3bolq2VRs.jpg",
+      "Name": "Prep &#038; Landing"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movag6hg326809/",
-      "Name": "Prep.And.Landing.2009.mkv",
-      "Url": "https://www.fshare.vn/file/TS64QPVYVT",
       "Size": "432.97 MB",
-      "FileSize": 453999408
+      "FileSize": 453999408,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/TS64QPVYVT",
+      "Name": "Prep.And.Landing.2009.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movag6hg326809-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/prep-and-landing",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/prep-and-landing",
+      "Name": "Subtitle"
     }
-  ]
+  ],
+  "Intro": "Wayne gets a new rookie partner, Lanny, after his previous partner got the promotion he wanted. Lanny has to remind Wayne of the Spirit of Christmas and the importance of being an elf in Santa&#8217;s Prep and Landing elite unit.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/jC9tnMSAXnwdybcGZk6A4V4ln1G-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/prep-landing/",
+  "Name": "Prep & Landing"
 }

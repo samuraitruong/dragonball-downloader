@@ -1,14 +1,36 @@
 {
   "Id": "movXuuaRn408355",
-  "Url": "https://fsharephim.com/movies/throne-of-elves/",
-  "Name": "Throne of Elves",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9vHcIFK6mj0TSwVr6cmqlceJVkJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9vHcIFK6mj0TSwVr6cmqlceJVkJ.jpg",
+      "Name": "Throne of Elves"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movxuuarn408355/",
-      "Name": "Dragon Nest 2 Throne of Elves 2016 ViE WEBDL 1080P x264 DD2.0-ZiN - Hắc Long Đe Dọa 2.mkv",
-      "Url": "https://www.fshare.vn/file/2C8WL11UUE7INH5",
       "Size": "4.7 GB",
-      "FileSize": 4995518590
+      "FileSize": 4995518590,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/2C8WL11UUE7INH5",
+      "Name": "Dragon Nest 2 Throne of Elves 2016 ViE WEBDL 1080P x264 DD2.0-ZiN - Hắc Long Đe Dọa 2.mkv"
     }
-  ]
+  ],
+  "Intro": "In the mythical Elven world of Altera, an epic battle unfolds between the beautiful Princess Liya and the Dark Elf Elena, who has gained possession of a jewel so powerful it allows its holder complete authority over all Alterans.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/yCV6x3ovzdPEF8LC7JmTr0wOxs3-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Uc2mYQayFfQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/throne-of-elves/",
+  "Name": "Throne of Elves"
 }

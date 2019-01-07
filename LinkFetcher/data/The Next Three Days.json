@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cGB5Z26ooEFwYdf3fEMZ71RuHGU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cGB5Z26ooEFwYdf3fEMZ71RuHGU.jpg",
+      "Name": "The Next Three Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/i6N0QD9pxtyHRoTUbtCJruEkK5r.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/i6N0QD9pxtyHRoTUbtCJruEkK5r.jpg",
+      "Name": "The Next Three Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tUbUU7xhU9pp4iJGdLat4o2kps8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tUbUU7xhU9pp4iJGdLat4o2kps8.jpg",
+      "Name": "The Next Three Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tmsh1r8KO0BmdOfHVe4l8Tf9dFx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tmsh1r8KO0BmdOfHVe4l8Tf9dFx.jpg",
+      "Name": "The Next Three Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yBz3aUo6goXAVaix60C8oEtSrJz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yBz3aUo6goXAVaix60C8oEtSrJz.jpg",
+      "Name": "The Next Three Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7n2Lvp1lbX43xXBF0aQsvebUojS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7n2Lvp1lbX43xXBF0aQsvebUojS.jpg",
+      "Name": "The Next Three Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eHo77ktQkq35BhDmv9h7VmGV5R.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eHo77ktQkq35BhDmv9h7VmGV5R.jpg",
+      "Name": "The Next Three Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cT77HxZkp0wROT9DhSQDraZck9u.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cT77HxZkp0wROT9DhSQDraZck9u.jpg",
+      "Name": "The Next Three Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/si7tpmxuG4hKJrPuhd0ZVJnjspy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/si7tpmxuG4hKJrPuhd0ZVJnjspy.jpg",
+      "Name": "The Next Three Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6daErP1pgQHO6wfGetUmM5mlG6Q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6daErP1pgQHO6wfGetUmM5mlG6Q.jpg",
+      "Name": "The Next Three Days"
+    }
+  ],
+  "Links": [],
+  "Intro": "A married couple&#8217;s life is turned upside down when the wife is accused of a murder. Lara Brennan is arrested for murdering her boss with whom she had an argument. It seems she was seen leaving the scene of the crime and her fingerprints were on the murder weapon. Her husband, John would spend the next few years trying to get her released, but there&#8217;s no evidence that negates the evidence against her. And when the strain of being separated from her family, especially her son, gets to her, John decides to break her out. So he does a lot of research to find a way.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/odZECgJpQSUUK1tOMrkT7LWxSkI-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/lti0vfCPZns?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-next-three-days/",
+  "Name": "The Next Three Days"
+}

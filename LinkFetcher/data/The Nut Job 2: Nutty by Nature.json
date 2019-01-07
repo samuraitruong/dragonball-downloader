@@ -1,35 +1,108 @@
 {
   "Id": "movrom87c335777",
-  "Url": "https://fsharephim.com/movies/the-nut-job-2-nutty-by-nature/",
-  "Name": "The Nut Job 2: Nutty by Nature",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wETNAQK49YA8UVuUnhks5duOAYT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wETNAQK49YA8UVuUnhks5duOAYT.jpg",
+      "Name": "The Nut Job 2: Nutty by Nature"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9eGDy4gjelTXYu4sIrC0lqxRUYc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9eGDy4gjelTXYu4sIrC0lqxRUYc.jpg",
+      "Name": "The Nut Job 2: Nutty by Nature"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yJjXxw19tpXpR8LOPtIivK2xQQ2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yJjXxw19tpXpR8LOPtIivK2xQQ2.jpg",
+      "Name": "The Nut Job 2: Nutty by Nature"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tLjMSNJK4DPBjobvyfrTidSbRtC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tLjMSNJK4DPBjobvyfrTidSbRtC.jpg",
+      "Name": "The Nut Job 2: Nutty by Nature"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a2nqz5OKcaNSSBs9CQFZCQ30gvE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a2nqz5OKcaNSSBs9CQFZCQ30gvE.jpg",
+      "Name": "The Nut Job 2: Nutty by Nature"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o3LcoYPI5pljiDGwbWjqF52pbdS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o3LcoYPI5pljiDGwbWjqF52pbdS.jpg",
+      "Name": "The Nut Job 2: Nutty by Nature"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/98ltITWze6hOsCRu0DBJAhyEUpf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/98ltITWze6hOsCRu0DBJAhyEUpf.jpg",
+      "Name": "The Nut Job 2: Nutty by Nature"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eBwRfTOokpRRRpjbIUVpPYYgOv7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eBwRfTOokpRRRpjbIUVpPYYgOv7.jpg",
+      "Name": "The Nut Job 2: Nutty by Nature"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tHgnwaRVMCp2uO3mBnN5anLAzEV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tHgnwaRVMCp2uO3mBnN5anLAzEV.jpg",
+      "Name": "The Nut Job 2: Nutty by Nature"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movrom87c335777-4/",
-      "Name": "1080p - Thuyết Minh",
-      "Url": "https://www.fshare.vn/file/LJOKF8KVHIR5",
       "Size": "25.72 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/LJOKF8KVHIR5",
+      "Name": "1080p - Thuyết Minh"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movrom87c335777-3/",
-      "Name": "The Nut Job 2 - Nutty by Nature 2017 720p WEB-DL DD5.1 H264-FGT.mkv",
-      "Url": "https://www.fshare.vn/file/58F6CWAFYA7XSUN",
       "Size": "2.8 GB",
-      "FileSize": 2985013086
+      "FileSize": 2985013086,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/58F6CWAFYA7XSUN",
+      "Name": "The Nut Job 2 - Nutty by Nature 2017 720p WEB-DL DD5.1 H264-FGT.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movrom87c335777-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/the-nut-job-2-nutty-by-nature",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/the-nut-job-2-nutty-by-nature",
+      "Name": "Subtitle"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movrom87c335777/",
-      "Name": "WEB-DL-720p",
-      "Url": "http://4share.vn/f/3a0f0c0c090d0e09",
       "Size": "2.78 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://4share.vn/f/3a0f0c0c090d0e09",
+      "Name": "WEB-DL-720p"
     }
-  ]
+  ],
+  "Intro": "When the evil mayor of Oakton decides to bulldoze Liberty Park and build a dangerous amusement park in its place, Surly Squirrel and his ragtag group of animal friends need to band together to save their home, defeat the mayor, and take back the park.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/9FVJOUCmruekroyfsTsAKDYST80-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/nYif5QTYI9w?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-nut-job-2-nutty-by-nature/",
+  "Name": "The Nut Job 2: Nutty by Nature"
 }

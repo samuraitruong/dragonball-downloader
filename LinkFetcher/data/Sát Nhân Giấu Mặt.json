@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pG39VS7fFLk2crzq57RkqDfUSk0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pG39VS7fFLk2crzq57RkqDfUSk0.jpg",
+      "Name": "Sát Nhân Giấu Mặt - Minority Report"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u8BvwuiiQ0uLFuXviKJU0cCHXIW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u8BvwuiiQ0uLFuXviKJU0cCHXIW.jpg",
+      "Name": "Sát Nhân Giấu Mặt - Minority Report"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6HbOqP1GUElNLdX8Bx2uP542CIP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6HbOqP1GUElNLdX8Bx2uP542CIP.jpg",
+      "Name": "Sát Nhân Giấu Mặt - Minority Report"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bSol4PxlFhqMDdPYFoVyYIrhVPY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bSol4PxlFhqMDdPYFoVyYIrhVPY.jpg",
+      "Name": "Sát Nhân Giấu Mặt - Minority Report"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bwC6eydgNpGIaLGosyhw0DUBmgb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bwC6eydgNpGIaLGosyhw0DUBmgb.jpg",
+      "Name": "Sát Nhân Giấu Mặt - Minority Report"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8f2NZAwGP8h2ZSnwWOHeuEFCoNe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8f2NZAwGP8h2ZSnwWOHeuEFCoNe.jpg",
+      "Name": "Sát Nhân Giấu Mặt - Minority Report"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2dabU668Fhu27QNXFmAT5WZhlWh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2dabU668Fhu27QNXFmAT5WZhlWh.jpg",
+      "Name": "Sát Nhân Giấu Mặt - Minority Report"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dP53aY8VlKraY7C1GPcgFFPugC4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dP53aY8VlKraY7C1GPcgFFPugC4.jpg",
+      "Name": "Sát Nhân Giấu Mặt - Minority Report"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cPTenanE9sRTb8KTfzmQ86pzbJD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cPTenanE9sRTb8KTfzmQ86pzbJD.jpg",
+      "Name": "Sát Nhân Giấu Mặt - Minority Report"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/de4k64iTIVFlY702afkNpM6rl7r.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/de4k64iTIVFlY702afkNpM6rl7r.jpg",
+      "Name": "Sát Nhân Giấu Mặt - Minority Report"
+    }
+  ],
+  "Links": [],
+  "Intro": "Minority Report (Sát Nhân Giấu Mặt): Thanh tra John Anderton (Tom Cruise) đầy trách nhiệm và tuyệt đối tin tưởng vào Bộ phận dự đoán. Nhưng thật trớ trêu khi một ngày Bộ phận thông báo rằng John chính là kẻ giết người tiếp theo, nạn nhân là một người anh không hề quen biết. Không còn cách nào khác, anh phải chạy trốn. Trên đường đi tìm ra sự thực về Bản báo cáo thiểu số, John đã khám phá ra bí mật về Bộ phận Dự Đoán này mà không ai có thể ngờ tới được.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/05/h3lpltSn7Rj1eYTPQO1lYGdw4Bz-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/QH-6UImAP7c?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/minority-report/",
+  "Name": "Sát Nhân Giấu Mặt"
+}

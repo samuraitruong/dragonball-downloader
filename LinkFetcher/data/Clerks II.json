@@ -1,0 +1,68 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dIF8r4OUVaRfy6O7mfIJjufEC9j.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dIF8r4OUVaRfy6O7mfIJjufEC9j.jpg",
+      "Name": "Clerks II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lF2BCv5tXoGwd45ZYslaN1peiFJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lF2BCv5tXoGwd45ZYslaN1peiFJ.jpg",
+      "Name": "Clerks II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3zHZK28nvs0YH3ZtzNlaxapH7mZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3zHZK28nvs0YH3ZtzNlaxapH7mZ.jpg",
+      "Name": "Clerks II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9Ec2k40MLrsN47Dj9jCmn70nSwx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9Ec2k40MLrsN47Dj9jCmn70nSwx.jpg",
+      "Name": "Clerks II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9s96rsMJkgt5l2LKcr4HgxcprOA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9s96rsMJkgt5l2LKcr4HgxcprOA.jpg",
+      "Name": "Clerks II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bhSBlFPe18PoOOIjLAB7DQPzWxb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bhSBlFPe18PoOOIjLAB7DQPzWxb.jpg",
+      "Name": "Clerks II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yFk5GDN4sbQwyMgPHfaQD0xmfWd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yFk5GDN4sbQwyMgPHfaQD0xmfWd.jpg",
+      "Name": "Clerks II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sUyVWeUivAl3pfGWxMtpr0Guwt2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sUyVWeUivAl3pfGWxMtpr0Guwt2.jpg",
+      "Name": "Clerks II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6pSkAvqdBQiJagiVvJQmbKQpb1m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6pSkAvqdBQiJagiVvJQmbKQpb1m.jpg",
+      "Name": "Clerks II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eVlx5bVQ6N1vWsVsV24WRAAkXex.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eVlx5bVQ6N1vWsVsV24WRAAkXex.jpg",
+      "Name": "Clerks II"
+    }
+  ],
+  "Links": [],
+  "Intro": "A calamity at Dante and Randall&#8217;s shops sends them looking for new horizons &#8211; but they ultimately settle at Mooby&#8217;s, a fictional Disney-McDonald&#8217;s-style fast-food empire.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/luPEGTlN8egktVeomdf2nEap5SP-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/JeAgPiCi94o?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/clerks-ii/",
+  "Name": "Clerks II"
+}

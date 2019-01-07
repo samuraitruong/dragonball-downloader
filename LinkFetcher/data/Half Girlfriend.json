@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hvzAWfF5AHXpPBblyQhiVLCg2TF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hvzAWfF5AHXpPBblyQhiVLCg2TF.jpg",
+      "Name": "Half Girlfriend"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gJaNyITBJ7Y4tCiQ5HfxKiowjWi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gJaNyITBJ7Y4tCiQ5HfxKiowjWi.jpg",
+      "Name": "Half Girlfriend"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1msdUZLDsw9Y5qCUQdTDQ8ThJrG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1msdUZLDsw9Y5qCUQdTDQ8ThJrG.jpg",
+      "Name": "Half Girlfriend"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sSMOrBhiVo13dCUuRr4xbdMGmij.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sSMOrBhiVo13dCUuRr4xbdMGmij.jpg",
+      "Name": "Half Girlfriend"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cYf7GHdSnhyLvo2HUd7kQ4zYkuP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cYf7GHdSnhyLvo2HUd7kQ4zYkuP.jpg",
+      "Name": "Half Girlfriend"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uZmUxcuvLRwh36BnUGHsbEBZM90.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uZmUxcuvLRwh36BnUGHsbEBZM90.jpg",
+      "Name": "Half Girlfriend"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uwXuNhkUNlGxSsVfxQkMlOjYqJr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uwXuNhkUNlGxSsVfxQkMlOjYqJr.jpg",
+      "Name": "Half Girlfriend"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/trlwxV4yVWtlm6aLRPSCkLVdnQv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/trlwxV4yVWtlm6aLRPSCkLVdnQv.jpg",
+      "Name": "Half Girlfriend"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rZybVy1zUYAN7vuw9ZULHTwM98T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rZybVy1zUYAN7vuw9ZULHTwM98T.jpg",
+      "Name": "Half Girlfriend"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l73sg15ADHa4dekild59t70QgnV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l73sg15ADHa4dekild59t70QgnV.jpg",
+      "Name": "Half Girlfriend"
+    }
+  ],
+  "Links": [],
+  "Intro": "Madhav Jha, a rustic boy from Bihar who is drawn to his college-mate, Riya Somani, an affluent English-speaking girl from Delhi. There’s just one hitch here. Riya is willing to go thus far and no further; Madhav continues being obsessed with her. Will the Bihar boy and the Delhi girl make it past the half-way mark?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/jvacZc9CVkjCA25ds4UqnOWbSpV-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/KmlBnmyelHI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/half-girlfriend/",
+  "Name": "Half Girlfriend"
+}

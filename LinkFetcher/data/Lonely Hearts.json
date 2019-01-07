@@ -1,0 +1,55 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eJBksbmMBf6ucrlEoabouuF2WSj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eJBksbmMBf6ucrlEoabouuF2WSj.jpg",
+      "Name": "Lonely Hearts"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8zXW96dYfYsJUEEGg1HwTrkaTtZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8zXW96dYfYsJUEEGg1HwTrkaTtZ.jpg",
+      "Name": "Lonely Hearts"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nJ4s3d3OcNs5y7uEfYUKxNb0E0m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nJ4s3d3OcNs5y7uEfYUKxNb0E0m.jpg",
+      "Name": "Lonely Hearts"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hdhNPYy5A7A11zXyqTN1EWbtBcE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hdhNPYy5A7A11zXyqTN1EWbtBcE.jpg",
+      "Name": "Lonely Hearts"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cUh3QGvpXXdeNdms7I86XVDL4bv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cUh3QGvpXXdeNdms7I86XVDL4bv.jpg",
+      "Name": "Lonely Hearts"
+    }
+  ],
+  "Links": [],
+  "Intro": "In the late 1940&#8217;s, Martha Beck and Raymond Fernandez were America&#8217;s notorious &#8220;Lonely Hearts Killers&#8221;. Their lethal scam was simple; they would swindle and then viciously murder lovelorn war widows who would answer their personal ads in which Ray would describe himself as a sexy Latin Lover. Based on a true story.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/wxsyl5wjobtYhll3rf5nGuC4kBN-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/V2CCvIru48k?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/lonely-hearts/",
+  "Name": "Lonely Hearts"
+}

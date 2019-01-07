@@ -1,28 +1,76 @@
 {
-  "Id": "mov4bbzDB4935",
-  "Url": "https://fsharephim.com/movies/howls-moving-castle/",
-  "Name": "Howl's Moving Castle",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov4bbzdb4935-3/",
-      "Name": "Howls Moving Castle 1080p BluRay x264-EbP.mkv",
-      "Url": "https://www.fshare.vn/file/MV873I3J9EYB",
-      "Size": "8.79 GB",
-      "FileSize": 9437371859
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov4bbzdb4935-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "http://www.fshare.vn/file/TXS12BV52T",
-      "Size": "168.57 KB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov4bbzdb4935/",
-      "Name": "Howl's.Moving.Castle.2004.720p.HDTV.DTS.x264-THORA.mkv",
-      "Url": "https://www.fshare.vn/file/TC18SYF0FT",
-      "Size": "2.88 GB",
-      "FileSize": 3087008342
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cGyqa5PxiWSsG7NSw3ufCj0JW9k.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cGyqa5PxiWSsG7NSw3ufCj0JW9k.jpg",
+      "Name": "Howl&#8217;s Moving Castle"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3A6xyR32iAkoNr8NoeoqkQZHD4u.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3A6xyR32iAkoNr8NoeoqkQZHD4u.jpg",
+      "Name": "Howl&#8217;s Moving Castle"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qTZwiZYQNn6B8VnLzCCGqaTszeM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qTZwiZYQNn6B8VnLzCCGqaTszeM.jpg",
+      "Name": "Howl&#8217;s Moving Castle"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cowaxROnzr0yrnUpKrbvtRYrHBX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cowaxROnzr0yrnUpKrbvtRYrHBX.jpg",
+      "Name": "Howl&#8217;s Moving Castle"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mhXFuEE4zDoEona1BmKOtZCC7jM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mhXFuEE4zDoEona1BmKOtZCC7jM.jpg",
+      "Name": "Howl&#8217;s Moving Castle"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1fBi7zzXHHXOyiLFNiNArt2fGjK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1fBi7zzXHHXOyiLFNiNArt2fGjK.jpg",
+      "Name": "Howl&#8217;s Moving Castle"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/A3Chbizn3KZk0lC02DNJ3Q7QdMP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/A3Chbizn3KZk0lC02DNJ3Q7QdMP.jpg",
+      "Name": "Howl&#8217;s Moving Castle"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mPDRJHKgEd9GeiRRkVzhMt0r4i3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mPDRJHKgEd9GeiRRkVzhMt0r4i3.jpg",
+      "Name": "Howl&#8217;s Moving Castle"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/r9zvbPWHXghdX9EpqaxbiQtOkow.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/r9zvbPWHXghdX9EpqaxbiQtOkow.jpg",
+      "Name": "Howl&#8217;s Moving Castle"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hG7THWmtSjzieuC0e4mWNq8wG3h.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hG7THWmtSjzieuC0e4mWNq8wG3h.jpg",
+      "Name": "Howl&#8217;s Moving Castle"
+    }
+  ],
+  "Links": [],
+  "Intro": "When Sophie, a shy young woman, is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking home.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/iMarB2ior30OAXjPa7QIdeyUfM1-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/bHTrnAVPens?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/howls-moving-castle/",
+  "Name": "Howl's Moving Castle"
 }

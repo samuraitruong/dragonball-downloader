@@ -1,21 +1,27 @@
 {
-  "Id": "mov0A4OxT375107",
-  "Url": "https://fsharephim.com/movies/duck-duck-goose/",
-  "Name": "Duck Duck Goose",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov0a4oxt375107-2/",
-      "Name": "1080p",
-      "Url": "http://www.fshare.vn/file/ZLRQ44VVGC2Z",
-      "Size": "6.56 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov0a4oxt375107/",
-      "Name": "WEB-DL-1080p",
-      "Url": "http://www.fshare.vn/file/68F69KQSGLEV",
-      "Size": "3.99 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xgt7soczqOnzIiP93QOiu4FLUe4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xgt7soczqOnzIiP93QOiu4FLUe4.jpg ",
+      "Name": "Duck Duck Goose"
+    }
+  ],
+  "Links": [],
+  "Intro": "After he’s grounded by an injury, a high-flying bachelor is saddled with two wide-eyed orphans as they come face-to-face with the dangers and beauty of the outside world.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/07/7XURM64DYa9DpS70I2rM4suvq1s-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/w_R0-5ZVC3w?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/duck-duck-goose/",
+  "Name": "Duck Duck Goose"
 }

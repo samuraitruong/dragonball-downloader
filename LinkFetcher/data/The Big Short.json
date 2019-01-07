@@ -1,0 +1,62 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jmlMLYEsYY1kRc5qHIyTdxCeVmZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jmlMLYEsYY1kRc5qHIyTdxCeVmZ.jpg",
+      "Name": "The Big Short"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/i8cRwRJH42t4i4uvYkwdT5pstly.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/i8cRwRJH42t4i4uvYkwdT5pstly.jpg",
+      "Name": "The Big Short"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6UyMLbe0lAPqfZLtVllAwBNFIis.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6UyMLbe0lAPqfZLtVllAwBNFIis.jpg",
+      "Name": "The Big Short"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jrDHbzv7W5uS1VgMHDykQnpFC4D.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jrDHbzv7W5uS1VgMHDykQnpFC4D.jpg",
+      "Name": "The Big Short"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aQ1h8X2wjlSMWefWKFpmlccDX0n.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aQ1h8X2wjlSMWefWKFpmlccDX0n.jpg",
+      "Name": "The Big Short"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nPnDQg0iHMKFsMcYIyGQiYpK0wb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nPnDQg0iHMKFsMcYIyGQiYpK0wb.jpg",
+      "Name": "The Big Short"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/abzLkFBSlJkmX2JvQKKXCJNpT8S.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/abzLkFBSlJkmX2JvQKKXCJNpT8S.jpg",
+      "Name": "The Big Short"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t04gCZ6EuoIi8PLCQBLVOpIPqgR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t04gCZ6EuoIi8PLCQBLVOpIPqgR.jpg",
+      "Name": "The Big Short"
+    }
+  ],
+  "Links": [],
+  "Intro": "The men who made millions from a global economic meltdown.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/p11Ftd4VposrAzthkhF53ifYZRl-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/vgqG3ITMv1Q?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-big-short/",
+  "Name": "The Big Short"
+}

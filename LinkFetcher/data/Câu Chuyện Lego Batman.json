@@ -1,21 +1,84 @@
 {
-  "Id": "movWGjjrh324849",
-  "Url": "https://fsharephim.com/movies/the-lego-batman-movie/",
-  "Name": "Câu Chuyện Lego Batman",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movwgjjrh324849/",
-      "Name": "The.LEGO.Batman.Movie.2017.BluRay.1080p.DTS.2Audio.x264-CHD.mkv",
-      "Url": "https://www.fshare.vn/file/H4UNEQAXMZTVPMR",
-      "Size": "7.92 GB",
-      "FileSize": 8500824269
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movwgjjrh324849-2/",
-      "Name": "The LEGO Batman Movie 2017 ViE 1080p BluRay x264 DD5.1-Replica.mkv",
-      "Url": "https://www.fshare.vn/file/VDW6UJS4VS5ZA6R",
-      "Size": "5.93 GB",
-      "FileSize": 6366431407
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gbO4tWvMC0oLbNvHP9Zth3eUeAA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gbO4tWvMC0oLbNvHP9Zth3eUeAA.jpg",
+      "Name": "Câu Chuyện Lego Batman - The Lego Batman Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jqnbac3oind5VOcAN0mTXyapOGh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jqnbac3oind5VOcAN0mTXyapOGh.jpg",
+      "Name": "Câu Chuyện Lego Batman - The Lego Batman Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lm0rMEgS2fKZdCM6JTplP6XwGnR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lm0rMEgS2fKZdCM6JTplP6XwGnR.jpg",
+      "Name": "Câu Chuyện Lego Batman - The Lego Batman Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6lxtzN2TBtFY1X0IQV54Cq1J7iY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6lxtzN2TBtFY1X0IQV54Cq1J7iY.jpg",
+      "Name": "Câu Chuyện Lego Batman - The Lego Batman Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nshxkhNInEUI4HnxVA61J9rAfKo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nshxkhNInEUI4HnxVA61J9rAfKo.jpg",
+      "Name": "Câu Chuyện Lego Batman - The Lego Batman Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1rIIzTMm1WVxMCiXdJKLMgGCcXb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1rIIzTMm1WVxMCiXdJKLMgGCcXb.jpg",
+      "Name": "Câu Chuyện Lego Batman - The Lego Batman Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vmLinBcOYJfwbcbNAnqOGDb4Ozu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vmLinBcOYJfwbcbNAnqOGDb4Ozu.jpg",
+      "Name": "Câu Chuyện Lego Batman - The Lego Batman Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g01B5oD3j2sIupAQY2Ykm4TIRks.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g01B5oD3j2sIupAQY2Ykm4TIRks.jpg",
+      "Name": "Câu Chuyện Lego Batman - The Lego Batman Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sIz3mw9WkN6MnC19Fn10Ci8HPHQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sIz3mw9WkN6MnC19Fn10Ci8HPHQ.jpg",
+      "Name": "Câu Chuyện Lego Batman - The Lego Batman Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fQT1nZWBKWDQRJ5MO1ZFxxYHjV7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fQT1nZWBKWDQRJ5MO1ZFxxYHjV7.jpg",
+      "Name": "Câu Chuyện Lego Batman - The Lego Batman Movie"
+    }
+  ],
+  "Links": [],
+  "Intro": "Nhờ sự nghiêm khắc của người cộng sự Alfred, triệu phú Bruce Wayne phải trở thành một người cha/người thầy bất đắc dĩ cho đứa con nuôi Dick Grayson. Để giải cứu thành phố thoát khỏi bàn tay phá hoại của The Joker, Bruce/ Batman sẽ phải rũ bỏ lối làm việc đơn độc, học cách hợp tác với Robin và lực lượng cảnh sát, đứng đầu là Uỷ viên Gordon.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/02/1pHOqpdCYNmtRVJs6pGKQKttrPm-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/aBJyp2LFHgk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-lego-batman-movie/",
+  "Name": "Câu Chuyện Lego Batman"
 }

@@ -1,0 +1,49 @@
+{
+  "Id": "movbg5y7X466190",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/mien-tay/",
+      "Name": "Miền Tây"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gUZUDAHDdt9rA5BZ8AJake4eZL1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gUZUDAHDdt9rA5BZ8AJake4eZL1.jpg",
+      "Name": "The Killer"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vrJmOOUxLm0OxzbuqdtIlJ0ujIq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vrJmOOUxLm0OxzbuqdtIlJ0ujIq.jpg",
+      "Name": "The Killer"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movbg5y7x466190/",
+      "Size": "4.7 GB",
+      "FileSize": 4997242419,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/UL7TAQI2H1CFTLA",
+      "Name": "O.Matador-The Killer.2017.NF.1080p.WEB-DL.DD5.1.x264-SadeceBluRay(r).mkv"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movbg5y7x466190-2/",
+      "Size": "0",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/the-killer-2017",
+      "Name": "Subtitle"
+    }
+  ],
+  "Intro": "In lawless badlands, reclusive Cabeleira sets out to discover the fate of his gunman father and grows to be a feared assassin himself.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/he6s2dOWmzWXsZGa0QLbcMVZJnx-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/hhm7glxFAcE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-killer-2/",
+  "Name": "The Killer"
+}

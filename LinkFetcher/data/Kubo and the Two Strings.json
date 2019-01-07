@@ -1,21 +1,76 @@
 {
-  "Id": "movY36s4o313297",
-  "Url": "https://fsharephim.com/movies/kubo-and-the-two-strings/",
-  "Name": "Kubo and the Two Strings",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movy36s4o313297/",
-      "Name": "Kubo and the Two Strings 2016 ViE 720p BluRay DTS x264-HiDt.mkv",
-      "Url": "https://www.fshare.vn/file/QMMZRMLT2H2I5XY",
-      "Size": "5.91 GB",
-      "FileSize": 6348607291
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movy36s4o313297-2/",
-      "Name": "Kubo.And.The.Two.Strings.2016.ViE.1080p.BluRay.DTS.x264-HDMaNiAcS.mkv",
-      "Url": "https://www.fshare.vn/file/TWT4SC5C32QB1YI",
-      "Size": "13.79 GB",
-      "FileSize": 14806268877
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ap3norxI7zbe1KUpU5rCyfhGikb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ap3norxI7zbe1KUpU5rCyfhGikb.jpg",
+      "Name": "Kubo and the Two Strings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/n4FeRnlH0ERa1kCUh0NXOyQvxnd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/n4FeRnlH0ERa1kCUh0NXOyQvxnd.jpg",
+      "Name": "Kubo and the Two Strings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/akd0Z0OiR20btITvmvweDcJ3m8H.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/akd0Z0OiR20btITvmvweDcJ3m8H.jpg",
+      "Name": "Kubo and the Two Strings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qymILRKAeo4srgYG3fehPanOCvO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qymILRKAeo4srgYG3fehPanOCvO.jpg",
+      "Name": "Kubo and the Two Strings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aF4TrSc1IbNNtsWdwixMQNku3Dv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aF4TrSc1IbNNtsWdwixMQNku3Dv.jpg",
+      "Name": "Kubo and the Two Strings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5INDdHDm2cBnQ9UyASI8tv3jhQW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5INDdHDm2cBnQ9UyASI8tv3jhQW.jpg",
+      "Name": "Kubo and the Two Strings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pMM9RW2stBOH0WLheiylsod4OZn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pMM9RW2stBOH0WLheiylsod4OZn.jpg",
+      "Name": "Kubo and the Two Strings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zohfh8tFQPcZMWbLCgi7pwSYagC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zohfh8tFQPcZMWbLCgi7pwSYagC.jpg",
+      "Name": "Kubo and the Two Strings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5Rqe1QPR6IxsLln53kCv24OfQWp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5Rqe1QPR6IxsLln53kCv24OfQWp.jpg",
+      "Name": "Kubo and the Two Strings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ppU3dffZo0fAbF78r2Y3Clwst4T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ppU3dffZo0fAbF78r2Y3Clwst4T.jpg",
+      "Name": "Kubo and the Two Strings"
+    }
+  ],
+  "Links": [],
+  "Intro": "Kubo mesmerizes the people in his village with his magical gift for spinning wild tales with origami. When he accidentally summons an evil spirit seeking vengeance, Kubo is forced to go on a quest to solve the mystery of his fallen samurai father and his mystical weaponry, as well as discover his own magical powers.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/3Kr9CIIMcXTPlm6cdZ9y3QTe4Y7-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/p4-6qJzeb3A?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/kubo-and-the-two-strings/",
+  "Name": "Kubo and the Two Strings"
 }

@@ -1,42 +1,113 @@
 {
   "Id": "move9JTxw80321",
-  "Url": "https://fsharephim.com/movies/madagascar-3-europes-most-wanted/",
-  "Name": "Madagascar 3: Europe's Most Wanted",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/alkQ9DQJdZutBCKdEHXUVCZnuAF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/alkQ9DQJdZutBCKdEHXUVCZnuAF.jpg",
+      "Name": "Madagascar 3: Europe&#8217;s Most Wanted"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uHnLhm4AybDCbz6sAVkxZKNNXV3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uHnLhm4AybDCbz6sAVkxZKNNXV3.jpg",
+      "Name": "Madagascar 3: Europe&#8217;s Most Wanted"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rPC5C13PVbuVEeV3z4CiBYGyJBt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rPC5C13PVbuVEeV3z4CiBYGyJBt.jpg",
+      "Name": "Madagascar 3: Europe&#8217;s Most Wanted"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sYL48cYHlM2bNyV4bhqpJ5gKUUs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sYL48cYHlM2bNyV4bhqpJ5gKUUs.jpg",
+      "Name": "Madagascar 3: Europe&#8217;s Most Wanted"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7HYA2BUUhum4KwxMXrwj2OOxmMZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7HYA2BUUhum4KwxMXrwj2OOxmMZ.jpg",
+      "Name": "Madagascar 3: Europe&#8217;s Most Wanted"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uEmd3WsYwAdOKSV8zXbkPuWYiLh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uEmd3WsYwAdOKSV8zXbkPuWYiLh.jpg",
+      "Name": "Madagascar 3: Europe&#8217;s Most Wanted"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mFTYjXUkbHe1enGdOMWiGGy5ujg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mFTYjXUkbHe1enGdOMWiGGy5ujg.jpg",
+      "Name": "Madagascar 3: Europe&#8217;s Most Wanted"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ojjRYqwunK0Ueiq0IIlKvcOeHEV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ojjRYqwunK0Ueiq0IIlKvcOeHEV.jpg",
+      "Name": "Madagascar 3: Europe&#8217;s Most Wanted"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5yznPRIhQkCpD4B83i0zOUm754E.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5yznPRIhQkCpD4B83i0zOUm754E.jpg",
+      "Name": "Madagascar 3: Europe&#8217;s Most Wanted"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6aiZXMRzKdd6t6bNRUlCrI2pNQH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6aiZXMRzKdd6t6bNRUlCrI2pNQH.jpg",
+      "Name": "Madagascar 3: Europe&#8217;s Most Wanted"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/move9jtxw80321-3/",
-      "Name": "Madagascar 3 Europes Most Wanted (2012) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/SWXQNO7QQ9T3",
       "Size": "1.13 GB",
-      "FileSize": 1211152365
+      "FileSize": 1211152365,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/SWXQNO7QQ9T3",
+      "Name": "Madagascar 3 Europes Most Wanted (2012) 720p BrRip x264.mp4"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/move9jtxw80321-4/",
-      "Name": "Madagascar 3 Europes Most Wanted (2012) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/DNYMYMWIIR3R",
       "Size": "1.78 GB",
-      "FileSize": 1911275023
+      "FileSize": 1911275023,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/DNYMYMWIIR3R",
+      "Name": "Madagascar 3 Europes Most Wanted (2012) 1080p BrRip x264.mp4"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/move9jtxw80321-5/",
-      "Name": "Madagascar 3 Europes Most Wanted (2012) 1080p 3D VIE Bluray AVC DTS-HD MA 5.1.iso",
-      "Url": "https://www.fshare.vn/file/U74NN4BWDSLC",
       "Size": "23.98 GB",
-      "FileSize": 25752436736
+      "FileSize": 25752436736,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/U74NN4BWDSLC",
+      "Name": "Madagascar 3 Europes Most Wanted (2012) 1080p 3D VIE Bluray AVC DTS-HD MA 5.1.iso"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/move9jtxw80321/",
-      "Name": "Madagascar.3.2012.VIE.720p-CHD.mkv",
-      "Url": "https://www.fshare.vn/file/T6WTFCYFHT",
       "Size": "4.78 GB",
-      "FileSize": 5133334918
+      "FileSize": 5133334918,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/T6WTFCYFHT",
+      "Name": "Madagascar.3.2012.VIE.720p-CHD.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/move9jtxw80321-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/madagascar-3-europes-most-wanted",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/madagascar-3-europes-most-wanted",
+      "Name": "Subtitle"
     }
-  ]
+  ],
+  "Intro": "Animal pals Alex, Marty, Melman, and Gloria are still trying to make it back to New York&#8217;s Central Park Zoo. They are forced to take a detour to Europe to find the penguins and chimps who broke the bank at a Monte Carlo casino. When French animal-control officer Capitaine Chantel DuBois picks up their scent, Alex and company are forced to hide out in a traveling circus.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/wd7NcMifnuf66gD2Fm7Tzz3yJ54-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/PlkWVkpP59U?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/madagascar-3-europes-most-wanted/",
+  "Name": "Madagascar 3: Europe's Most Wanted"
 }

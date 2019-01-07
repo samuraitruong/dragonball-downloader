@@ -1,0 +1,47 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qpCG6n7Yn9V65LnSvuY1giDOrz3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qpCG6n7Yn9V65LnSvuY1giDOrz3.jpg ",
+      "Name": "Maze"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/loqefPPuE7PUiJ7VpgpmFTNP2tn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/loqefPPuE7PUiJ7VpgpmFTNP2tn.jpg ",
+      "Name": "Maze"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z8nGJj8aMwF9Z2qQYnP6oKM049.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z8nGJj8aMwF9Z2qQYnP6oKM049.jpg ",
+      "Name": "Maze"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k2HqkJlogEHBqBX0GrL7lFPEjuL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k2HqkJlogEHBqBX0GrL7lFPEjuL.jpg ",
+      "Name": "Maze"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mIt8fZMtEWPTYNqjpWfVelxwDgh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mIt8fZMtEWPTYNqjpWfVelxwDgh.jpg ",
+      "Name": "Maze"
+    }
+  ],
+  "Links": [],
+  "Intro": "Inspired by the true events of the infamous 1983 prison breakout of 38 IRA prisoners from HMP, which was to become the biggest prison escape in Europe since World War II.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/1eP7dpwRcjA8vfcyBhtZkYnNRi9-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/LhObLyzld4w?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/maze/",
+  "Name": "Maze"
+}

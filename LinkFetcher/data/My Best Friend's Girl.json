@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wEvAB2DlKbnKx41g18cFHjgz4Pj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wEvAB2DlKbnKx41g18cFHjgz4Pj.jpg",
+      "Name": "My Best Friend&#8217;s Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3431D9eWEg6qreQ1n1brm9VSHHH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3431D9eWEg6qreQ1n1brm9VSHHH.jpg",
+      "Name": "My Best Friend&#8217;s Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fOPbDxiWielYKysmfwHg8iYFzAD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fOPbDxiWielYKysmfwHg8iYFzAD.jpg",
+      "Name": "My Best Friend&#8217;s Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fDXH3idtfb14FMmuwkIbUCePVx2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fDXH3idtfb14FMmuwkIbUCePVx2.jpg",
+      "Name": "My Best Friend&#8217;s Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bK2DVT9ULIw47kGrOlXkIB1hJoy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bK2DVT9ULIw47kGrOlXkIB1hJoy.jpg",
+      "Name": "My Best Friend&#8217;s Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uo65nj4YW2fmvrO3tCp6mWII8Nu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uo65nj4YW2fmvrO3tCp6mWII8Nu.jpg",
+      "Name": "My Best Friend&#8217;s Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9P1o40kPTEod58SvaPbgjLPUWKj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9P1o40kPTEod58SvaPbgjLPUWKj.jpg",
+      "Name": "My Best Friend&#8217;s Girl"
+    }
+  ],
+  "Links": [],
+  "Intro": "When Dustin&#8217;s girlfriend, Alexis, breaks up with him, he employs his best buddy, Tank, to take her out on the worst rebound date imaginable in the hopes that it will send her running back into his arms. But when Tank begins to really fall for Alexis, he finds himself in an impossible position.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/l6OAtXIo1xerbwo8xezvqr6s27Q-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/PsIt1K1C2c4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/my-best-friends-girl/",
+  "Name": "My Best Friend's Girl"
+}

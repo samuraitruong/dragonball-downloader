@@ -1,0 +1,70 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/d4wnMDSrQonB9iArMzd90WqaoJ4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/d4wnMDSrQonB9iArMzd90WqaoJ4.jpg",
+      "Name": "Winchester"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eW2IuQHLCBrUWfEkRghDKQCaxak.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eW2IuQHLCBrUWfEkRghDKQCaxak.jpg",
+      "Name": "Winchester"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qUL0vsw5ZVkzXLmDBbdZ46sS7UX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qUL0vsw5ZVkzXLmDBbdZ46sS7UX.jpg",
+      "Name": "Winchester"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oS2hYCKZOUA3JDfNSOEBlBtctMn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oS2hYCKZOUA3JDfNSOEBlBtctMn.jpg",
+      "Name": "Winchester"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bZ1sPbdZFa4NAa7Y6AJwsYo3Wd0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bZ1sPbdZFa4NAa7Y6AJwsYo3Wd0.jpg",
+      "Name": "Winchester"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/83dCMoWFf8Jt5Lth2vDp04p5xqO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/83dCMoWFf8Jt5Lth2vDp04p5xqO.jpg",
+      "Name": "Winchester"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sShIJl1G15Z7NLanMBBMtB8KRFb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sShIJl1G15Z7NLanMBBMtB8KRFb.jpg",
+      "Name": "Winchester"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kgFzBSoGr8iogi6tDFB2HhzDQd7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kgFzBSoGr8iogi6tDFB2HhzDQd7.jpg",
+      "Name": "Winchester"
+    }
+  ],
+  "Links": [],
+  "Intro": "Firearm heiress Sarah Winchester is convinced that she is haunted by the souls killed at the hands of the Winchester repeating rifle. After the sudden deaths of her husband and child, she throws herself into the construction of an enormous mansion designed to keep the evil spirits at bay. But when skeptical San Francisco psychiatrist Eric Price is dispatched to the estate to evaluate her state of mind, he discovers that her obsession may not be so insane after all.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/tHDtskokZeO9B3JBdR1dSH0uqad-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/0Juc2cL26mg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/winchester/",
+  "Name": "Winchester"
+}

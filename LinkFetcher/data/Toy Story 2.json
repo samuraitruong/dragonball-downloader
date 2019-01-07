@@ -1,49 +1,125 @@
 {
   "Id": "movI5mScO863",
-  "Url": "https://fsharephim.com/movies/toy-story-2/",
-  "Name": "Toy Story 2",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9Kjxr4VCU0Y4DAuXkzR2moAy7DK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9Kjxr4VCU0Y4DAuXkzR2moAy7DK.jpg",
+      "Name": "Toy Story 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gLLS3YpX2NVawtkQPUDViXicrLJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gLLS3YpX2NVawtkQPUDViXicrLJ.jpg",
+      "Name": "Toy Story 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kJ02TdPE8Np0bQYltCGkd5VueFj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kJ02TdPE8Np0bQYltCGkd5VueFj.jpg",
+      "Name": "Toy Story 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5UjwOZFVTXw7PdBId9UnnFEVEKr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5UjwOZFVTXw7PdBId9UnnFEVEKr.jpg",
+      "Name": "Toy Story 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/q9f1uPNy6ON9tIziSqRs5l6Jkd9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/q9f1uPNy6ON9tIziSqRs5l6Jkd9.jpg",
+      "Name": "Toy Story 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/efgd5en2RoWaJIu3ldefn2P83sQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/efgd5en2RoWaJIu3ldefn2P83sQ.jpg",
+      "Name": "Toy Story 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jt7QoXT5H6VntV2vFK7BrovXwjl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jt7QoXT5H6VntV2vFK7BrovXwjl.jpg",
+      "Name": "Toy Story 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7CVy6WCL8y8QQvPjTtQm108fmsa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7CVy6WCL8y8QQvPjTtQm108fmsa.jpg",
+      "Name": "Toy Story 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/inw5GhugPG6dyMwxLgPnDD2t8pq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/inw5GhugPG6dyMwxLgPnDD2t8pq.jpg",
+      "Name": "Toy Story 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rwyMLgJ87GUkijwmSyjvpaJp2ov.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rwyMLgJ87GUkijwmSyjvpaJp2ov.jpg",
+      "Name": "Toy Story 2"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movi5msco863/",
-      "Name": "Toy.Story.2.1999.mHD.x264-Thuyet.Minh-EPiK_all.hdvnbits.org.mkv",
-      "Url": "https://www.fshare.vn/file/GOV17MCH7AKNCGZ",
       "Size": "1.6 GB",
-      "FileSize": 1720488155
+      "FileSize": 1720488155,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/GOV17MCH7AKNCGZ",
+      "Name": "Toy.Story.2.1999.mHD.x264-Thuyet.Minh-EPiK_all.hdvnbits.org.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movi5msco863-2/",
-      "Name": "Toy.Story.2.1999.720p.BluRay.DTS-ES.x264-Donuts.mkv",
-      "Url": "https://www.fshare.vn/file/CA5K5PXBG1KF7FB",
       "Size": "3.7 GB",
-      "FileSize": 4024543911
+      "FileSize": 4024543911,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/CA5K5PXBG1KF7FB",
+      "Name": "Toy.Story.2.1999.720p.BluRay.DTS-ES.x264-Donuts.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movi5msco863-3/",
-      "Name": "Toy.Story.2.1999.1080p.BluRay.DTS-ES.x264-EbP.mkv",
-      "Url": "https://www.fshare.vn/file/95MHAO9XN912ZIB",
       "Size": "7.8 GB",
-      "FileSize": 8410028159
+      "FileSize": 8410028159,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/95MHAO9XN912ZIB",
+      "Name": "Toy.Story.2.1999.1080p.BluRay.DTS-ES.x264-EbP.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movi5msco863-4/",
-      "Name": "Toy.Story.2.1999.1080p.BluRay.3D.Half-OU.DTS.x264-HDC.mkv",
-      "Url": "https://www.fshare.vn/file/V9G9M232Q8OGY8W",
       "Size": "7.1 GB",
-      "FileSize": 7650843172
+      "FileSize": 7650843172,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/V9G9M232Q8OGY8W",
+      "Name": "Toy.Story.2.1999.1080p.BluRay.3D.Half-OU.DTS.x264-HDC.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movi5msco863-5/",
-      "Name": "Toy.Story.2.1999.ViE.1080p.Blu-ray.REMUX.AVC.DTS-HD.MA.5.1-UHDBits.iso",
-      "Url": "https://www.fshare.vn/file/ARQ568CO6ITAQJ7",
       "Size": "27.2 GB",
-      "FileSize": 29215817728
+      "FileSize": 29215817728,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/ARQ568CO6ITAQJ7",
+      "Name": "Toy.Story.2.1999.ViE.1080p.Blu-ray.REMUX.AVC.DTS-HD.MA.5.1-UHDBits.iso"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movi5msco863-6/",
-      "Name": "Toy.Story.2.1999.1080p.BluRay.DTS-ES.x264-EbP.srt",
-      "Url": "https://www.fshare.vn/file/13YCKLXM27GGMG8",
       "Size": "164.2 KB",
-      "FileSize": 168094
+      "FileSize": 168094,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/13YCKLXM27GGMG8",
+      "Name": "Toy.Story.2.1999.1080p.BluRay.DTS-ES.x264-EbP.srt"
     }
-  ]
+  ],
+  "Intro": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al&#8217;s Toy Barn kidnaps Woody. Andy&#8217;s toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/3CmK3XurcLeUyMifCR28ibzupbB-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/b75lZw8nkvo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/toy-story-2/",
+  "Name": "Toy Story 2"
 }

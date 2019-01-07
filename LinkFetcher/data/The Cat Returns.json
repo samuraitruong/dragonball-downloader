@@ -1,21 +1,84 @@
 {
-  "Id": "movH4197915370",
-  "Url": "https://fsharephim.com/movies/the-cat-returns/",
-  "Name": "The Cat Returns",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movh4197915370/",
-      "Name": "The.Cat.Returns.2002.720p.BluRay.DTS.x264-DON.mkv",
-      "Url": "https://www.fshare.vn/file/TYCZN2580T",
-      "Size": "3.74 GB",
-      "FileSize": 4015439701
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movh4197915370-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/the-cat-returns-neko-no-ongaeshi/vietnamese/835648",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jKoSzpjSKRFhq7LiKe1xtuhRy1m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jKoSzpjSKRFhq7LiKe1xtuhRy1m.jpg",
+      "Name": "The Cat Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tZ1nTCUFr0cMqKKoATzCFRA0LLB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tZ1nTCUFr0cMqKKoATzCFRA0LLB.jpg",
+      "Name": "The Cat Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z59Ea0TitkjTKU8WWmYyKqK7SGC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z59Ea0TitkjTKU8WWmYyKqK7SGC.jpg",
+      "Name": "The Cat Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gsR7A2fqodRftF1X2TcHYR0KQ0w.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gsR7A2fqodRftF1X2TcHYR0KQ0w.jpg",
+      "Name": "The Cat Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zswImEzws6OILrBKukr1ypefXZQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zswImEzws6OILrBKukr1ypefXZQ.jpg",
+      "Name": "The Cat Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sQNaQWKvZ1PFaMno7ZVEZD2hbaz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sQNaQWKvZ1PFaMno7ZVEZD2hbaz.jpg",
+      "Name": "The Cat Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yN9YDdWRFrAiqqG9WyMNQCMcIfP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yN9YDdWRFrAiqqG9WyMNQCMcIfP.jpg",
+      "Name": "The Cat Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7Te7PMoEPTYQSFXxDBZoK8aA5XX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7Te7PMoEPTYQSFXxDBZoK8aA5XX.jpg",
+      "Name": "The Cat Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uFmMdjJA7Xkenxhzqs4E03CoM86.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uFmMdjJA7Xkenxhzqs4E03CoM86.jpg",
+      "Name": "The Cat Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pibuCfw6ig6G0QiG0rzcZIrNvr2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pibuCfw6ig6G0QiG0rzcZIrNvr2.jpg",
+      "Name": "The Cat Returns"
+    }
+  ],
+  "Links": [],
+  "Intro": "Haru, a schoolgirl bored by her ordinary routine, saves the life of an unusual cat and suddenly her world is transformed beyond anything she ever imagined. The Cat King rewards her good deed with a flurry of presents, including a very shocking proposal of marriage to his son! Haru embarks on an unexpected journey to the Kingdom of Cats where her eyes are opened to a whole other world.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/57rS5DXN8YfRHgh609RgCKjKbel-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/hXjdFSv4Dhs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-cat-returns/",
+  "Name": "The Cat Returns"
 }

@@ -1,21 +1,63 @@
 {
   "Id": "mov3H3S0p17445",
-  "Url": "https://fsharephim.com/movies/green-lantern-first-flight/",
-  "Name": "Người Hùng Xanh: Trận Chiến Đầu Tiên",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/saGmUJUIN5dgJj3HF1V3abCGfyR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/saGmUJUIN5dgJj3HF1V3abCGfyR.jpg",
+      "Name": "Người Hùng Xanh: Trận Chiến Đầu Tiên - Green Lantern: First Flight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cVBdnbCccARN6c92rJdpy2yrngx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cVBdnbCccARN6c92rJdpy2yrngx.jpg",
+      "Name": "Người Hùng Xanh: Trận Chiến Đầu Tiên - Green Lantern: First Flight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dDtcX4xu8LjMjXysZae0xZJlCV7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dDtcX4xu8LjMjXysZae0xZJlCV7.jpg",
+      "Name": "Người Hùng Xanh: Trận Chiến Đầu Tiên - Green Lantern: First Flight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gt4VGv4bfgZzuMbz8cwcVwapBpf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gt4VGv4bfgZzuMbz8cwcVwapBpf.jpg",
+      "Name": "Người Hùng Xanh: Trận Chiến Đầu Tiên - Green Lantern: First Flight"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/mov3h3s0p17445-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/green-lantern-first-flight",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/green-lantern-first-flight",
+      "Name": "Subtitle"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/mov3h3s0p17445/",
-      "Name": "720p",
-      "Url": "https://www.fshare.vn/file/ARMLU774Q1MS",
       "Size": "2.99 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/ARMLU774Q1MS",
+      "Name": "720p"
     }
-  ]
+  ],
+  "Intro": "Trong vũ trụ mênh mông mang theo những điều huyền bí to lớn có một lực lượng tuy nhỏ nhưng rất hùng mạnh đã tồn tại qua hàng thế kỉ. Là những người bảo vệ hòa bình và công lý, họ được gọi là quân đoàn Green Lantern. Những chiến binh Green Lantern đã thề rằng phải giữ được trật tự và bình yên trong dải ngân hà này, nên mỗi người đeo một chiếc nhẫn chứa đựng siêu quyền năng. Nhưng khi Parallax, kẻ thù mới của họ, đe dọa sẽ phá hủy sự cân bằng quyền năng trong vũ trụ, định mệnh của họ và số phận của Trái đất nằm trong tay thành viên mới nhất của quân đoàn, con người đầu tiên được lựa chọn: Hal Jordan",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/6hkKBWlhOf86GHYrVS1JrsqLNOt-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/B_v_-A26xK8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/green-lantern-first-flight/",
+  "Name": "Người Hùng Xanh: Trận Chiến Đầu Tiên"
 }

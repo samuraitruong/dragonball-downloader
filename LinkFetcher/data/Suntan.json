@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6XZgHsCJxRcWhwhuieDS2YZeDGS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6XZgHsCJxRcWhwhuieDS2YZeDGS.jpg",
+      "Name": "Suntan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6iLA6NgLxzrK1OBZu0nDqtBFmw4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6iLA6NgLxzrK1OBZu0nDqtBFmw4.jpg",
+      "Name": "Suntan"
+    }
+  ],
+  "Links": [],
+  "Intro": "Kostis is a 40-year-old doctor that finds himself in the small island of Antiparos, in order to take over the local clinic. His whole life and routine will turn upside down when he meets an international group of young and beautiful tourists and he falls in love with Anna, a 19-year-old goddess.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/sAknvVkyiGssLf20k4FAZB3FUnZ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/WNJhayR0lB4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/suntan/",
+  "Name": "Suntan"
+}

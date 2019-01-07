@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/exb7qw4BPOwBr0qlxIsEKc3TCR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/exb7qw4BPOwBr0qlxIsEKc3TCR.jpg ",
+      "Name": "Jobs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2ZhXQHekE0I4WFYrmLLimPPHfka.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2ZhXQHekE0I4WFYrmLLimPPHfka.jpg ",
+      "Name": "Jobs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fgQY70UgBQplrOl8x7ES6GPNzVX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fgQY70UgBQplrOl8x7ES6GPNzVX.jpg ",
+      "Name": "Jobs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/diTIzXJyLTRHWYBMTnrYJHv8Vnc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/diTIzXJyLTRHWYBMTnrYJHv8Vnc.jpg ",
+      "Name": "Jobs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pC33oV0vzAnXJCr45y7itJ7hVpd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pC33oV0vzAnXJCr45y7itJ7hVpd.jpg ",
+      "Name": "Jobs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/j1IvTMQLaLoehORKFIyINnhyUNQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/j1IvTMQLaLoehORKFIyINnhyUNQ.jpg ",
+      "Name": "Jobs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oe9X4N7zqJJD1i7OhQarpCgFi9t.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oe9X4N7zqJJD1i7OhQarpCgFi9t.jpg ",
+      "Name": "Jobs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rijltgathpqTnHltSlOToHTe85k.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rijltgathpqTnHltSlOToHTe85k.jpg ",
+      "Name": "Jobs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/94mnCOaFnqkKyhezxbDqFMxD7gw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/94mnCOaFnqkKyhezxbDqFMxD7gw.jpg ",
+      "Name": "Jobs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zQdx1jt6t876v69dKokasnFlslZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zQdx1jt6t876v69dKokasnFlslZ.jpg ",
+      "Name": "Jobs"
+    }
+  ],
+  "Links": [],
+  "Intro": "The story of Steve Jobs&#8217; ascension from college dropout into one of the most revered creative entrepreneurs of the 20th century.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/ioI5pOOr5yWZAAZPEts5oSQwUrT-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/SH1jKZwcS9Y?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/jobs/",
+  "Name": "Jobs"
+}

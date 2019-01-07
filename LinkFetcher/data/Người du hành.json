@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5EW4TR3fWEqpKsWysNcBMtz9Sgp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5EW4TR3fWEqpKsWysNcBMtz9Sgp.jpg ",
+      "Name": "Người du hành - Passengers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7lUPFoq2UpYGmF1R7mXbKYtwN4e.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7lUPFoq2UpYGmF1R7mXbKYtwN4e.jpg ",
+      "Name": "Người du hành - Passengers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l014AkuRYmRW8pz8ERk7T7595CV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l014AkuRYmRW8pz8ERk7T7595CV.jpg ",
+      "Name": "Người du hành - Passengers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/96vgNbObFx9BHWfiXVJ6aury6un.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/96vgNbObFx9BHWfiXVJ6aury6un.jpg ",
+      "Name": "Người du hành - Passengers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9C72ThooDmu0hcLU80iaL1ElpSx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9C72ThooDmu0hcLU80iaL1ElpSx.jpg ",
+      "Name": "Người du hành - Passengers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sSHPdvRHYq58AnNRpSysXn6HX0T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sSHPdvRHYq58AnNRpSysXn6HX0T.jpg ",
+      "Name": "Người du hành - Passengers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/x6bf4NaAg6DS23rvoIEi7eKy1Xg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/x6bf4NaAg6DS23rvoIEi7eKy1Xg.jpg ",
+      "Name": "Người du hành - Passengers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wjTaTc2K5UnalaYt2GiCBO8I81W.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wjTaTc2K5UnalaYt2GiCBO8I81W.jpg ",
+      "Name": "Người du hành - Passengers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xH7AizRZ5EMziSa3OIBjllTDMzd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xH7AizRZ5EMziSa3OIBjllTDMzd.jpg ",
+      "Name": "Người du hành - Passengers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kf10zrEpjDVEmmUTkzaIO18hfTv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kf10zrEpjDVEmmUTkzaIO18hfTv.jpg ",
+      "Name": "Người du hành - Passengers"
+    }
+  ],
+  "Links": [],
+  "Intro": "Passengers lấy bối cảnh trên một con tàu chở hơn 5000 con người thực hiện một chuyến hành trình dài tới hành tinh mới. Một sự cố xảy ra dẫn đến việc có hai hành khách thức tỉnh sớm hơn dự định, đánh dấu sự chớm nở của một chuyện tình giữa không gian.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/02/5gJkVIVU7FDp7AfRAbPSvvdbre2-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ffG2P6AgBgk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/passengers/",
+  "Name": "Người du hành"
+}

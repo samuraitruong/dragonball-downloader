@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xRqsFFteJrvLHxswk78NzU7zOrU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xRqsFFteJrvLHxswk78NzU7zOrU.jpg ",
+      "Name": "Casablanca"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nhHsH7qUySVTY57mxf231xO7Fga.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nhHsH7qUySVTY57mxf231xO7Fga.jpg ",
+      "Name": "Casablanca"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eyDfZmaE0EisI0bnNyv60xTqCii.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eyDfZmaE0EisI0bnNyv60xTqCii.jpg ",
+      "Name": "Casablanca"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rfNBjjzYpMw8r2j6OJSnwh1R07z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rfNBjjzYpMw8r2j6OJSnwh1R07z.jpg ",
+      "Name": "Casablanca"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1LkXf7KnbZSEne5tcllhI9SuRYD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1LkXf7KnbZSEne5tcllhI9SuRYD.jpg ",
+      "Name": "Casablanca"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5tE7iKSpBrc4z6LqF5kHutMm6KQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5tE7iKSpBrc4z6LqF5kHutMm6KQ.jpg ",
+      "Name": "Casablanca"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4tUaIYMdlcgwTa31h83Db7QNd1p.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4tUaIYMdlcgwTa31h83Db7QNd1p.jpg ",
+      "Name": "Casablanca"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/szDVahNy8Pn9gCfZAl7tSzj7rmO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/szDVahNy8Pn9gCfZAl7tSzj7rmO.jpg ",
+      "Name": "Casablanca"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ArUoZY2pvHfBHbDKo5SGMZsB1O5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ArUoZY2pvHfBHbDKo5SGMZsB1O5.jpg ",
+      "Name": "Casablanca"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6pmZfITiSXr1hxWWotBXSSbAbEK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6pmZfITiSXr1hxWWotBXSSbAbEK.jpg ",
+      "Name": "Casablanca"
+    }
+  ],
+  "Links": [],
+  "Intro": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/wOBKAoUJZb5qTsWv5XXvVV2vUzz-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/BkL9l7qovsE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/casablanca/",
+  "Name": "Casablanca"
+}

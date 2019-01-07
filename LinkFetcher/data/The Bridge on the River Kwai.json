@@ -1,0 +1,51 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/d23XXntJrVwNENvdriJdqlW1ae6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/d23XXntJrVwNENvdriJdqlW1ae6.jpg",
+      "Name": "The Bridge on the River Kwai"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9byr3inr9JnaqeohkGmx1ySSTke.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9byr3inr9JnaqeohkGmx1ySSTke.jpg",
+      "Name": "The Bridge on the River Kwai"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nzgFFkFmgUD3mwdYB8aZjYJ6rZY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nzgFFkFmgUD3mwdYB8aZjYJ6rZY.jpg",
+      "Name": "The Bridge on the River Kwai"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eRq1iJ34UPEYEHcj6ON6SwE4mKK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eRq1iJ34UPEYEHcj6ON6SwE4mKK.jpg",
+      "Name": "The Bridge on the River Kwai"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dPQKDDBOO1WoRzRZRyV5TsTUhf0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dPQKDDBOO1WoRzRZRyV5TsTUhf0.jpg",
+      "Name": "The Bridge on the River Kwai"
+    }
+  ],
+  "Links": [],
+  "Intro": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson , the commander who supervised the bridge&#8217;s construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/vtPR6tSHeu35rF6qTDw3Yjr9eDg-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/tzv0o1CwVD0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-bridge-on-the-river-kwai/",
+  "Name": "The Bridge on the River Kwai"
+}

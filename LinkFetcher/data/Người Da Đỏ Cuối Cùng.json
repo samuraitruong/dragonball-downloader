@@ -1,0 +1,88 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fRkIu9XNb4Xi9k5ikAxGTiDrj1G.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fRkIu9XNb4Xi9k5ikAxGTiDrj1G.jpg ",
+      "Name": "Người Da Đỏ Cuối Cùng - The Last of the Mohicans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qBElkapbGi9eYA8KzxvRxxWdsWf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qBElkapbGi9eYA8KzxvRxxWdsWf.jpg ",
+      "Name": "Người Da Đỏ Cuối Cùng - The Last of the Mohicans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rkRrac6jYNIP3nIlST2nMMzpUsu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rkRrac6jYNIP3nIlST2nMMzpUsu.jpg ",
+      "Name": "Người Da Đỏ Cuối Cùng - The Last of the Mohicans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dlMOZN1iZROZq2hmyrv0m0w8Uwi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dlMOZN1iZROZq2hmyrv0m0w8Uwi.jpg ",
+      "Name": "Người Da Đỏ Cuối Cùng - The Last of the Mohicans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/szVJduMDQx5wNfFwTZ9a0lDwcRq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/szVJduMDQx5wNfFwTZ9a0lDwcRq.jpg ",
+      "Name": "Người Da Đỏ Cuối Cùng - The Last of the Mohicans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/abURLSrLmiPMPnG6jssyx7QXmV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/abURLSrLmiPMPnG6jssyx7QXmV.jpg ",
+      "Name": "Người Da Đỏ Cuối Cùng - The Last of the Mohicans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1dZ4gfEUAqTaPwCy8xT1PtFOMAb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1dZ4gfEUAqTaPwCy8xT1PtFOMAb.jpg ",
+      "Name": "Người Da Đỏ Cuối Cùng - The Last of the Mohicans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7b0ndU2NLx1AyBej2AhYwT2zDEF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7b0ndU2NLx1AyBej2AhYwT2zDEF.jpg ",
+      "Name": "Người Da Đỏ Cuối Cùng - The Last of the Mohicans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gjzy5v5pYCEaA1eQ7SqyRtyvgpd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gjzy5v5pYCEaA1eQ7SqyRtyvgpd.jpg ",
+      "Name": "Người Da Đỏ Cuối Cùng - The Last of the Mohicans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8f6QcUvoYjLqSkoBUC8QgVIqeTu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8f6QcUvoYjLqSkoBUC8QgVIqeTu.jpg ",
+      "Name": "Người Da Đỏ Cuối Cùng - The Last of the Mohicans"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bối cảnh của phim được đặt trong giai đoạn Anh và Pháp đang có giao tranh để giành lấy vùng đất mà ngày nay là nước Mĩ. Để có được lợi thế , cả hai bên đều cố gắng lôi kéo các bộ tộc người da đỏ bản địa để làm đồng minh với mình.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/6FHoUoYrfmwXJsDIR0s8YvV1Ctj-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Gm_P9euW5NU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-last-of-the-mohicans/",
+  "Name": "Người Da Đỏ Cuối Cùng"
+}

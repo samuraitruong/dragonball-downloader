@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aRP8QAOhnthglsTUzeLWwoPVV1T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aRP8QAOhnthglsTUzeLWwoPVV1T.jpg ",
+      "Name": "Hidden Figures"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vifqDyPOB6jd5vwP2SIqWNtXUHu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vifqDyPOB6jd5vwP2SIqWNtXUHu.jpg ",
+      "Name": "Hidden Figures"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2fh7cet4XDzpRXZ6Lh6EC6KKAmd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2fh7cet4XDzpRXZ6Lh6EC6KKAmd.jpg ",
+      "Name": "Hidden Figures"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/84DdSgui5quyWDHE32MomfFQEmW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/84DdSgui5quyWDHE32MomfFQEmW.jpg ",
+      "Name": "Hidden Figures"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wqEZ5vgdLQzs4dxPWcLnzI96js8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wqEZ5vgdLQzs4dxPWcLnzI96js8.jpg ",
+      "Name": "Hidden Figures"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mIJF6pbIen2lRtspe1Hp0Kujp4H.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mIJF6pbIen2lRtspe1Hp0Kujp4H.jpg ",
+      "Name": "Hidden Figures"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kJJ50CR1ktLIHyBHuAXeili85rZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kJJ50CR1ktLIHyBHuAXeili85rZ.jpg ",
+      "Name": "Hidden Figures"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kkUlAvfTWUdnD3hWvPbo6797H9W.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kkUlAvfTWUdnD3hWvPbo6797H9W.jpg ",
+      "Name": "Hidden Figures"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bmwscUBu4DZlnG2IwFJhiR9YQLg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bmwscUBu4DZlnG2IwFJhiR9YQLg.jpg ",
+      "Name": "Hidden Figures"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/n0XMrLQkjzIXlBlK4Oa7BAfbLgz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/n0XMrLQkjzIXlBlK4Oa7BAfbLgz.jpg ",
+      "Name": "Hidden Figures"
+    }
+  ],
+  "Links": [],
+  "Intro": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history – the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/03/6cbIDZLfwUTmttXTmNi8Mp3Rnmg-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/L0aMYm-9TBU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/hidden-figures/",
+  "Name": "Hidden Figures"
+}

@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a6kxQmwmrUpcfoIMUImILdDNbqG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a6kxQmwmrUpcfoIMUImILdDNbqG.jpg",
+      "Name": "13 Minutes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6HFZVnRd5VRPw7M7kzufHiG8Tdu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6HFZVnRd5VRPw7M7kzufHiG8Tdu.jpg",
+      "Name": "13 Minutes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yVSVH93C6l58f141kqNsLpi6jbl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yVSVH93C6l58f141kqNsLpi6jbl.jpg",
+      "Name": "13 Minutes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/24v3j9RS2lcZlsIDtpjbMBOtFSG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/24v3j9RS2lcZlsIDtpjbMBOtFSG.jpg",
+      "Name": "13 Minutes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gTyxYZqjK2VDSNGOKDsyYfA402i.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gTyxYZqjK2VDSNGOKDsyYfA402i.jpg",
+      "Name": "13 Minutes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jbsZyG5FVAEu7mIhHM5CcodZsAj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jbsZyG5FVAEu7mIhHM5CcodZsAj.jpg",
+      "Name": "13 Minutes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gDNFPAlvYR1XtTiTfDo1zJoTtNs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gDNFPAlvYR1XtTiTfDo1zJoTtNs.jpg",
+      "Name": "13 Minutes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4H00z8Q5Q2SuhY54wGZHc8EzmtK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4H00z8Q5Q2SuhY54wGZHc8EzmtK.jpg",
+      "Name": "13 Minutes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/c6ygH6N0YQMyc78ZOHlEl48og0x.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/c6ygH6N0YQMyc78ZOHlEl48og0x.jpg",
+      "Name": "13 Minutes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sTIUQ4aJvRy74JwoOfXlvNjwPb8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sTIUQ4aJvRy74JwoOfXlvNjwPb8.jpg",
+      "Name": "13 Minutes"
+    }
+  ],
+  "Links": [],
+  "Intro": "The breath-taking story of a man who nearly would have changed the world. 1939, when Hitler tricked millions of people at the height of his power, one said a radical No: Georg Elser, disparaged as an assassin, is one of the greatest resistance fighters.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/r0Vm0R0kP3uF8VUpgE2MNpOXjzQ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/8SsIsCWXtV4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/13-minutes/",
+  "Name": "13 Minutes"
+}

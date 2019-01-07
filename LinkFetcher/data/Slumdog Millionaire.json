@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aIv7WnkxMWsswEpaeRuNbC32D9d.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aIv7WnkxMWsswEpaeRuNbC32D9d.jpg",
+      "Name": "Slumdog Millionaire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/heYHgkaxA1z7IJG0pLitaXmd2Pm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/heYHgkaxA1z7IJG0pLitaXmd2Pm.jpg",
+      "Name": "Slumdog Millionaire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a9FfMghMNhadRhgc1T3ofUBEduu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a9FfMghMNhadRhgc1T3ofUBEduu.jpg",
+      "Name": "Slumdog Millionaire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/A7z6HqZBhVwSTnoHviKUuAAcm2A.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/A7z6HqZBhVwSTnoHviKUuAAcm2A.jpg",
+      "Name": "Slumdog Millionaire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/spFt5eohXn5YTOHeC6vJSNJF4Sp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/spFt5eohXn5YTOHeC6vJSNJF4Sp.jpg",
+      "Name": "Slumdog Millionaire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cUGxX0NZtqUgUbeebajbGWXgeVd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cUGxX0NZtqUgUbeebajbGWXgeVd.jpg",
+      "Name": "Slumdog Millionaire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/epWhuwmqntHl5vlOFueAJczm5mk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/epWhuwmqntHl5vlOFueAJczm5mk.jpg",
+      "Name": "Slumdog Millionaire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8GRPo49Sm7zh15w19Yj5HmDys2i.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8GRPo49Sm7zh15w19Yj5HmDys2i.jpg",
+      "Name": "Slumdog Millionaire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lWQW6f4KY0wdAja6cJfVHJJLxQ1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lWQW6f4KY0wdAja6cJfVHJJLxQ1.jpg",
+      "Name": "Slumdog Millionaire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8VupcaS9BcrLTlbIANyaMbFCf2L.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8VupcaS9BcrLTlbIANyaMbFCf2L.jpg",
+      "Name": "Slumdog Millionaire"
+    }
+  ],
+  "Links": [],
+  "Intro": "Jamal Malik is an impoverished Indian teen who becomes a contestant on the Hindi version of ‘Who Wants to Be a Millionaire?’ but, after he wins, he is suspected of cheating.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/9zknVczWOLhTKnT9nbX2IOCHtZn-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/AIzbwV7on6Q?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/slumdog-millionaire/",
+  "Name": "Slumdog Millionaire"
+}

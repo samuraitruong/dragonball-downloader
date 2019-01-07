@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jKXqhxju973stshVWVF5v6qZe8r.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jKXqhxju973stshVWVF5v6qZe8r.jpg ",
+      "Name": "The Battleship Island"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sdgmx9smLbSdnR4bUNVNdcF0HHx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sdgmx9smLbSdnR4bUNVNdcF0HHx.jpg ",
+      "Name": "The Battleship Island"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o805Ebg4VWNRfnK8JcBAxZwmH6U.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o805Ebg4VWNRfnK8JcBAxZwmH6U.jpg ",
+      "Name": "The Battleship Island"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aPZJoQ4ABQXWcLF52tHuEbj6pI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aPZJoQ4ABQXWcLF52tHuEbj6pI.jpg ",
+      "Name": "The Battleship Island"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/A47ZSXhWApcH0OHuqp3VBmEkhML.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/A47ZSXhWApcH0OHuqp3VBmEkhML.jpg ",
+      "Name": "The Battleship Island"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l0OifBxwhGU4JGpYHnn1rou3d8o.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l0OifBxwhGU4JGpYHnn1rou3d8o.jpg ",
+      "Name": "The Battleship Island"
+    }
+  ],
+  "Links": [],
+  "Intro": "During the Japanese colonial era, roughly 400 Korean people, who were forced onto Battleship Island (‘Hashima Island’) to mine for coal, attempt to escape.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/iuVASPE5WtlUsqllyWhjcjWkBvT-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/C21zu8j9Jj0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-battleship-island/",
+  "Name": "The Battleship Island"
+}

@@ -1,0 +1,38 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kSWFxlKsB4kJVyO6kDr7hgsGQOp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kSWFxlKsB4kJVyO6kDr7hgsGQOp.jpg ",
+      "Name": "Sự Biến Đổi Của Cameron Post - The Miseducation of Cameron Post"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/90Fh6NTIETIXr6ev1MdzUuz0ySt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/90Fh6NTIETIXr6ev1MdzUuz0ySt.jpg ",
+      "Name": "Sự Biến Đổi Của Cameron Post - The Miseducation of Cameron Post"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ljS5cFaMuphxkhkjPwc4YDnr4jq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ljS5cFaMuphxkhkjPwc4YDnr4jq.jpg ",
+      "Name": "Sự Biến Đổi Của Cameron Post - The Miseducation of Cameron Post"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lqmNJ2dEqC5afCmYeLUiC6bYDUI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lqmNJ2dEqC5afCmYeLUiC6bYDUI.jpg ",
+      "Name": "Sự Biến Đổi Của Cameron Post - The Miseducation of Cameron Post"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim The Miseducation of Cameron Post chuyển thể từ tiểu thuyết cùng tên của Emily M. Danforth. Nhân vật chính trong phim là Cameron Post (Chloë Grace Moretz đóng) &#8211; một cô gái Mỹ đồng tính, bị nhóm người bảo thủ bắt đi &#8220;chữa bệnh&#8221; tại một khu trại.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/11/oraMTiBy5I7nTRmTtF2WoF7iNUy-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/VEdngvMGjg0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-miseducation-of-cameron-post/",
+  "Name": "Sự Biến Đổi Của Cameron Post"
+}

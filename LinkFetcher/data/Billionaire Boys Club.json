@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2kY390rVe8EXXOwl7XZ5yMRqxr4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2kY390rVe8EXXOwl7XZ5yMRqxr4.jpg ",
+      "Name": "Billionaire Boys Club"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4cWN9igl7WArTKjthFVJtgPgjLW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4cWN9igl7WArTKjthFVJtgPgjLW.jpg ",
+      "Name": "Billionaire Boys Club"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2L2zBStcmAzBKDECQ9axRJmRx6U.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2L2zBStcmAzBKDECQ9axRJmRx6U.jpg ",
+      "Name": "Billionaire Boys Club"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ejOpLY9uqNxv0xrpaJDoEL2pQlz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ejOpLY9uqNxv0xrpaJDoEL2pQlz.jpg ",
+      "Name": "Billionaire Boys Club"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tkJBEvg9ZfuLQ1dhPCZnM1mYDsP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tkJBEvg9ZfuLQ1dhPCZnM1mYDsP.jpg ",
+      "Name": "Billionaire Boys Club"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wU8aN8fhZ13DobzKxCrtA34WKgn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wU8aN8fhZ13DobzKxCrtA34WKgn.jpg ",
+      "Name": "Billionaire Boys Club"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/notTbvhy7lBbKWVGHaqRT4RnNey.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/notTbvhy7lBbKWVGHaqRT4RnNey.jpg ",
+      "Name": "Billionaire Boys Club"
+    }
+  ],
+  "Links": [],
+  "Intro": "Led by their fellow preppie friend Joe Hunt, a group of wealthy boys in Los Angeles during the early 1980s establish a get rich quick scam that turns deadly.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/07/1G63etXTV15JubuQyAbjlbdAsB5-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ldjNA0_7mIk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/billionaire-boys-club/",
+  "Name": "Billionaire Boys Club"
+}

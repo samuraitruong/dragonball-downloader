@@ -1,14 +1,45 @@
 {
   "Id": "movBq7CH9466980",
-  "Url": "https://fsharephim.com/movies/da-hu-fa/",
-  "Name": "Đại Hộ Pháp",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/A4NeBDNgXOkvmcTICJ8WUyUn4B0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/A4NeBDNgXOkvmcTICJ8WUyUn4B0.jpg",
+      "Name": "Đại Hộ Pháp - Da Hu Fa"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bFzfVguonSVguWukCmk8OlE6yni.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bFzfVguonSVguWukCmk8OlE6yni.jpg",
+      "Name": "Đại Hộ Pháp - Da Hu Fa"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movbq7ch9466980/",
-      "Name": "DAHUFA.2017.ViE.1080p.WEB-DL.x264.DD2.0-ZiN.mkv",
-      "Url": "https://www.fshare.vn/file/YH64TGLACMSWT61",
       "Size": "3.1 GB",
-      "FileSize": 3344995596
+      "FileSize": 3344995596,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/YH64TGLACMSWT61",
+      "Name": "DAHUFA.2017.ViE.1080p.WEB-DL.x264.DD2.0-ZiN.mkv"
     }
-  ]
+  ],
+  "Intro": "Phim Đại Hộ Pháp – Da Hu Fa 2017: Nhằm tìm kiếm tung tích Thái Tử, Đại Hộ Pháp đã đến một nơi kì lạ. Người dân nơi này có hình hài giống nhau như đậu phộng, không biết nói chuyện và được chi phối bởi một lão giá mưu mô tên là Cát An. Trong hình trình ấy, Đại Hộ Pháp vô tình phát hiện ra bí mật động trời về họ, đồng thời bị cuốn vào âm mưu xấu xa của lão Cát An.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/t9TDGh6Lix4OiuJXcCNtv7PGjnz-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/da-hu-fa/",
+  "Name": "Đại Hộ Pháp"
 }

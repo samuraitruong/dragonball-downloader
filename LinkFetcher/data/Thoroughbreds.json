@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/99Rd26ceIhonpOP5JoqcXYqnkD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/99Rd26ceIhonpOP5JoqcXYqnkD.jpg ",
+      "Name": "Thoroughbreds"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nlCT70sAmXXoYmRN0JtLyCKqc8b.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nlCT70sAmXXoYmRN0JtLyCKqc8b.jpg ",
+      "Name": "Thoroughbreds"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a7EWj5nG4jWpdDjtFvDUTxUeXQZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a7EWj5nG4jWpdDjtFvDUTxUeXQZ.jpg ",
+      "Name": "Thoroughbreds"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vObc0nQbfSLbbb4x75DyY9tSu69.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vObc0nQbfSLbbb4x75DyY9tSu69.jpg ",
+      "Name": "Thoroughbreds"
+    }
+  ],
+  "Links": [],
+  "Intro": "Two teenage girls in suburban Connecticut rekindle their unlikely friendship after years of growing apart. In the process, they learn that neither is what she seems to be, and that a murder might solve both of their problems.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/pIxZzTfITqBpZxbIGsV01DcoHsT-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/TPcV_3D3V2A?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/thoroughbreds/",
+  "Name": "Thoroughbreds"
+}

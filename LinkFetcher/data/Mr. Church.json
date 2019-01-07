@@ -1,0 +1,38 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ipWoCersdNWHm9jo3sQa3Xgu2yg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ipWoCersdNWHm9jo3sQa3Xgu2yg.jpg ",
+      "Name": "Mr. Church"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/88n8sJuWATkFDW4H3cx2PDkjjWe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/88n8sJuWATkFDW4H3cx2PDkjjWe.jpg ",
+      "Name": "Mr. Church"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/adtab7S2Tt6bPUXIlii2kxXRx1J.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/adtab7S2Tt6bPUXIlii2kxXRx1J.jpg ",
+      "Name": "Mr. Church"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wWKllPitVqr57wSR6txKlnZvIsH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wWKllPitVqr57wSR6txKlnZvIsH.jpg ",
+      "Name": "Mr. Church"
+    }
+  ],
+  "Links": [],
+  "Intro": "&#8220;Mr. Church&#8221; tells the story of a unique friendship that develops when a little girl and her dying mother retain the services of a talented cook &#8211; Henry Joseph Church. What begins as a six month arrangement instead spans into fifteen years and creates a family bond that lasts forever.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/6qewDsh3LudwGRtGtoHgFJ2woxL-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/K6VSQKNfr1Y?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/mr-church/",
+  "Name": "Mr. Church"
+}

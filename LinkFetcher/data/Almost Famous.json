@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gZwhqo1CfYKAqTRUmnyxQw8U8Ti.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gZwhqo1CfYKAqTRUmnyxQw8U8Ti.jpg",
+      "Name": "Almost Famous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mkBuRB1X6GRVQek0hYX4kArOXew.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mkBuRB1X6GRVQek0hYX4kArOXew.jpg",
+      "Name": "Almost Famous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oyvQOgf8sIMkq8lTmi5ZcPabCuY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oyvQOgf8sIMkq8lTmi5ZcPabCuY.jpg",
+      "Name": "Almost Famous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zfucY8mxcrNeopFneyvyERZQah1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zfucY8mxcrNeopFneyvyERZQah1.jpg",
+      "Name": "Almost Famous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oK4DCqEVbG8vMifNR28vDHDZoIk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oK4DCqEVbG8vMifNR28vDHDZoIk.jpg",
+      "Name": "Almost Famous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9r8kUkrON9UZcl88eKOYULFpUdB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9r8kUkrON9UZcl88eKOYULFpUdB.jpg",
+      "Name": "Almost Famous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/j8lJlekfCffLfCEPc5GBdfta3EU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/j8lJlekfCffLfCEPc5GBdfta3EU.jpg",
+      "Name": "Almost Famous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iIS3NM1fmrGOZw7oqGtVbanoG68.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iIS3NM1fmrGOZw7oqGtVbanoG68.jpg",
+      "Name": "Almost Famous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dJI2IkiEr1kPbnk1C2Hq5KKNTk2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dJI2IkiEr1kPbnk1C2Hq5KKNTk2.jpg",
+      "Name": "Almost Famous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nedYCn8HxF8DqXqXWxFgOr1qs8c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nedYCn8HxF8DqXqXWxFgOr1qs8c.jpg",
+      "Name": "Almost Famous"
+    }
+  ],
+  "Links": [],
+  "Intro": "Almost Famous is an autobiographical inspired film about a 15-year-old who is hired by Rolling Stone magazine to follow and interview a rock band during their tour. A film about growing up, first love, disappointment, and the life of a rock star.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/9pNo92j6zSEAUB8pNmcJTkpnkBF-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/qk0XnyrENrE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/almost-famous/",
+  "Name": "Almost Famous"
+}

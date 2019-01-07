@@ -1,0 +1,54 @@
+{
+  "Id": "movNPKgiw347111",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/waBRSdomkyQzeLjENV7D9dQT6na.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/waBRSdomkyQzeLjENV7D9dQT6na.jpg",
+      "Name": "Thợ Săn Tiền Thưởng - Scorched Earth"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1myo0GkOIroOERFDzKi0H5wNRCs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1myo0GkOIroOERFDzKi0H5wNRCs.jpg",
+      "Name": "Thợ Săn Tiền Thưởng - Scorched Earth"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sO1rHbQgxHpwAznH00OxaHnqNUG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sO1rHbQgxHpwAznH00OxaHnqNUG.jpg",
+      "Name": "Thợ Săn Tiền Thưởng - Scorched Earth"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movnpkgiw347111/",
+      "Size": "4.37 GB",
+      "FileSize": 4693319250,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/AKQQ8L4GOQEH",
+      "Name": "Scorched.Earth.2018.720p.BluRay.x264-PSYCHD(c).mkv"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movnpkgiw347111-2/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/scorched-earth",
+      "Name": "Subtitle"
+    }
+  ],
+  "Intro": "Scorched Earth kể về một thợ săn tiền thưởng có tên là Atticus Gage theo dõi những tên tội phạm ở Trái đất sau cạn kiệt.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/3EqgAHkESHZLK4MUHgK9s9882S2-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/BjkX0ilJSXA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/scorched-earth/",
+  "Name": "Thợ Săn Tiền Thưởng"
+}

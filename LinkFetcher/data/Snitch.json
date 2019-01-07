@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rRK0LRpvRI2didoMaBFt1GqxjEy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rRK0LRpvRI2didoMaBFt1GqxjEy.jpg ",
+      "Name": "Snitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hGnJEjg9LdNDrHRjqLUQxppeYiJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hGnJEjg9LdNDrHRjqLUQxppeYiJ.jpg ",
+      "Name": "Snitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jhGpsIUlQeqtZhY2qWvh3AvC9Qn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jhGpsIUlQeqtZhY2qWvh3AvC9Qn.jpg ",
+      "Name": "Snitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cqE7EZokZwe1I2du5TxP1daFfEw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cqE7EZokZwe1I2du5TxP1daFfEw.jpg ",
+      "Name": "Snitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vdqMTLiRitIXFZWc9q4gBWAvMJX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vdqMTLiRitIXFZWc9q4gBWAvMJX.jpg ",
+      "Name": "Snitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jmuycThjP1j5lUHIMASp2C0D0TT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jmuycThjP1j5lUHIMASp2C0D0TT.jpg ",
+      "Name": "Snitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zpZL0NBG1qA2LuKgZWQGAgaE2XP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zpZL0NBG1qA2LuKgZWQGAgaE2XP.jpg ",
+      "Name": "Snitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/n8vmhSFaYdqGqRGIQvEsSJihtKE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/n8vmhSFaYdqGqRGIQvEsSJihtKE.jpg ",
+      "Name": "Snitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o0FGGc0xSYbFS48TvNM7U9sizFT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o0FGGc0xSYbFS48TvNM7U9sizFT.jpg ",
+      "Name": "Snitch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dICMfseSrmJo6i9BdgIwBR1MZ9w.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dICMfseSrmJo6i9BdgIwBR1MZ9w.jpg ",
+      "Name": "Snitch"
+    }
+  ],
+  "Links": [],
+  "Intro": "Construction company owner John Matthews learns that his estranged son, Jason, has been arrested for drug trafficking. Facing an unjust prison sentence for a first time offender courtesy of mandatory minimum sentence laws, Jason has nothing to offer for leniency in good conscience. Desperately, John convinces the DEA and the opportunistic DA Joanne Keeghan to let him go undercover to help make arrests big enough to free his son in return. With the unwitting help of an ex-con employee, John enters the narcotics underworld where every move could be his last in an operation that will demand all his resources, wits and courage to survive.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/6bIr7h0AcZGZds7ep8ShsQRwUxX-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/rieI5g9fgRc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/snitch/",
+  "Name": "Snitch"
+}

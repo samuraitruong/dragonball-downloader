@@ -1,0 +1,71 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fii3bunxCjdFpbcEJmFyJW1qDFp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fii3bunxCjdFpbcEJmFyJW1qDFp.jpg",
+      "Name": "Insidious: Chapter 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/40XyLPPs0e4CqytmSPntnWaDbOg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/40XyLPPs0e4CqytmSPntnWaDbOg.jpg",
+      "Name": "Insidious: Chapter 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qhhTwFPParNevfpvushwsPquOpw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qhhTwFPParNevfpvushwsPquOpw.jpg",
+      "Name": "Insidious: Chapter 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fkUAz8gKVzH8OoEEcHf9MJpO1wu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fkUAz8gKVzH8OoEEcHf9MJpO1wu.jpg",
+      "Name": "Insidious: Chapter 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/crvB7Tcs9auFvgnsUpL23hJGzcy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/crvB7Tcs9auFvgnsUpL23hJGzcy.jpg",
+      "Name": "Insidious: Chapter 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1fpwEe2GvNjAq2MN2xxdifNZLBT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1fpwEe2GvNjAq2MN2xxdifNZLBT.jpg",
+      "Name": "Insidious: Chapter 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6DWdAawgVivtRjD85n7sjcNU93i.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6DWdAawgVivtRjD85n7sjcNU93i.jpg",
+      "Name": "Insidious: Chapter 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6bpiNVnsxb1NgKUEfLa4hTvvtwL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6bpiNVnsxb1NgKUEfLa4hTvvtwL.jpg",
+      "Name": "Insidious: Chapter 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uTOUmcvAI0uqWxrnkTnLCEu3OHn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uTOUmcvAI0uqWxrnkTnLCEu3OHn.jpg",
+      "Name": "Insidious: Chapter 3"
+    }
+  ],
+  "Links": [],
+  "Intro": "A twisted new tale of terror begins for a teenage girl and her family, predating the haunting of the Lambert family in the earlier movies and revealing more mysteries of the otherworldly realm The Further.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/ixANIbPRTNMAstlqJa2FlfBesyQ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/3HxEXnVSr1w?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/insidious-chapter-3/",
+  "Name": "Insidious: Chapter 3"
+}

@@ -107,6 +107,10 @@ namespace LinkFetcher.Models
     {
         [JsonProperty("self")]
         public string Self { get; set; }
+
+        [JsonProperty("next")]
+        public string Next { get; set; }
+
     }
 
     public partial class FShareFileResponse

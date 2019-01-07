@@ -1,0 +1,399 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5oAI5m1w0cYUzc7AGO05vE7XDop.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5oAI5m1w0cYUzc7AGO05vE7XDop.jpg",
+      "Name": "Entourage"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/entourage-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/entourage-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/entourage-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/entourage-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/entourage-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/entourage-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/entourage-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/entourage-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/entourage-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/entourage-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/entourage-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/entourage-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/entourage-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/entourage-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/entourage-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/entourage-1x16/",
+      "Name": "Episode 16"
+    }
+  ],
+  "Intro": "Young-Bin is a rising star actor in South Korea. He has been best friends with Ho-Jin, Joon and Geobook since they were all children. Young-Bin belongs to a management company with Kim Eun-Gab as the CEO.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/5JX2GZY12q1k2vOzxTQ1uVx9JbL-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rOlIqUCYSuOSBTxZ6idlMvAWhBW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rOlIqUCYSuOSBTxZ6idlMvAWhBW.jpg",
+              "Name": "Entourage 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/entourage-1x1/",
+          "Name": "Entourage 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/entourage-1x10/",
+          "Name": "Entourage 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/entourage-1x11/",
+          "Name": "Entourage 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/entourage-1x12/",
+          "Name": "Entourage 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/entourage-1x13/",
+          "Name": "Entourage 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/entourage-1x14/",
+          "Name": "Entourage 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/entourage-1x15/",
+          "Name": "Entourage 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/entourage-1x16/",
+          "Name": "Entourage 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oYS6QCtBtAjQpconwSemy8LFAge.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oYS6QCtBtAjQpconwSemy8LFAge.jpg",
+              "Name": "Entourage 1&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/entourage-1x2/",
+          "Name": "Entourage 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4gtKLmgbP7F5AalL00ClG8xWmJw.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4gtKLmgbP7F5AalL00ClG8xWmJw.jpg",
+              "Name": "Entourage 1&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/entourage-1x3/",
+          "Name": "Entourage 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/HV9ifmI3wTQPACoUwsPMsCJkyT.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/HV9ifmI3wTQPACoUwsPMsCJkyT.jpg",
+              "Name": "Entourage 1&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/entourage-1x4/",
+          "Name": "Entourage 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/asq66zbagVm3pizK0UjaI3WF98x.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/asq66zbagVm3pizK0UjaI3WF98x.jpg",
+              "Name": "Entourage 1&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/entourage-1x5/",
+          "Name": "Entourage 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/m7sC8yrqYk4sS9sOGrfv6DYNFd3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/m7sC8yrqYk4sS9sOGrfv6DYNFd3.jpg",
+              "Name": "Entourage 1&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/entourage-1x6/",
+          "Name": "Entourage 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/klTxk8f4kD312Y7QKHXe7u9sPD7.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/klTxk8f4kD312Y7QKHXe7u9sPD7.jpg",
+              "Name": "Entourage 1&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/entourage-1x7/",
+          "Name": "Entourage 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xwtSnNQOfF7nzM2NN5RgOya1Gtj.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xwtSnNQOfF7nzM2NN5RgOya1Gtj.jpg",
+              "Name": "Entourage 1&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/entourage-1x8/",
+          "Name": "Entourage 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/entourage-1x9/",
+          "Name": "Entourage 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Nov. 04, 2016"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/entourage/",
+  "Name": "Entourage"
+}

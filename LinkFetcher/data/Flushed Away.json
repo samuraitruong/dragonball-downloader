@@ -1,14 +1,80 @@
 {
-  "Id": "movnCVhA111619",
-  "Url": "https://fsharephim.com/movies/flushed-away/",
-  "Name": "Flushed Away",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movncvha111619/",
-      "Name": "mHD - Thuyết Minh",
-      "Url": "https://www.fshare.vn/file/T3Z4HWYT6T",
-      "Size": "1.39 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7gvhqD2l8T6qKlD0ec4nysh077y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7gvhqD2l8T6qKlD0ec4nysh077y.jpg",
+      "Name": "Flushed Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AfIwwZKskPMGPMRJEx65TqVescd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AfIwwZKskPMGPMRJEx65TqVescd.jpg",
+      "Name": "Flushed Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aSKwl6nTZpK6fYUmWqDeHPf487S.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aSKwl6nTZpK6fYUmWqDeHPf487S.jpg",
+      "Name": "Flushed Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bfRhOT9UO7rBpGrecaWkQqMmezw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bfRhOT9UO7rBpGrecaWkQqMmezw.jpg",
+      "Name": "Flushed Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yhNKpdcgKqH3YQX4ZhyD2ZViXQC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yhNKpdcgKqH3YQX4ZhyD2ZViXQC.jpg",
+      "Name": "Flushed Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/34qses0hqh6WAnUBM38MVXIKogV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/34qses0hqh6WAnUBM38MVXIKogV.jpg",
+      "Name": "Flushed Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dXH03l4cdNF2WwywW6fscaVlCc0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dXH03l4cdNF2WwywW6fscaVlCc0.jpg",
+      "Name": "Flushed Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sQdHe6XDCHyUuwDo4VsKBtWz2GR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sQdHe6XDCHyUuwDo4VsKBtWz2GR.jpg",
+      "Name": "Flushed Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tk5tjvzRRivbH6rno0KwafhLxUR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tk5tjvzRRivbH6rno0KwafhLxUR.jpg",
+      "Name": "Flushed Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xKlOJXMrNPHm5EerL4dehAUCwY5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xKlOJXMrNPHm5EerL4dehAUCwY5.jpg",
+      "Name": "Flushed Away"
+    }
+  ],
+  "Links": [],
+  "Intro": "London high-society mouse, Roddy is flushed down the toilet by Sid, a common sewer rat. Hang on for a madcap adventure deep in the sewer bowels of Ratropolis, where Roddy meets the resourceful Rita, the rodent-hating Toad and his faithful thugs, Spike and Whitey.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/oCdPDusnJvIZN6OpaF2Yj7211w-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/RLJxoJM_ZbY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/flushed-away/",
+  "Name": "Flushed Away"
 }

@@ -1,0 +1,67 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ck7WO5K7h6mVzr9XrHWpc7IpCkw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ck7WO5K7h6mVzr9XrHWpc7IpCkw.jpg",
+      "Name": "Scream 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cBUvJWcV8k7GTEGoL2Dp6CmgUV1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cBUvJWcV8k7GTEGoL2Dp6CmgUV1.jpg",
+      "Name": "Scream 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sMNB23lC6hcLpXiA8wj4b6MxMyc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sMNB23lC6hcLpXiA8wj4b6MxMyc.jpg",
+      "Name": "Scream 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/599vjtmIDRFoN9tnr2wAhblAUnH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/599vjtmIDRFoN9tnr2wAhblAUnH.jpg",
+      "Name": "Scream 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/up9tjqk4P48FlYD9ji4exXExe33.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/up9tjqk4P48FlYD9ji4exXExe33.jpg",
+      "Name": "Scream 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zXbNlBceQzbZVYYPXzcHzNm86HV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zXbNlBceQzbZVYYPXzcHzNm86HV.jpg",
+      "Name": "Scream 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6xvXUHYXhQcSLVajGfSjxvNcDGX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6xvXUHYXhQcSLVajGfSjxvNcDGX.jpg",
+      "Name": "Scream 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8uzIrwcumJbx0AJrnwRUXJQtPOR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8uzIrwcumJbx0AJrnwRUXJQtPOR.jpg",
+      "Name": "Scream 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/d6vfXDrWk7dRkPAOqtc13uJpMX5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/d6vfXDrWk7dRkPAOqtc13uJpMX5.jpg",
+      "Name": "Scream 2"
+    }
+  ],
+  "Links": [],
+  "Intro": "Two years after the terrifying events that occurred in Woodsboro, Sidney is now attending Windsor College in Cincinnati, and Gale Weathers&#8217; best selling book on Sidney&#8217;s life has now been made into a major motion picture. When two college students are killed in a theatre while watching the new film &#8216;Stab&#8217;, Sidney knows deep down that history is repeating itself.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/iYBYiXcUxComVvL2OzH63JjfDw6-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/C-j2TLBmTBY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/scream-2/",
+  "Name": "Scream 2"
+}

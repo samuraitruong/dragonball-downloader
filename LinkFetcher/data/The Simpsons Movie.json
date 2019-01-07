@@ -1,14 +1,76 @@
 {
-  "Id": "mov7eB8wY35",
-  "Url": "https://fsharephim.com/movies/the-simpsons-movie/",
-  "Name": "The Simpsons Movie",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov7eb8wy35/",
-      "Name": "The.Simpsons.Movie.2007.720p.BluRay.DTS.x264-ESiR_apk_freehd.vn.mkv",
-      "Url": "https://www.fshare.vn/file/TSC16J674T",
-      "Size": "2.5 GB",
-      "FileSize": 2682519291
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gMjtdTP6HIi7CDilqXwnX8vouxO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gMjtdTP6HIi7CDilqXwnX8vouxO.jpg",
+      "Name": "The Simpsons Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tNpqx8PcFdgKgheUWmNqNF9RNGm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tNpqx8PcFdgKgheUWmNqNF9RNGm.jpg",
+      "Name": "The Simpsons Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/45T6R7ud2keNA0HhvcXZNQxVFKS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/45T6R7ud2keNA0HhvcXZNQxVFKS.jpg",
+      "Name": "The Simpsons Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4RaoQCwliLvbokgpFzMXvSznC0h.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4RaoQCwliLvbokgpFzMXvSznC0h.jpg",
+      "Name": "The Simpsons Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sPezOQXCfiU9kEuqumBAFcjpmDN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sPezOQXCfiU9kEuqumBAFcjpmDN.jpg",
+      "Name": "The Simpsons Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lVeMZpEnIM5JQNM2obPttHKxcOn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lVeMZpEnIM5JQNM2obPttHKxcOn.jpg",
+      "Name": "The Simpsons Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mcym76GZ1B0VGw8jDA2NakA54b1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mcym76GZ1B0VGw8jDA2NakA54b1.jpg",
+      "Name": "The Simpsons Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zHERSFooZhJvdwZmPQ4CNS557E3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zHERSFooZhJvdwZmPQ4CNS557E3.jpg",
+      "Name": "The Simpsons Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yPavbiGwx12HlOBjnCihHv1x6me.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yPavbiGwx12HlOBjnCihHv1x6me.jpg",
+      "Name": "The Simpsons Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zNKvIDnkCWDtrKzNw8M27wYwmKS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zNKvIDnkCWDtrKzNw8M27wYwmKS.jpg",
+      "Name": "The Simpsons Movie"
+    }
+  ],
+  "Links": [],
+  "Intro": "After Homer accidentally pollutes the town&#8217;s water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/eCytnEriVur3rT47NWfkgPXD9qs-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/PulHR2LfPVk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-simpsons-movie/",
+  "Name": "The Simpsons Movie"
 }

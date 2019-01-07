@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lmZFxXgJE3vgrciwuDib0N8CfQo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lmZFxXgJE3vgrciwuDib0N8CfQo.jpg",
+      "Name": "Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực - Avengers: Infinity War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg",
+      "Name": "Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực - Avengers: Infinity War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kbGO5mHPK7rh516MgAIJUQ9RvqD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kbGO5mHPK7rh516MgAIJUQ9RvqD.jpg",
+      "Name": "Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực - Avengers: Infinity War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xmgAsda5sPNpx5ghJibJ80S7Pfx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xmgAsda5sPNpx5ghJibJ80S7Pfx.jpg",
+      "Name": "Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực - Avengers: Infinity War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wWwocFodRqwuoPRNxmD5LQUHRyD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wWwocFodRqwuoPRNxmD5LQUHRyD.jpg",
+      "Name": "Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực - Avengers: Infinity War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5WGAkD2HTvfUWztLDsp4ZaUse88.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5WGAkD2HTvfUWztLDsp4ZaUse88.jpg",
+      "Name": "Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực - Avengers: Infinity War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sbpTzyKkBedre1CjExJMNawEbHB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sbpTzyKkBedre1CjExJMNawEbHB.jpg",
+      "Name": "Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực - Avengers: Infinity War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fjzjVPGJoHDIiK6cFvebcmhxDA7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fjzjVPGJoHDIiK6cFvebcmhxDA7.jpg",
+      "Name": "Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực - Avengers: Infinity War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l7kcMLg75qQfUTeM2CUniJogNjW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l7kcMLg75qQfUTeM2CUniJogNjW.jpg",
+      "Name": "Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực - Avengers: Infinity War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2eVKyH2rQ6LxP3U5DBZiAsqQyMy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2eVKyH2rQ6LxP3U5DBZiAsqQyMy.jpg",
+      "Name": "Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực - Avengers: Infinity War"
+    }
+  ],
+  "Links": [],
+  "Intro": "Sau chuyến hành trình độc nhất vô nhị không ngừng mở rộng và phát triển vụ trũ điện ảnh Marvel, bộ phim Avengers: Cuộc Chiến Vô Cực sẽ mang đến màn ảnh trận chiến cuối cùng khốc liệt nhất mọi thời đại. Biệt đội Avengers và các đồng minh siêu anh hùng của họ phải chấp nhận hy sinh tất cả để có thể chống lại kẻ thù hùng mạnh Thanos trước tham vọng hủy diệt toàn bộ vũ trụ của hắn.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/08/7WsyChQLEftFiDOVTGkv3hFpyyt-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/6ZfuNTqbHE8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/avengers-infinity-war/",
+  "Name": "Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực"
+}

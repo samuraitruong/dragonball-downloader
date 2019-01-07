@@ -1,0 +1,35 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hxSuiXSsBWuAjR2rRMw4oOJw6jF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hxSuiXSsBWuAjR2rRMw4oOJw6jF.jpg ",
+      "Name": "My Friend Dahmer"
+    }
+  ],
+  "Links": [],
+  "Intro": "Based on the acclaimed graphic novel by Derf Backderf. Jeffrey Dahmer struggles with a difficult family life as a young boy. And during his teenage years, he slowly transforms, edging closer to the serial killer he becomes.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/61NII3rY76fWyfzqIO3wa48LfiC-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/mAkOZ5zB_x0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/my-friend-dahmer/",
+  "Name": "My Friend Dahmer"
+}

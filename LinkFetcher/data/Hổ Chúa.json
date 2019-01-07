@@ -1,0 +1,31 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ngoai-quoc/",
+      "Name": "Ngoại Quốc"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2q9fH6rioDK1yeBKo4AqX47l6Cg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2q9fH6rioDK1yeBKo4AqX47l6Cg.jpg ",
+      "Name": "Hổ Chúa - The Tigers"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim nói về vào thời đại Joseon cuộc chiến giữa hai nước Nhật và Hàn, với quân đội hùng dũng của Nhật đã đàn áp được thế lực của Hàn và trong lúc này thì xuất hiện một con hổ khổng lồ đi giết người khắp nơi, nó sống trong một khu rừng đầy tuyết và cuộc chiến cũng được xảy ra . Phim có sự tham gia của các diễn viên Min-sik Choi, Man-sik Jeong, Hong-pa Kim..",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/asMnn0OtH8Cq61FMH4GnO6AvIF2-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-tigers/",
+  "Name": "Hổ Chúa"
+}

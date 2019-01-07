@@ -1,0 +1,54 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/clmYuR1t4TtKcakIOvYIPrjyxDc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/clmYuR1t4TtKcakIOvYIPrjyxDc.jpg",
+      "Name": "Hành Khách Bí Ẩn - The Commuter"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nlsNr1BEmRgRYYOO24NSHm6BXYb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nlsNr1BEmRgRYYOO24NSHm6BXYb.jpg",
+      "Name": "Hành Khách Bí Ẩn - The Commuter"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pQXUSBhxpWgn2ft4LpU6X2OS0Zs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pQXUSBhxpWgn2ft4LpU6X2OS0Zs.jpg",
+      "Name": "Hành Khách Bí Ẩn - The Commuter"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/edX3WnL9EaDRV0oK6YtJPykCgr0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/edX3WnL9EaDRV0oK6YtJPykCgr0.jpg",
+      "Name": "Hành Khách Bí Ẩn - The Commuter"
+    }
+  ],
+  "Links": [],
+  "Intro": "Michael là một nhân viên bán bảo hiểm bình thường. Buổi sáng nọ, Michael bị một kẻ lạ mặt liên hệ và buộc phải vạch trần danh tính của một hành khách trên chuyến tàu trước khi đến trạm dừng chân cuối cùng. Trong quá trình giải quyết vấn đề, Michael vô tình phát hiện ra một kế hoạch chết chóc đang bị che giấu và mình đang bị cuốn vào một âm mưu tội phạm. Liệu Michael sẽ làm gì để giải cứu bản thân và các hành khách khác?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/rDeGK6FIUfVcXmuBdEORPAGPMNg-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/iQZL28DywEA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-commuter/",
+  "Name": "Hành Khách Bí Ẩn"
+}

@@ -1,21 +1,39 @@
 {
-  "Id": "movM7KPuO31347",
-  "Url": "https://fsharephim.com/movies/cardcaptor-sakura-the-sealed-card/",
-  "Name": "Thủ lĩnh thẻ bài Sakura và lá bài bị phong ấn",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movm7kpuo31347/",
-      "Name": "Cardcaptor.Sakura.The.Sealed.Card.2000.ViE.720p.BluRay.DD5.1.x264-TayTO.mkv",
-      "Url": "https://www.fshare.vn/file/5MG2O1RI18VE",
-      "Size": "6.69 GB",
-      "FileSize": 7186802941
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movm7kpuo31347-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/cardcaptor-sakura-the-sealed-card-kdokaput-sakura-fin-sareta-kdo",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zhJy2rBhyhThDb6sqxlXiDi5Zfj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zhJy2rBhyhThDb6sqxlXiDi5Zfj.jpg ",
+      "Name": "Thủ lĩnh thẻ bài Sakura và lá bài bị phong ấn - Cardcaptor Sakura: The Sealed Card"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim Cardcaptor Sakura Movie 2: The Sealed Card có nội dung: Tất cả các lá bài Clow đã được thu phục , và Sakura Kinomoto , chủ nhân mới của những lá bài đang chuẩn bị cho lễ hội của thị trấn . Nhưng đột nhiên có một sức mạnh xấu xa đang gây ra những hiện tượng kì lạ tại thị trấn Tomoeda , trong đó có cả sự biến mất cả một số lá bài Sakura &#8230; Ngoài ra, Li Syaoran và Li Meilin từ Hồng Kông sang Nhật Bản ghé thăm Sakura, tại đây diễn ra câu chuyện tình yêu hết sức dễ thương và trong sáng của 2 nhân vật chính &#8211; couple S.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/mhiiHzHFSOjZ3VMxwGJKdxFBxCE-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/8RPTwKMsHnQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/cardcaptor-sakura-the-sealed-card/",
+  "Name": "Thủ lĩnh thẻ bài Sakura và lá bài bị phong ấn"
 }

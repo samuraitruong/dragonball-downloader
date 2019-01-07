@@ -1,35 +1,43 @@
 {
-  "Id": "mov6jwic9436931",
-  "Url": "https://fsharephim.com/movies/pokemon-the-movie-i-choose-you/",
-  "Name": "Pokémon the Movie: I Choose You!",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov6jwic9436931-4/",
-      "Name": "2017.Pokemon.I.Choose.You.Bluray.VIE.1080p.AVC.DD.2.0.mkv",
-      "Url": "https://www.fshare.vn/file/FX95MF1MPEKE",
-      "Size": "16.99 GB",
-      "FileSize": 18241555188
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov6jwic9436931-3/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/pokmon-the-movie-i-choose-you",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov6jwic9436931/",
-      "Name": "Pokemon.the.Movie.I.Choose.You.2017.1080p.WEB-DL.DD5.1.H264-HDMania.mkv",
-      "Url": "https://www.fshare.vn/file/EHWS3OW9AETM",
-      "Size": "3.7 GB",
-      "FileSize": 3949346274
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov6jwic9436931-2/",
-      "Name": "WEB-DL-1080p",
-      "Url": "https://uploadgig.com/file/download/93826A27b0afaf49/Pokemon.the.Movie.I.Choose.You.2017.1080p.WEB-DL.DD5.1.H264-HDMania.mkv",
-      "Size": "3.7 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bRyhWFL2Z9dAAbQo0vcMvmUwmPN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bRyhWFL2Z9dAAbQo0vcMvmUwmPN.jpg ",
+      "Name": "Pokémon the Movie: I Choose You!"
+    }
+  ],
+  "Links": [],
+  "Intro": "This is the story of how Ash and Pikachu first met. At first, Pikachu was disobedient towards Ash, but Ash only wanted to be friends with Pikachu. On the day they set out from Pallet Town, both of them saw a Ho-Oh flying and they made a vow to meet it.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/cmpOaiRtjnhLNF2iPslMXCOcVJ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/r12w4iRBLp4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/pokemon-the-movie-i-choose-you/",
+  "Name": "Pokémon the Movie: I Choose You!"
 }

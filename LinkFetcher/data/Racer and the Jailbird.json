@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gtJlivrn5XG5x24m9biLIuJFNtw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gtJlivrn5XG5x24m9biLIuJFNtw.jpg",
+      "Name": "Racer and the Jailbird"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uLmbPl7MnKiVemVCcaCyERVN5Qb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uLmbPl7MnKiVemVCcaCyERVN5Qb.jpg",
+      "Name": "Racer and the Jailbird"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8xFcB37F07oz5cTSGjeSGqaX9W.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8xFcB37F07oz5cTSGjeSGqaX9W.jpg",
+      "Name": "Racer and the Jailbird"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kciInO4oiO0i9RRFCBQCyuhn5YX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kciInO4oiO0i9RRFCBQCyuhn5YX.jpg",
+      "Name": "Racer and the Jailbird"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ik8L2mc9a7m72FUFVyUrFoS05Xi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ik8L2mc9a7m72FUFVyUrFoS05Xi.jpg",
+      "Name": "Racer and the Jailbird"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/90LEKYnmxAivkOGOPPxFu57ommF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/90LEKYnmxAivkOGOPPxFu57ommF.jpg",
+      "Name": "Racer and the Jailbird"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/stUchIoTeAYP5AvmeZzTIa2bCD3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/stUchIoTeAYP5AvmeZzTIa2bCD3.jpg",
+      "Name": "Racer and the Jailbird"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b5cUVboUtFe5qL2NFz1iCagvqKb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b5cUVboUtFe5qL2NFz1iCagvqKb.jpg",
+      "Name": "Racer and the Jailbird"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/r0aIaSmKQzLOU5ah4gaaSCWZqMY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/r0aIaSmKQzLOU5ah4gaaSCWZqMY.jpg",
+      "Name": "Racer and the Jailbird"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2PRJK5xKuxMZ9i9VgHcJRhZabre.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2PRJK5xKuxMZ9i9VgHcJRhZabre.jpg",
+      "Name": "Racer and the Jailbird"
+    }
+  ],
+  "Links": [],
+  "Intro": "When Gino &#8216;Gigi&#8217; meets Bénédicte &#8216;Bibi&#8217; at the racetrack, it&#8217;s love at first sight. But can their devotion save a love that may already be lost?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/i7SeGPPVljc3Nz6c21OWcMyVX6w-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/racer-and-the-jailbird/",
+  "Name": "Racer and the Jailbird"
+}

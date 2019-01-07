@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/86xWKTTGM0Bq4PIlRgIo5gxRcr5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/86xWKTTGM0Bq4PIlRgIo5gxRcr5.jpg",
+      "Name": "Being John Malkovich"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ipS4TF84y2cpc0qFhDr7uvukqfj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ipS4TF84y2cpc0qFhDr7uvukqfj.jpg",
+      "Name": "Being John Malkovich"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k5Dys5WWAQP3sU4MmL7s4820Dcu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k5Dys5WWAQP3sU4MmL7s4820Dcu.jpg",
+      "Name": "Being John Malkovich"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wd2tF4vQuSc1oPNyWj2JKuBJ16N.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wd2tF4vQuSc1oPNyWj2JKuBJ16N.jpg",
+      "Name": "Being John Malkovich"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vdlvSJDAz1IE3Ol9It5heO0Bx5y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vdlvSJDAz1IE3Ol9It5heO0Bx5y.jpg",
+      "Name": "Being John Malkovich"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lExlwxrVdy50ffCTqMs17QHEyIP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lExlwxrVdy50ffCTqMs17QHEyIP.jpg",
+      "Name": "Being John Malkovich"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/40oczLRESMzuoWPi0xCvpHqOt7S.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/40oczLRESMzuoWPi0xCvpHqOt7S.jpg",
+      "Name": "Being John Malkovich"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jgKZtMi6hmZixEGvhmu4Iety8c4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jgKZtMi6hmZixEGvhmu4Iety8c4.jpg",
+      "Name": "Being John Malkovich"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ao1WOBr1bsZPZVxpxLHjZvYMhvk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ao1WOBr1bsZPZVxpxLHjZvYMhvk.jpg",
+      "Name": "Being John Malkovich"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7y0WZ4GtY6ZpXdPRgyPuZdXMU5l.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7y0WZ4GtY6ZpXdPRgyPuZdXMU5l.jpg",
+      "Name": "Being John Malkovich"
+    }
+  ],
+  "Links": [],
+  "Intro": "Spike Jonze’s debut feature film is a love story mix of comedy and fantasy. The story is about an unsuccessful puppeteer named Craig, who one day at work finds a portal into the head of actor John Malkovich. The portal soon becomes a passion for anybody who enters it’s mad and controlling world of overtaking another human body.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/gLhl4MBEC6yHTInwV7TxV1D3FLp-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/d2gtr4DsEWI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/being-john-malkovich/",
+  "Name": "Being John Malkovich"
+}

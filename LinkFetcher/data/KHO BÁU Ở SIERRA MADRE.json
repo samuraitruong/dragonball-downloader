@@ -1,0 +1,65 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/mien-tay/",
+      "Name": "Miền Tây"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dDuNQNUdVMSKeEOwvuicc7m83IL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dDuNQNUdVMSKeEOwvuicc7m83IL.jpg ",
+      "Name": "KHO BÁU Ở SIERRA MADRE - The Treasure of the Sierra Madre"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dBpgRT6imMUQHwN8vKHq7Bdjk7e.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dBpgRT6imMUQHwN8vKHq7Bdjk7e.jpg ",
+      "Name": "KHO BÁU Ở SIERRA MADRE - The Treasure of the Sierra Madre"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kE0DC5vNo7M6G5KGEv2t0feng2T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kE0DC5vNo7M6G5KGEv2t0feng2T.jpg ",
+      "Name": "KHO BÁU Ở SIERRA MADRE - The Treasure of the Sierra Madre"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/w9ewmQ15DzhlQ4sBRGJTxltzujB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/w9ewmQ15DzhlQ4sBRGJTxltzujB.jpg ",
+      "Name": "KHO BÁU Ở SIERRA MADRE - The Treasure of the Sierra Madre"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rekidhLnEmlKs2xFeIHIwWc51Bv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rekidhLnEmlKs2xFeIHIwWc51Bv.jpg ",
+      "Name": "KHO BÁU Ở SIERRA MADRE - The Treasure of the Sierra Madre"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hloV6fz3J5sQraoqJOguuVxXqC5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hloV6fz3J5sQraoqJOguuVxXqC5.jpg ",
+      "Name": "KHO BÁU Ở SIERRA MADRE - The Treasure of the Sierra Madre"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tSAMuNPrVdXX3IboY1Fq1tp9fjg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tSAMuNPrVdXX3IboY1Fq1tp9fjg.jpg ",
+      "Name": "KHO BÁU Ở SIERRA MADRE - The Treasure of the Sierra Madre"
+    }
+  ],
+  "Links": [],
+  "Intro": "Nội dung phim Kho báu ở Sierra Madre: Giống như bao bộ phim về miền Tây hoang dã, The Treasure of the Sierra Madre có khung cảnh hoang sơ, bụi bặm và nhiều hiểm nguy. Những người đàn ông cùng nhau trên hành trình tìm vàng để rồi lại dượt đuổi nhau giết chóc. Liệu ai thắng, ai thua, ai được, ai mất trong cuộc truy tìm kho báu.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/e3lYTRwiDVPQv07xKldwlLAXikN-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/EQyqvFVe4Y4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-treasure-of-the-sierra-madre/",
+  "Name": "KHO BÁU Ở SIERRA MADRE"
+}

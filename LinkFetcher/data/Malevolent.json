@@ -1,21 +1,38 @@
 {
   "Id": "movCb8Psu366171",
-  "Url": "https://fsharephim.com/movies/malevolent/",
-  "Name": "Malevolent",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movcb8psu366171-2/",
-      "Name": "WEB-DL-1080p",
-      "Url": "http://www.fshare.vn/file/LZZQDELKRWYT",
       "Size": "2.44 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/LZZQDELKRWYT",
+      "Name": "WEB-DL-1080p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movcb8psu366171/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/malevolent-2018",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/malevolent-2018",
+      "Name": "Subtitle"
     }
-  ]
+  ],
+  "Intro": "In order to save her siblings, a young woman takes on her father and the powerful entity known as Gamemaster, who ensnares humans into diabolical plots while her species gambles on the outcome.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/10/q5o1fEhUkjFaUizLD3hG0Y8rM7K-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/kJ3tMPVvE6w?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/malevolent/",
+  "Name": "Malevolent"
 }

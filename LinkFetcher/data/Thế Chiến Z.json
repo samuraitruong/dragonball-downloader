@@ -1,0 +1,84 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xMOQVYLeIKBXenJ9KMeasj7S64y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xMOQVYLeIKBXenJ9KMeasj7S64y.jpg ",
+      "Name": "Thế Chiến Z - World War Z"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qozlZC1q9bsM7PRfdrnhmkweA0n.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qozlZC1q9bsM7PRfdrnhmkweA0n.jpg ",
+      "Name": "Thế Chiến Z - World War Z"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vGwxLR0YbBDECii0LU7pVm5Caf5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vGwxLR0YbBDECii0LU7pVm5Caf5.jpg ",
+      "Name": "Thế Chiến Z - World War Z"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7NhgUfvLRkE7rWWaAbeqihiQTQs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7NhgUfvLRkE7rWWaAbeqihiQTQs.jpg ",
+      "Name": "Thế Chiến Z - World War Z"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AfyhjOHdWLxHqaQ0oIqXKnWfrIg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AfyhjOHdWLxHqaQ0oIqXKnWfrIg.jpg ",
+      "Name": "Thế Chiến Z - World War Z"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yuCwmraEgJxvqHBEB4rRQexdYEm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yuCwmraEgJxvqHBEB4rRQexdYEm.jpg ",
+      "Name": "Thế Chiến Z - World War Z"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/A8qIqSScNw20dQLJW7QESUnkOfV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/A8qIqSScNw20dQLJW7QESUnkOfV.jpg ",
+      "Name": "Thế Chiến Z - World War Z"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/r8hUIXV5lweNT9OU2spYud30BmY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/r8hUIXV5lweNT9OU2spYud30BmY.jpg ",
+      "Name": "Thế Chiến Z - World War Z"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5xmmrMnNOQaP6XapbAJQE7xW8bn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5xmmrMnNOQaP6XapbAJQE7xW8bn.jpg ",
+      "Name": "Thế Chiến Z - World War Z"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ra9bQw2LNHIJ5F45ozjNy7gecIE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ra9bQw2LNHIJ5F45ozjNy7gecIE.jpg ",
+      "Name": "Thế Chiến Z - World War Z"
+    }
+  ],
+  "Links": [],
+  "Intro": "Được chuyển thể từ tiểu thuyết cùng tên xuất bản cuối năm 2006 của nhà văn Max Brooks, World War Z xoay quanh câu chuyện về Gerry Lane &#8211; một nhân viên Liên hợp quốc đi khắp nơi để tìm cách bảo vệ thế giới mình đang sống khi loài người dần thay đổi trở thành các sinh vật khát máu &#8211; những zombie hung hãn.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/07/Ha5t0J21eyiq6Az1EXzx0iwsGH-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/sGf_WdlHTqs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/world-war-z/",
+  "Name": "Thế Chiến Z"
+}

@@ -1,35 +1,80 @@
 {
-  "Id": "movnQjPMm303857",
-  "Url": "https://fsharephim.com/movies/dragon-ball-z-resurrection-f/",
-  "Name": "Sự Hồi Sinh Của Frieza",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movnqjpmm303857-4/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/dragon-ball-z-resurrection-of-f/vietnamese/1213492",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movnqjpmm303857-3/",
-      "Name": "Dragon Ball Z  Resurrection F - Frieza Hồi Sinh (2015) 1080p Remux Bluray AVC LPCM.m2ts",
-      "Url": "https://www.fshare.vn/file/9EZJFASX11SL",
-      "Size": "21.49 GB",
-      "FileSize": 23073282048
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movnqjpmm303857-2/",
-      "Name": "[Sub Viet] DBZ - vaphim.com.MP4",
-      "Url": "https://www.fshare.vn/file/MDQC5IS9JPLN",
-      "Size": "1.3 GB",
-      "FileSize": 1362321700
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movnqjpmm303857/",
-      "Name": "Viet - Subtitle",
-      "Url": "http://www.fshare.vn/file/65VOKGBV8AG4",
-      "Size": "86.9 KB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/j98rDMOFD7iWdFV4JMFinq3UMj2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/j98rDMOFD7iWdFV4JMFinq3UMj2.jpg",
+      "Name": "Sự Hồi Sinh Của Frieza - Dragon Ball Z: Resurrection &#8216;F&#8217;"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mUfuGGTGC5mM1V5BqHpOUXQuhpN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mUfuGGTGC5mM1V5BqHpOUXQuhpN.jpg",
+      "Name": "Sự Hồi Sinh Của Frieza - Dragon Ball Z: Resurrection &#8216;F&#8217;"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zoviZvxjgctfqCnqnld5ieuI7du.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zoviZvxjgctfqCnqnld5ieuI7du.jpg",
+      "Name": "Sự Hồi Sinh Của Frieza - Dragon Ball Z: Resurrection &#8216;F&#8217;"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hmP3M8UQZ0OTMraFszvYT0zdoBW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hmP3M8UQZ0OTMraFszvYT0zdoBW.jpg",
+      "Name": "Sự Hồi Sinh Của Frieza - Dragon Ball Z: Resurrection &#8216;F&#8217;"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pnFZtmOKAfMfdUp9lNIgMqMIrnh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pnFZtmOKAfMfdUp9lNIgMqMIrnh.jpg",
+      "Name": "Sự Hồi Sinh Của Frieza - Dragon Ball Z: Resurrection &#8216;F&#8217;"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9IvTrUHaoiMpWbAHJqFLJ9skvCD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9IvTrUHaoiMpWbAHJqFLJ9skvCD.jpg",
+      "Name": "Sự Hồi Sinh Của Frieza - Dragon Ball Z: Resurrection &#8216;F&#8217;"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m0NRsIHRpY3ePkKrTSwo4cPL1lV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m0NRsIHRpY3ePkKrTSwo4cPL1lV.jpg",
+      "Name": "Sự Hồi Sinh Của Frieza - Dragon Ball Z: Resurrection &#8216;F&#8217;"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eUl2KzzfmsEkLeGdvIv07uxyeir.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eUl2KzzfmsEkLeGdvIv07uxyeir.jpg",
+      "Name": "Sự Hồi Sinh Của Frieza - Dragon Ball Z: Resurrection &#8216;F&#8217;"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qvX9EZxaH0qAlAEHCYr2Uwdxp80.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qvX9EZxaH0qAlAEHCYr2Uwdxp80.jpg",
+      "Name": "Sự Hồi Sinh Của Frieza - Dragon Ball Z: Resurrection &#8216;F&#8217;"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/on6rd6Ok9Mg8Q8qn4qqEyYeZOrB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/on6rd6Ok9Mg8Q8qn4qqEyYeZOrB.jpg",
+      "Name": "Sự Hồi Sinh Của Frieza - Dragon Ball Z: Resurrection &#8216;F&#8217;"
+    }
+  ],
+  "Links": [],
+  "Intro": "Vào một ngày đẹp trời nọ, hai tên tàn dư của quân đội Freeza là Sorbet và Tagoma đã tìm kiếm những viên ngọc rồng với mục đích hồi sinh Freeza. Họ đã thành công. Freeza sau khi hồi sinh đã tìm cách trả thù những người Saiyans.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/uYgE4QiNEDNbYTthVH5MJuCIBsX-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/WiONylGn8Xw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/dragon-ball-z-resurrection-f/",
+  "Name": "Sự Hồi Sinh Của Frieza"
 }

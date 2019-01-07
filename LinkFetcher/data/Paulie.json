@@ -1,0 +1,52 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nAHxNZwNlttHYvjOi2LmmppSUZE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nAHxNZwNlttHYvjOi2LmmppSUZE.jpg",
+      "Name": "Paulie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7QdXx4RUefowyHFxOJ5dXrKeGTj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7QdXx4RUefowyHFxOJ5dXrKeGTj.jpg",
+      "Name": "Paulie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4BpzgKYyfIEymiXeNuHKRkvb50c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4BpzgKYyfIEymiXeNuHKRkvb50c.jpg",
+      "Name": "Paulie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jCmj1nn1lVtd62zem17dv5y5Wp5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jCmj1nn1lVtd62zem17dv5y5Wp5.jpg",
+      "Name": "Paulie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3evXWLMwaot3dwH5az02gbOpY1z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3evXWLMwaot3dwH5az02gbOpY1z.jpg",
+      "Name": "Paulie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fKDoUmoTMrGsmumbtokhObbpJSi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fKDoUmoTMrGsmumbtokhObbpJSi.jpg",
+      "Name": "Paulie"
+    }
+  ],
+  "Links": [],
+  "Intro": "Paulie, an intelligent parrot who actually talks, relates the story of his struggle to a Russian immigrant who works as a janitor at the research institute where he is housed and neglected. Paulie&#8217;s story begins many years earlier when he is given as a gift to a little girl who stutters. Eventually, he teaches the girl to speak correctly but is taken away by her father because he believes the girl cannot distinguish fantasy from reality because she believes the bird can talk. Paulie goes through a series of adventures with a pawn shop owner, an aging widow, a Mexican-American troubadour and a would be thief before being taken to the institute where he now lives",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/lAxYiGccdBgfMGwbJYzR9o3yabu-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/AGV8nB_EEAU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/paulie/",
+  "Name": "Paulie"
+}

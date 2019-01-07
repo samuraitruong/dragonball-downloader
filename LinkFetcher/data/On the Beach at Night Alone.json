@@ -1,0 +1,38 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eElR034t7YkxDDbxgzX5ZsneHS9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eElR034t7YkxDDbxgzX5ZsneHS9.jpg",
+      "Name": "On the Beach at Night Alone"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fGb7riNhBznA4EjuShLpjMkOD3t.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fGb7riNhBznA4EjuShLpjMkOD3t.jpg",
+      "Name": "On the Beach at Night Alone"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zbXH0BInkEDD0rejKQSp79Mu1v2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zbXH0BInkEDD0rejKQSp79Mu1v2.jpg",
+      "Name": "On the Beach at Night Alone"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/siu821rscgkIne4hU2lqVRQg5ma.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/siu821rscgkIne4hU2lqVRQg5ma.jpg",
+      "Name": "On the Beach at Night Alone"
+    }
+  ],
+  "Links": [],
+  "Intro": "After an affair with a married man, celebrated actress Younghee decides to take some time out. She travels to the far-off, foreign city of Hamburg. In a conversation with a friend she asks herself if her lover will follow her and whether he misses her as much as she misses him. During her long walks through wintry parks and along riverbanks she attempts to become clear about her feelings and desires.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/mprIyn1rl5ukAVP9Vi9ZaRKtKkw-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/l7CP5ipqqwU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/on-the-beach-at-night-alone/",
+  "Name": "On the Beach at Night Alone"
+}

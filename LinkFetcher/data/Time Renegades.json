@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/w5e9zyM7oDzkYvjqJWFyJIwM7NX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/w5e9zyM7oDzkYvjqJWFyJIwM7NX.jpg",
+      "Name": "Time Renegades"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9btQgGzMUXJrdOdYvzg1nkSmoYV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9btQgGzMUXJrdOdYvzg1nkSmoYV.jpg",
+      "Name": "Time Renegades"
+    }
+  ],
+  "Links": [],
+  "Intro": "In 1983, high school teacher Ji-hwan is attacked by a pickpocket. In 2015, homicide detective Gun-woo is shot during a chase and loses consciousness. Both men are taken to the same hospital in different time periods, and both their hearts stop and miraculously start again at the same time. A mysterious force binds them together, allowing them to see through each other’s lives in their dreams. Soon realizing that the women they love strikingly resembles each other and that they are in fatal danger, the two men must team up to trace the past and change her destiny.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/l1vaTXxvVvQ6zvK1sIYkjU9S8zd-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/VTg3zrSsZjU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/time-renegades/",
+  "Name": "Time Renegades"
+}

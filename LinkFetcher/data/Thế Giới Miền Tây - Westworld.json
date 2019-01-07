@@ -1,0 +1,888 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/mien-tay/",
+      "Name": "Miền Tây"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yp94aOXzuqcQHva90B3jxLfnOO9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yp94aOXzuqcQHva90B3jxLfnOO9.jpg",
+      "Name": "Thế Giới Miền Tây - Westworld"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sidkiCLsv34nczGD84LOvb6rlaH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sidkiCLsv34nczGD84LOvb6rlaH.jpg",
+      "Name": "Thế Giới Miền Tây - Westworld"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/XtqfPVRaXJdQ6W8VQ9xKlRrXSB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/XtqfPVRaXJdQ6W8VQ9xKlRrXSB.jpg",
+      "Name": "Thế Giới Miền Tây - Westworld"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/45rk1PQjiTvEPzi0yBfYl0bdzz3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/45rk1PQjiTvEPzi0yBfYl0bdzz3.jpg",
+      "Name": "Thế Giới Miền Tây - Westworld"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6ROakWtfAXIZCFzBsBE4Cr70urA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6ROakWtfAXIZCFzBsBE4Cr70urA.jpg",
+      "Name": "Thế Giới Miền Tây - Westworld"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uRojJ77wDQdzzVvP1VDjnvCWiDb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uRojJ77wDQdzzVvP1VDjnvCWiDb.jpg",
+      "Name": "Thế Giới Miền Tây - Westworld"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8GABbITnzhGuE2RAfWWK0BVdbNo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8GABbITnzhGuE2RAfWWK0BVdbNo.jpg",
+      "Name": "Thế Giới Miền Tây - Westworld"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/e5Goab0Eqn95Oq8stApcFo2GhKl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/e5Goab0Eqn95Oq8stApcFo2GhKl.jpg",
+      "Name": "Thế Giới Miền Tây - Westworld"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o3GtnAGtkfz1YvfpvBCNIxCU9Da.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o3GtnAGtkfz1YvfpvBCNIxCU9Da.jpg",
+      "Name": "Thế Giới Miền Tây - Westworld"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vu4GEMtZg7mJVRRaQPv76Nhf4RT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vu4GEMtZg7mJVRRaQPv76Nhf4RT.jpg",
+      "Name": "Thế Giới Miền Tây - Westworld"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/westworld-2x1/",
+      "Name": "Journey Into Night"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/westworld-2x2/",
+      "Name": "Reunion"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/westworld-2x3/",
+      "Name": "Virtù e Fortuna"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/westworld-2x4/",
+      "Name": "The Riddle of the Sphinx"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/westworld-2x5/",
+      "Name": "Akane No Mai"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/westworld-2x6/",
+      "Name": "Phase Space"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/westworld-2x7/",
+      "Name": "Les Écorchés"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/westworld-2x8/",
+      "Name": "Kiksuya"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/westworld-2x9/",
+      "Name": "Vanishing Point"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/westworld-2x10/",
+      "Name": "The Passenger"
+    }
+  ],
+  "Intro": "Một cuộc phiêu lưu đen tối về bình minh của ý thức nhân tạo và sự tiến hóa của tội lỗi. Nằm ở giao điểm của tương lai gần và quá khứ được tưởng tượng lại, nó khám phá một thế giới trong đó mọi sự thèm ăn của con người, bất kể cao quý hay đồi trụy, đều có thể được nuông chiều.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/08/6aj09UTMQNyfSfk0ZX8rYOEsXL2-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/JctIuZfSsa4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": "tvYJ6aRI1428777",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oRvpF7Rnp76V8NNrPk4o5AzJ84N.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oRvpF7Rnp76V8NNrPk4o5AzJ84N.jpg",
+              "Name": "Westworld 2&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xqKz1IVhNGgsnrcdgqQFyGIlYKF.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xqKz1IVhNGgsnrcdgqQFyGIlYKF.jpg",
+              "Name": "Westworld 2&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ehdTfY4CVNs2t7SmRlpnjDT0oYd.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ehdTfY4CVNs2t7SmRlpnjDT0oYd.jpg",
+              "Name": "Westworld 2&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1mc4rlaEOlSYcTPTpAxtRAbR5Jm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1mc4rlaEOlSYcTPTpAxtRAbR5Jm.jpg",
+              "Name": "Westworld 2&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/92NVKCCVoCXCj9N23c5L0I2r4gi.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/92NVKCCVoCXCj9N23c5L0I2r4gi.jpg",
+              "Name": "Westworld 2&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/madnrIHYj16wEgHtgJYAjSJ7Jxm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/madnrIHYj16wEgHtgJYAjSJ7Jxm.jpg",
+              "Name": "Westworld 2&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7HjASPD3LFPBnIgoKRvYzEOkxi6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7HjASPD3LFPBnIgoKRvYzEOkxi6.jpg",
+              "Name": "Westworld 2&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ssXnOgrrp77PPinu8g2ggUx7ckE.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ssXnOgrrp77PPinu8g2ggUx7ckE.jpg",
+              "Name": "Westworld 2&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/cKQ6RahYvIIEF5PJZ2g4mGR6WO3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/cKQ6RahYvIIEF5PJZ2g4mGR6WO3.jpg",
+              "Name": "Westworld 2&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/sYyghDbGafoVRgv6ShCta07Xtwk.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/sYyghDbGafoVRgv6ShCta07Xtwk.jpg",
+              "Name": "Westworld 2&#215;1"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvyj6ari1428777/",
+              "Size": "1.93 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/NQFLIFC6JWNB",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "The puppet show is over, and we are coming for you and the rest of your kind. Dolores leads a host revolution against the Delos board. Maeve, meanwhile, searches for what compelled her to return to the park.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/westworld-2x1/",
+          "Name": "Westworld 2x1"
+        },
+        {
+          "Id": "tvYJ6aRI1487737",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/h0L7vA2m1QwDYItLGKNi2LhGZkE.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/h0L7vA2m1QwDYItLGKNi2LhGZkE.jpg",
+              "Name": "Westworld 2&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ct41rZ28rOaR11UqVaIsjiLmOA9.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ct41rZ28rOaR11UqVaIsjiLmOA9.jpg",
+              "Name": "Westworld 2&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/c91E31VZ7NANNFBjs9lxXenUyw8.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/c91E31VZ7NANNFBjs9lxXenUyw8.jpg",
+              "Name": "Westworld 2&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jGWDfI3JLjoU0QzImkqhHuOU2qo.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jGWDfI3JLjoU0QzImkqhHuOU2qo.jpg",
+              "Name": "Westworld 2&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4XaJlivMXUkiIUOQm18opKq5siW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4XaJlivMXUkiIUOQm18opKq5siW.jpg",
+              "Name": "Westworld 2&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/vbeHYqVaxitZjBjjr019f8XQ2w6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/vbeHYqVaxitZjBjjr019f8XQ2w6.jpg",
+              "Name": "Westworld 2&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/17tqiAhT3JqZn0l7yIDtFgvqaaX.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/17tqiAhT3JqZn0l7yIDtFgvqaaX.jpg",
+              "Name": "Westworld 2&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/sCz1hfjEzzjeWCSQAx63dYcY5ax.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/sCz1hfjEzzjeWCSQAx63dYcY5ax.jpg",
+              "Name": "Westworld 2&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/pny1IVO8pb1AofwA7yFudMyRiVa.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/pny1IVO8pb1AofwA7yFudMyRiVa.jpg",
+              "Name": "Westworld 2&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/l62dwAHCdzcareBzuIk4ZROP3ax.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/l62dwAHCdzcareBzuIk4ZROP3ax.jpg",
+              "Name": "Westworld 2&#215;10"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvyj6ari1487737/",
+              "Size": "2.49 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/V4OTTCWBID31",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "Hosts and humans converge at the Valley Beyond. This is the end. We will win.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/westworld-2x10/",
+          "Name": "Westworld 2x10"
+        },
+        {
+          "Id": "tvYJ6aRI1470329",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jn7G2jX2aS3LpMGWySZ1wn4S57X.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jn7G2jX2aS3LpMGWySZ1wn4S57X.jpg",
+              "Name": "Westworld 2&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/dsLD3XyXpo6PagHlgSck6vr8Oq4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/dsLD3XyXpo6PagHlgSck6vr8Oq4.jpg",
+              "Name": "Westworld 2&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6BC6tSJh77pRmI0yzv0noBQUlri.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6BC6tSJh77pRmI0yzv0noBQUlri.jpg",
+              "Name": "Westworld 2&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/cyQ8SCoPuvursH5XcageHW7qxWT.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/cyQ8SCoPuvursH5XcageHW7qxWT.jpg",
+              "Name": "Westworld 2&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ilxdc3hYO2xfd9uygXlZ2DN5R1k.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ilxdc3hYO2xfd9uygXlZ2DN5R1k.jpg",
+              "Name": "Westworld 2&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/f3IpWJPNRsmDWA0ZzPgzCp6XFhH.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/f3IpWJPNRsmDWA0ZzPgzCp6XFhH.jpg",
+              "Name": "Westworld 2&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/iC0RqjYlad762jH8l40a7UAxTRB.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/iC0RqjYlad762jH8l40a7UAxTRB.jpg",
+              "Name": "Westworld 2&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/AbChagX8W6o0OrIULEHVQxoN0tB.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/AbChagX8W6o0OrIULEHVQxoN0tB.jpg",
+              "Name": "Westworld 2&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xPSzkOiU8rywb8XzulylIZOTF1m.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xPSzkOiU8rywb8XzulylIZOTF1m.jpg",
+              "Name": "Westworld 2&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ege3RTmA1qmPDEfiJjgAtRGZ3xe.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ege3RTmA1qmPDEfiJjgAtRGZ3xe.jpg",
+              "Name": "Westworld 2&#215;2"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvyj6ari1470329/",
+              "Size": "1.4 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/8T79EYBH789E",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "Why don&#8217;t we start at the beginning? Dolores remembers she&#8217;s been to the outside world, William makes a bold business venture, and Maeve begins her quest for her daughter. Someone&#8217;s always watching.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/westworld-2x2/",
+          "Name": "Westworld 2x2"
+        },
+        {
+          "Id": "tvYJ6aRI1472419",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/gGLAk8v2cs7t4rDOIbT6aMbUM8p.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/gGLAk8v2cs7t4rDOIbT6aMbUM8p.jpg",
+              "Name": "Westworld 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1feaKrlSFfEsyL5MipPGuGuzT4e.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1feaKrlSFfEsyL5MipPGuGuzT4e.jpg",
+              "Name": "Westworld 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/n4amF5z6ONkCmaG6949crSrT5tW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/n4amF5z6ONkCmaG6949crSrT5tW.jpg",
+              "Name": "Westworld 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/aSOHBwl0ZT7cxby13qK1DH6d0Qm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/aSOHBwl0ZT7cxby13qK1DH6d0Qm.jpg",
+              "Name": "Westworld 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/b16xtao4tAEMECVekcRfAH39jvu.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/b16xtao4tAEMECVekcRfAH39jvu.jpg",
+              "Name": "Westworld 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jpSL4b0AfTsSg0v3MW74JHy4HhQ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jpSL4b0AfTsSg0v3MW74JHy4HhQ.jpg",
+              "Name": "Westworld 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tmzUZxHUZY1wcn5lRQRwt5PqzFW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tmzUZxHUZY1wcn5lRQRwt5PqzFW.jpg",
+              "Name": "Westworld 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/mpe65yDShvnk5yemcOZsxRYVPQ3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/mpe65yDShvnk5yemcOZsxRYVPQ3.jpg",
+              "Name": "Westworld 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jEilHW1OWvXsghTa62qjabjs21e.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jEilHW1OWvXsghTa62qjabjs21e.jpg",
+              "Name": "Westworld 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bD25n8mfBkZRJHBYkQ3vsKw5cHt.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bD25n8mfBkZRJHBYkQ3vsKw5cHt.jpg",
+              "Name": "Westworld 2&#215;3"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvyj6ari1472419/",
+              "Size": "1.66 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/YYLU9F3TMCKK",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "There is beauty in who we are. Shouldn&#8217;t we, too, try to survive? Truth is, we don&#8217;t all deserve to make it. Dolores makes her next move as Charlotte scrambles to protect Delos&#8217; most prized asset. Bernard gets closer to the truth and Maeve continues the search for her daughter.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/westworld-2x3/",
+          "Name": "Westworld 2x3"
+        },
+        {
+          "Id": "tvYJ6aRI1472420",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/vVMJSGgGOGdcXHo01CcLHEGbDoX.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/vVMJSGgGOGdcXHo01CcLHEGbDoX.jpg",
+              "Name": "Westworld 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4fUAvVND6avMrr4jqqqFO2PXuWv.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4fUAvVND6avMrr4jqqqFO2PXuWv.jpg",
+              "Name": "Westworld 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/eVh9rYZ8dpJ1o20aOscbS9D7i5P.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/eVh9rYZ8dpJ1o20aOscbS9D7i5P.jpg",
+              "Name": "Westworld 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/sn4OCiWNtcVrjiWnlJhVhpmc7Z1.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/sn4OCiWNtcVrjiWnlJhVhpmc7Z1.jpg",
+              "Name": "Westworld 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/yPJmSkorY5EMsfBxNtLGpwW0mMi.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/yPJmSkorY5EMsfBxNtLGpwW0mMi.jpg",
+              "Name": "Westworld 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nggPfGIW6Jc4tzAj0Zx6XuXBQUf.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nggPfGIW6Jc4tzAj0Zx6XuXBQUf.jpg",
+              "Name": "Westworld 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ccCb229K6XZwThlo4LT5gMe1ThL.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ccCb229K6XZwThlo4LT5gMe1ThL.jpg",
+              "Name": "Westworld 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/l0bbtgMvaViFM0Qou4pHyiUIypO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/l0bbtgMvaViFM0Qou4pHyiUIypO.jpg",
+              "Name": "Westworld 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/sSxkC7LiCKqrJzM0oSCdC1FgOYj.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/sSxkC7LiCKqrJzM0oSCdC1FgOYj.jpg",
+              "Name": "Westworld 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wKm7LukzI7qY9inHzkF8lTrXh02.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wKm7LukzI7qY9inHzkF8lTrXh02.jpg",
+              "Name": "Westworld 2&#215;4"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvyj6ari1472420/",
+              "Size": "2.28 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/1CCEQ9SY7S3S",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "Is this now? If you&#8217;re looking forward, you&#8217;re looking in the wrong direction. The Man in Black offers to lead the way and Delos gets a visitor. Who is James Delos? Or, perhaps more accurately, _what_ is James Delos, the figure at the center of Delos&#8217; secret project.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/westworld-2x4/",
+          "Name": "Westworld 2x4"
+        },
+        {
+          "Id": "tvYJ6aRI1472421",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fv7bLS75jf7XW981E69V388Voai.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fv7bLS75jf7XW981E69V388Voai.jpg",
+              "Name": "Westworld 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ahZiJXpAclos9TP8341JsX5Bx9V.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ahZiJXpAclos9TP8341JsX5Bx9V.jpg",
+              "Name": "Westworld 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/mBONe3RAkj5BBAuYv55vNcJY3Vo.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/mBONe3RAkj5BBAuYv55vNcJY3Vo.jpg",
+              "Name": "Westworld 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6ZML0N41EBzjwZcf2qcbWCKJzsP.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6ZML0N41EBzjwZcf2qcbWCKJzsP.jpg",
+              "Name": "Westworld 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qELbWNZxwY8QX6BAzHQ2LpqDV9Z.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qELbWNZxwY8QX6BAzHQ2LpqDV9Z.jpg",
+              "Name": "Westworld 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xWPXZQHn221NqBVuYSSnkeoQj2A.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xWPXZQHn221NqBVuYSSnkeoQj2A.jpg",
+              "Name": "Westworld 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/eWGgsGzCUvfqkH8WNyuhzdUb5XD.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/eWGgsGzCUvfqkH8WNyuhzdUb5XD.jpg",
+              "Name": "Westworld 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1Emz4L7UNi7AIQzr9EfqljIGH9i.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1Emz4L7UNi7AIQzr9EfqljIGH9i.jpg",
+              "Name": "Westworld 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zPWv9BzA72zsuW25AfwPtyeq4o9.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zPWv9BzA72zsuW25AfwPtyeq4o9.jpg",
+              "Name": "Westworld 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8lqGkdj4ekTkqpzf13hLc5p8hv3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8lqGkdj4ekTkqpzf13hLc5p8hv3.jpg",
+              "Name": "Westworld 2&#215;5"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvyj6ari1472421/",
+              "Size": "1.8 GB",
+              "FileSize": 1937934121,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/V6Y4C4BXF53Q",
+              "Name": "Westworld.S02E05.720p.WEB.H264-DEFLATE.mkv"
+            }
+          ],
+          "Intro": "Maeve, Lee, Hector and Armistice have revelations in a new world adjacent to their own &#8211; welcome to Shogun World. Dolores makes a decision about Teddy, and Karl Strand discovers something sinister about the hosts&#8217; data.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/westworld-2x5/",
+          "Name": "Westworld 2x5"
+        },
+        {
+          "Id": "tvYJ6aRI1487732",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/u8uNZ0RXr71F8CTHcwyDqjg5V3a.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/u8uNZ0RXr71F8CTHcwyDqjg5V3a.jpg",
+              "Name": "Westworld 2&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6BsQAox8qXEA4klWMRPKQzHoHVr.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6BsQAox8qXEA4klWMRPKQzHoHVr.jpg",
+              "Name": "Westworld 2&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/sYMnIbMlZJ1p5Wx9pOajA6ISkZ7.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/sYMnIbMlZJ1p5Wx9pOajA6ISkZ7.jpg",
+              "Name": "Westworld 2&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/mHFPEQ958C4oww5kAR9BF1Ky9cz.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/mHFPEQ958C4oww5kAR9BF1Ky9cz.jpg",
+              "Name": "Westworld 2&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6CMPQyxee7ZGTkfEjG5rAwLeMn2.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6CMPQyxee7ZGTkfEjG5rAwLeMn2.jpg",
+              "Name": "Westworld 2&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/imJGJlvOXceTePEj2SttIiTkDQQ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/imJGJlvOXceTePEj2SttIiTkDQQ.jpg",
+              "Name": "Westworld 2&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oJoioNAKbRK0bepROrl07q7Q1vT.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oJoioNAKbRK0bepROrl07q7Q1vT.jpg",
+              "Name": "Westworld 2&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/5rt51ZfUgqRIk3lwuF4aZA5uZBY.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/5rt51ZfUgqRIk3lwuF4aZA5uZBY.jpg",
+              "Name": "Westworld 2&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3r6ID1aebfyx3lbm8iVPqirhnRJ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3r6ID1aebfyx3lbm8iVPqirhnRJ.jpg",
+              "Name": "Westworld 2&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/vAopGGuD004DdOCJje70yPq8U4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/vAopGGuD004DdOCJje70yPq8U4.jpg",
+              "Name": "Westworld 2&#215;6"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvyj6ari1487732/",
+              "Size": "1.7 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/G1GX5IVOFTMC",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "We each deserve to choose our own fate. Maeve continues the search for her daughter, as Dolores calculates her next, ruthless move. Bernard and Elsie break into a new laboratory space and get closer to the truth about Delos.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/westworld-2x6/",
+          "Name": "Westworld 2x6"
+        },
+        {
+          "Id": "tvYJ6aRI1487733",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/G4G8woV5b9qstUjOIZhuGCtHq9.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/G4G8woV5b9qstUjOIZhuGCtHq9.jpg",
+              "Name": "Westworld 2&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tMAyJYXA2CHksVtWtQdbPdl2R8d.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tMAyJYXA2CHksVtWtQdbPdl2R8d.jpg",
+              "Name": "Westworld 2&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/szPiV6Hguk0kFfCehvi0IhMUSNt.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/szPiV6Hguk0kFfCehvi0IhMUSNt.jpg",
+              "Name": "Westworld 2&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2GuICn1HzGqOhlf0IorW2fFYsWm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2GuICn1HzGqOhlf0IorW2fFYsWm.jpg",
+              "Name": "Westworld 2&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7oXXuvC0LrvWqdHz4WynJp953sn.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7oXXuvC0LrvWqdHz4WynJp953sn.jpg",
+              "Name": "Westworld 2&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/a2NhlNgQMOFbbHtX6BU9j2xNG3G.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/a2NhlNgQMOFbbHtX6BU9j2xNG3G.jpg",
+              "Name": "Westworld 2&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/im1MyZeBmyUb6yJZxVA7WJ293o6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/im1MyZeBmyUb6yJZxVA7WJ293o6.jpg",
+              "Name": "Westworld 2&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/93lXTzJ9HGRwDUrlyScyM1zfVz.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/93lXTzJ9HGRwDUrlyScyM1zfVz.jpg",
+              "Name": "Westworld 2&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hByivtWSace5uk2wpLX64sfpnwA.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hByivtWSace5uk2wpLX64sfpnwA.jpg",
+              "Name": "Westworld 2&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3Xq4J70Y91bGLA8ZEXSmhVGduQ7.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3Xq4J70Y91bGLA8ZEXSmhVGduQ7.jpg",
+              "Name": "Westworld 2&#215;7"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvyj6ari1487733/",
+              "Size": "1.76 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/RSEB4D9T4UOL",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "When you&#8217;re lost in the dark for long enough, you begin to see &#8211; strike the match. Bernard and Ford meet again, and Bernard grapples with the true meaning of the park. The Cradle is under threat and Maeve encounters a scene from her past &#8211; but this time, attempts to change the narrative, while the Man in Black discovers just how real the stakes are in Ford&#8217;s game.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/westworld-2x7/",
+          "Name": "Westworld 2x7"
+        },
+        {
+          "Id": "tvYJ6aRI1487735",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xs0mHwvdl8azTcHBjUUHtM1BhAE.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xs0mHwvdl8azTcHBjUUHtM1BhAE.jpg",
+              "Name": "Westworld 2&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bTVIBllSuFwTPP6fcLVDD39gVd0.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bTVIBllSuFwTPP6fcLVDD39gVd0.jpg",
+              "Name": "Westworld 2&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xdk8ai0U2L3OBX09k695NFsucCK.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xdk8ai0U2L3OBX09k695NFsucCK.jpg",
+              "Name": "Westworld 2&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rsYR42wlPIluuFSSOuw3FIJ0pD6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rsYR42wlPIluuFSSOuw3FIJ0pD6.jpg",
+              "Name": "Westworld 2&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qXM6po1xTAZAkoqANnNBZfWhny6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qXM6po1xTAZAkoqANnNBZfWhny6.jpg",
+              "Name": "Westworld 2&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qALCF0TnFqjiqf0E31ydjhQVPCI.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qALCF0TnFqjiqf0E31ydjhQVPCI.jpg",
+              "Name": "Westworld 2&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/h4J1Y7Bl4QPF7O2mXi8Rw8zVgvf.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/h4J1Y7Bl4QPF7O2mXi8Rw8zVgvf.jpg",
+              "Name": "Westworld 2&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ep2YraCaNZ66l0foHR49tGW2Rpg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ep2YraCaNZ66l0foHR49tGW2Rpg.jpg",
+              "Name": "Westworld 2&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4zAtyWbZNHdnV6SEXRMAWxOn4zP.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4zAtyWbZNHdnV6SEXRMAWxOn4zP.jpg",
+              "Name": "Westworld 2&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/5JYZdUYryKBo7Cmp69THRfSoIIk.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/5JYZdUYryKBo7Cmp69THRfSoIIk.jpg",
+              "Name": "Westworld 2&#215;8"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvyj6ari1487735/",
+              "Size": "1.83 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/8AHBSSARRARS",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "The past is calling, remember what was taken. &#8220;Mi cante ki yu ha ya ye.&#8221; (&#8220;Take my heart when you go&#8221;). This is the telling of Akecheta&#8217;s journey to consciousness.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/westworld-2x8/",
+          "Name": "Westworld 2x8"
+        },
+        {
+          "Id": "tvYJ6aRI1487736",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/c2vdyHmRMVJp4pMDSlwCf0qh9u3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/c2vdyHmRMVJp4pMDSlwCf0qh9u3.jpg",
+              "Name": "Westworld 2&#215;9"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/gi61KThCSUF1GFSiaoo1dA1V5gU.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/gi61KThCSUF1GFSiaoo1dA1V5gU.jpg",
+              "Name": "Westworld 2&#215;9"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/e5lTv9geTpznHlxCbQIvFjd0GGL.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/e5lTv9geTpznHlxCbQIvFjd0GGL.jpg",
+              "Name": "Westworld 2&#215;9"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/y2d5M7XiDjtLx7S7UXGQpN1AfQk.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/y2d5M7XiDjtLx7S7UXGQpN1AfQk.jpg",
+              "Name": "Westworld 2&#215;9"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9nGcs9mOZ0daif9IRcHsGjMq6Ji.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9nGcs9mOZ0daif9IRcHsGjMq6Ji.jpg",
+              "Name": "Westworld 2&#215;9"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3cW8Jgw3NkH6twCB2vT45SubWLV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3cW8Jgw3NkH6twCB2vT45SubWLV.jpg",
+              "Name": "Westworld 2&#215;9"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9biEVoN1CfV84EJPMU79NQ6OaJm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9biEVoN1CfV84EJPMU79NQ6OaJm.jpg",
+              "Name": "Westworld 2&#215;9"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/AhZRTO6eovplhtSi6oCileHHQoR.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/AhZRTO6eovplhtSi6oCileHHQoR.jpg",
+              "Name": "Westworld 2&#215;9"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/t3fPWgnpWsLsb35htdyFRYTBbas.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/t3fPWgnpWsLsb35htdyFRYTBbas.jpg",
+              "Name": "Westworld 2&#215;9"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lnDwVA9NNKayLnY757qbPTUbyy5.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lnDwVA9NNKayLnY757qbPTUbyy5.jpg",
+              "Name": "Westworld 2&#215;9"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvyj6ari1487736-2/",
+              "Size": "1.78 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/ZKM5HS7D1O2Z",
+              "Name": "720p"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvyj6ari1487736/",
+              "Size": "1.78 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/ZKM5HS7D1O2Z",
+              "Name": "720p"
+            }
+          ],
+          "Intro": "Tell me the truth. Tell me one true thing. Try to kill it all away, but I remember everything. A family tragedy and fragile states of mind come into focus as the Man in Black and Teddy both reach their breaking points.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/westworld-2x9/",
+          "Name": "Westworld 2x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 2 Apr. 22, 2018"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/westworld/",
+  "Name": "Thế Giới Miền Tây - Westworld"
+}

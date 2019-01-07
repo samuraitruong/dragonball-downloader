@@ -1,0 +1,52 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6cKpUk38U7GziP548cZ1AGs0RPV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6cKpUk38U7GziP548cZ1AGs0RPV.jpg ",
+      "Name": "Thunder Road"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wnnqChR7iJHFllZwjRm1ONcAlGT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wnnqChR7iJHFllZwjRm1ONcAlGT.jpg ",
+      "Name": "Thunder Road"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xGjNiwzINKnvNqQPAlarGR7unIg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xGjNiwzINKnvNqQPAlarGR7unIg.jpg ",
+      "Name": "Thunder Road"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/taWaIZ1WkNFItE7a7sb203uVlih.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/taWaIZ1WkNFItE7a7sb203uVlih.jpg ",
+      "Name": "Thunder Road"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nhPwBswiKPAULsMYooP66Bk0e3x.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nhPwBswiKPAULsMYooP66Bk0e3x.jpg ",
+      "Name": "Thunder Road"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hMJByADWBLP0TJRvLDRMS8FWwCP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hMJByADWBLP0TJRvLDRMS8FWwCP.jpg ",
+      "Name": "Thunder Road"
+    }
+  ],
+  "Links": [],
+  "Intro": "Officer Arnaud raises his daughter as a love letter to his late Mom.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/10/ynljTdiGVUCJJ6THSZi22SBoQAR-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/NxWw3oJi6QE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/thunder-road/",
+  "Name": "Thunder Road"
+}

@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wMlcYOTlTwtjIxxOOgTfCpF7dsC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wMlcYOTlTwtjIxxOOgTfCpF7dsC.jpg",
+      "Name": "One Week Friends"
+    }
+  ],
+  "Links": [],
+  "Intro": "High school student Yuki Hase (Kento Yamazaki) wants to become close with classmate Kaori Fujimiya (Haruna Kawaguchi) who is alway by herself. Kaori Fujimiya refuses to become close with Yuki Hase, because she forgets her friends every new Monday. Even though Kaori tells Yuki why she doesn&#8217;t want to become friends, Yuki still wants to become close to her.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/A6UauiNi9G29kFQ6auKmYuBac88-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/XNAh3ps_TKU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/one-week-friends/",
+  "Name": "One Week Friends"
+}

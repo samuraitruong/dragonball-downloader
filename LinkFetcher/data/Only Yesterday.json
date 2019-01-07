@@ -1,28 +1,76 @@
 {
-  "Id": "movqRJAEb15080",
-  "Url": "https://fsharephim.com/movies/only-yesterday/",
-  "Name": "Only Yesterday",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movqrjaeb15080/",
-      "Name": "Only.Yesterday.1991.1080p.BluRay.x264-CtrlHD.mkv",
-      "Url": "https://www.fshare.vn/file/ZRLHAQI5VOH6",
-      "Size": "12.5 GB",
-      "FileSize": 13421622308
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movqrjaeb15080-2/",
-      "Name": "Only.Yesterday.1991.1080p.BluRay.x264-CtrlHD.ass",
-      "Url": "https://www.fshare.vn/file/RHUK147F9ODJ",
-      "Size": "162.02 KB",
-      "FileSize": 165911
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movqrjaeb15080-3/",
-      "Name": "mHD - 720p",
-      "Url": "https://www.fshare.vn/file/PLCC8TRCRR/",
-      "Size": "2.5 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t3mHvE3pcZOKsLcR1mPXie6twek.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t3mHvE3pcZOKsLcR1mPXie6twek.jpg",
+      "Name": "Only Yesterday"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mn4NHCptzaKgnHIu45aGcHCgEF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mn4NHCptzaKgnHIu45aGcHCgEF.jpg",
+      "Name": "Only Yesterday"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m2v2vmDqlSAtYyzDhFYbEjMAz8i.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m2v2vmDqlSAtYyzDhFYbEjMAz8i.jpg",
+      "Name": "Only Yesterday"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hGVWibWMA6lBrZqXp9TD8mfTae1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hGVWibWMA6lBrZqXp9TD8mfTae1.jpg",
+      "Name": "Only Yesterday"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/glMrAGFs9eiwoeI6eo3inYVIgbu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/glMrAGFs9eiwoeI6eo3inYVIgbu.jpg",
+      "Name": "Only Yesterday"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m1YKeaZ3gYs84T5JR1DrwZrnwi3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m1YKeaZ3gYs84T5JR1DrwZrnwi3.jpg",
+      "Name": "Only Yesterday"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wXVX6B3des7ehxpKIDoywgxAH5U.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wXVX6B3des7ehxpKIDoywgxAH5U.jpg",
+      "Name": "Only Yesterday"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9IaPhbYZpJPt84e4goUT8hLfZ5H.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9IaPhbYZpJPt84e4goUT8hLfZ5H.jpg",
+      "Name": "Only Yesterday"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6bNcTlWbAVN27QQvfs9HJMjyMNh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6bNcTlWbAVN27QQvfs9HJMjyMNh.jpg",
+      "Name": "Only Yesterday"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xetp3BHR8BbYNSeG3ASNes8iwzW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xetp3BHR8BbYNSeG3ASNes8iwzW.jpg",
+      "Name": "Only Yesterday"
+    }
+  ],
+  "Links": [],
+  "Intro": "It’s 1982, and Taeko is 27 years old, unmarried, and has lived her whole life in Tokyo. She decides to visit her family in the countryside, and as the train travels through the night, memories flood back of her younger years: the first immature stirrings of romance, the onset of puberty, and the frustrations of math and boys. At the station she is met by young farmer Toshio, and the encounters with him begin to reconnect her to forgotten longings. In lyrical switches between the present and the past, Taeko contemplates the arc of her life, and wonders if she has been true to the dreams of her childhood self.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/24DqWbbkKI0ReUooSJiIqzURp3g-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/only-yesterday/",
+  "Name": "Only Yesterday"
 }

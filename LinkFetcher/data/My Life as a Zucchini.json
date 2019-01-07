@@ -1,21 +1,41 @@
 {
-  "Id": "movkg85Im393559",
-  "Url": "https://fsharephim.com/movies/my-life-as-a-zucchini/",
-  "Name": "My Life as a Zucchini",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movkg85im393559-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/my-life-as-a-zucchini-ma-vie-de-courgette/vietnamese/1575459",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movkg85im393559/",
-      "Name": "Cuộc đời cậu bé Bí Ngòi.2016.RERIP.1080p.BluRay.x264-RedBlade.mkv",
-      "Url": "https://www.fshare.vn/file/DB7S5Y5JZ344",
-      "Size": "7.6 GB",
-      "FileSize": 8209833505
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7JLq3aQV89IAL2wetJ5f5STswql.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7JLq3aQV89IAL2wetJ5f5STswql.jpg",
+      "Name": "My Life as a Zucchini"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eVFeQX9acGqgLvrANuwMfpZESJH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eVFeQX9acGqgLvrANuwMfpZESJH.jpg",
+      "Name": "My Life as a Zucchini"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mhnmqeHwugiKpSKWfD1qvZyHKK5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mhnmqeHwugiKpSKWfD1qvZyHKK5.jpg",
+      "Name": "My Life as a Zucchini"
+    }
+  ],
+  "Links": [],
+  "Intro": "After his mother’s death, Zucchini is befriended by a kind police officer, Raymond, who accompanies him to his new foster home filled with other orphans his age. There, with the help of his newfound friends, Zucchini eventually learns to trust and love as he searches for a new family of his own.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/mZ9JGgCvV4d5KnpT0jSR1pOCLW7-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/bd2TOf1kmfk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/my-life-as-a-zucchini/",
+  "Name": "My Life as a Zucchini"
 }

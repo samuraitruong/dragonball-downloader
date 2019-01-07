@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3BUFXWebWrFZugi3hF8vt1kY5DV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3BUFXWebWrFZugi3hF8vt1kY5DV.jpg",
+      "Name": "The Jade Pendant"
+    }
+  ],
+  "Links": [],
+  "Intro": "Fleeing an arranged marriage in China, the independent Peony signs a contract to work as a “flower girl” in America, where she meets Tom, an American Born Chinese cook whose father works on the Transcontinental Railroad. Thwarted by a Hong Kong Triad boss seeking to extend his power into America, theirs is the tale of the first great Chinese immigration to the United States – a story of romance, bigotry, passion, food and a search for everlasting love – set against the largest mass lynching in American history, in Los Angeles’ Chinatown, in 1871.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/i8slDO1TaHFY0tzNHYvIDKw8XjE-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Xi5jrlyA1xQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-jade-pendant/",
+  "Name": "The Jade Pendant"
+}

@@ -1,0 +1,48 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dmnaqPsvJuBSoDtbd8BkDZzPGzi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dmnaqPsvJuBSoDtbd8BkDZzPGzi.jpg",
+      "Name": "The Internship"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pgLlZkGCreJM0H74jVJCDOwimY2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pgLlZkGCreJM0H74jVJCDOwimY2.jpg",
+      "Name": "The Internship"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a2zcTbgltNDBm8tkXAYmGv0uplR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a2zcTbgltNDBm8tkXAYmGv0uplR.jpg",
+      "Name": "The Internship"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aQNeyFgu3StAeMWAXqGMkRQJgay.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aQNeyFgu3StAeMWAXqGMkRQJgay.jpg",
+      "Name": "The Internship"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/x3A6vaau4xhPNaBSz3OYrLgerL6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/x3A6vaau4xhPNaBSz3OYrLgerL6.jpg",
+      "Name": "The Internship"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3X46uhL3fFI5kA40KNWlcnWBybK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3X46uhL3fFI5kA40KNWlcnWBybK.jpg",
+      "Name": "The Internship"
+    }
+  ],
+  "Links": [],
+  "Intro": "Two recently laid-off men in their 40s try to make it as interns at a successful Internet company where their managers are in their 20s.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/xxOKDTQbQo7h1h7TyrQIW7u8KcJ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/cdnoqCViqUo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-internship/",
+  "Name": "The Internship"
+}

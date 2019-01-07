@@ -1,35 +1,98 @@
 {
   "Id": "movRooppy65291",
-  "Url": "https://fsharephim.com/movies/green-lantern-emerald-knights/",
-  "Name": "Chiến Binh Xanh",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2Nfwmw7tmz2LGgh0PtmlllQrbaa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2Nfwmw7tmz2LGgh0PtmlllQrbaa.jpg",
+      "Name": "Chiến Binh Xanh - Green Lantern: Emerald Knights"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zzdFOV4PkmLWq4Unboah5mEhk5r.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zzdFOV4PkmLWq4Unboah5mEhk5r.jpg",
+      "Name": "Chiến Binh Xanh - Green Lantern: Emerald Knights"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qwLBAqItGFYAcEYg8eWjmOvoZVz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qwLBAqItGFYAcEYg8eWjmOvoZVz.jpg",
+      "Name": "Chiến Binh Xanh - Green Lantern: Emerald Knights"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1Vj1hsUnQ0vOmSes3LUhzJDA3ec.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1Vj1hsUnQ0vOmSes3LUhzJDA3ec.jpg",
+      "Name": "Chiến Binh Xanh - Green Lantern: Emerald Knights"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bAVM7eBzuFHioDrKoO6Vm8y9IJ1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bAVM7eBzuFHioDrKoO6Vm8y9IJ1.jpg",
+      "Name": "Chiến Binh Xanh - Green Lantern: Emerald Knights"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dpQ5pGloToLY8h1IxyRKfIZDRNP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dpQ5pGloToLY8h1IxyRKfIZDRNP.jpg",
+      "Name": "Chiến Binh Xanh - Green Lantern: Emerald Knights"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2iRdFYMvdk7btkOPc8AAMUKFApm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2iRdFYMvdk7btkOPc8AAMUKFApm.jpg",
+      "Name": "Chiến Binh Xanh - Green Lantern: Emerald Knights"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movrooppy65291-4/",
-      "Name": "1080p",
-      "Url": "http://4share.vn/f/261311101613121f/Green.Lantern.2011.EXTENDED.1080p.Bluray.x264-MaxHD.mkv.file",
       "Size": "8.74 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://4share.vn/f/261311101613121f/Green.Lantern.2011.EXTENDED.1080p.Bluray.x264-MaxHD.mkv.file",
+      "Name": "1080p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movrooppy65291-3/",
-      "Name": "Green.Lantern.2011.EXTENDED.1080p.Bluray.x264-MaxHD.mkv",
-      "Url": "https://www.fshare.vn/file/OSOP9WIL4LAD",
       "Size": "8.74 GB",
-      "FileSize": 9386375203
+      "FileSize": 9386375203,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/OSOP9WIL4LAD",
+      "Name": "Green.Lantern.2011.EXTENDED.1080p.Bluray.x264-MaxHD.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movrooppy65291/",
-      "Name": "green-lantern-emerald-knights-2011-bluray-phimnhanh.com.mp4",
-      "Url": "https://www.fshare.vn/file/YERD9WHFFK9D",
       "Size": "642.91 MB",
-      "FileSize": 674144642
+      "FileSize": 674144642,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/YERD9WHFFK9D",
+      "Name": "green-lantern-emerald-knights-2011-bluray-phimnhanh.com.mp4"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movrooppy65291-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/green-lantern-emerald-knights",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/green-lantern-emerald-knights",
+      "Name": "Subtitle"
     }
-  ]
+  ],
+  "Intro": "Trong vũ trụ mênh mông mang theo những điều huyền bí to lớn có một lực lượng tuy nhỏ nhưng rất hùng mạnh đã tồn tại qua hàng thế kỉ. Là những người bảo vệ hòa bình và công lý, họ được gọi là quân đoàn Green Lantern. Những chiến binh Green Lantern đã thề rằng phải giữ được trật tự và bình yên trong dải ngân hà này, nên mỗi người đeo một chiếc nhẫn chứa đựng siêu quyền năng. Nhưng khi Parallax, kẻ thù mới của họ, đe dọa sẽ phá hủy sự cân bằng quyền năng trong vũ trụ, định mệnh của họ và số phận của Trái đất nằm trong tay thành viên mới nhất của quân đoàn, con người đầu tiên được lựa chọn: Hal Jordan. Hal, mặc dù là một viên phi công tự phụ nhưng anh thực sự có tài năng, nhưng quân đoàn Green Lantern có rất ít sự tôn trọng đối với loài người, những người chưa bao giờ được chiếc nhẫn quyền năng ban cho sức mạnh vô biên. Nhưng Hal rõ ràng là miếng ghép còn thiếu trong bài toán đánh bại Parallax, và cùng với sự quyết đoán của mình, anh có một thứ mà không ai trong quân đoàn từng có: tình người.Cùng với sự ủng hộ của người bạn phi công và người yêu từ tuổi thơ ấu Carol Ferris (Blake Lively), nếu Hal có thể nhanh chóng làm chủ sức mạnh mới của mình và tìm thấy dũng khí để vượt qua nỗi sợ hãi, anh có thể chứng minh rằng mình không phải là chìa khóa duy nhất để đánh bại Parallax… Hal sẽ trở thành một Green Lantern vĩ đại nhất trong lịch sử.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/ijFQVrfLMMMKQ4pUkNuRcrXKqMT-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/xTvGvI2KPoI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/green-lantern-emerald-knights/",
+  "Name": "Chiến Binh Xanh"
 }

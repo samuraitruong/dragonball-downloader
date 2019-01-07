@@ -1,0 +1,35 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hBVouzBblIw6Z3B7f1g4rfoWfeB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hBVouzBblIw6Z3B7f1g4rfoWfeB.jpg ",
+      "Name": "Truy Tìm Nội Gián - Who Is Undercover"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bộ phim Who Is Undercover (Truy Tìm Nội Gián) được lấy bối cảnh vào những năm 1946, lúc này tình hình đất nước Trung Quốc đang rơi vào cảnh hỗn loạn, sẽ có một cuộc nội chiến đẫm máu diễn ra. Phía quân đội của chính phủ đang đau đầu về việc này họ phải tìm ra được kẻ chủ mưu đứng đằng sau kích động, có vậy mới ngăn chặn được cuộc chiến chết chóc này lại được&#8230;Read more at http://movies.hdviet.com/phim-truy-tim-noi-gian-who-is-undercover.html#IbcV7L8vidHWZKfO.99",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/75HZe1zVEvYp8xDFHvQdtlHIdDQ-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/who-is-undercover/",
+  "Name": "Truy Tìm Nội Gián"
+}

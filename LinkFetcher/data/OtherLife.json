@@ -1,0 +1,41 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fhDzf6AGyytro5cFIxzSacPW6AB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fhDzf6AGyytro5cFIxzSacPW6AB.jpg",
+      "Name": "OtherLife"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/92bTKa4D1uI0unBBZFU00XUnDpE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/92bTKa4D1uI0unBBZFU00XUnDpE.jpg",
+      "Name": "OtherLife"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/arb8T0YFfLT5cUVIJPTMoHbmk12.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/arb8T0YFfLT5cUVIJPTMoHbmk12.jpg",
+      "Name": "OtherLife"
+    }
+  ],
+  "Links": [],
+  "Intro": "Ren Amari is the driven inventor of a revolutionary new drug. OtherLIfe expands the brain&#8217;s sense of time and creates virtual reality directly in the user&#8217;s mind. With OtherLife, mere seconds in real life feel like hours or days of exciting adventures. As Ren and her colleagues race around the clock to launch OtherLife, the government muscles in to use the drugs as a radical solution to prison overcrowding. They will create virtual cells where criminals serve long sentences in just minutes of real time. When Ren resists, she finds herself an unwilling guinea pig trapped in a prison cell in her mind. She must escape before she descends into madness, and then regain control of OtherLife before others suffer the same fate.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/nKj8w4xQJsSZM9hXl13ARbSXsWi-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/KDDNUj3cT8w?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/otherlife/",
+  "Name": "OtherLife"
+}

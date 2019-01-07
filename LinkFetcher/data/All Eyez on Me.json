@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/excIcVa1w6X7q1dZqL0fqHwRft6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/excIcVa1w6X7q1dZqL0fqHwRft6.jpg ",
+      "Name": "All Eyez on Me"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/r6QHz6X0ThY0xxUY7199jVYZMEX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/r6QHz6X0ThY0xxUY7199jVYZMEX.jpg ",
+      "Name": "All Eyez on Me"
+    }
+  ],
+  "Links": [],
+  "Intro": "All Eyez on Me chronicles the life and legacy of Tupac Shakur, including his rise to superstardom as a hip-hop artist, actor, poet and activist, as well as his imprisonment and prolific, controversial time at Death Row Records. Against insurmountable odds, Tupac rose to become a cultural icon whose career and persona both continue to grow long after his passing.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/04/mIcJlwoEkG0MWc8ZL44POJFG2NF-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/pfhJE1ORqas?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/all-eyez-on-me/",
+  "Name": "All Eyez on Me"
+}

@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ojOSug06e5RNjlB5rFlNZiTzCbt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ojOSug06e5RNjlB5rFlNZiTzCbt.jpg ",
+      "Name": "Angelique and the King"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kLPK6Y52i2QzywP7N1ncG6AT5hR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kLPK6Y52i2QzywP7N1ncG6AT5hR.jpg ",
+      "Name": "Angelique and the King"
+    }
+  ],
+  "Links": [],
+  "Intro": "Soon after her latest husband death, the King himself (Louis XIV) meets with our heroine and begs her to help convince the Persian Ambassador to agree to a treaty. However, what they didn&#8217;t realize was that the handsome Persian was in fact a sexual sadist. So, it is up to the King&#8217;s half- brother, some Hungarian prince, to save Angélique from the evil troll&#8217;s clutches.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/7yBW0dDh5kYdMnBGPJQhhicbr1L-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/angelique-and-the-king/",
+  "Name": "Angelique and the King"
+}

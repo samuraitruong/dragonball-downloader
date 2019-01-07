@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fii9tPZTpy75qOCJBulWOb0ifGp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fii9tPZTpy75qOCJBulWOb0ifGp.jpg ",
+      "Name": "The Imitation Game"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hctIo3ugW79kzV6F9d6A1sMIAyP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hctIo3ugW79kzV6F9d6A1sMIAyP.jpg ",
+      "Name": "The Imitation Game"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qcb6z1HpokTOKdjqDTsnjJk0Xvg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qcb6z1HpokTOKdjqDTsnjJk0Xvg.jpg ",
+      "Name": "The Imitation Game"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eJhTbsdzXQZwAlDsUdjMRzyeiUf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eJhTbsdzXQZwAlDsUdjMRzyeiUf.jpg ",
+      "Name": "The Imitation Game"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kqHn1CH9r3ptNjhxiAzBbZgj0YL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kqHn1CH9r3ptNjhxiAzBbZgj0YL.jpg ",
+      "Name": "The Imitation Game"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7drwcIuvRA1XdunlzdY7yLVJs45.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7drwcIuvRA1XdunlzdY7yLVJs45.jpg ",
+      "Name": "The Imitation Game"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jOvrCMiS84cT0wQBtzzNsnQY3Ew.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jOvrCMiS84cT0wQBtzzNsnQY3Ew.jpg ",
+      "Name": "The Imitation Game"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/svijrFiiVLneUyoiwVA5kZVrA1I.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/svijrFiiVLneUyoiwVA5kZVrA1I.jpg ",
+      "Name": "The Imitation Game"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g4cn9jjc7crMizu0MExGs7Qs9OQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g4cn9jjc7crMizu0MExGs7Qs9OQ.jpg ",
+      "Name": "The Imitation Game"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4VjFVJrMOafkcAxQKR59us28MhJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4VjFVJrMOafkcAxQKR59us28MhJ.jpg ",
+      "Name": "The Imitation Game"
+    }
+  ],
+  "Links": [],
+  "Intro": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain&#8217;s top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/02/noUp0XOqIcmgefRnRZa1nhtRvWO-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/j2jRs4EAvWM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-imitation-game/",
+  "Name": "The Imitation Game"
+}

@@ -1,0 +1,31 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1PWy9urPYttuSGPk3hjNRNT33wS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1PWy9urPYttuSGPk3hjNRNT33wS.jpg",
+      "Name": "Hisss"
+    }
+  ],
+  "Links": [],
+  "Intro": "Based on the Far Eastern myth of the snake woman who is able to take on human form.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/4HDYyLtirfCTKMypZEU3eD1AHf6-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/hisss/",
+  "Name": "Hisss"
+}

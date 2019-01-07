@@ -1,14 +1,81 @@
 {
   "Id": "mov4oJgOo146381",
-  "Url": "https://fsharephim.com/movies/justin-and-the-knights-of-valour/",
-  "Name": "Justin &amp; Hiệp Sĩ Quả Cảm",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hjd7Wzb4q5coizMC2QbCBYrIz5V.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hjd7Wzb4q5coizMC2QbCBYrIz5V.jpg",
+      "Name": "Justin &amp; Hiệp Sĩ Quả Cảm - Justin and the Knights of Valour"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xxpw0N7TGr6htyzPZ9sSkan77Co.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xxpw0N7TGr6htyzPZ9sSkan77Co.jpg",
+      "Name": "Justin &amp; Hiệp Sĩ Quả Cảm - Justin and the Knights of Valour"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o9rJmoL8VTXkVpEUzW2xNlthdpa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o9rJmoL8VTXkVpEUzW2xNlthdpa.jpg",
+      "Name": "Justin &amp; Hiệp Sĩ Quả Cảm - Justin and the Knights of Valour"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ph7FLOQP8I72lDaS5NEKgr7cJn0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ph7FLOQP8I72lDaS5NEKgr7cJn0.jpg",
+      "Name": "Justin &amp; Hiệp Sĩ Quả Cảm - Justin and the Knights of Valour"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fwDA0gkdR1s1BaoNoNVgNmg1xsc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fwDA0gkdR1s1BaoNoNVgNmg1xsc.jpg",
+      "Name": "Justin &amp; Hiệp Sĩ Quả Cảm - Justin and the Knights of Valour"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f6ZUi4QAI0izVWtdAg55qYPWE8d.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f6ZUi4QAI0izVWtdAg55qYPWE8d.jpg",
+      "Name": "Justin &amp; Hiệp Sĩ Quả Cảm - Justin and the Knights of Valour"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zPsFOxV4Kvwj74vvHatCOz7ePyt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zPsFOxV4Kvwj74vvHatCOz7ePyt.jpg",
+      "Name": "Justin &amp; Hiệp Sĩ Quả Cảm - Justin and the Knights of Valour"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iaqsVBKhn9OUW6Wr4VCV5xOQtAo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iaqsVBKhn9OUW6Wr4VCV5xOQtAo.jpg",
+      "Name": "Justin &amp; Hiệp Sĩ Quả Cảm - Justin and the Knights of Valour"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tQLuBJOSZroLYljdRubQ39Sr4LI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tQLuBJOSZroLYljdRubQ39Sr4LI.jpg",
+      "Name": "Justin &amp; Hiệp Sĩ Quả Cảm - Justin and the Knights of Valour"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a37Rd0E8JsNhoIeEgkVlZsK5mPv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a37Rd0E8JsNhoIeEgkVlZsK5mPv.jpg",
+      "Name": "Justin &amp; Hiệp Sĩ Quả Cảm - Justin and the Knights of Valour"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/mov4ojgoo146381/",
-      "Name": "Justin.and.the.Knights.of.Valour.2013.mkv",
-      "Url": "https://www.fshare.vn/file/TNWZ0ZW83T",
       "Size": "1.63 GB",
-      "FileSize": 1750622644
+      "FileSize": 1750622644,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/TNWZ0ZW83T",
+      "Name": "Justin.and.the.Knights.of.Valour.2013.mkv"
     }
-  ]
+  ],
+  "Intro": "Nội dung phim xoay quanh chàng trai trẻ Justin mơ được làm hiệp sĩ từ nhỏ. Khi lớn lên, cha cậu lại muốn con trai theo học ngành luật. Thần tượng của Justin là ông nội Reginald &#8211; vị hiệp sĩ huyền thoại từng bảo vệ cho Nữ hoàng. Sau lần đến thăm bà nội, Justin quyết tâm bỏ lại vương quốc để lên đường tìm kiếm thanh gươm Reginald &#8211; đang ở trong tay kẻ phản bội vương quốc là Heraclio. Hắn âm mưu trở về để báo thù Nữ hoàng…",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/jCRKQ6afS5LwSLeIrKZ78KVgv1C-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/c9R9x9RfyGE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/justin-and-the-knights-of-valour/",
+  "Name": "Justin &amp; Hiệp Sĩ Quả Cảm"
 }

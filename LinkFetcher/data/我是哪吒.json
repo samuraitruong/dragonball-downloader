@@ -1,14 +1,31 @@
 {
-  "Id": "movJ0zh19474139",
-  "Url": "https://fsharephim.com/movies/%e6%88%91%e6%98%af%e5%93%aa%e5%90%92/",
-  "Name": "我是哪吒",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movj0zh19474139/",
-      "Name": "I.Am.Ne.Zha.2016.ViE.WEB-DL.1080P.H264.AAC-JBY.mkv",
-      "Url": "https://www.fshare.vn/file/VKWL12YFUT8G9OD",
-      "Size": "3.6 GB",
-      "FileSize": 3896159759
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gS4RrHZpz6yksjubDJLGYIVHapC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gS4RrHZpz6yksjubDJLGYIVHapC.jpg",
+      "Name": "我是哪吒"
+    }
+  ],
+  "Links": [],
+  "Intro": null,
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/7IgcvHuh3BDGpx8s8wd2QEidA7r-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/%e6%88%91%e6%98%af%e5%93%aa%e5%90%92/",
+  "Name": "我是哪吒"
 }

@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oedhSGFxQsGRGAPrVB6hRPqPItA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oedhSGFxQsGRGAPrVB6hRPqPItA.jpg ",
+      "Name": "Our Time Will Come"
+    }
+  ],
+  "Links": [],
+  "Intro": "In the 1940s, school teacher Fang Lan becomes embroiled with the resistance efforts of local guerilla group Dongjiang during the Japanese occupation of Hong Kong. Fang is recruited by one of the resistance group&#8217;s captain Blackie Lau after assisting the group with a rescue mission of novelist Mao Dun. Fang&#8217;s mother volunteers to take her place as a courier for a mission and is arrested. To save her mother, Fang finds herself turning to a childhood sweetheart, who now works at the Japanese occupation headquarters.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/wMUvD9SFaXkbmvIYyMpbaUsem8F-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/5BNECsr3ADk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/our-time-will-come/",
+  "Name": "Our Time Will Come"
+}

@@ -1,0 +1,43 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yGdO0KleREN50MRxjPDnHcbvAVL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yGdO0KleREN50MRxjPDnHcbvAVL.jpg",
+      "Name": "The Hours"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/x4TJtoR6OnpTpbu0gbDvi9IxERw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/x4TJtoR6OnpTpbu0gbDvi9IxERw.jpg",
+      "Name": "The Hours"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6I96uuRvViUn94bgT7MZQ26hbXm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6I96uuRvViUn94bgT7MZQ26hbXm.jpg",
+      "Name": "The Hours"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4wvzq7Z0K4Mio3F1YwkZKAg9L2S.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4wvzq7Z0K4Mio3F1YwkZKAg9L2S.jpg",
+      "Name": "The Hours"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ApsB4lgVmAWF3R9dqSReRCcODHl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ApsB4lgVmAWF3R9dqSReRCcODHl.jpg",
+      "Name": "The Hours"
+    }
+  ],
+  "Links": [],
+  "Intro": "&#8220;The Hours&#8221; is the story of three women searching for more potent, meaningful lives. Each is alive at a different time and place, all are linked by their yearnings and their fears. Their stories intertwine, and finally come together in a surprising, transcendent moment of shared recognition.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/vRTqBRCLGiZNITXfdhGZd3tZ7Qh-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/TZJCVilXbjQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-hours/",
+  "Name": "The Hours"
+}

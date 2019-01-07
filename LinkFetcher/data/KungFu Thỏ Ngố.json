@@ -1,14 +1,44 @@
 {
-  "Id": "movvjSR7a173931",
-  "Url": "https://fsharephim.com/movies/legend-of-a-rabbit/",
-  "Name": "KungFu Thỏ Ngố",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movvjsr7a173931/",
-      "Name": "Legend.of.a.Rabbit.2011.mkv",
-      "Url": "https://www.fshare.vn/file/T2VC86FN7T",
-      "Size": "1.74 GB",
-      "FileSize": 1862960042
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ryiMnWdTVstJYQfa8ann46ru8q9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ryiMnWdTVstJYQfa8ann46ru8q9.jpg ",
+      "Name": "KungFu Thỏ Ngố - Legend of a Rabbit"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rIdvIMK315l6GBXYOJd655fKJ3y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rIdvIMK315l6GBXYOJd655fKJ3y.jpg ",
+      "Name": "KungFu Thỏ Ngố - Legend of a Rabbit"
+    }
+  ],
+  "Links": [],
+  "Intro": "Legend Of A Rabbit là câu chuyện về chú thỏ đầu bếp hiền lành Thố Nhị, sống tại một vùng quê thanh bình. Minh chủ võ lâm Lão Quán Chủ bị đồ đệ là gấu trúc Hùng Thiên Bá hãm hại, buộc phải chạy về làng của Thố Nhị. Lão Quán Chủ truyền thụ võ công cho Thố Nhị. Trước khi chết, ông giao kim bài cho Thố Nhị, dặn cậu đưa tận tay cho con gái mình là Mẫu Đơn, tuyệt đối không để lọt kim bài vào tay kẻ xấu.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/6QeaMx9jvHp1mTjFvv1Nve6EsNg-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/legend-of-a-rabbit/",
+  "Name": "KungFu Thỏ Ngố"
 }

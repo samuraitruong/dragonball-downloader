@@ -1,0 +1,51 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tHTmBF6nhRYmfBR3yRrmrCLy3Oi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tHTmBF6nhRYmfBR3yRrmrCLy3Oi.jpg",
+      "Name": "Câm Lặng - Mute"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/teunpFRDU3dBiWhGneegrjQ7uSq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/teunpFRDU3dBiWhGneegrjQ7uSq.jpg",
+      "Name": "Câm Lặng - Mute"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qLzK6s2ya3lse7h4LWzlxc6oTn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qLzK6s2ya3lse7h4LWzlxc6oTn.jpg",
+      "Name": "Câm Lặng - Mute"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b8CGTbjsVFEK1NiIYQcJiS3CzvP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b8CGTbjsVFEK1NiIYQcJiS3CzvP.jpg",
+      "Name": "Câm Lặng - Mute"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mcM3WL3aBFybFtFb61yyEpckPHN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mcM3WL3aBFybFtFb61yyEpckPHN.jpg",
+      "Name": "Câm Lặng - Mute"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim Mute (Câm Lặng): Một người phục vụ đứng lên chống lại băng đảng của thành phố nơi mình sống trong một nỗ lực để tìm hiểu chuyện gì đã xảy ra cho người bạn đời của mình bị mất tích.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/ihGg1xndLl3MW34Km332pNkyLH7-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ma8te7ywEio?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/mute/",
+  "Name": "Câm Lặng"
+}

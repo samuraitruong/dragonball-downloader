@@ -1,21 +1,93 @@
 {
   "Id": "movYa9yKN7443",
-  "Url": "https://fsharephim.com/movies/chicken-run/",
-  "Name": "Chicken Run",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yNF5xB9JY7UE5t4DuYntqdNqezc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yNF5xB9JY7UE5t4DuYntqdNqezc.jpg",
+      "Name": "Chicken Run"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oQ3xpOJhawe73ro7q6yKYDicZUM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oQ3xpOJhawe73ro7q6yKYDicZUM.jpg",
+      "Name": "Chicken Run"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b0Zlbk19oTLjKPvb807suPFKBtN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b0Zlbk19oTLjKPvb807suPFKBtN.jpg",
+      "Name": "Chicken Run"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/d5UXF1zNNXJHgQOsoEafPsNm9rh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/d5UXF1zNNXJHgQOsoEafPsNm9rh.jpg",
+      "Name": "Chicken Run"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5UgqRXoMsValLF14LYdd8CN0K1a.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5UgqRXoMsValLF14LYdd8CN0K1a.jpg",
+      "Name": "Chicken Run"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3OFhfm7Cmi82vf9MkfeVizBoWxE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3OFhfm7Cmi82vf9MkfeVizBoWxE.jpg",
+      "Name": "Chicken Run"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2Ywl0omQz7h6xfzzjO745fNvYCa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2Ywl0omQz7h6xfzzjO745fNvYCa.jpg",
+      "Name": "Chicken Run"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7HCc7kSJpezMDhsgAAe1OWRQkMy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7HCc7kSJpezMDhsgAAe1OWRQkMy.jpg",
+      "Name": "Chicken Run"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wO8cT8aGZ3g6f7TOIoaaNKWbluc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wO8cT8aGZ3g6f7TOIoaaNKWbluc.jpg",
+      "Name": "Chicken Run"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nE0GzTfbvTlRjCRrSVoS7rLcamO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nE0GzTfbvTlRjCRrSVoS7rLcamO.jpg",
+      "Name": "Chicken Run"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movya9ykn7443-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/chicken-run/vietnamese/1671799",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/chicken-run/vietnamese/1671799",
+      "Name": "Viet - Subtitle"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movya9ykn7443/",
-      "Name": "2000.Chicken.Run.Bluray.1080p.AVC.DTS-HD.MA.6.1.mkv",
-      "Url": "https://www.fshare.vn/file/JCW72DFPZMWC",
       "Size": "12.52 GB",
-      "FileSize": 13441425458
+      "FileSize": 13441425458,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/JCW72DFPZMWC",
+      "Name": "2000.Chicken.Run.Bluray.1080p.AVC.DTS-HD.MA.6.1.mkv"
     }
-  ]
+  ],
+  "Intro": "Having been hopelessly repressed and facing eventual certain death at the British chicken farm where they are held, Rocky the american rooster and Ginger the chicken decide to rebel against the evil Mr. and Mrs. Tweedy, the farm&#8217;s owners. Rocky and Ginger lead their fellow chickens in a great escape from the murderous farmers and their farm of doom.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/z0MafJgUnVyVbczicYMkPKKHkBi-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/jevaUcKLoMY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/chicken-run/",
+  "Name": "Chicken Run"
 }

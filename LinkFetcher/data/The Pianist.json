@@ -1,0 +1,67 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xUR95VFV1UTyzS1C8Lj06hi2n2M.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xUR95VFV1UTyzS1C8Lj06hi2n2M.jpg",
+      "Name": "The Pianist"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qaMxTNPjpzKfSHKMDXMRL9pLTBU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qaMxTNPjpzKfSHKMDXMRL9pLTBU.jpg",
+      "Name": "The Pianist"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cf69XoVBQFbC0h5X1JbuGIKvvfZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cf69XoVBQFbC0h5X1JbuGIKvvfZ.jpg",
+      "Name": "The Pianist"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tMdT6evjfqRSS99IKKLvVBPxpwM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tMdT6evjfqRSS99IKKLvVBPxpwM.jpg",
+      "Name": "The Pianist"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kaKE1fd8XzjXWYmywxkee8Hjlk9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kaKE1fd8XzjXWYmywxkee8Hjlk9.jpg",
+      "Name": "The Pianist"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iqD82ARGVdb8O8GxE9Vo1ZWe3VE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iqD82ARGVdb8O8GxE9Vo1ZWe3VE.jpg",
+      "Name": "The Pianist"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z0u6YR9RDzrWw3dWCV1eoxCYRC5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z0u6YR9RDzrWw3dWCV1eoxCYRC5.jpg",
+      "Name": "The Pianist"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kwsJVYfro0lGsgBqFyaXduG5b7Z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kwsJVYfro0lGsgBqFyaXduG5b7Z.jpg",
+      "Name": "The Pianist"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/A7r8GRpvOojI2Vl5EEJfAIfzCg9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/A7r8GRpvOojI2Vl5EEJfAIfzCg9.jpg",
+      "Name": "The Pianist"
+    }
+  ],
+  "Links": [],
+  "Intro": "The Pianist is a film adapted from the biography of Wladyslaw Szpilman. A Jewish-Polish pianist who during the second world war lived and hid miraculously in Warsaw after having gone through a terrible tragedy. A film from Roman Polanski.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/iunmxWkOi7Vk17Ob3G2HwwjgHsr-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/u_jE7-6Uv7E?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-pianist/",
+  "Name": "The Pianist"
+}

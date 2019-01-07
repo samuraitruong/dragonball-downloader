@@ -1,0 +1,49 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u7OoqcZzOIL6VXD9JZ5EOSTLt6p.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u7OoqcZzOIL6VXD9JZ5EOSTLt6p.jpg ",
+      "Name": "Vô Gian Đạo - Infernal Affairs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3jsZ8XapzDAzPfQ47ewhK2trxZw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3jsZ8XapzDAzPfQ47ewhK2trxZw.jpg ",
+      "Name": "Vô Gian Đạo - Infernal Affairs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xBSkHIQ5o7mtb2AJQKCZdkiCtOZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xBSkHIQ5o7mtb2AJQKCZdkiCtOZ.jpg ",
+      "Name": "Vô Gian Đạo - Infernal Affairs"
+    }
+  ],
+  "Links": [],
+  "Intro": "Trong phim Vô Gian Đạo, Lưu Kiến Minh (Lưu Đức Hoa) là trợ thủ đắc lực cho Sam, một ông trùm của thế giới ngầm. Không kề vai sát cánh bên sếp, Lưu Kiến Minh hoạt động bí mật bằng cách trà trộn vào Cục Điều tra hình sự Hong Kong. 10 năm làm gián điệp trong nội bộ cảnh sát là 10 năm Lưu Kiến Minh lăn lộn như một cảnh sát thực thụ, nắm rõ nội tình, cung cấp thông tin giúp Sam không ít lần tránh được sự truy đuổi của cảnh sát.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/g4LGFGLGjVXkWGYCePbTidw5LKV-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/S4R3nHkqyfM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/infernal-affairs/",
+  "Name": "Vô Gian Đạo"
+}

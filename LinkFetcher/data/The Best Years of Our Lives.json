@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jAlbvHBifse1VTi8gGL4wlVhbvk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jAlbvHBifse1VTi8gGL4wlVhbvk.jpg",
+      "Name": "The Best Years of Our Lives"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kLTBdVlZuszlIqir4W4jOWNtbbQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kLTBdVlZuszlIqir4W4jOWNtbbQ.jpg",
+      "Name": "The Best Years of Our Lives"
+    }
+  ],
+  "Links": [],
+  "Intro": "It&#8217;s the hope that sustains the spirit of every GI: the dream of the day when he will finally return home. For three WWII veterans, the day has arrived. But for each man, the dream is about to become a nightmare. Captain Fred Derry is returning to a loveless marriage; Sergeant Al Stephenson is a stranger to a family that&#8217;s grown up without him; and young sailor Homer Parrish is tormented by the loss of his hands. Can these three men find the courage to rebuild their world? Or are the best years of their lives a thing of the past?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/ba6GlZzRlh7OHUitFnzUF1U7gpu-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/1yc5PugV4mk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-best-years-of-our-lives/",
+  "Name": "The Best Years of Our Lives"
+}

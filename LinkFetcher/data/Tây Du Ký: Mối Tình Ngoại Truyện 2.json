@@ -1,0 +1,31 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sA5MaFNYn15cGS5A4g59eRcmdCG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sA5MaFNYn15cGS5A4g59eRcmdCG.jpg",
+      "Name": "Tây Du Ký: Mối Tình Ngoại Truyện 2 - Journey to the West: The Demons Strike Back"
+    }
+  ],
+  "Links": [],
+  "Intro": "Là phần tiếp theo của bom tấn từng làm mưa làm gió phòng vé 2013, câu chuyện bắt đầu sau khi Đường Tăng (Ngô Diệc Phàm) thu phục được Tôn Ngộ Không (Lâm Canh Tân). Cùng 2 đồ đệ khác là Trư Bát Giới (Dương Nhất Huy) và Sa Tăng (Mengke Bateer), nhóm thầy trò lên đường sang Tây Thiên thỉnh kinh.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/02/zVXWGzoo0eb8jSSLsIGdr5oHSFX-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/dlL6Gov4l1s?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/journey-to-the-west-the-demons-strike-back/",
+  "Name": "Tây Du Ký: Mối Tình Ngoại Truyện 2"
+}

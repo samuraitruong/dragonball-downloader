@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lkOZcsXcOLZYeJ2YxJd3vSldvU4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lkOZcsXcOLZYeJ2YxJd3vSldvU4.jpg",
+      "Name": "Giải Mã Mê Cung - The Maze Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tHZEKGITcgEQrNWGeqJlzpDdzLf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tHZEKGITcgEQrNWGeqJlzpDdzLf.jpg",
+      "Name": "Giải Mã Mê Cung - The Maze Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/swWsSX2OnEDV55CfmrL9qsf8T2J.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/swWsSX2OnEDV55CfmrL9qsf8T2J.jpg",
+      "Name": "Giải Mã Mê Cung - The Maze Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/e23x3Co5QoCJ5pjEXnxNS5yZpqH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/e23x3Co5QoCJ5pjEXnxNS5yZpqH.jpg",
+      "Name": "Giải Mã Mê Cung - The Maze Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wBZ9jtFrsxth4VQA724TeBb5T2L.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wBZ9jtFrsxth4VQA724TeBb5T2L.jpg",
+      "Name": "Giải Mã Mê Cung - The Maze Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/i7NPPKL5QbddAEFC8vofvCuzn0z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/i7NPPKL5QbddAEFC8vofvCuzn0z.jpg",
+      "Name": "Giải Mã Mê Cung - The Maze Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fCUeZtpvMb8jxfLRVtjttRIUJEb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fCUeZtpvMb8jxfLRVtjttRIUJEb.jpg",
+      "Name": "Giải Mã Mê Cung - The Maze Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b0NhyEZaeL48DEGyTiP0hfdKRRv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b0NhyEZaeL48DEGyTiP0hfdKRRv.jpg",
+      "Name": "Giải Mã Mê Cung - The Maze Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jFRriOHjetGvzJfOMm13kQxNkuL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jFRriOHjetGvzJfOMm13kQxNkuL.jpg",
+      "Name": "Giải Mã Mê Cung - The Maze Runner"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qU1sv4gjRf9GxKKMGjoGTf41juK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qU1sv4gjRf9GxKKMGjoGTf41juK.jpg",
+      "Name": "Giải Mã Mê Cung - The Maze Runner"
+    }
+  ],
+  "Links": [],
+  "Intro": "The Maze Runner là bộ phim được chuyển thể từ bộ truyện cùng tên có nội dung giả tưởng về nhóm bạn trẻ bị giam giữ trong &#8216;Trảng&#8217; với một trí nhớ không rõ ràng, và cuộc vật lộn tìm lối thoát. Làm thế nào họ sống sót được giữa một mê cung khổng lồ đầy những sinh vật nguy hiểm và thay đổi lời giải hằng đêm? Ai sẽ là người sống sót cuối cùng sau những bí mật chết người kia?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/coss7RgL0NH6g4fC2s5atvf3dFO-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/64-iSYVmMVY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-maze-runner/",
+  "Name": "Giải Mã Mê Cung"
+}

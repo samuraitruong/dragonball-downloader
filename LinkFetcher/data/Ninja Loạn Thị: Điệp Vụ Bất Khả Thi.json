@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iNZiBKlDkv4E37tI7yQn4sTnK5B.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iNZiBKlDkv4E37tI7yQn4sTnK5B.jpg",
+      "Name": "Ninja Loạn Thị: Điệp Vụ Bất Khả Thi - Ninja Kids!!! Summer Mission Impossible"
+    }
+  ],
+  "Links": [],
+  "Intro": "Sau một quãng thời gian dài, Live action &#8220;Cậu bé Ninja loạn thị&#8221; đã trở lại với ngôi trường đào tạo ninja, và những cậu bé ninja tinh nghịch và những ông thầy dở hơi đủ đường. Phần mới &#8211; Nhiệm vụ mới của các nhóc sẽ ra sao?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/nx1l0bkTAhp3XDKb7I2FDtuvZm7-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ninja-kids-summer-mission-impossible/",
+  "Name": "Ninja Loạn Thị: Điệp Vụ Bất Khả Thi"
+}

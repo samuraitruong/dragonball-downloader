@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mSE7vKEiWY1NFbvrJIwrcHOtiSH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mSE7vKEiWY1NFbvrJIwrcHOtiSH.jpg",
+      "Name": "Basic Instinct 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vBK9BcD8BAajyUD2YfGF60ihIxP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vBK9BcD8BAajyUD2YfGF60ihIxP.jpg",
+      "Name": "Basic Instinct 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tNROWW8dPavUww9FQZ4nS45KQcl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tNROWW8dPavUww9FQZ4nS45KQcl.jpg",
+      "Name": "Basic Instinct 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f8atmXZKHNAaGywHNrXupmABQb6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f8atmXZKHNAaGywHNrXupmABQb6.jpg",
+      "Name": "Basic Instinct 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lfdWJlKHR3kx8EwRYBUdFQr7NcZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lfdWJlKHR3kx8EwRYBUdFQr7NcZ.jpg",
+      "Name": "Basic Instinct 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9MqQIajuoLikCZ1JPmegoi8yXRO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9MqQIajuoLikCZ1JPmegoi8yXRO.jpg",
+      "Name": "Basic Instinct 2"
+    }
+  ],
+  "Links": [],
+  "Intro": "Novelist Catherine Tramell is once again in trouble with the law, and Scotland Yard appoints psychiatrist Dr. Michael Glass to evaluate her. Though, like Detective Nick Curran before him, Glass is entranced by Tramell and lured into a seductive game.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/gXzrKzHnMmfWCF5PMYQfNOzCxYl-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/W7eAJ3f7C5c?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/basic-instinct-2/",
+  "Name": "Basic Instinct 2"
+}

@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g8Zl2fGVvF6O8UGUAd85Eoh3EFY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g8Zl2fGVvF6O8UGUAd85Eoh3EFY.jpg ",
+      "Name": "All About Anna"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9dN8qogMFmBsJfpWoniknprTPHH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9dN8qogMFmBsJfpWoniknprTPHH.jpg ",
+      "Name": "All About Anna"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iNAxEbdotKgM6Wo69OXqm0LiPO6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iNAxEbdotKgM6Wo69OXqm0LiPO6.jpg ",
+      "Name": "All About Anna"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iI7CJnFNG0N94ofSeg7gNhYfqNQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iI7CJnFNG0N94ofSeg7gNhYfqNQ.jpg ",
+      "Name": "All About Anna"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vZPgZbjPKTQEYJ8YSu3ICaNKeI0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vZPgZbjPKTQEYJ8YSu3ICaNKeI0.jpg ",
+      "Name": "All About Anna"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aLowP50iDEGPdC0MCruoYKPI0oz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aLowP50iDEGPdC0MCruoYKPI0oz.jpg ",
+      "Name": "All About Anna"
+    }
+  ],
+  "Links": [],
+  "Intro": "Anna is a young costume designer, focused on her job and wary of getting caught in romantic relationships. She has just found a new apartment, and is tempted to let her latest boyfriend, Frank, move in with her. Instead, she finds a tenant: The flamboyant, fun-loving Camilla, who shares Anna’s views on love and commitment. For both of them, it’s all about fun.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/xiQKxPbn3LyVqI3cBtdyp4XIdLx-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/nRFdmYH2RYA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/all-about-anna/",
+  "Name": "All About Anna"
+}

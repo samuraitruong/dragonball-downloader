@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qhNc8goJdGVRsrS9VoexTNi3Zxd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qhNc8goJdGVRsrS9VoexTNi3Zxd.jpg",
+      "Name": "God&#8217;s Own Country"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/R2cpJHKCY0kQaaBV29tM8QVJ8B.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/R2cpJHKCY0kQaaBV29tM8QVJ8B.jpg",
+      "Name": "God&#8217;s Own Country"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qfMvtfqx7orooDlbmQnHJXyhw90.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qfMvtfqx7orooDlbmQnHJXyhw90.jpg",
+      "Name": "God&#8217;s Own Country"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wELxJUCs65gDL2e2KgYoQ9vZYBG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wELxJUCs65gDL2e2KgYoQ9vZYBG.jpg",
+      "Name": "God&#8217;s Own Country"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8mE5bTEnnRnvUFppDlYDg26mq5D.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8mE5bTEnnRnvUFppDlYDg26mq5D.jpg",
+      "Name": "God&#8217;s Own Country"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/moJSQCGLWpYGzu3VIFEROZbrZdV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/moJSQCGLWpYGzu3VIFEROZbrZdV.jpg",
+      "Name": "God&#8217;s Own Country"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/do8rv9yOKLznTOWmuGkLO77IuK3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/do8rv9yOKLznTOWmuGkLO77IuK3.jpg",
+      "Name": "God&#8217;s Own Country"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pQqB5f1XP09sazVBUOYwSUZ2Ik6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pQqB5f1XP09sazVBUOYwSUZ2Ik6.jpg",
+      "Name": "God&#8217;s Own Country"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8kjMCMlgddppm9ltmeJ20NgUxHj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8kjMCMlgddppm9ltmeJ20NgUxHj.jpg",
+      "Name": "God&#8217;s Own Country"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kheOxifdfAgPvMbjsTYHnjvLU5k.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kheOxifdfAgPvMbjsTYHnjvLU5k.jpg",
+      "Name": "God&#8217;s Own Country"
+    }
+  ],
+  "Links": [],
+  "Intro": "A young farmer numbs his daily frustrations with binge drinking and casual sex, until the arrival of a Romanian migrant worker for lambing season ignites an intense relationship that sets him on a new path.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/uKShYyGsleXAZ6e6gK5jF6Wa2tW-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ki3B3C2tGBQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/gods-own-country/",
+  "Name": "God's Own Country"
+}

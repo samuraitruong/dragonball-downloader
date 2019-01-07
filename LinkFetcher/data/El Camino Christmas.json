@@ -1,0 +1,45 @@
+{
+  "Id": "movLRlZqz485504",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5ArwyGv2FnR2nYSnEnN2jWsYe1b.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5ArwyGv2FnR2nYSnEnN2jWsYe1b.jpg",
+      "Name": "El Camino Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9DbG4Xr6H0gxyHpnBg7haeL5xVH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9DbG4Xr6H0gxyHpnBg7haeL5xVH.jpg",
+      "Name": "El Camino Christmas"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movlrlzqz485504/",
+      "Size": "4.4 GB",
+      "FileSize": 4682293676,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/1A11RGR9LZV5",
+      "Name": "El.Camino.Christmas.2017.1080p.NF.WEBRip.DD5.1.x264-SB.mkv"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movlrlzqz485504-2/",
+      "Size": "4.4 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://uploadgig.com/file/download/B9631af3b969991a/El.Camino.Christmas.2017.1080p.NF.WEBRip.DD5.1.x264-SB.mkv",
+      "Name": "WebRip - 1080p"
+    }
+  ],
+  "Intro": "A young man seeking a father he has never met, through no fault of his own, ends up barricaded in a liquor store with five other people on Christmas Eve in the fictitious town of El Camino, NV.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/z8c7qPGBO9aPozKu54lubDDVBJf-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/8h5tAhXwma8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/el-camino-christmas/",
+  "Name": "El Camino Christmas"
+}

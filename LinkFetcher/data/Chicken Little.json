@@ -1,14 +1,76 @@
 {
-  "Id": "movGh4FAR9982",
-  "Url": "https://fsharephim.com/movies/chicken-little/",
-  "Name": "Chicken Little",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movgh4far9982/",
-      "Name": "Chicken.Little.2005.mHD.x264-Thuyet Minh.mkv",
-      "Url": "https://www.fshare.vn/file/TQ0646C98T",
-      "Size": "1.44 GB",
-      "FileSize": 1548085372
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tsuO7UaOZGY1Lm6LeQgpSuJq0Y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tsuO7UaOZGY1Lm6LeQgpSuJq0Y.jpg",
+      "Name": "Chicken Little"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vpoXlSpWRLgnPKmTw8GDOPlT8eu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vpoXlSpWRLgnPKmTw8GDOPlT8eu.jpg",
+      "Name": "Chicken Little"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cAVfRc269eWJA7BCNGfGeJ8R1ou.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cAVfRc269eWJA7BCNGfGeJ8R1ou.jpg",
+      "Name": "Chicken Little"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4OY6npJpzho1KhcJk5ftaIeDYHo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4OY6npJpzho1KhcJk5ftaIeDYHo.jpg",
+      "Name": "Chicken Little"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9YqNb9V9lded8ZDjMz8nkQLpq15.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9YqNb9V9lded8ZDjMz8nkQLpq15.jpg",
+      "Name": "Chicken Little"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qzc3kPB22w37er4kKf7AigwCLGG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qzc3kPB22w37er4kKf7AigwCLGG.jpg",
+      "Name": "Chicken Little"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bx7YLe1vRzV7r0j8WKNIxHobBDz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bx7YLe1vRzV7r0j8WKNIxHobBDz.jpg",
+      "Name": "Chicken Little"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/swYBhDUu8kAgBY0yBphE1THP8X.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/swYBhDUu8kAgBY0yBphE1THP8X.jpg",
+      "Name": "Chicken Little"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xvvoOB7OQwtkxlrBT7e7POy5wHS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xvvoOB7OQwtkxlrBT7e7POy5wHS.jpg",
+      "Name": "Chicken Little"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/chtIW5VE9iu3jCS9WapC0DtxhOl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/chtIW5VE9iu3jCS9WapC0DtxhOl.jpg",
+      "Name": "Chicken Little"
+    }
+  ],
+  "Links": [],
+  "Intro": "When the sky really is falling and sanity has flown the coop, who will rise to save the day? Together with his hysterical band of misfit friends, Chicken Little must hatch a plan to save the planet from alien invasion and prove that the world&#8217;s biggest hero is a little chicken.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/iLMALbInUmbNn1tHmxJEWm5MyjP-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/PPuk2JQgMkU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/chicken-little/",
+  "Name": "Chicken Little"
 }

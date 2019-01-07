@@ -1,0 +1,565 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ghAQMeH89RjLicCOa8zZ7Vu2P8c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ghAQMeH89RjLicCOa8zZ7Vu2P8c.jpg",
+      "Name": "Hyde, Jekyll, Me"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x16/",
+      "Name": "Episode 16"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x17/",
+      "Name": "Episode 17"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x18/",
+      "Name": "Episode 18"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x19/",
+      "Name": "Episode 19"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x20/",
+      "Name": "Episode 20"
+    }
+  ],
+  "Intro": "Koo Seo Jin reaches an all-time low when he uses his power as a theme park director to decommission Wonderland&#8217;s popular circus. Refusing to give into the demands of her frosty boss, ringleader Jang Ha Na puts up a fight, but is thrown off guard when Seo Jin&#8217;s secret persona reveals itself with genuine kindness. In the battle to save her circus, Ha Na realizes she must tease out Seo Jin&#8217;s brighter side with magic, wonder and love, but who&#8217;s listening — Jekyll or Hyde?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/jx0AWjtW7FSzfKvsBnyHkhiFrfL-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1hECWdlBbzP8gJ2AH1M2oYBpDZB.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1hECWdlBbzP8gJ2AH1M2oYBpDZB.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lRRnXmqwrH9cGj5Boiuc0qiEFSX.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lRRnXmqwrH9cGj5Boiuc0qiEFSX.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x1/",
+          "Name": "Hyde, Jekyll, Me 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fnlq4O1mmsmAvlla6eduJlJL8X7.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fnlq4O1mmsmAvlla6eduJlJL8X7.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x10/",
+          "Name": "Hyde, Jekyll, Me 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lN3Y7VhTyAwxXUEQI9si5icAgUD.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lN3Y7VhTyAwxXUEQI9si5icAgUD.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x11/",
+          "Name": "Hyde, Jekyll, Me 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jPGLQL0cpHJ1xBhCkZeOyoMBNpN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jPGLQL0cpHJ1xBhCkZeOyoMBNpN.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x12/",
+          "Name": "Hyde, Jekyll, Me 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/l4qSWxS31HYB2NoAUOpyvaVahfu.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/l4qSWxS31HYB2NoAUOpyvaVahfu.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;13"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x13/",
+          "Name": "Hyde, Jekyll, Me 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/yjziWY2J5ilEpYQwrSiXAXPZl9y.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/yjziWY2J5ilEpYQwrSiXAXPZl9y.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;14"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x14/",
+          "Name": "Hyde, Jekyll, Me 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ydy1yNDhY9rCBVxOHQnf4DlWShP.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ydy1yNDhY9rCBVxOHQnf4DlWShP.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;15"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x15/",
+          "Name": "Hyde, Jekyll, Me 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xMCk0v4B0xA5i7JRrWOsHDvCEEF.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xMCk0v4B0xA5i7JRrWOsHDvCEEF.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x16/",
+          "Name": "Hyde, Jekyll, Me 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/sALSzIdsCdYOSHulHou7glHXuhP.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/sALSzIdsCdYOSHulHou7glHXuhP.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;17"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x17/",
+          "Name": "Hyde, Jekyll, Me 1x17"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bab6mkpMhy2mKdHdST4RlYfIF4i.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bab6mkpMhy2mKdHdST4RlYfIF4i.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;18"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x18/",
+          "Name": "Hyde, Jekyll, Me 1x18"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zY39mvSWctShoZrgzybGEnzfp2e.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zY39mvSWctShoZrgzybGEnzfp2e.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;19"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x19/",
+          "Name": "Hyde, Jekyll, Me 1x19"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ahDz0aCegZCg9jQcRJgP1CjoPCX.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ahDz0aCegZCg9jQcRJgP1CjoPCX.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/gUMdkJ8cwsyy0khC40wL0YQY5Ai.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/gUMdkJ8cwsyy0khC40wL0YQY5Ai.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x2/",
+          "Name": "Hyde, Jekyll, Me 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wP7CCnVaFIzotkAuhf7NNZ9qcc5.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wP7CCnVaFIzotkAuhf7NNZ9qcc5.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;20"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x20/",
+          "Name": "Hyde, Jekyll, Me 1x20"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xc2J6blYL3LJieckStiDonAWQwF.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xc2J6blYL3LJieckStiDonAWQwF.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x3/",
+          "Name": "Hyde, Jekyll, Me 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rZfbNKok0nwR1fyHRVWbEybD9x.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rZfbNKok0nwR1fyHRVWbEybD9x.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x4/",
+          "Name": "Hyde, Jekyll, Me 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1uG0sVb6Ud2YSCbKp7ZAwU3nGjz.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1uG0sVb6Ud2YSCbKp7ZAwU3nGjz.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x5/",
+          "Name": "Hyde, Jekyll, Me 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/92eMxV2Urz9NXX3WGTgKvU7kmGH.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/92eMxV2Urz9NXX3WGTgKvU7kmGH.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x6/",
+          "Name": "Hyde, Jekyll, Me 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8TGFtnojNDD93ttMpbiWRE6Ivg6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8TGFtnojNDD93ttMpbiWRE6Ivg6.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x7/",
+          "Name": "Hyde, Jekyll, Me 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/suJBCS9EhggaR4Xa5KQXF0mnbag.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/suJBCS9EhggaR4Xa5KQXF0mnbag.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x8/",
+          "Name": "Hyde, Jekyll, Me 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8Nk7oy7hZoRufaTA10oqwlHB2NB.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8Nk7oy7hZoRufaTA10oqwlHB2NB.jpg",
+              "Name": "Hyde, Jekyll, Me 1&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/hyde-jekyll-me-1x9/",
+          "Name": "Hyde, Jekyll, Me 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Jan. 21, 2015"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/hyde-jekyll-me/",
+  "Name": "Hyde, Jekyll, Me"
+}

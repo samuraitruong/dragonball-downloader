@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ezXodpP429qK0Av89pVNlaXWJkQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ezXodpP429qK0Av89pVNlaXWJkQ.jpg",
+      "Name": "Jack Reacher"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9a3zDzo0FT00uj9233Ofl0y8QPQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9a3zDzo0FT00uj9233Ofl0y8QPQ.jpg",
+      "Name": "Jack Reacher"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bpllh74xanVxdPuopcAtRBrIkY6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bpllh74xanVxdPuopcAtRBrIkY6.jpg",
+      "Name": "Jack Reacher"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pAIeqf7NpAE6EL0ZkIcaRkwcPyz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pAIeqf7NpAE6EL0ZkIcaRkwcPyz.jpg",
+      "Name": "Jack Reacher"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9sYcv9Rr9nCFEW55uIFShPejm2N.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9sYcv9Rr9nCFEW55uIFShPejm2N.jpg",
+      "Name": "Jack Reacher"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uWUeutCjhutsNTTeAMOgEftdyLr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uWUeutCjhutsNTTeAMOgEftdyLr.jpg",
+      "Name": "Jack Reacher"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/49Ijqx3KPCsDrA5E9c6O3UrzY9m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/49Ijqx3KPCsDrA5E9c6O3UrzY9m.jpg",
+      "Name": "Jack Reacher"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lIzqWrkAWeNbh7waSrsRWSI7jFO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lIzqWrkAWeNbh7waSrsRWSI7jFO.jpg",
+      "Name": "Jack Reacher"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u1Q2U8JkqL0LF4jaKLK5tIAfHdQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u1Q2U8JkqL0LF4jaKLK5tIAfHdQ.jpg",
+      "Name": "Jack Reacher"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rexfKvIc6ZlRERooBq9E6mhL2c1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rexfKvIc6ZlRERooBq9E6mhL2c1.jpg",
+      "Name": "Jack Reacher"
+    }
+  ],
+  "Links": [],
+  "Intro": "In an innocent heartland city, five are shot dead by an expert sniper. The police quickly identify and arrest the culprit, and build a slam-dunk case. But the accused man claims he&#8217;s innocent and says &#8220;Get Jack Reacher.&#8221; Reacher himself sees the news report and turns up in the city. The defense is immensely relieved, but Reacher has come to bury the guy. Shocked at the accused&#8217;s request, Reacher sets out to confirm for himself the absolute certainty of the man&#8217;s guilt, but comes up with more than he bargained for.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/38bmEXmuJuInLs9dwfgOGCHmZ7l-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/lvQzb1YMdtY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/jack-reacher/",
+  "Name": "Jack Reacher"
+}

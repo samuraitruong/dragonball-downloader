@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lq7TViVZFca5mzyhFkihow8Bu8J.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lq7TViVZFca5mzyhFkihow8Bu8J.jpg ",
+      "Name": "Bitter Harvest"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fF20J5MyyNDX2cDy2C4BVz3cCjV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fF20J5MyyNDX2cDy2C4BVz3cCjV.jpg ",
+      "Name": "Bitter Harvest"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rpi8YLijNoyNA88MX73Qhw2UzjT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rpi8YLijNoyNA88MX73Qhw2UzjT.jpg ",
+      "Name": "Bitter Harvest"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zuTaFcsao950h6mChYwF6aN1eFb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zuTaFcsao950h6mChYwF6aN1eFb.jpg ",
+      "Name": "Bitter Harvest"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gqVjz4GEfHy5DyAUxXWjOBFAllR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gqVjz4GEfHy5DyAUxXWjOBFAllR.jpg ",
+      "Name": "Bitter Harvest"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ktqq3xwBv6Unon7v8KJMkanXgwU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ktqq3xwBv6Unon7v8KJMkanXgwU.jpg ",
+      "Name": "Bitter Harvest"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xEZMgH3Y68taAMCC6gHfoG15jnZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xEZMgH3Y68taAMCC6gHfoG15jnZ.jpg ",
+      "Name": "Bitter Harvest"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eFUlVp3SGKykBztVnwFmIjbTYJm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eFUlVp3SGKykBztVnwFmIjbTYJm.jpg ",
+      "Name": "Bitter Harvest"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/laqT5zwKzIzRlBfTZHR4PU7fsk5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/laqT5zwKzIzRlBfTZHR4PU7fsk5.jpg ",
+      "Name": "Bitter Harvest"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AnssuVRM2thjUGZ3LpIgZeFK4v8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AnssuVRM2thjUGZ3LpIgZeFK4v8.jpg ",
+      "Name": "Bitter Harvest"
+    }
+  ],
+  "Links": [],
+  "Intro": "Set between the two World Wars and based on true historical events, Bitter Harvest conveys the untold story of the Holodomor, the genocidal famine engineered by the tyrant Joseph Stalin. The film displays a powerful tale of love, honour, rebellion and survival at a time when Ukraine was forced to adjust to the horrifying territorial ambitions of the burgeoning Soviet Union.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/05/lcjmS7uleSh2X0V7v7j7pWss115-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/HKLBp3fZ5zA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/bitter-harvest/",
+  "Name": "Bitter Harvest"
+}

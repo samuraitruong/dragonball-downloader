@@ -1,0 +1,37 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yS0YFDsgfpV145n2MoIhcCKuWvi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yS0YFDsgfpV145n2MoIhcCKuWvi.jpg",
+      "Name": "French Kiss"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nCv0Lic4XV2WWX6notZ8LVVYjLZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nCv0Lic4XV2WWX6notZ8LVVYjLZ.jpg",
+      "Name": "French Kiss"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6LuLTBvrTr7X0AC3tsz9xyyzyLN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6LuLTBvrTr7X0AC3tsz9xyyzyLN.jpg",
+      "Name": "French Kiss"
+    }
+  ],
+  "Links": [],
+  "Intro": "French Kiss is director Kasdan’s best film since the Bodyguard. The plot involves a couple in love and one woman’s attempt to fly to Paris to get her lover back from a business trip and marry him. On the way she unknowingly smuggles something of value that has a petty thief chasing her across France as she chases after her future husband.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/bZqvonwVru1XtnniQZgZRa3Znyk-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/N3W5oAOZAWY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/french-kiss/",
+  "Name": "French Kiss"
+}

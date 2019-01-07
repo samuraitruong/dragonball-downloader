@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9GvL099IdfuzvuCYDQM34dmxnuE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9GvL099IdfuzvuCYDQM34dmxnuE.jpg",
+      "Name": "Lights Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dgN6xzRbqfx2AewBqXsKQm07gpg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dgN6xzRbqfx2AewBqXsKQm07gpg.jpg",
+      "Name": "Lights Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nQsdGCVTEq78XwIgR6QUVxiNERI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nQsdGCVTEq78XwIgR6QUVxiNERI.jpg",
+      "Name": "Lights Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ogBWBdJcgIPPNUiLzl6DJy1qUfp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ogBWBdJcgIPPNUiLzl6DJy1qUfp.jpg",
+      "Name": "Lights Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k7A7k4BIYx4tJ3gb6NbIkYjJmWJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k7A7k4BIYx4tJ3gb6NbIkYjJmWJ.jpg",
+      "Name": "Lights Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rzUZYw4ci62jAd7BvtRpRUXAjrk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rzUZYw4ci62jAd7BvtRpRUXAjrk.jpg",
+      "Name": "Lights Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mK9KdQj5Z6CAtxnFu2XPO8m78Il.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mK9KdQj5Z6CAtxnFu2XPO8m78Il.jpg",
+      "Name": "Lights Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mpu6Xc7XUw0QOcfZbqJL8MR3Qy1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mpu6Xc7XUw0QOcfZbqJL8MR3Qy1.jpg",
+      "Name": "Lights Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xB36WOVJ73eAw28eE7zFc0O8WF2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xB36WOVJ73eAw28eE7zFc0O8WF2.jpg",
+      "Name": "Lights Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eHb8ADe3UbXk2Nfzi04Y8X9rl9l.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eHb8ADe3UbXk2Nfzi04Y8X9rl9l.jpg",
+      "Name": "Lights Out"
+    }
+  ],
+  "Links": [],
+  "Intro": "When Rebecca left home, she thought she left her childhood fears behind. Growing up, she was never really sure of what was and wasn’t real when the lights went out…and now her little brother, Martin, is experiencing the same unexplained and terrifying events that had once tested her sanity and threatened her safety. A frightening entity with a mysterious attachment to their mother, Sophie, has reemerged.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/sXqrTXcBf9TdIv5rfgeFNu9Iwu7-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/H_nTMprod00?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/lights-out/",
+  "Name": "Lights Out"
+}

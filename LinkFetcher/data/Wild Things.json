@@ -1,0 +1,46 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2Pfj2F9MZCNCO8Yxf3lAGOzs7Dn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2Pfj2F9MZCNCO8Yxf3lAGOzs7Dn.jpg",
+      "Name": "Wild Things"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fQdmaOhV6edtjHaUD5zkNwlN1Dq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fQdmaOhV6edtjHaUD5zkNwlN1Dq.jpg",
+      "Name": "Wild Things"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8JPQJGdQlr3cGMjuIXj3WHod7lf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8JPQJGdQlr3cGMjuIXj3WHod7lf.jpg",
+      "Name": "Wild Things"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7EyZEH2gG1sgUrxv6824BKo7a25.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7EyZEH2gG1sgUrxv6824BKo7a25.jpg",
+      "Name": "Wild Things"
+    }
+  ],
+  "Links": [],
+  "Intro": "When teen-socialite Kelly Van Ryan and troubled bad girl Suzie Toller accuse guidance counselor Sam Lombardo of rape, he&#8217;s suspended by the school, rejected by the town, and fighting to get his life back. One cop suspects conspiracy, but nothing is what it seems&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/dI9iYo1cL81yzJkBVyNGipjSvy0-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/RkSY0Y00sb4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/wild-things/",
+  "Name": "Wild Things"
+}

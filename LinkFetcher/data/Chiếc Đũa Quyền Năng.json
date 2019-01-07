@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yix1Wbqy2IZ3xiyevLxiaGgfC8M.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yix1Wbqy2IZ3xiyevLxiaGgfC8M.jpg",
+      "Name": "Chiếc Đũa Quyền Năng - Bright"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/awkTsGzHw5fuDG4KHxw0gEOwAY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/awkTsGzHw5fuDG4KHxw0gEOwAY.jpg",
+      "Name": "Chiếc Đũa Quyền Năng - Bright"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bright là một bộ phim khoa học viễn tưởng xen lẫn tội phạm, hình sự sắp ra mắt trong năm nay. Với kinh phí 90 triệu đô la, đây là tác phẩm có đầu tư cao nhất của Netflix. Bright đánh dấu sự tái hợp của David Ayer và &#8220;Deadshot&#8221; Will Smith sau thành công của Suicide Squad hồi năm ngoái. Ngoài ra, bộ phim còn có sự tham gia của Joel Edgerton, Noomi Rapace, Édgar Ramirez&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/f6DMmyVesYr9gBHjHQll3q2ogC0-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/6EZCBSsBxko?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/bright/",
+  "Name": "Chiếc Đũa Quyền Năng"
+}

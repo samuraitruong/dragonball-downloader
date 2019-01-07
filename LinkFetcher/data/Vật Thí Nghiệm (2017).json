@@ -1,0 +1,44 @@
+{
+  "Id": "movTcL7f7463025",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gIAZIlswXCpQaGaEwJpqGSu4BE1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gIAZIlswXCpQaGaEwJpqGSu4BE1.jpg",
+      "Name": "Vật Thí Nghiệm (2017) - Simple Creature"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movtcl7f7463025-2/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/simple-creature",
+      "Name": "Subtitle"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movtcl7f7463025/",
+      "Size": "3.0 GB",
+      "FileSize": 3239286047,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/IPSJ18S3P44YA6O",
+      "Name": "Simple.Creature.2016.1080p.WEB-DL.DD5.1.H264-FGT(6).mkv"
+    }
+  ],
+  "Intro": "Một sinh viên đại học đã bị tai nạn xe buýt gần chết, nhưng lại được công ty công nghệ sinh học làm vật thí nghiệm để tái sinh lại và những điều kỳ lạ xảy ra với vật thí nghiệm này .",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/i2nUENGWhijRzRa4lx7GMYv1a6l-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/JFwfBouAhs0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/simple-creature/",
+  "Name": "Vật Thí Nghiệm (2017)"
+}

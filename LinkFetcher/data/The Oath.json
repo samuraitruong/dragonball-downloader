@@ -1,0 +1,36 @@
+{
+  "Id": "movj1mqRH520596",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ibNQu25Rz1fZuw6WHm4StII2TkR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ibNQu25Rz1fZuw6WHm4StII2TkR.jpg",
+      "Name": "The Oath"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movj1mqrh520596/",
+      "Size": "3.24 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/246AJNCH63PY",
+      "Name": "WEB-DL-1080p"
+    }
+  ],
+  "Intro": "Trong thời kỳ chia cắt chính trị ở Mỹ, người đàn ông đấu tranh để vượt qua kỳ nghỉ lễ Tạ ơn mà không làm cho gia đình chia cắt.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2019/01/sFOl3gdmdu7gM1IZ7X1b9bvjbjP-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/4I8x79pgqok?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-oath/",
+  "Name": "The Oath"
+}

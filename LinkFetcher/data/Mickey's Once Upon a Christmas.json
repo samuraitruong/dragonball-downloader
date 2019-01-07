@@ -1,21 +1,46 @@
 {
-  "Id": "movTQ4UvY15400",
-  "Url": "https://fsharephim.com/movies/mickeys-once-upon-a-christmas/",
-  "Name": "Mickey's Once Upon a Christmas",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movtq4uvy15400/",
-      "Name": "720p",
-      "Url": "http://www.fshare.vn/file/UPP6E9SZ8XRR9N8",
-      "Size": "2.2 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movtq4uvy15400-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "http://www.fshare.vn/file/URX4IVPLJOH3",
-      "Size": "120.8 KB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/txLoYcQtKKyGmqik1HRyW2Uv6CY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/txLoYcQtKKyGmqik1HRyW2Uv6CY.jpg",
+      "Name": "Mickey&#8217;s Once Upon a Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yWU0S1DywETe0kDEO6N8C1Mox1K.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yWU0S1DywETe0kDEO6N8C1Mox1K.jpg",
+      "Name": "Mickey&#8217;s Once Upon a Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kDFoqtGmKwNmgKwkho7x01PEyBy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kDFoqtGmKwNmgKwkho7x01PEyBy.jpg",
+      "Name": "Mickey&#8217;s Once Upon a Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kAdhnZdfI9kMGalCfHpCDrVXKuE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kAdhnZdfI9kMGalCfHpCDrVXKuE.jpg",
+      "Name": "Mickey&#8217;s Once Upon a Christmas"
+    }
+  ],
+  "Links": [],
+  "Intro": "Mickey, Minnie, and their famous friends Goofy, Donald, Daisy and Pluto gather together to reminisce about the love, magic and surprises in three wonder-filled stories of Christmas past.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/hPXSWiuYdJXHtcDS5wluYWgZldE-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/yKOeF8v67OI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/mickeys-once-upon-a-christmas/",
+  "Name": "Mickey's Once Upon a Christmas"
 }

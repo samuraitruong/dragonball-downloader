@@ -1,0 +1,40 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cvZSyFcSzHs9UKyn6CwsFP28Jkg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cvZSyFcSzHs9UKyn6CwsFP28Jkg.jpg",
+      "Name": "Hounds of Love"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5DR1tghOeCBZ3an7E5C3lGdx63O.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5DR1tghOeCBZ3an7E5C3lGdx63O.jpg",
+      "Name": "Hounds of Love"
+    }
+  ],
+  "Links": [],
+  "Intro": "Vicki Maloney is randomly abducted from a suburban street by a disturbed couple. As she observes the dynamic between her captors she quickly realises she must drive a wedge between them if she is to survive.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/b4niGo8hpxIpmAZsGkpZK4mXiDo-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/uWZFHEz37Jc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/hounds-of-love/",
+  "Name": "Hounds of Love"
+}

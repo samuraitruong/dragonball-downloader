@@ -1,21 +1,48 @@
 {
   "Id": "mov9I7L5q283564",
-  "Url": "https://fsharephim.com/movies/slugterra-return-of-the-elementals/",
-  "Name": "SlugTerra: Return of the Elementals",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nP8wiejdOZ7WupugWJtCPToMVVT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nP8wiejdOZ7WupugWJtCPToMVVT.jpg",
+      "Name": "SlugTerra: Return of the Elementals - SlugTerra: Return of the Elementals"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/mov9i7l5q283564-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/slugterra-return-of-the-elementals",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/slugterra-return-of-the-elementals",
+      "Name": "Subtitle"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/mov9i7l5q283564/",
-      "Name": "WEB-DL-1080p",
-      "Url": "https://www.fshare.vn/file/QEFR9QNTWQRC",
       "Size": "3.07 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/QEFR9QNTWQRC",
+      "Name": "WEB-DL-1080p"
     }
-  ]
+  ],
+  "Intro": "Bộ phim “Slugterra: Return of the Elementals” là câu chuyện kể về cuộc chiến đấu dũng cảm của các thành viên nhóm Gang Shane. Lúc này, có một thành viên mới đã gia nhập Gang Shane. Junjie là một bậc thầy về nghệ thuật “slugslinging” &#8211; một môn nghê thuật huyền ảo và bí ẩn của Slug Fu. Ngay cả khi phải đối đầu với một sức mạnh khổng lồ của năm tên slugslingers điên cuồng đang hợp lại cùng nhau, nhóm Shane Gang vẫn không lùi bước, luôn cố gắng, dùng hết sức bình sinh để vượt qua được và cuối cùng, họ đã chiến thắng. Trong cuộc chiến đấu ấy, nhóm Shane Gang đã phải chạy đua nước rút để bảo vệ các “Elemental Slugs” cổ khỏi một liên minh ác độc và tàn bạo, sử dụng chúng để phá hủy vô số hang động, và con số ấy đã lên tới 99 hang.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/ApN2lteDsoIU5dDHJXeqVD13vpd-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/slugterra-return-of-the-elementals/",
+  "Name": "SlugTerra: Return of the Elementals"
 }

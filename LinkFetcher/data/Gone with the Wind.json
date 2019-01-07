@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bGRUMgSvs6wzYQRqehY4Fsup4f1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bGRUMgSvs6wzYQRqehY4Fsup4f1.jpg",
+      "Name": "Gone with the Wind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3Fng5Kvk8MQQTOtchv0JiyAniIX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3Fng5Kvk8MQQTOtchv0JiyAniIX.jpg",
+      "Name": "Gone with the Wind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/w9zuriVDx4zqopdOUAvfFbRDPzZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/w9zuriVDx4zqopdOUAvfFbRDPzZ.jpg",
+      "Name": "Gone with the Wind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3CORPv23rM1UVrL0eEOZmj9T1eF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3CORPv23rM1UVrL0eEOZmj9T1eF.jpg",
+      "Name": "Gone with the Wind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kDvwihz7nB2Rx3mUtSfWR63q8Nd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kDvwihz7nB2Rx3mUtSfWR63q8Nd.jpg",
+      "Name": "Gone with the Wind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gYJTzwczDzhDOySg0ArXglmrzLQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gYJTzwczDzhDOySg0ArXglmrzLQ.jpg",
+      "Name": "Gone with the Wind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6wBO7FRYg8IzffhwwQpYntOlcbr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6wBO7FRYg8IzffhwwQpYntOlcbr.jpg",
+      "Name": "Gone with the Wind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zXZJEkWev1qGKwxA9a6ZEJUdvgB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zXZJEkWev1qGKwxA9a6ZEJUdvgB.jpg",
+      "Name": "Gone with the Wind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/s2xkBzqfj20PD7wrPcCcm2gIkhq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/s2xkBzqfj20PD7wrPcCcm2gIkhq.jpg",
+      "Name": "Gone with the Wind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iMOPVACjgwQSj10mCDTbmucQzx4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iMOPVACjgwQSj10mCDTbmucQzx4.jpg",
+      "Name": "Gone with the Wind"
+    }
+  ],
+  "Links": [],
+  "Intro": "An American classic in which a manipulative woman and a roguish man carry on a turbulent love affair in the American south during the Civil War and Reconstruction.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/4o1yeosjSFMaI9pe1rOkYcZ6hHO-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/3AaSdZvetuY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/gone-with-the-wind/",
+  "Name": "Gone with the Wind"
+}

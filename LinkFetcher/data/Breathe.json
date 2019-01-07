@@ -1,0 +1,48 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/quVfDYktBYQfojgZ3E9pYrclGse.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/quVfDYktBYQfojgZ3E9pYrclGse.jpg ",
+      "Name": "Breathe"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2Ubku0nKiSsA3UevB3GysFrCxaI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2Ubku0nKiSsA3UevB3GysFrCxaI.jpg ",
+      "Name": "Breathe"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wwJxTdsnOgyxGQxeRpGH5SeXqzC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wwJxTdsnOgyxGQxeRpGH5SeXqzC.jpg ",
+      "Name": "Breathe"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jJ28EMI5dokQ6CMGQQXMdH7jiG9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jJ28EMI5dokQ6CMGQQXMdH7jiG9.jpg ",
+      "Name": "Breathe"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3U69wpgw9sszytCBkGt1ijUW2K8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3U69wpgw9sszytCBkGt1ijUW2K8.jpg ",
+      "Name": "Breathe"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iPTAiLaZxcomHqWZ8f6RWGYKFyN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iPTAiLaZxcomHqWZ8f6RWGYKFyN.jpg ",
+      "Name": "Breathe"
+    }
+  ],
+  "Links": [],
+  "Intro": "Based on the true story of Robin, a handsome, brilliant and adventurous man whose life takes a dramatic turn when polio leaves him paralyzed.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/wLu2N0QVfSpk10RJ17HLHyRUmww-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/dqpfdS0SkZs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/breathe/",
+  "Name": "Breathe"
+}

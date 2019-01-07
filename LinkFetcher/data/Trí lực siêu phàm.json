@@ -1,0 +1,71 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9ISArgiVBdNLASKmvflRDMOYYMj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9ISArgiVBdNLASKmvflRDMOYYMj.jpg",
+      "Name": "Trí lực siêu phàm - Limitless"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fkJ63Vc4WZ4dEGrocdw1Iszp3Ei.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fkJ63Vc4WZ4dEGrocdw1Iszp3Ei.jpg",
+      "Name": "Trí lực siêu phàm - Limitless"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kNLHeft7BwHNA9Oa7yHXj03HMpi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kNLHeft7BwHNA9Oa7yHXj03HMpi.jpg",
+      "Name": "Trí lực siêu phàm - Limitless"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yqvgDMU8T4dUq2EzvFlasl7pwhF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yqvgDMU8T4dUq2EzvFlasl7pwhF.jpg",
+      "Name": "Trí lực siêu phàm - Limitless"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zU0yESeNh7unuI7kPb4poZkk6eZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zU0yESeNh7unuI7kPb4poZkk6eZ.jpg",
+      "Name": "Trí lực siêu phàm - Limitless"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7EBsxO0oSV5uydhhqxLHoD5tFI1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7EBsxO0oSV5uydhhqxLHoD5tFI1.jpg",
+      "Name": "Trí lực siêu phàm - Limitless"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nCGudf2TZPRuJkxjoIoET7QB0cE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nCGudf2TZPRuJkxjoIoET7QB0cE.jpg",
+      "Name": "Trí lực siêu phàm - Limitless"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4D12ppR8i4rjW9yDM3btyZwlwM5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4D12ppR8i4rjW9yDM3btyZwlwM5.jpg",
+      "Name": "Trí lực siêu phàm - Limitless"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kqd7JntPyedk0yo67b5q80tc4qu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kqd7JntPyedk0yo67b5q80tc4qu.jpg",
+      "Name": "Trí lực siêu phàm - Limitless"
+    }
+  ],
+  "Links": [],
+  "Intro": "Limitless xoay quanh câu chuyện về Eddie Morra (do Bradley Cooper thủ vai), một nhà văn đang bế tắc trong cuộc sống bỗng dưng tìm được lối thoát qua một viên thuốc thần kỳ. Loại thuốc lạ lùng này giúp anh khai thác được 100% trí tuệ, suy nghĩ, sự sáng tạo&#8230; để biến thành một phiên bản hoàn hảo của chính bản thân mình. Tuy nhiên, Eddie không ngờ rằng sự thông minh đột biến của anh đã thu hút hàng loạt thế lực đen tối. Anh chàng nhà văn bỗng dưng trở thành kẻ bị săn đuổi và những kẻ giấu mặt nguy hiểm sẵn sàng biến cuộc đời anh trở thành một tấn bi kịch thảm khốc.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/bQfOFEeXxi51ijQrbQY9qvMtYhZ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/6d1Uc68wt3c?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/limitless/",
+  "Name": "Trí lực siêu phàm"
+}

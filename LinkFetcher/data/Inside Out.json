@@ -1,42 +1,80 @@
 {
-  "Id": "mov8e0idI150540",
-  "Url": "https://fsharephim.com/movies/inside-out/",
-  "Name": "Inside Out",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov8e0idi150540-3/",
-      "Name": "Inside Out (2015) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/VCSOSMJJQVWN",
-      "Size": "1.14 GB",
-      "FileSize": 1228388211
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov8e0idi150540-4/",
-      "Name": "Inside Out (2015) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/6BSR8INESJ2C",
-      "Size": "1.8 GB",
-      "FileSize": 1937880774
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov8e0idi150540-5/",
-      "Name": "Inside Out (2015) Bluray 1080p AVC DTS-HD MA 7.1.iso",
-      "Url": "https://www.fshare.vn/file/BWCO49PJ8CN2",
-      "Size": "40.68 GB",
-      "FileSize": 43675811840
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov8e0idi150540/",
-      "Name": "Inside.Out.2015.mkv",
-      "Url": "https://www.fshare.vn/file/O1UVJRYCFVT7",
-      "Size": "2.04 GB",
-      "FileSize": 2187231701
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/mov8e0idi150540-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/inside-out-2015",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/szytSpLAyBh3ULei3x663mAv5ZT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/szytSpLAyBh3ULei3x663mAv5ZT.jpg",
+      "Name": "Inside Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dHiZbNgCG5FtGr8UlNTewvGGJo3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dHiZbNgCG5FtGr8UlNTewvGGJo3.jpg",
+      "Name": "Inside Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3EZbjPoeQ55lNGVTAuwteSNbgZZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3EZbjPoeQ55lNGVTAuwteSNbgZZ.jpg",
+      "Name": "Inside Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jXflDtkQYTId9myQQ2EQNb66YHW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jXflDtkQYTId9myQQ2EQNb66YHW.jpg",
+      "Name": "Inside Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kaHXByeErA4MYbdw4aeCuHDZsIP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kaHXByeErA4MYbdw4aeCuHDZsIP.jpg",
+      "Name": "Inside Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/JmhaE48vw1m5g5hT7vz7IhNG5z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/JmhaE48vw1m5g5hT7vz7IhNG5z.jpg",
+      "Name": "Inside Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kVEGqKtcuT1eguyYmrOjYKcQ6B2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kVEGqKtcuT1eguyYmrOjYKcQ6B2.jpg",
+      "Name": "Inside Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8fW3GPYTFUCutgfh77LbGbw3yQI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8fW3GPYTFUCutgfh77LbGbw3yQI.jpg",
+      "Name": "Inside Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qRapb707Nez85Ap47X62yISs61y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qRapb707Nez85Ap47X62yISs61y.jpg",
+      "Name": "Inside Out"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aFlzwBkvnbWQn7arN4AUvmaNq9a.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aFlzwBkvnbWQn7arN4AUvmaNq9a.jpg",
+      "Name": "Inside Out"
+    }
+  ],
+  "Links": [],
+  "Intro": "Growing up can be a bumpy road, and it&#8217;s no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Like all of us, Riley is guided by her emotions &#8211; Joy, Fear, Anger, Disgust and Sadness. The emotions live in Headquarters, the control center inside Riley&#8217;s mind, where they help advise her through everyday life. As Riley and her emotions struggle to adjust to a new life in San Francisco, turmoil ensues in Headquarters. Although Joy, Riley&#8217;s main and most important emotion, tries to keep things positive, the emotions conflict on how best to navigate a new city, house and school.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/aAmfIX3TT40zUHGcCKrlOZRKC7u-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/yRUAzGQ3nSY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/inside-out/",
+  "Name": "Inside Out"
 }

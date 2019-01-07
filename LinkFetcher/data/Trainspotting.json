@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yfNhWKqJFWTRvSo3Qf2x1IFteG3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yfNhWKqJFWTRvSo3Qf2x1IFteG3.jpg",
+      "Name": "Trainspotting"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wJoakyAqQNQ7ACzM9q4YpMA6HK7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wJoakyAqQNQ7ACzM9q4YpMA6HK7.jpg",
+      "Name": "Trainspotting"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/omiWggJaQsLEXRrGsUYZ7z8QSKv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/omiWggJaQsLEXRrGsUYZ7z8QSKv.jpg",
+      "Name": "Trainspotting"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/e9GbzPawXDFvLwSseCXpHkbCyAP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/e9GbzPawXDFvLwSseCXpHkbCyAP.jpg",
+      "Name": "Trainspotting"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qX8XYxGUDeYfnOVrx2Do1oeI5F0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qX8XYxGUDeYfnOVrx2Do1oeI5F0.jpg",
+      "Name": "Trainspotting"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rwyRgUb0zD8uwfoHyIS0YT6rU2b.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rwyRgUb0zD8uwfoHyIS0YT6rU2b.jpg",
+      "Name": "Trainspotting"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3jkVq0U30SvMxLFAPTyrZaoDMuS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3jkVq0U30SvMxLFAPTyrZaoDMuS.jpg",
+      "Name": "Trainspotting"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zCwql6p8RjKIfOtoizTNxjUDJ2V.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zCwql6p8RjKIfOtoizTNxjUDJ2V.jpg",
+      "Name": "Trainspotting"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hnM36NIyIX6e4C1yqnuesIQmytf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hnM36NIyIX6e4C1yqnuesIQmytf.jpg",
+      "Name": "Trainspotting"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/grX29AtnVqIElIU6v7J2Z9fQGzr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/grX29AtnVqIElIU6v7J2Z9fQGzr.jpg",
+      "Name": "Trainspotting"
+    }
+  ],
+  "Links": [],
+  "Intro": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/p1O3eFsdb0GEIYu87xlwV7P4jM1-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/8LuxOYIpu-I?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/trainspotting/",
+  "Name": "Trainspotting"
+}

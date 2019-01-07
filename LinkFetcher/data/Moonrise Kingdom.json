@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1mKI5UfeCetrB3HZbYt6VTn7K9m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1mKI5UfeCetrB3HZbYt6VTn7K9m.jpg",
+      "Name": "Moonrise Kingdom"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yUZEKtZ6KwvODMEOFD4EuVE6u6e.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yUZEKtZ6KwvODMEOFD4EuVE6u6e.jpg",
+      "Name": "Moonrise Kingdom"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zjrv1IdsgC4sDvcxQeFU1LsiHPQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zjrv1IdsgC4sDvcxQeFU1LsiHPQ.jpg",
+      "Name": "Moonrise Kingdom"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/44Hu70lh1vg0szq0rNC1UBjmUGK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/44Hu70lh1vg0szq0rNC1UBjmUGK.jpg",
+      "Name": "Moonrise Kingdom"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jTV4tiudiu335cQ5OzBKQ6jDLyg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jTV4tiudiu335cQ5OzBKQ6jDLyg.jpg",
+      "Name": "Moonrise Kingdom"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xrqaKC9i9mOhHOaB2jRbOxJ9NcQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xrqaKC9i9mOhHOaB2jRbOxJ9NcQ.jpg",
+      "Name": "Moonrise Kingdom"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6XKwNRzMEXpFuSKdUdo51f9fCnb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6XKwNRzMEXpFuSKdUdo51f9fCnb.jpg",
+      "Name": "Moonrise Kingdom"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gWI9TC4V7NfSKGMdSwGogtwEoQP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gWI9TC4V7NfSKGMdSwGogtwEoQP.jpg",
+      "Name": "Moonrise Kingdom"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xn9x9SNluThBiQU5ReGwQbLbiiv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xn9x9SNluThBiQU5ReGwQbLbiiv.jpg",
+      "Name": "Moonrise Kingdom"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5JQ8tC3muo9isG2qKLpwl7aUtXA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5JQ8tC3muo9isG2qKLpwl7aUtXA.jpg",
+      "Name": "Moonrise Kingdom"
+    }
+  ],
+  "Links": [],
+  "Intro": "Set on an island off the coast of New England in the summer of 1965, Moonrise Kingdom tells the story of two twelve-year-olds who fall in love, make a secret pact, and run away together into the wilderness. As various authorities try to hunt them down, a violent storm is brewing off-shore – and the peaceful island community is turned upside down in more ways than anyone can handle.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/ysTohGF7NY9Z6MYz9vLNYiyzh0r-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/_eOI3AamSm8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/moonrise-kingdom/",
+  "Name": "Moonrise Kingdom"
+}

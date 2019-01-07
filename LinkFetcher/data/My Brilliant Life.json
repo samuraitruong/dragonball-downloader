@@ -1,0 +1,28 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iYyyNMrBjl1RO2yREeDFvGjthsj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iYyyNMrBjl1RO2yREeDFvGjthsj.jpg",
+      "Name": "My Brilliant Life"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2SUvMOBnyZC6hjbg2bvPhnsL5WR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2SUvMOBnyZC6hjbg2bvPhnsL5WR.jpg",
+      "Name": "My Brilliant Life"
+    }
+  ],
+  "Links": [],
+  "Intro": "Dae-su, once a promising taekwondo athlete with &#8216;incompetent swing kick&#8217; and Mira, who dreamt of becoming an idol, unexpectedly became teenage parents at the age of 17. Now they&#8217;re 33 and have a 16-year old son Ahreum. Due to an extremely rare genetic disorder called progeria, Ahreum ages exponentially faster than normal people. Even though he&#8217;s just a teenager, his body is that of an 80-year old man&#8217;s. Despite all the negativity and hardships in their lives, this tight-knit young family carries on, taking one day at a time. One day, Ahreum&#8217;s story is broadcasted nationally via network TV program. He is suddenly thrown into the spotlight, and his normally dull days are now filled with moments of happiness, joy and sorrow?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/2UTSoKergdypiYFFLtsDT8z0yZ6-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/my-brilliant-life/",
+  "Name": "My Brilliant Life"
+}

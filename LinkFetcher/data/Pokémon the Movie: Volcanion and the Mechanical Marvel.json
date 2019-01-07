@@ -1,14 +1,56 @@
 {
   "Id": "movEx43ud382190",
-  "Url": "https://fsharephim.com/movies/pokemon-the-movie-volcanion-and-the-mechanical-marvel/",
-  "Name": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2iPHVhS1naCp38XAepm2OqKV5g2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2iPHVhS1naCp38XAepm2OqKV5g2.jpg",
+      "Name": "Pokémon the Movie: Volcanion and the Mechanical Marvel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kofRrnGSwXf1g1MzF5GcP5yTdvV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kofRrnGSwXf1g1MzF5GcP5yTdvV.jpg",
+      "Name": "Pokémon the Movie: Volcanion and the Mechanical Marvel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rp6TRIBlpbKnlmJcUk4RkOQRbFS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rp6TRIBlpbKnlmJcUk4RkOQRbFS.jpg",
+      "Name": "Pokémon the Movie: Volcanion and the Mechanical Marvel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pr2UBsUNCTCQdHPUOnRqZheK6cM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pr2UBsUNCTCQdHPUOnRqZheK6cM.jpg",
+      "Name": "Pokémon the Movie: Volcanion and the Mechanical Marvel"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oVGxYxVsyBL44iRIZNpZfG5szEx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oVGxYxVsyBL44iRIZNpZfG5szEx.jpg",
+      "Name": "Pokémon the Movie: Volcanion and the Mechanical Marvel"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movex43ud382190/",
-      "Name": "2016.Pokemon.Volcanion.and.the.Mechanical.Marvel.Bluray.VIE.1080p.AVC.DD.5.1.mkv",
-      "Url": "https://www.fshare.vn/file/985R3W1354X1",
       "Size": "16.92 GB",
-      "FileSize": 18164461661
+      "FileSize": 18164461661,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/985R3W1354X1",
+      "Name": "2016.Pokemon.Volcanion.and.the.Mechanical.Marvel.Bluray.VIE.1080p.AVC.DD.5.1.mkv"
     }
-  ]
+  ],
+  "Intro": "In this Pokémon adventure, a mysterious force binds Ash to the Mythical Pokémon Volcanion when it falls from the sky. Volcanion can’t get away, and Ash is dragged along as it continues on its mission. They arrive in a city of cogs and gears, where a corrupt minister has stolen the ultimate invention: the Artificial Pokémon Magearna, created 500 years ago. The minister plans to use Magearna’s mysterious power to take control of the mechanical kingdom. Can Ash and Volcanion work together to rescue Magearna? One of the greatest battles in Pokémon history is about to unfold!",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/fP7NBkskK6dlGE5N4mMqs6ZFZDY-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/uBJ7yENNbTE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/pokemon-the-movie-volcanion-and-the-mechanical-marvel/",
+  "Name": "Pokémon the Movie: Volcanion and the Mechanical Marvel"
 }

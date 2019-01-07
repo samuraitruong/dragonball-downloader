@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uHQzRMqhs1bA1fLEP6J1Qc19Nfg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uHQzRMqhs1bA1fLEP6J1Qc19Nfg.jpg",
+      "Name": "Percy Jackson &#038; the Olympians: The Lightning Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3lWsuGp8tFyHZ7RvnIzZuiGvgXx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3lWsuGp8tFyHZ7RvnIzZuiGvgXx.jpg",
+      "Name": "Percy Jackson &#038; the Olympians: The Lightning Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nifPYOyA8K7gY9PniJRBA7Pijfl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nifPYOyA8K7gY9PniJRBA7Pijfl.jpg",
+      "Name": "Percy Jackson &#038; the Olympians: The Lightning Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zSgH0DB5l9D0KSbgaPpmKMlIBt3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zSgH0DB5l9D0KSbgaPpmKMlIBt3.jpg",
+      "Name": "Percy Jackson &#038; the Olympians: The Lightning Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/s2c7jsMOhztmZKAGxrn5fbmapaY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/s2c7jsMOhztmZKAGxrn5fbmapaY.jpg",
+      "Name": "Percy Jackson &#038; the Olympians: The Lightning Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/c5yg941Gqd8NLimcEJbWovWukt2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/c5yg941Gqd8NLimcEJbWovWukt2.jpg",
+      "Name": "Percy Jackson &#038; the Olympians: The Lightning Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6OGbr9gu8vH1nEMOEreKAtprpXP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6OGbr9gu8vH1nEMOEreKAtprpXP.jpg",
+      "Name": "Percy Jackson &#038; the Olympians: The Lightning Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/e5uKlamrAgIW2RozjKCZdcE4klT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/e5uKlamrAgIW2RozjKCZdcE4klT.jpg",
+      "Name": "Percy Jackson &#038; the Olympians: The Lightning Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hnCKDhFKCTTXQZzI9tAL66JKVCb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hnCKDhFKCTTXQZzI9tAL66JKVCb.jpg",
+      "Name": "Percy Jackson &#038; the Olympians: The Lightning Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a7WT5z4SLQOf9VXe68S7xJWmXFf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a7WT5z4SLQOf9VXe68S7xJWmXFf.jpg",
+      "Name": "Percy Jackson &#038; the Olympians: The Lightning Thief"
+    }
+  ],
+  "Links": [],
+  "Intro": "Accident prone teenager, Percy discovers he&#8217;s actually a demi-God, the son of Poseidon, and he is needed when Zeus&#8217; lightning is stolen. Percy must master his new found skills in order to prevent a war between the Gods that could devastate the entire world.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/5NhyXkodMzDRW8uqtPqlxJsoBhf-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/xko1Mx5w4tg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/percy-jackson-the-olympians-the-lightning-thief/",
+  "Name": "Percy Jackson & the Olympians: The Lightning Thief"
+}

@@ -1,0 +1,61 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4x8L6OyVJA3QHIhQhRboLkUyNCc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4x8L6OyVJA3QHIhQhRboLkUyNCc.jpg",
+      "Name": "Cớm tốt, Cớm xấu - Bon Cop Bad Cop"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/x6kRQFYoNlAbJ7jUARZTq87zOWF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/x6kRQFYoNlAbJ7jUARZTq87zOWF.jpg",
+      "Name": "Cớm tốt, Cớm xấu - Bon Cop Bad Cop"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eHgaDd3fJoDdmROfBC6k1m6NNRM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eHgaDd3fJoDdmROfBC6k1m6NNRM.jpg",
+      "Name": "Cớm tốt, Cớm xấu - Bon Cop Bad Cop"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fLnvkWmtz6MoM1WITHBo0sv8Dk4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fLnvkWmtz6MoM1WITHBo0sv8Dk4.jpg",
+      "Name": "Cớm tốt, Cớm xấu - Bon Cop Bad Cop"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8zNOUVO7MldxPpng42nFz2b90h4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8zNOUVO7MldxPpng42nFz2b90h4.jpg",
+      "Name": "Cớm tốt, Cớm xấu - Bon Cop Bad Cop"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pGaGRiFTqYEBMwYFVLFnc3RXeui.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pGaGRiFTqYEBMwYFVLFnc3RXeui.jpg",
+      "Name": "Cớm tốt, Cớm xấu - Bon Cop Bad Cop"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6GVPMMxbPmmA713l8Ac5p1N3SS7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6GVPMMxbPmmA713l8Ac5p1N3SS7.jpg",
+      "Name": "Cớm tốt, Cớm xấu - Bon Cop Bad Cop"
+    }
+  ],
+  "Links": [],
+  "Intro": "8 năm trước, Martin Ward và David Bouchard dã gặp nhau một cách đầy ngoạn mục tại biên giới giữa Quebec và Ontario. Hai người đàn ông vẫn còn làm bạn với nhau nhưng thời gian dần trôi, họ đã không còn trò chuyện cả năm trời. Trong phần này, Ward và Bouchard phải đối mặt với một vụ trộm cắp xe hơi lớn mà hóa ra ẩn chứa trong đó còn rất nhiều uẩn khúc.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/mzJFbiI92GerKyO9qF2lbuSgEC1-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/2TwhiLUCOwE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/bon-cop-bad-cop/",
+  "Name": "Cớm tốt, Cớm xấu"
+}

@@ -1,0 +1,669 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h0vk6IwrSwJGt71pKgoR7b83p7y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h0vk6IwrSwJGt71pKgoR7b83p7y.jpg",
+      "Name": "Dream High"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rL38LmKjt4zSvfvqv3u8U0tFkXY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rL38LmKjt4zSvfvqv3u8U0tFkXY.jpg",
+      "Name": "Dream High"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wHrjvhLciqIgSSBqvnWoWbz7RI1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wHrjvhLciqIgSSBqvnWoWbz7RI1.jpg",
+      "Name": "Dream High"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6PcBy5GwBsoEHxwmt8ofK07rjLO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6PcBy5GwBsoEHxwmt8ofK07rjLO.jpg",
+      "Name": "Dream High"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9GcovLjnyvTXmU7EOez7WH7kzbp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9GcovLjnyvTXmU7EOez7WH7kzbp.jpg",
+      "Name": "Dream High"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/dream-high-2x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/dream-high-2x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/dream-high-2x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/dream-high-2x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/dream-high-2x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/dream-high-2x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/dream-high-2x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/dream-high-2x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/dream-high-2x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/dream-high-2x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/dream-high-2x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/dream-high-2x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/dream-high-2x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/dream-high-2x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/dream-high-2x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/dream-high-2x16/",
+      "Name": "Episode 16"
+    }
+  ],
+  "Intro": "Dream High is a South Korean television series broadcast by KBS in 2011. It features miss A&#8217;s Suzy, Kim Soo-hyun, T-ara&#8217;s Eunjung, IU and 2PM.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/bCWiLrG9KVENjqrBieSH1SfGEtf-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zecAh96mlF3vRHxHeaeNMPxvlQl.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zecAh96mlF3vRHxHeaeNMPxvlQl.jpg",
+              "Name": "Dream High 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-1x1/",
+          "Name": "Dream High 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8KnP5u6Ab9N6DcxNNVFMtsrCIiY.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8KnP5u6Ab9N6DcxNNVFMtsrCIiY.jpg",
+              "Name": "Dream High 1&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-1x10/",
+          "Name": "Dream High 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/eqS7gO7It5xcGe79nFCwFvOPKpd.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/eqS7gO7It5xcGe79nFCwFvOPKpd.jpg",
+              "Name": "Dream High 1&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-1x11/",
+          "Name": "Dream High 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/mVD0kj9YVZfSKvJ6eWEzNxVUp8h.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/mVD0kj9YVZfSKvJ6eWEzNxVUp8h.jpg",
+              "Name": "Dream High 1&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-1x12/",
+          "Name": "Dream High 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rUeN5pv9vsLkAiCvJnueWVn7cXc.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rUeN5pv9vsLkAiCvJnueWVn7cXc.jpg",
+              "Name": "Dream High 1&#215;13"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-1x13/",
+          "Name": "Dream High 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/40Cyq54PtnW39R8IfjBibszBPz.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/40Cyq54PtnW39R8IfjBibszBPz.jpg",
+              "Name": "Dream High 1&#215;14"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-1x14/",
+          "Name": "Dream High 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6Jitt7kqrWq8AV3yoHf9DaTjaXK.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6Jitt7kqrWq8AV3yoHf9DaTjaXK.jpg",
+              "Name": "Dream High 1&#215;15"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-1x15/",
+          "Name": "Dream High 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/eGkfRe2l2xrcWQ89hEqNPyqHmYO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/eGkfRe2l2xrcWQ89hEqNPyqHmYO.jpg",
+              "Name": "Dream High 1&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-1x16/",
+          "Name": "Dream High 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wyU0gUGRvNkEF2f81RUVgXpJb4P.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wyU0gUGRvNkEF2f81RUVgXpJb4P.jpg",
+              "Name": "Dream High 1&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-1x2/",
+          "Name": "Dream High 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ntt7oK5ftAHGE4nfaU7kZnU2m6b.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ntt7oK5ftAHGE4nfaU7kZnU2m6b.jpg",
+              "Name": "Dream High 1&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-1x3/",
+          "Name": "Dream High 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wYE9RqD7Xo8aZh07v2roK7xpdCG.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wYE9RqD7Xo8aZh07v2roK7xpdCG.jpg",
+              "Name": "Dream High 1&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-1x4/",
+          "Name": "Dream High 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/uIPmJszg3iibwfYuFwNVOKSJ2sZ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/uIPmJszg3iibwfYuFwNVOKSJ2sZ.jpg",
+              "Name": "Dream High 1&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-1x5/",
+          "Name": "Dream High 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rAwjya39v1NOGNrbwo1QeNcHPRH.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rAwjya39v1NOGNrbwo1QeNcHPRH.jpg",
+              "Name": "Dream High 1&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-1x6/",
+          "Name": "Dream High 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6wsaBFuETdGA1nSc33JbUt9RV7x.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6wsaBFuETdGA1nSc33JbUt9RV7x.jpg",
+              "Name": "Dream High 1&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-1x7/",
+          "Name": "Dream High 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/cOs4J6MklpuKxQIX6h4plDaIWM3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/cOs4J6MklpuKxQIX6h4plDaIWM3.jpg",
+              "Name": "Dream High 1&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-1x8/",
+          "Name": "Dream High 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1MC8nfp1DIBhY4PaWkCeHZRKpjt.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1MC8nfp1DIBhY4PaWkCeHZRKpjt.jpg",
+              "Name": "Dream High 1&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-1x9/",
+          "Name": "Dream High 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Jan. 03, 2011"
+    },
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Episode 1 is the first episode of the 2012 TV series Dream High &#8211; Season 2 that was aired on January 30, 2012 on KBS2.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-2x1/",
+          "Name": "Dream High 2x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-2x10/",
+          "Name": "Dream High 2x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-2x11/",
+          "Name": "Dream High 2x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-2x12/",
+          "Name": "Dream High 2x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-2x13/",
+          "Name": "Dream High 2x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-2x14/",
+          "Name": "Dream High 2x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-2x15/",
+          "Name": "Dream High 2x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-2x16/",
+          "Name": "Dream High 2x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-2x2/",
+          "Name": "Dream High 2x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-2x3/",
+          "Name": "Dream High 2x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-2x4/",
+          "Name": "Dream High 2x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-2x5/",
+          "Name": "Dream High 2x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-2x6/",
+          "Name": "Dream High 2x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-2x7/",
+          "Name": "Dream High 2x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-2x8/",
+          "Name": "Dream High 2x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/dream-high-2x9/",
+          "Name": "Dream High 2x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 2 Jan. 30, 2012"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/dream-high/",
+  "Name": "Dream High"
+}

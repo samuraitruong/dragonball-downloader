@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kgUVeWLZnBTmHwXORqOSVW5btTv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kgUVeWLZnBTmHwXORqOSVW5btTv.jpg ",
+      "Name": "Ngọa Hổ Tàng Long - Crouching Tiger, Hidden Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8KDyyrYWFX2SQV3fKDV0BZKz5dP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8KDyyrYWFX2SQV3fKDV0BZKz5dP.jpg ",
+      "Name": "Ngọa Hổ Tàng Long - Crouching Tiger, Hidden Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aSxPzr9uARTmgwcuVnQcI7m2GRN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aSxPzr9uARTmgwcuVnQcI7m2GRN.jpg ",
+      "Name": "Ngọa Hổ Tàng Long - Crouching Tiger, Hidden Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rMXQaQZbFkAZC9tNvH0ZK3FFOND.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rMXQaQZbFkAZC9tNvH0ZK3FFOND.jpg ",
+      "Name": "Ngọa Hổ Tàng Long - Crouching Tiger, Hidden Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dKenGLffFC9HwuxG4Sq7fJRkiFb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dKenGLffFC9HwuxG4Sq7fJRkiFb.jpg ",
+      "Name": "Ngọa Hổ Tàng Long - Crouching Tiger, Hidden Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6fotWIctmZPUmWCeD30I9bLHuXW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6fotWIctmZPUmWCeD30I9bLHuXW.jpg ",
+      "Name": "Ngọa Hổ Tàng Long - Crouching Tiger, Hidden Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vfN6XLxnKpYMKA2WlvyRcWdQOG0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vfN6XLxnKpYMKA2WlvyRcWdQOG0.jpg ",
+      "Name": "Ngọa Hổ Tàng Long - Crouching Tiger, Hidden Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kk7TNHipvnaXPyXAkjCoA1p0UFo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kk7TNHipvnaXPyXAkjCoA1p0UFo.jpg ",
+      "Name": "Ngọa Hổ Tàng Long - Crouching Tiger, Hidden Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1AS3dNlAy67e2xjIjGk7xPhloOe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1AS3dNlAy67e2xjIjGk7xPhloOe.jpg ",
+      "Name": "Ngọa Hổ Tàng Long - Crouching Tiger, Hidden Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4vFaufFvH7uveEO67tsr8Y0OOVH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4vFaufFvH7uveEO67tsr8Y0OOVH.jpg ",
+      "Name": "Ngọa Hổ Tàng Long - Crouching Tiger, Hidden Dragon"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim Ngọa Hổ Tàng Long bắt đầu từ thanh bảo kiếm Lục Mệnh đã có hơn 400 năm tung hoành giang hồ, mà chủ nhân gần đây của nó là Lý Mộ Bạch (Châu Nhuận Phát) – một cao thủ phái Võ Đang có thể xem là thiên hạ vô địch hiện nay. Dự định rút lui giang hồ, Lý Mộ Bạch đã trao tặng Lục Mệnh kiếm cho Tề lão gia ở kinh thành, tuy nhiên thanh kiếm đã bị một kẻ võ công cao siêu đánh cắp.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/2D7kikHUHbecJGoRAspBYiqoxd6-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/svKLqq445bQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/crouching-tiger-hidden-dragon/",
+  "Name": "Ngọa Hổ Tàng Long"
+}

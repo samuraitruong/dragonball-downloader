@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7pOulxNusihZmhpF5CjPITES7MD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7pOulxNusihZmhpF5CjPITES7MD.jpg ",
+      "Name": "Don&#8217;t Worry, He Won&#8217;t Get Far on Foot"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aZYjP0cS1zsDHgyvDo6ymxF5JEY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aZYjP0cS1zsDHgyvDo6ymxF5JEY.jpg ",
+      "Name": "Don&#8217;t Worry, He Won&#8217;t Get Far on Foot"
+    }
+  ],
+  "Links": [],
+  "Intro": "On the rocky path to sobriety after a life-changing accident, John Callahan discovers the healing power of art, willing his injured hands into drawing hilarious, often controversial cartoons, which bring him a new lease on life.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/10/rKsiN37qMt8jad5GikZzSeevyI9-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/kWku5rgaJWM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/dont-worry-he-wont-get-far-on-foot/",
+  "Name": "Don't Worry, He Won't Get Far on Foot"
+}

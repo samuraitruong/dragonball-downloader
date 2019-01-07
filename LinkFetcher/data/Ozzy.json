@@ -1,42 +1,113 @@
 {
   "Id": "movFtZ5a8411221",
-  "Url": "https://fsharephim.com/movies/ozzy/",
-  "Name": "Ozzy",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hqHWOhme2G3zxjQmjjwFNGLfG9L.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hqHWOhme2G3zxjQmjjwFNGLfG9L.jpg",
+      "Name": "Ozzy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3ECFLxhPqoeNaxGrp2dxjACbEWQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3ECFLxhPqoeNaxGrp2dxjACbEWQ.jpg",
+      "Name": "Ozzy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z0vHcibHDVc3DHJRX1b1pfBa5Dz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z0vHcibHDVc3DHJRX1b1pfBa5Dz.jpg",
+      "Name": "Ozzy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2Q6gvt9s9E4fJFkmBZ0irc4GG3A.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2Q6gvt9s9E4fJFkmBZ0irc4GG3A.jpg",
+      "Name": "Ozzy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2jTDG2dXCUN9yMNpTf9TUeIRszs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2jTDG2dXCUN9yMNpTf9TUeIRszs.jpg",
+      "Name": "Ozzy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b7b1z01bfVsYoVWmHSAW8tOx4kx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b7b1z01bfVsYoVWmHSAW8tOx4kx.jpg",
+      "Name": "Ozzy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bVTqVvoCOer0hwSRfzGDvrvbOUD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bVTqVvoCOer0hwSRfzGDvrvbOUD.jpg",
+      "Name": "Ozzy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hQ805Ngx5AxpdrCsfTQSDS5Izwd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hQ805Ngx5AxpdrCsfTQSDS5Izwd.jpg",
+      "Name": "Ozzy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rNc3Fd4vVM8rJsgHtavjsY6MNUx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rNc3Fd4vVM8rJsgHtavjsY6MNUx.jpg",
+      "Name": "Ozzy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/w7MoYvwbfZcEPUm1bZflkPZA5vw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/w7MoYvwbfZcEPUm1bZflkPZA5vw.jpg",
+      "Name": "Ozzy"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movftz5a8411221/",
-      "Name": "ozzy 2016 bluray vietsub.mp4",
-      "Url": "https://www.fshare.vn/file/XLVDW717PP6FB21",
       "Size": "772.2 MB",
-      "FileSize": 809688382
+      "FileSize": 809688382,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/XLVDW717PP6FB21",
+      "Name": "ozzy 2016 bluray vietsub.mp4"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movftz5a8411221-2/",
-      "Name": "Ozzy.2016.720p.BluRay.850MB.ShAaNiG.mkv",
-      "Url": "https://www.fshare.vn/file/9N8WL1ZPB4D8S3O",
       "Size": "850.5 MB",
-      "FileSize": 891806889
+      "FileSize": 891806889,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/9N8WL1ZPB4D8S3O",
+      "Name": "Ozzy.2016.720p.BluRay.850MB.ShAaNiG.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movftz5a8411221-3/",
-      "Name": "Ozzy.2016.720p.BluRay.x264-invandrare.mkv",
-      "Url": "https://www.fshare.vn/file/MOA28M8Z1TSAPI3",
       "Size": "3.3 GB",
-      "FileSize": 3518488551
+      "FileSize": 3518488551,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/MOA28M8Z1TSAPI3",
+      "Name": "Ozzy.2016.720p.BluRay.x264-invandrare.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movftz5a8411221-4/",
-      "Name": "Ozzy.2016.1080p.BluRay.x264-invandraren.mkv",
-      "Url": "https://www.fshare.vn/file/XVBMYPA4GLCMU6Y",
       "Size": "4.4 GB",
-      "FileSize": 4692741191
+      "FileSize": 4692741191,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/XVBMYPA4GLCMU6Y",
+      "Name": "Ozzy.2016.1080p.BluRay.x264-invandraren.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movftz5a8411221-5/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/ozzy/vietnamese",
       "Size": "0",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/ozzy/vietnamese",
+      "Name": "Viet - Subtitle"
     }
-  ]
+  ],
+  "Intro": "Ozzy, a friendly, peaceful beagle has his idyllic life turned upside down when the Martins leave on a long and distant trip. There&#8217;s only one problem: no dogs allowed! Unable to bring their beloved Ozzy along for the ride, they settle on the next best thing, a top-of-the-line canine spa called Blue Creek.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/sLvt3IhrCDTSmMvB3gzCLfC3aKA-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/YhULl9UT1mM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ozzy/",
+  "Name": "Ozzy"
 }

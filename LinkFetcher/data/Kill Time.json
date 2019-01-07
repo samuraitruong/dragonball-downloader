@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5nkaa6souuNwUvTJdWPTJzdKHEd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5nkaa6souuNwUvTJdWPTJzdKHEd.jpg ",
+      "Name": "Kill Time"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kSJVojntTiuSppApA5VHKS1r2Sc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kSJVojntTiuSppApA5VHKS1r2Sc.jpg ",
+      "Name": "Kill Time"
+    }
+  ],
+  "Links": [],
+  "Intro": null,
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/06/yy2jOWH90AHRh1HFijSCxCQqCpi-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/qQGI-xXfLZ8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/kill-time/",
+  "Name": "Kill Time"
+}

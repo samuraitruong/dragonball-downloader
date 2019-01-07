@@ -1,28 +1,105 @@
 {
   "Id": "movsaaODr297556",
-  "Url": "https://fsharephim.com/movies/justice-league-throne-of-atlantis/",
-  "Name": "Liên Minh Công Lý : Ngôi Vua Của Atlantics",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yIAxebMW8bvGJhZO8Q3TSi4zMDQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yIAxebMW8bvGJhZO8Q3TSi4zMDQ.jpg",
+      "Name": "Liên Minh Công Lý : Ngôi Vua Của Atlantics - Justice League: Throne of Atlantis"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kDZ0crxcNQDmPWgIHrWQqUTHasX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kDZ0crxcNQDmPWgIHrWQqUTHasX.jpg",
+      "Name": "Liên Minh Công Lý : Ngôi Vua Của Atlantics - Justice League: Throne of Atlantis"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kPR5icEVHbLgzYusFrWNR5AmYfi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kPR5icEVHbLgzYusFrWNR5AmYfi.jpg",
+      "Name": "Liên Minh Công Lý : Ngôi Vua Của Atlantics - Justice League: Throne of Atlantis"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wrDg6rqWeAEH4PNMrC8SN99zLiN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wrDg6rqWeAEH4PNMrC8SN99zLiN.jpg",
+      "Name": "Liên Minh Công Lý : Ngôi Vua Của Atlantics - Justice League: Throne of Atlantis"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bX0JFRZPvmQOQIzchpxYqeNgVIy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bX0JFRZPvmQOQIzchpxYqeNgVIy.jpg",
+      "Name": "Liên Minh Công Lý : Ngôi Vua Của Atlantics - Justice League: Throne of Atlantis"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/e119fnX9ninZPt8FURiNhqknroi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/e119fnX9ninZPt8FURiNhqknroi.jpg",
+      "Name": "Liên Minh Công Lý : Ngôi Vua Của Atlantics - Justice League: Throne of Atlantis"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/czQdQ8PbNxA2UAC3jmcU2B8OCMR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/czQdQ8PbNxA2UAC3jmcU2B8OCMR.jpg",
+      "Name": "Liên Minh Công Lý : Ngôi Vua Của Atlantics - Justice League: Throne of Atlantis"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iyDUD81RjRmmDxN5692MmQmbdLx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iyDUD81RjRmmDxN5692MmQmbdLx.jpg",
+      "Name": "Liên Minh Công Lý : Ngôi Vua Của Atlantics - Justice League: Throne of Atlantis"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nLNoWpNMJMBmzA2rnPGNS4kWG78.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nLNoWpNMJMBmzA2rnPGNS4kWG78.jpg",
+      "Name": "Liên Minh Công Lý : Ngôi Vua Của Atlantics - Justice League: Throne of Atlantis"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aLugcHlKWRB6caaUjrq1XS2jCrb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aLugcHlKWRB6caaUjrq1XS2jCrb.jpg",
+      "Name": "Liên Minh Công Lý : Ngôi Vua Của Atlantics - Justice League: Throne of Atlantis"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movsaaodr297556/",
-      "Name": "Justice.League-Throne.of.Atlantis.2015.ViE.mHD.BluRay.DD5.1.x264-EPiK.mkv",
-      "Url": "https://www.fshare.vn/file/UWQP3YETL983",
       "Size": "1.91 GB",
-      "FileSize": 2047081040
+      "FileSize": 2047081040,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/UWQP3YETL983",
+      "Name": "Justice.League-Throne.of.Atlantis.2015.ViE.mHD.BluRay.DD5.1.x264-EPiK.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movsaaodr297556-2/",
-      "Name": "Justice.League.Throne.of.Atlantis.2015.720p.WEB-DL.TPHD.NET.com.mkv",
-      "Url": "https://www.fshare.vn/file/MWF3W1343SGL",
       "Size": "551.8 MB",
-      "FileSize": 578605454
+      "FileSize": 578605454,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/MWF3W1343SGL",
+      "Name": "Justice.League.Throne.of.Atlantis.2015.720p.WEB-DL.TPHD.NET.com.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movsaaodr297556-3/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/justice-league-throne-of-atlantis",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/justice-league-throne-of-atlantis",
+      "Name": "Subtitle"
     }
-  ]
+  ],
+  "Intro": "Trong tập trước Liên minh công lý : Chiến tranh, Thế giới dường như lại yên bình thì Atlantis lại tấn công Metropolis vì cái chết của vua của họ. Nhưng nữ hoàng lại có một kế hoạch khác và yêu cầu Liên minh công lý đi tìm đứa con trai thất lạc của mình.Trong khi Liên minh công lý đi tìm đứa trẻ thì quân đội Atlantian được sự chỉ huy bởi Ocean Master vẫn tiếp tục cuộc tấn công của mình. Ai sẽ thắng ?? Mời các bạn xem phim",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/3n0zmm2dPF0TQt2ikJ2tUjKr2FT-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/EIhWIAHov6U?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/justice-league-throne-of-atlantis/",
+  "Name": "Liên Minh Công Lý : Ngôi Vua Của Atlantics"
 }

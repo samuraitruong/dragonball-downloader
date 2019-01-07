@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tryI7qZHaLMVzMNpLyKHKDiZOLc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tryI7qZHaLMVzMNpLyKHKDiZOLc.jpg",
+      "Name": "Đội Cứu Hộ Bãi Biển - Baywatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t6TL7V9IsT4Ktx6YO8b1UYj3agd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t6TL7V9IsT4Ktx6YO8b1UYj3agd.jpg",
+      "Name": "Đội Cứu Hộ Bãi Biển - Baywatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6QmX2BDVr1hIOIPHqnxvp1C1ZZp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6QmX2BDVr1hIOIPHqnxvp1C1ZZp.jpg",
+      "Name": "Đội Cứu Hộ Bãi Biển - Baywatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rhya0ioZ4ovtAmFC9FNo5UuEg4k.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rhya0ioZ4ovtAmFC9FNo5UuEg4k.jpg",
+      "Name": "Đội Cứu Hộ Bãi Biển - Baywatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/q6ijCw7A1rXMhm2uzNTB8a6OTDh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/q6ijCw7A1rXMhm2uzNTB8a6OTDh.jpg",
+      "Name": "Đội Cứu Hộ Bãi Biển - Baywatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/603wLumdVVXjKLNhf6vP1jXsd3e.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/603wLumdVVXjKLNhf6vP1jXsd3e.jpg",
+      "Name": "Đội Cứu Hộ Bãi Biển - Baywatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vZqBnSUwmSwyLHLYYhgtEkS6qAR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vZqBnSUwmSwyLHLYYhgtEkS6qAR.jpg",
+      "Name": "Đội Cứu Hộ Bãi Biển - Baywatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eJ7uvfB0HTnipuB6pUuEFvtrjp6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eJ7uvfB0HTnipuB6pUuEFvtrjp6.jpg",
+      "Name": "Đội Cứu Hộ Bãi Biển - Baywatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ar5FTwRq9zTgn8HWekIGeToT2cr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ar5FTwRq9zTgn8HWekIGeToT2cr.jpg",
+      "Name": "Đội Cứu Hộ Bãi Biển - Baywatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sSPd6FchBo997lDE3m5CWvu6ZRF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sSPd6FchBo997lDE3m5CWvu6ZRF.jpg",
+      "Name": "Đội Cứu Hộ Bãi Biển - Baywatch"
+    }
+  ],
+  "Links": [],
+  "Intro": "Đội Cứu Hộ Bãi Biển theo chân người cứu hộ tận tụy Mitch Buchannon (do Dwayne Johnson đóng) khi anh mâu thuẫn với một nhân viên cứng đầu mới vào (Zac Efron đóng). Họ cùng nhau khám phá một âm mưu của đám tội phạm địa phương đe dọa đến tương lai của khu vịnh.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/6HE4xd8zloDqmjMZuhUCCw2UcY1-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/eyKOgnaf0BU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/baywatch/",
+  "Name": "Đội Cứu Hộ Bãi Biển"
+}

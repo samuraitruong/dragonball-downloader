@@ -1,0 +1,47 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zBI6BJyltKfM3efqmG7uFzqjtLT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zBI6BJyltKfM3efqmG7uFzqjtLT.jpg",
+      "Name": "Miao Miao"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xkz6aztxsuaWU7ErpFDjF8w447.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xkz6aztxsuaWU7ErpFDjF8w447.jpg",
+      "Name": "Miao Miao"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qiuzK7fkNtkafFrwdkuWYgTREwh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qiuzK7fkNtkafFrwdkuWYgTREwh.jpg",
+      "Name": "Miao Miao"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aH4CjRLu6XsVjEwuOGVhpDShqgO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aH4CjRLu6XsVjEwuOGVhpDShqgO.jpg",
+      "Name": "Miao Miao"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AvJV3iDSsxivoa7QTIA2hB97dvA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AvJV3iDSsxivoa7QTIA2hB97dvA.jpg",
+      "Name": "Miao Miao"
+    }
+  ],
+  "Links": [],
+  "Intro": "Struggling to adjust to her new life in Taipei, introverted high school girl Miao Miao opens up after meeting outgoing classmate Xiao Ai who becomes increasingly enamoured with her new friend. Unaware of Xiao Ai&#8217;s confused feelings for her, Miao Miao falls for brooding CD shop owner Chen Fei, who seems determined to block out the world with a pair of headphones.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/5ZiVqnjAdZu9BPiRfPAgxdvXs2-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/miao-miao/",
+  "Name": "Miao Miao"
+}

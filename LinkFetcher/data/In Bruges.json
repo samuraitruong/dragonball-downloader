@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rGxc09T1jXk98HforvqhBaHIaRW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rGxc09T1jXk98HforvqhBaHIaRW.jpg",
+      "Name": "In Bruges"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dIlagewUbPm2RjTreuhLjkjPRfj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dIlagewUbPm2RjTreuhLjkjPRfj.jpg",
+      "Name": "In Bruges"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3rS0W0aHwd9GvmyJabu9D1xOcE8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3rS0W0aHwd9GvmyJabu9D1xOcE8.jpg",
+      "Name": "In Bruges"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xaHtKEnx06a3OnFlaHpWnfyiOfk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xaHtKEnx06a3OnFlaHpWnfyiOfk.jpg",
+      "Name": "In Bruges"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kt2hK5trzPOw0T53E9dNqBPSQPJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kt2hK5trzPOw0T53E9dNqBPSQPJ.jpg",
+      "Name": "In Bruges"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1mtDSru4Wi0vOO9rFYDg1ehL1Ss.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1mtDSru4Wi0vOO9rFYDg1ehL1Ss.jpg",
+      "Name": "In Bruges"
+    }
+  ],
+  "Links": [],
+  "Intro": "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/kBABboeLU2HsKWSG7DwiF9saHl5-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/0RBIY7Uts6s?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/in-bruges/",
+  "Name": "In Bruges"
+}

@@ -1,49 +1,80 @@
 {
-  "Id": "movYWtQN146195",
-  "Url": "https://fsharephim.com/movies/rio/",
-  "Name": "Rio",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movywtqn146195/",
-      "Name": "Rio.2011.VIE.mHD.BluRay.x264-EPiK.mkv",
-      "Url": "https://www.fshare.vn/file/BYJKYT1B8YTX1ZN",
-      "Size": "1.5 GB",
-      "FileSize": 1567947382
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movywtqn146195-2/",
-      "Name": "Rio.2011.720p.BluRay.x264.DTS-WiKi.mkv",
-      "Url": "https://www.fshare.vn/file/343UQUS7BO8RVS6",
-      "Size": "4.5 GB",
-      "FileSize": 4832658141
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movywtqn146195-3/",
-      "Name": "Rio.2011.1080p.BluRay.x264.DTS-WiKi.mkv",
-      "Url": "https://www.fshare.vn/file/QI2HZ7S3SIS8GC1",
-      "Size": "8.7 GB",
-      "FileSize": 9334044555
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movywtqn146195-4/",
-      "Name": "Rio.2011.720p.BluRay.DTS.x264-DON.srt",
-      "Url": "https://www.fshare.vn/file/T8BN345ZENV6WSY",
-      "Size": "184.6 KB",
-      "FileSize": 189042
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movywtqn146195-5/",
-      "Name": "Rio 1 2011 1080p Blu-ray 3D ViE AVC DTS-HD MA 5.1 - MRC_VAV_MegastarLT.iso",
-      "Url": "https://www.fshare.vn/file/BA7VM5L84LF4W13",
-      "Size": "39.3 GB",
-      "FileSize": 42212196352
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movywtqn146195-6/",
-      "Name": "Rio.2011.ViE.1080p.BluRay.DD5.1.x264-PIS_I-Max.VN.mkv",
-      "Url": "https://www.fshare.vn/file/JBKQNRMIGHTCYLR",
-      "Size": "7.8 GB",
-      "FileSize": 8381824344
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/odbEuhGUgSkeWWD1sPoylXTZMUa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/odbEuhGUgSkeWWD1sPoylXTZMUa.jpg",
+      "Name": "Rio"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/arcKTAo8fjvr9wioUY8BoWvWrCn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/arcKTAo8fjvr9wioUY8BoWvWrCn.jpg",
+      "Name": "Rio"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yfQPheXZKMTFaetqBCQxaHLBExU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yfQPheXZKMTFaetqBCQxaHLBExU.jpg",
+      "Name": "Rio"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pwhXTS0MFMsdAJmLmAb2PrzwIQD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pwhXTS0MFMsdAJmLmAb2PrzwIQD.jpg",
+      "Name": "Rio"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/olkqvkzChLxYSak7dai2mkUBGEz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/olkqvkzChLxYSak7dai2mkUBGEz.jpg",
+      "Name": "Rio"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/thfDBlQg9vcin8mpbHsqwbc2ItH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/thfDBlQg9vcin8mpbHsqwbc2ItH.jpg",
+      "Name": "Rio"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jj0rJnvUuEbpkQp9PT7LHIU4OJw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jj0rJnvUuEbpkQp9PT7LHIU4OJw.jpg",
+      "Name": "Rio"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2o38ZWulFl0M4qhSMkplKd4rqoN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2o38ZWulFl0M4qhSMkplKd4rqoN.jpg",
+      "Name": "Rio"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2SBakEhmcBUgIhLQsTOkN2tTW2k.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2SBakEhmcBUgIhLQsTOkN2tTW2k.jpg",
+      "Name": "Rio"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/upTaLy6QPIeNU0f4rRkVpPAdiPb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/upTaLy6QPIeNU0f4rRkVpPAdiPb.jpg",
+      "Name": "Rio"
+    }
+  ],
+  "Links": [],
+  "Intro": "Captured by smugglers when he was just a hatchling, a macaw named Blu never learned to fly and lives a happily domesticated life in Minnesota with his human friend, Linda. Blu is thought to be the last of his kind, but when word comes that Jewel, a lone female, lives in Rio de Janeiro, Blu and Linda go to meet her. Animal smugglers kidnap Blu and Jewel, but the pair soon escape and begin a perilous adventure back to freedom &#8212; and Linda.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/isQ9BSjdF8IrSm2g4WPHSJYN5s9-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/P1GRO31ve5Q?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/rio/",
+  "Name": "Rio"
 }

@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sfFZx8nme01GR6ewViI431RzAnb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sfFZx8nme01GR6ewViI431RzAnb.jpg",
+      "Name": "Beginners"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zkoq9Hw1nVv9gmYDGU4uvjt6NM7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zkoq9Hw1nVv9gmYDGU4uvjt6NM7.jpg",
+      "Name": "Beginners"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iuPmu991DwKp7GYtddhqTbAZ2bs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iuPmu991DwKp7GYtddhqTbAZ2bs.jpg",
+      "Name": "Beginners"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ySQqn2UcQOhuc2UxGhHhEaYEMxY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ySQqn2UcQOhuc2UxGhHhEaYEMxY.jpg",
+      "Name": "Beginners"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5dccwlCfGggzzrF9CBHyuDXHFD2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5dccwlCfGggzzrF9CBHyuDXHFD2.jpg",
+      "Name": "Beginners"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gaZbyf3nVuUB0h9g1CBP0PD5V4O.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gaZbyf3nVuUB0h9g1CBP0PD5V4O.jpg",
+      "Name": "Beginners"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b53dnfLcBLziKZyNC699qo2otzV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b53dnfLcBLziKZyNC699qo2otzV.jpg",
+      "Name": "Beginners"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f5en2l9yzsf0bw3MKbMsYUWXiDI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f5en2l9yzsf0bw3MKbMsYUWXiDI.jpg",
+      "Name": "Beginners"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/s5CyNBQvi2ZLR0eztkbsszIl1XM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/s5CyNBQvi2ZLR0eztkbsszIl1XM.jpg",
+      "Name": "Beginners"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wIMZDg0D38KuAcSRMK8iS5w63Tz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wIMZDg0D38KuAcSRMK8iS5w63Tz.jpg",
+      "Name": "Beginners"
+    }
+  ],
+  "Links": [],
+  "Intro": "A young man is rocked by two announcements from his elderly father: that he has terminal cancer, and that he has a young male lover.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/41ZB1ndUvimsFSIBxl6LXQaeAnI-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/rXUFUp6vsxg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/beginners/",
+  "Name": "Beginners"
+}

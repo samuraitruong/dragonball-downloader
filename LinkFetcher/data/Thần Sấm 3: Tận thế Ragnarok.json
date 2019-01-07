@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+      "Name": "Thần Sấm 3: Tận thế Ragnarok - Thor: Ragnarok"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/r9DmhMfsndC8QtrXKyad3KCRdcC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/r9DmhMfsndC8QtrXKyad3KCRdcC.jpg",
+      "Name": "Thần Sấm 3: Tận thế Ragnarok - Thor: Ragnarok"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9GjSPZbJIwV47TfDfNF8IaPC07V.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9GjSPZbJIwV47TfDfNF8IaPC07V.jpg",
+      "Name": "Thần Sấm 3: Tận thế Ragnarok - Thor: Ragnarok"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5wNUJs23rT5rTBacNyf5h83AynM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5wNUJs23rT5rTBacNyf5h83AynM.jpg",
+      "Name": "Thần Sấm 3: Tận thế Ragnarok - Thor: Ragnarok"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6YozDnrA2fXdIbB5nWDFHtB5ZY6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6YozDnrA2fXdIbB5nWDFHtB5ZY6.jpg",
+      "Name": "Thần Sấm 3: Tận thế Ragnarok - Thor: Ragnarok"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ymvIwPty3aKuKoMqyA9zKdRuaJf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ymvIwPty3aKuKoMqyA9zKdRuaJf.jpg",
+      "Name": "Thần Sấm 3: Tận thế Ragnarok - Thor: Ragnarok"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+      "Name": "Thần Sấm 3: Tận thế Ragnarok - Thor: Ragnarok"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mC5h2mJp7yGXziwSlzk5MjY1SAa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mC5h2mJp7yGXziwSlzk5MjY1SAa.jpg",
+      "Name": "Thần Sấm 3: Tận thế Ragnarok - Thor: Ragnarok"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2VVEyCmxaLXRHIpokaL2mloKix8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2VVEyCmxaLXRHIpokaL2mloKix8.jpg",
+      "Name": "Thần Sấm 3: Tận thế Ragnarok - Thor: Ragnarok"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/epmd8SOuCMNLYC61TQYZ3u10XRg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/epmd8SOuCMNLYC61TQYZ3u10XRg.jpg",
+      "Name": "Thần Sấm 3: Tận thế Ragnarok - Thor: Ragnarok"
+    }
+  ],
+  "Links": [],
+  "Intro": "Ragnarok ám chỉ “tận cùng của vũ trụ”, đồng nghĩa với trận chiến sống còn của chín cõi (Nine Realms). Sau khi Loki Loki soán ngôi cha Odin, vị thần tinh quái này tiếp tục mở đường nhiễu loạn tiến từ cầu Bifrost vào trong Asgard.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/avy7IR8UMlIIyE2BPCI4plW4Csc-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ue80QwXMRHg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/thor-ragnarok/",
+  "Name": "Thần Sấm 3: Tận thế Ragnarok"
+}

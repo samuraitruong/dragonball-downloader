@@ -1,0 +1,41 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cJ6fdIpGDEdhjaWPAS1pR0GUoSV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cJ6fdIpGDEdhjaWPAS1pR0GUoSV.jpg ",
+      "Name": "Trở Lại Xứ Thần Tiên (1985) - Return to Oz"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AgMVu5xjpssb4YBmlWgMweNq0Ri.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AgMVu5xjpssb4YBmlWgMweNq0Ri.jpg ",
+      "Name": "Trở Lại Xứ Thần Tiên (1985) - Return to Oz"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vjCfmGVlplqgTBEm6TfjAIu3xhX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vjCfmGVlplqgTBEm6TfjAIu3xhX.jpg ",
+      "Name": "Trở Lại Xứ Thần Tiên (1985) - Return to Oz"
+    }
+  ],
+  "Links": [],
+  "Intro": "Dorothy, được cứu thoát khỏi những căn bệnh tâm thần, bằng cách nào đó được triệu hồi về xứ Oz để chống lại mụ phù thuỷ xấu xa và vua Nome đang huỷ hoại xứ sở thần tiên này.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/awQpBhnxmbDK7br3RqajtNATrUL-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/CklyKCKFtwE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/return-to-oz/",
+  "Name": "Trở Lại Xứ Thần Tiên (1985)"
+}

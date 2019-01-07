@@ -1,35 +1,71 @@
 {
-  "Id": "mov605SBh15283",
-  "Url": "https://fsharephim.com/movies/pom-poko/",
-  "Name": "Pom Poko",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov605sbh15283-3/",
-      "Name": "Heisei.tanuki.gassen.ponpoko.1994.1080p.BluRay.DD2.0.x264-TayTO.mkv",
-      "Url": "https://www.fshare.vn/file/64R7D1SK6WRS",
-      "Size": "10.96 GB",
-      "FileSize": 11766038038
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov605sbh15283-4/",
-      "Name": "Heisei.tanuki.gassen.ponpoko.1994.1080p.BluRay.DD2.0.x264-TayTO.srt",
-      "Url": "https://www.fshare.vn/file/NN23ZGZBDMRM",
-      "Size": "127.95 KB",
-      "FileSize": 131018
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov605sbh15283-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/pom-poko-aka-the-raccoon-war-heisei-tanuki-gassen-ponpoko",
-      "Size": "--",
-      "FileSize": 0
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/mov605sbh15283/",
-      "Name": "DVD",
-      "Url": "https://www.fshare.vn/folder/T49AKJJMRT",
-      "Size": "Folder",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/okvbYnytLqWN56whyYQgq2mCOIO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/okvbYnytLqWN56whyYQgq2mCOIO.jpg",
+      "Name": "Pom Poko"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yeQNE1IzsEvU04JRdneKy1l0VT6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yeQNE1IzsEvU04JRdneKy1l0VT6.jpg",
+      "Name": "Pom Poko"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4jG9SDGtwvLDppE7H4qnWDUQ85k.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4jG9SDGtwvLDppE7H4qnWDUQ85k.jpg",
+      "Name": "Pom Poko"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pWX0V5f8q9HBiVLAj8hn9F2mujp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pWX0V5f8q9HBiVLAj8hn9F2mujp.jpg",
+      "Name": "Pom Poko"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/opk9wW7f9SF0zaNmNzXV6bDoXfe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/opk9wW7f9SF0zaNmNzXV6bDoXfe.jpg",
+      "Name": "Pom Poko"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8vgnsa9Y4CPjEMJgjgPierYdJlm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8vgnsa9Y4CPjEMJgjgPierYdJlm.jpg",
+      "Name": "Pom Poko"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cEIcO99qayzQjuwopgy0SAAKhSc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cEIcO99qayzQjuwopgy0SAAKhSc.jpg",
+      "Name": "Pom Poko"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o02LN17iRmUKmJhFe5l5RxAUVZ1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o02LN17iRmUKmJhFe5l5RxAUVZ1.jpg",
+      "Name": "Pom Poko"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sscdLWB1MpijKa09cuAScr5FkRk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sscdLWB1MpijKa09cuAScr5FkRk.jpg",
+      "Name": "Pom Poko"
+    }
+  ],
+  "Links": [],
+  "Intro": "The Raccoons of the Tama Hills are being forced from their homes by the rapid development of houses and shopping malls. As it becomes harder to find food and shelter, they decide to band together and fight back. The Raccoons practice and perfect the ancient art of transformation until they are even able to appear as humans in hilarious circumstances.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/xbpD0l4Y4DKVMc3LjsiSCE2sC5z-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/SvSvVvnI2wY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/pom-poko/",
+  "Name": "Pom Poko"
 }

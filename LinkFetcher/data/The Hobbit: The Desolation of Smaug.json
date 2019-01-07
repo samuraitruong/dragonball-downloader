@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hyR7Fs6Tepgu3yCQGtgO4Ilz9tY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hyR7Fs6Tepgu3yCQGtgO4Ilz9tY.jpg",
+      "Name": "The Hobbit: The Desolation of Smaug"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xrcBl0NsvQRCQJGG2a4VKdzIEl4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xrcBl0NsvQRCQJGG2a4VKdzIEl4.jpg",
+      "Name": "The Hobbit: The Desolation of Smaug"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m84Gda5qqRyrq0TB79zHrgq8wSt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m84Gda5qqRyrq0TB79zHrgq8wSt.jpg",
+      "Name": "The Hobbit: The Desolation of Smaug"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ypA4GfagohMIwL9QLXlf4OD9V5k.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ypA4GfagohMIwL9QLXlf4OD9V5k.jpg",
+      "Name": "The Hobbit: The Desolation of Smaug"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/Amz3n8eoLlOjwA2c1DMB7HWqL73.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/Amz3n8eoLlOjwA2c1DMB7HWqL73.jpg",
+      "Name": "The Hobbit: The Desolation of Smaug"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kKHyPXxOGtp5klWn7dDp7QZ7tWo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kKHyPXxOGtp5klWn7dDp7QZ7tWo.jpg",
+      "Name": "The Hobbit: The Desolation of Smaug"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nXUbQT34WOjMQCsUpgxGwdXaMAo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nXUbQT34WOjMQCsUpgxGwdXaMAo.jpg",
+      "Name": "The Hobbit: The Desolation of Smaug"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eckerqPKem6sViwwz9vOJCoh70W.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eckerqPKem6sViwwz9vOJCoh70W.jpg",
+      "Name": "The Hobbit: The Desolation of Smaug"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bTDCbCBsOBcb6yrqHTqYDNGq4tf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bTDCbCBsOBcb6yrqHTqYDNGq4tf.jpg",
+      "Name": "The Hobbit: The Desolation of Smaug"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yppRXOiiDuTyB8EfwbAxrLfdXBA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yppRXOiiDuTyB8EfwbAxrLfdXBA.jpg",
+      "Name": "The Hobbit: The Desolation of Smaug"
+    }
+  ],
+  "Links": [],
+  "Intro": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/gQCiuxGsfiXH1su6lp9n0nd0UeH-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/BcB0znwAdmg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-hobbit-the-desolation-of-smaug/",
+  "Name": "The Hobbit: The Desolation of Smaug"
+}

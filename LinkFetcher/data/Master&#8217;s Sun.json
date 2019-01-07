@@ -1,0 +1,522 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao-khoa-hoc/",
+      "Name": "Kỳ Ảo Khoa Học"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/GErk1GGcOwiGglz0J4TWiWGwJf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/GErk1GGcOwiGglz0J4TWiWGwJf.jpg",
+      "Name": "Master&#8217;s Sun"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sZxyPRIZoKivfeTJQ9xOvApKr7Q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sZxyPRIZoKivfeTJQ9xOvApKr7Q.jpg",
+      "Name": "Master&#8217;s Sun"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rBUXesW7JUF8IrcmEmOdEzUoA7s.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rBUXesW7JUF8IrcmEmOdEzUoA7s.jpg",
+      "Name": "Master&#8217;s Sun"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v0VEr5Ok0J8SraA44j6zQKGHQv5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v0VEr5Ok0J8SraA44j6zQKGHQv5.jpg",
+      "Name": "Master&#8217;s Sun"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uelTR6K2k1xOJY4iqKxX86SJsgF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uelTR6K2k1xOJY4iqKxX86SJsgF.jpg",
+      "Name": "Master&#8217;s Sun"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u6bucU65Lvtr5xS4wsVYzqAadIq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u6bucU65Lvtr5xS4wsVYzqAadIq.jpg",
+      "Name": "Master&#8217;s Sun"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pLf5J7I19jZ9LPPmLJkJoOWK1fh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pLf5J7I19jZ9LPPmLJkJoOWK1fh.jpg",
+      "Name": "Master&#8217;s Sun"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tAG0q8MRLdHQRnvyjQZtoBZmWUj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tAG0q8MRLdHQRnvyjQZtoBZmWUj.jpg",
+      "Name": "Master&#8217;s Sun"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b9jfpBRPfxE3IOnmU8QVfmvpaXK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b9jfpBRPfxE3IOnmU8QVfmvpaXK.jpg",
+      "Name": "Master&#8217;s Sun"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vnHemz7fZGxAtZawWveqfONLScq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vnHemz7fZGxAtZawWveqfONLScq.jpg",
+      "Name": "Master&#8217;s Sun"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/masters-sun-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/masters-sun-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/masters-sun-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/masters-sun-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/masters-sun-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/masters-sun-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/masters-sun-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/masters-sun-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/masters-sun-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/masters-sun-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/masters-sun-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/masters-sun-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/masters-sun-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/masters-sun-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/masters-sun-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/masters-sun-1x16/",
+      "Name": "Episode 16"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/masters-sun-1x17/",
+      "Name": "Episode 17"
+    }
+  ],
+  "Intro": "Joo Joong-won is the arrogant, greedy CEO of Kingdom, a conglomerate that includes a supermall and a hotel. &#8220;Ghost whisperer” Tae Gong-shil, is a misunderstood outcast who can&#8217;t keep a boyfriend or a job since a near death experience left her seeing needy ghosts. She feels compelled to help them resolve their earthly issues so they can move on to the afterlife&#8230; and he feels compelled to think she&#8217;s crazy. Soon their lives merge into a complicated web of hijinx, misunderstandings, and&#8230; yes, love.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/8dNQTTHAirWwCpQM85amONPcZSA-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/mcseASwsM5Pp4H9rYwlf5zTet1J.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/mcseASwsM5Pp4H9rYwlf5zTet1J.jpg",
+              "Name": "Master&#8217;s Sun 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": "Joo Joong Won is the CEO of Kingdom Enterprise, and he&#8217;s only interested in two things: his money and himself. But then he meets Tae Gong Shil, a woman with the ability to see ghosts. Needless to say, they get off to a very rocky start.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/masters-sun-1x1/",
+          "Name": "Master's Sun 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/Rc25xVwRHuS7fzlk2J7Lpfb1g6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/Rc25xVwRHuS7fzlk2J7Lpfb1g6.jpg",
+              "Name": "Master&#8217;s Sun 1&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": "Gong Sil warns Joong Won&#8217;s aunt that an evil spirit is lurking in Joong Won&#8217;s engagement present.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/masters-sun-1x10/",
+          "Name": "Master's Sun 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/mkeSzZvHRpllJ79LgmUufrIGVhO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/mkeSzZvHRpllJ79LgmUufrIGVhO.jpg",
+              "Name": "Master&#8217;s Sun 1&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": "Gong Sill meets the ghost of Giant Mall&#8217;s chairman while attending his funeral with Joong Won.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/masters-sun-1x11/",
+          "Name": "Master's Sun 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1rYETCyc0quLomGvlMMWvRDIc3v.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1rYETCyc0quLomGvlMMWvRDIc3v.jpg",
+              "Name": "Master&#8217;s Sun 1&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": "Gong Sil meets the ghost of a missing child whose mother is desperately searching for him.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/masters-sun-1x12/",
+          "Name": "Master's Sun 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/eN3Vya08VL0oZgEvcXMbCfv4xR2.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/eN3Vya08VL0oZgEvcXMbCfv4xR2.jpg",
+              "Name": "Master&#8217;s Sun 1&#215;13"
+            }
+          ],
+          "Links": [],
+          "Intro": "Gong Sil asks the ghost matchmaker to help her find a way to save Joong Won.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/masters-sun-1x13/",
+          "Name": "Master's Sun 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jdzoHj3q5LCkSpVqAPI4BNiy6OA.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jdzoHj3q5LCkSpVqAPI4BNiy6OA.jpg",
+              "Name": "Master&#8217;s Sun 1&#215;14"
+            }
+          ],
+          "Links": [],
+          "Intro": "Gong Sil starts her new job helping the ghost matchmaker, meanwhile Secretary Kim is back in Korea.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/masters-sun-1x14/",
+          "Name": "Master's Sun 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rTDffxY1aWe5kJ986aY0L4DtEj1.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rTDffxY1aWe5kJ986aY0L4DtEj1.jpg",
+              "Name": "Master&#8217;s Sun 1&#215;15"
+            }
+          ],
+          "Links": [],
+          "Intro": "Gong Sil meets someone from her past, meanwhile Yi Ryung finally gets her dinner date with Kang Woo.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/masters-sun-1x15/",
+          "Name": "Master's Sun 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8IgUYj4e85UVxDyFQG4APdIw0rr.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8IgUYj4e85UVxDyFQG4APdIw0rr.jpg",
+              "Name": "Master&#8217;s Sun 1&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": "The child ghost, Woo Jin, reappears and begs Gong Sil to save his mother.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/masters-sun-1x16/",
+          "Name": "Master's Sun 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/anUCOQtarOqAAUl0X2svHrUE9Jw.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/anUCOQtarOqAAUl0X2svHrUE9Jw.jpg",
+              "Name": "Master&#8217;s Sun 1&#215;17"
+            }
+          ],
+          "Links": [],
+          "Intro": "Gong Sil is acting different since returning to Korea and Joong Won is not happy about it.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/masters-sun-1x17/",
+          "Name": "Master's Sun 1x17"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2uhwoqBmAEKgxjBbn14bjMMzByz.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2uhwoqBmAEKgxjBbn14bjMMzByz.jpg",
+              "Name": "Master&#8217;s Sun 1&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": "A rumor circulates that the fountain inside of Kingdom&#8217;s mall is haunted by a female ghost.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/masters-sun-1x2/",
+          "Name": "Master's Sun 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nX2miPneAuimu7UXhISRsqY5uIv.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nX2miPneAuimu7UXhISRsqY5uIv.jpg",
+              "Name": "Master&#8217;s Sun 1&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": "Gong Sil finds a shoe that belongs to the dead wife of one of the shop owners in Kingdom.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/masters-sun-1x3/",
+          "Name": "Master's Sun 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/uL1x5NrX6RBjvTpTOM2RKJOJkPJ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/uL1x5NrX6RBjvTpTOM2RKJOJkPJ.jpg",
+              "Name": "Master&#8217;s Sun 1&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": "Joong Won agrees to let Gong Sil stay close to him; meanwhile another ghost has shown up at Kingdom Mall.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/masters-sun-1x4/",
+          "Name": "Master's Sun 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fNJF5D7HS0ZMlDST4R3hkCXfpDj.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fNJF5D7HS0ZMlDST4R3hkCXfpDj.jpg",
+              "Name": "Master&#8217;s Sun 1&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": "A ghost matchmaker warns Gong Sil to be wary of ghosts who might want to use her to return to the living.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/masters-sun-1x5/",
+          "Name": "Master's Sun 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7ZBrWWFEl7jn8MZXLwTMsqYEU4Y.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7ZBrWWFEl7jn8MZXLwTMsqYEU4Y.jpg",
+              "Name": "Master&#8217;s Sun 1&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": "As Gong Sil gets closer to Kang Woo, she worries that he&#8217;ll distance himself if he finds out that she can see ghosts.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/masters-sun-1x6/",
+          "Name": "Master's Sun 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xV4dOciIJObAXdftFlCmMMR1NB9.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xV4dOciIJObAXdftFlCmMMR1NB9.jpg",
+              "Name": "Master&#8217;s Sun 1&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": "Secretary Kim gets a cold, Gong Sil has to step in as Joong Won&#8217;s secretary for the day.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/masters-sun-1x7/",
+          "Name": "Master's Sun 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/59YBMdf8aHPkv0IMDtpjbfHXfkz.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/59YBMdf8aHPkv0IMDtpjbfHXfkz.jpg",
+              "Name": "Master&#8217;s Sun 1&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": "Joong Won finds out the real reason Kang Woo began to work for him.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/masters-sun-1x8/",
+          "Name": "Master's Sun 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/5c1zBBueJsY4W2gz4UlFRnXkMyA.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/5c1zBBueJsY4W2gz4UlFRnXkMyA.jpg",
+              "Name": "Master&#8217;s Sun 1&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": "Joong Won saves Gong Sil when a piantist&#8217;s dead wife takes over her body.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/masters-sun-1x9/",
+          "Name": "Master's Sun 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Aug. 07, 2013"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/masters-sun/",
+  "Name": "Master&#8217;s Sun"
+}

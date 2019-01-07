@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gcxpeba5CtUA8Jkwio8sNZyimEC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gcxpeba5CtUA8Jkwio8sNZyimEC.jpg",
+      "Name": "Chiến Binh Tự Do - V for Vendetta"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lxwPthqCYWIr9C57W26lcbjctJZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lxwPthqCYWIr9C57W26lcbjctJZ.jpg",
+      "Name": "Chiến Binh Tự Do - V for Vendetta"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bWSXkK7vbuDHVVS9pA3F3hYeZYQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bWSXkK7vbuDHVVS9pA3F3hYeZYQ.jpg",
+      "Name": "Chiến Binh Tự Do - V for Vendetta"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/n17l67HjbGtpZWmOOMsahaDb3zF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/n17l67HjbGtpZWmOOMsahaDb3zF.jpg",
+      "Name": "Chiến Binh Tự Do - V for Vendetta"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9rqMfCKNmWjhaEzu6pgiv9cR2iR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9rqMfCKNmWjhaEzu6pgiv9cR2iR.jpg",
+      "Name": "Chiến Binh Tự Do - V for Vendetta"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pZd7vnGHbrFrD32M6JZBbm1xgM6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pZd7vnGHbrFrD32M6JZBbm1xgM6.jpg",
+      "Name": "Chiến Binh Tự Do - V for Vendetta"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xe4eShlQtvDjbYkKjaSCSClR0nW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xe4eShlQtvDjbYkKjaSCSClR0nW.jpg",
+      "Name": "Chiến Binh Tự Do - V for Vendetta"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vsjGuEYUbnqbJohin4h5Nd6UkPk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vsjGuEYUbnqbJohin4h5Nd6UkPk.jpg",
+      "Name": "Chiến Binh Tự Do - V for Vendetta"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zkfh8HemjWUoGC7jn5SvHPyD14U.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zkfh8HemjWUoGC7jn5SvHPyD14U.jpg",
+      "Name": "Chiến Binh Tự Do - V for Vendetta"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/htkug2xAl4qGSNFFTUZCn2fzPhH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/htkug2xAl4qGSNFFTUZCn2fzPhH.jpg",
+      "Name": "Chiến Binh Tự Do - V for Vendetta"
+    }
+  ],
+  "Links": [],
+  "Intro": "Nhân vật chính là V có kế hoạch cho nổ tòa đại hình và nhà quốc hội Anh, nhằm lật đổ đảng chuyên chế đang cầm quyền tại Anh lúc bấy giờ. Anh luôn xuất hiện trong bộ áo choàng đen và chiếc mặt nạ Guy Fawkes &#8211; biểu tượng của tư tưởng vô chính phủ.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/8rI9pNiTmugkEbI249evLygl9TC-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ZR5xUl2Suew?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/v-for-vendetta/",
+  "Name": "Chiến Binh Tự Do"
+}

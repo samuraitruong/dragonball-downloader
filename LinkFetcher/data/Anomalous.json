@@ -1,0 +1,58 @@
+{
+  "Id": "movmb5Thq419315",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3WO5PKT07qqHccYdyKtGZzOcKEn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3WO5PKT07qqHccYdyKtGZzOcKEn.jpg",
+      "Name": "Anomalous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uJWyKzmLs5ssSpT9zYgYdLj6HFy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uJWyKzmLs5ssSpT9zYgYdLj6HFy.jpg",
+      "Name": "Anomalous"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qta19BCryyHKkKl5NSoeNCtXZPi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qta19BCryyHKkKl5NSoeNCtXZPi.jpg",
+      "Name": "Anomalous"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movmb5thq419315-2/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/anomalous",
+      "Name": "Subtitle"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movmb5thq419315/",
+      "Size": "4.4 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/3ZIALVBMZQJ5",
+      "Name": "720p"
+    }
+  ],
+  "Intro": "A young schizophrenic who felt threatened by a presence he was unable to define turns up gruesomely dead in his bathtub",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/fDqKcjV7mRykX4rAGCPQnLsBaWK-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/anomalous/",
+  "Name": "Anomalous"
+}

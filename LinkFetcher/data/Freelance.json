@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tVYZK5cvxDdgzu6o4gxfXQkhUdE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tVYZK5cvxDdgzu6o4gxfXQkhUdE.jpg",
+      "Name": "Freelance"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5dBOeuOJkHxyqhjq6cSDJyi0Zmo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5dBOeuOJkHxyqhjq6cSDJyi0Zmo.jpg",
+      "Name": "Freelance"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/drGwDtNf2503GakxVwHoyrzT00F.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/drGwDtNf2503GakxVwHoyrzT00F.jpg",
+      "Name": "Freelance"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lXVOuaLHrKHrD060A185wly6hBw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lXVOuaLHrKHrD060A185wly6hBw.jpg",
+      "Name": "Freelance"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lVSL1E92cAyx420L03TFtAl1pz7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lVSL1E92cAyx420L03TFtAl1pz7.jpg",
+      "Name": "Freelance"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v46gsQupME05PxG9tqF92gMXa0c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v46gsQupME05PxG9tqF92gMXa0c.jpg",
+      "Name": "Freelance"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/n1LqgZPhhvol12Mu1UVThgUPVpL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/n1LqgZPhhvol12Mu1UVThgUPVpL.jpg",
+      "Name": "Freelance"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8M0a5z0fgvgpGrnA1cEBnS7oYDk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8M0a5z0fgvgpGrnA1cEBnS7oYDk.jpg",
+      "Name": "Freelance"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rCnOt1z6XYbCs8tRRJxoIM3nDZB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rCnOt1z6XYbCs8tRRJxoIM3nDZB.jpg",
+      "Name": "Freelance"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sELgVSJ0hjIYh6DiZHp7y2Zt9L9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sELgVSJ0hjIYh6DiZHp7y2Zt9L9.jpg",
+      "Name": "Freelance"
+    }
+  ],
+  "Links": [],
+  "Intro": "A hard-worker freelancer who falls in love with a doctor. While his life is getting worse every second. He must find the way to release his life to the beyond of everything.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/wBzDU2rF6otVLITRV7oWJa1IAlD-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Emth-wTtsNM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/freelance/",
+  "Name": "Freelance"
+}

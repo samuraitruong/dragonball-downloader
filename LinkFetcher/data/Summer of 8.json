@@ -1,0 +1,36 @@
+{
+  "Id": "movMy8m6C352164",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yGKoh5LubKCvomX4sf2moghPDSB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yGKoh5LubKCvomX4sf2moghPDSB.jpg",
+      "Name": "Summer of 8"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movmy8m6c352164/",
+      "Size": "3.3 GB",
+      "FileSize": 3524483868,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/MG8GARR8KXODH3M",
+      "Name": "Summer.of.8.2016.ViE.1080p.WEB-DL.DD5.1.H264-FGT.mkv"
+    }
+  ],
+  "Intro": "Eight close friends soak up their last day of summer together on the beach before parting ways for college.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/xWXmoG7wFjJriLUamjCCZPFfrdH-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/80AFAkJQQeA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/summer-of-8/",
+  "Name": "Summer of 8"
+}

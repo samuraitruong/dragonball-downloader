@@ -1,14 +1,75 @@
 {
   "Id": "movYdeHJt22794",
-  "Url": "https://fsharephim.com/movies/cloudy-with-a-chance-of-meatballs/",
-  "Name": "Cloudy with a Chance of Meatballs",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vYovS909jUV3wxms4DmHGjZ1lhw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vYovS909jUV3wxms4DmHGjZ1lhw.jpg",
+      "Name": "Cloudy with a Chance of Meatballs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xgH52bpPbu8uwwx5VAS6fbCyHfj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xgH52bpPbu8uwwx5VAS6fbCyHfj.jpg",
+      "Name": "Cloudy with a Chance of Meatballs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kQPVqsTXZpBmgm7OcC4GoGCYDRN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kQPVqsTXZpBmgm7OcC4GoGCYDRN.jpg",
+      "Name": "Cloudy with a Chance of Meatballs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bhf7LIk38PdBea0XSxEMGwtSuMx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bhf7LIk38PdBea0XSxEMGwtSuMx.jpg",
+      "Name": "Cloudy with a Chance of Meatballs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4bY2TN5eRQmhZhWIJoESJGzb5Nb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4bY2TN5eRQmhZhWIJoESJGzb5Nb.jpg",
+      "Name": "Cloudy with a Chance of Meatballs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gKVEHrLsVL6oyjd1vsLMEv5lB2G.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gKVEHrLsVL6oyjd1vsLMEv5lB2G.jpg",
+      "Name": "Cloudy with a Chance of Meatballs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8FhFsIgUaWxvHa7SuZAF4krPJGP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8FhFsIgUaWxvHa7SuZAF4krPJGP.jpg",
+      "Name": "Cloudy with a Chance of Meatballs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bx7E8oUv1IVrpPZZsoEV6Y1AGjk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bx7E8oUv1IVrpPZZsoEV6Y1AGjk.jpg",
+      "Name": "Cloudy with a Chance of Meatballs"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movydehjt22794/",
-      "Name": "Cloudy.With.A.Chance.Of.Meatballs.2009.mkv",
-      "Url": "https://www.fshare.vn/file/TA3SXDA8CT",
       "Size": "1.98 GB",
-      "FileSize": 2125345580
+      "FileSize": 2125345580,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/TA3SXDA8CT",
+      "Name": "Cloudy.With.A.Chance.Of.Meatballs.2009.mkv"
     }
-  ]
+  ],
+  "Intro": "Inventor Flint Lockwood creates a machine that makes clouds rain food, enabling the down-and-out citizens of Chewandswallow to feed themselves. But when the falling food reaches gargantuan proportions, Flint must scramble to avert disaster. Can he regain control of the machine and put an end to the wild weather before the town is destroyed?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/75QV0rNm6QHpMnpIGrZK0ev08rH-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/5kQnlBW02tI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/cloudy-with-a-chance-of-meatballs/",
+  "Name": "Cloudy with a Chance of Meatballs"
 }

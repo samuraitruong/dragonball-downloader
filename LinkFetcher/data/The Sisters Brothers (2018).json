@@ -1,0 +1,49 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/mien-tay/",
+      "Name": "Miền Tây"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iOa6iD7t7nv6wghPuMdZCaQSDJh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iOa6iD7t7nv6wghPuMdZCaQSDJh.jpg ",
+      "Name": "The Sisters Brothers (2018) - The Sisters Brothers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iGAQZPnHLeXTaxZdKVUjLegWDom.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iGAQZPnHLeXTaxZdKVUjLegWDom.jpg ",
+      "Name": "The Sisters Brothers (2018) - The Sisters Brothers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wpLcxS43u5nLakJex5N8eZZZWbz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wpLcxS43u5nLakJex5N8eZZZWbz.jpg ",
+      "Name": "The Sisters Brothers (2018) - The Sisters Brothers"
+    }
+  ],
+  "Links": [],
+  "Intro": "The Sisters Brothers: Nội dung kể về 2 anh em sát thủ nổi tiếng nhà Sisters truy đuổi theo 1 kẻ săn vàng",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/12/wTgomqYRTXT3BXQScnIo8uHDyWC-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/3OwvqKwTKmE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-sisters-brothers/",
+  "Name": "The Sisters Brothers (2018)"
+}

@@ -1,49 +1,76 @@
 {
-  "Id": "mov0Wh5xS8587",
-  "Url": "https://fsharephim.com/movies/the-lion-king/",
-  "Name": "The Lion King",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov0wh5xs8587-3/",
-      "Name": "The Lion King (1994) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/ZJE5APFQ5661",
-      "Size": "500.82 MB",
-      "FileSize": 525147598
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov0wh5xs8587-4/",
-      "Name": "The Lion King (1994) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/TXYPGVPNWBJH",
-      "Size": "1.24 GB",
-      "FileSize": 1328716257
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov0wh5xs8587-5/",
-      "Name": "The Lion King (1994) 3D 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/EOZLSTK3DEJA",
-      "Size": "1.3 GB",
-      "FileSize": 1393349211
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/mov0wh5xs8587-6/",
-      "Name": "The Lion King (1994) 1080p BluRay AVC DTS-HD MA 7.1.iso",
-      "Url": "https://www.fshare.vn/file/RQ2UR4VUE454",
-      "Size": "42.2 GB",
-      "FileSize": 45313687552
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/mov0wh5xs8587/",
-      "Name": "The.Lion.King.1994.720p.x264.DD5.1-NiX (TM 5.1 - khukhooo - HDVNBits).mkv",
-      "Url": "https://www.fshare.vn/file/TQKKSF819T",
-      "Size": "2.3 GB",
-      "FileSize": 2471319815
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/mov0wh5xs8587-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/the-lion-king",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6lL49SOgBtqiXMs7Y5HWBYH3X9Z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6lL49SOgBtqiXMs7Y5HWBYH3X9Z.jpg",
+      "Name": "The Lion King"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ftKyVwGiGp5Gt6BDqWJLlb2TzCZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ftKyVwGiGp5Gt6BDqWJLlb2TzCZ.jpg",
+      "Name": "The Lion King"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/klI0K4oQMsLhHdjA9Uw8WLugk9v.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/klI0K4oQMsLhHdjA9Uw8WLugk9v.jpg",
+      "Name": "The Lion King"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bAhSx41EYJUWJ0hlp3PNSjE9wqU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bAhSx41EYJUWJ0hlp3PNSjE9wqU.jpg",
+      "Name": "The Lion King"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9XPHUqlTEgWCDgl9idxNc9lM1IX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9XPHUqlTEgWCDgl9idxNc9lM1IX.jpg",
+      "Name": "The Lion King"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dKKc3sU0qBt2nqbiN8cKzn24mk4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dKKc3sU0qBt2nqbiN8cKzn24mk4.jpg",
+      "Name": "The Lion King"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gGAp0gyV04POPVOLrGii474dU9L.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gGAp0gyV04POPVOLrGii474dU9L.jpg",
+      "Name": "The Lion King"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sovszUGOwcCfdcfg2xYGMnsRryf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sovszUGOwcCfdcfg2xYGMnsRryf.jpg",
+      "Name": "The Lion King"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3KNOWjctl3DwtFI3GIxJhL4Om4H.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3KNOWjctl3DwtFI3GIxJhL4Om4H.jpg",
+      "Name": "The Lion King"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yRGGFksp7sJBrRpXez5UYswctmc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yRGGFksp7sJBrRpXez5UYswctmc.jpg",
+      "Name": "The Lion King"
+    }
+  ],
+  "Links": [],
+  "Intro": "A young lion cub named Simba can&#8217;t wait to be king. But his uncle craves the title for himself and will stop at nothing to get it.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/bKPtXn9n4M4s8vvZrbw40mYsefB-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/4sj1MT05lAA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-lion-king/",
+  "Name": "The Lion King"
 }

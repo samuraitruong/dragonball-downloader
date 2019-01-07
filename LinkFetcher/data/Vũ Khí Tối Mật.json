@@ -1,0 +1,48 @@
+{
+  "Id": "movXFqLKT383140",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eNPSltALfL3g5yY0eWwyui5XQNT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eNPSltALfL3g5yY0eWwyui5XQNT.jpg",
+      "Name": "Vũ Khí Tối Mật - Weaponized"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movxfqlkt383140/",
+      "Size": "4.37 GB",
+      "FileSize": 4693288580,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/EI2J89BKN9Z1",
+      "Name": "Swap.(Weaponized).2016.720p.BluRay.DTS.x264-ROVERS(t).mkv"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movxfqlkt383140-2/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/weaponized/vietnamese/1283533",
+      "Name": "Viet - Subtitle"
+    }
+  ],
+  "Intro": "Một thám tử phạm tội giết người (Johnny Messner) đang cố ngăn chặn một người cha muốn thử nghiệm một loại virus mà người cha này tin rằng virus đó có khả năng phá hủy những tế bào ác tính đang đe dọa tính mạng con trai ông ấy, nhưng cái giá phải trả không hề nhỏ.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/xTtJpfelvkA024hHuNGcn13aZPU-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/OLgpUebFYTM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/weaponized/",
+  "Name": "Vũ Khí Tối Mật"
+}

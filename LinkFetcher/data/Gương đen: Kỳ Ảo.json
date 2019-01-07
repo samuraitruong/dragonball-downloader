@@ -1,0 +1,84 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/tv-movie/",
+      "Name": "TV Movie"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tmsddF6G7vIbJ2Lg6DZDVbnhBxs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tmsddF6G7vIbJ2Lg6DZDVbnhBxs.jpg ",
+      "Name": "Gương đen: Kỳ Ảo - Black Mirror: Bandersnatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bbh8r8V3WXkcohNvyoRBotFsUoH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bbh8r8V3WXkcohNvyoRBotFsUoH.jpg ",
+      "Name": "Gương đen: Kỳ Ảo - Black Mirror: Bandersnatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dQIASg8fDKgWQaSwoThvEJ1vbvV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dQIASg8fDKgWQaSwoThvEJ1vbvV.jpg ",
+      "Name": "Gương đen: Kỳ Ảo - Black Mirror: Bandersnatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/siSe45WsMc2Ts6iJgQtNMLDXiaU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/siSe45WsMc2Ts6iJgQtNMLDXiaU.jpg ",
+      "Name": "Gương đen: Kỳ Ảo - Black Mirror: Bandersnatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/foTis7OajWM8I0wKAJ4AZG1rnUB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/foTis7OajWM8I0wKAJ4AZG1rnUB.jpg ",
+      "Name": "Gương đen: Kỳ Ảo - Black Mirror: Bandersnatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zJxakVsYOozIdMsenKt6mLZKB8y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zJxakVsYOozIdMsenKt6mLZKB8y.jpg ",
+      "Name": "Gương đen: Kỳ Ảo - Black Mirror: Bandersnatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2q6fDRdbdwZPokWtcsAZTjZ5HXx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2q6fDRdbdwZPokWtcsAZTjZ5HXx.jpg ",
+      "Name": "Gương đen: Kỳ Ảo - Black Mirror: Bandersnatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b9ea4ZFaKNCZlFXlQ7uDqpqjcRx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b9ea4ZFaKNCZlFXlQ7uDqpqjcRx.jpg ",
+      "Name": "Gương đen: Kỳ Ảo - Black Mirror: Bandersnatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xaT7dSVNUK10xf7SNqRl21kxEP9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xaT7dSVNUK10xf7SNqRl21kxEP9.jpg ",
+      "Name": "Gương đen: Kỳ Ảo - Black Mirror: Bandersnatch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/55KCKu3mUwYce0hnNvTGChkJC0q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/55KCKu3mUwYce0hnNvTGChkJC0q.jpg ",
+      "Name": "Gương đen: Kỳ Ảo - Black Mirror: Bandersnatch"
+    }
+  ],
+  "Links": [],
+  "Intro": "Năm 1984, một lập trình viên trẻ bắt đầu đặt câu hỏi về thực tế khi anh ta đưa một cuốn tiểu thuyết giả tưởng đen tối vào một trò chơi video. Một câu chuyện làm \u001dbẻ cong trong tâm trí suy nghĩ với nhiều kết thúc khác nhau.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2019/01/fR0VZ0VE598zl1lrYf7IfBqEwQ2-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/XM0xWpBYlNM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/black-mirror-bandersnatch/",
+  "Name": "Gương đen: Kỳ Ảo"
+}

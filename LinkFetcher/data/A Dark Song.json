@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wK7hylZXDFh9ZlhqkSm1CCcaK6u.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wK7hylZXDFh9ZlhqkSm1CCcaK6u.jpg ",
+      "Name": "A Dark Song"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sac5saRWC8zV8GFHL4D45TuUr3s.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sac5saRWC8zV8GFHL4D45TuUr3s.jpg ",
+      "Name": "A Dark Song"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fcSCPSfokv9GdOhSRBtFrtkYVHg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fcSCPSfokv9GdOhSRBtFrtkYVHg.jpg ",
+      "Name": "A Dark Song"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nOHFOxK8oFUHGoXNFHnaebuo74c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nOHFOxK8oFUHGoXNFHnaebuo74c.jpg ",
+      "Name": "A Dark Song"
+    }
+  ],
+  "Links": [],
+  "Intro": "A determined young woman and a damaged occultist risk their lives and souls to perform a dangerous ritual that will grant them what they want.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/vNC7oLMUmCiOane2zhOeWSWucWG-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/K-mL0ZttajI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/a-dark-song/",
+  "Name": "A Dark Song"
+}

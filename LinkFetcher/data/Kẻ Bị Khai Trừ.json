@@ -1,0 +1,46 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aQ06MnEDLh9X3ZOtY21UD2XB197.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aQ06MnEDLh9X3ZOtY21UD2XB197.jpg ",
+      "Name": "Kẻ Bị Khai Trừ - The Bad Batch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iVZr9ubQwV9Rvbwiw9IvTWtbR5j.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iVZr9ubQwV9Rvbwiw9IvTWtbR5j.jpg ",
+      "Name": "Kẻ Bị Khai Trừ - The Bad Batch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tF07ITxW5ZYSs1kwWTY1wTGM5I0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tF07ITxW5ZYSs1kwWTY1wTGM5I0.jpg ",
+      "Name": "Kẻ Bị Khai Trừ - The Bad Batch"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bQ5Es0cxFiz7axC3VTZpM9Lx6aD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bQ5Es0cxFiz7axC3VTZpM9Lx6aD.jpg ",
+      "Name": "Kẻ Bị Khai Trừ - The Bad Batch"
+    }
+  ],
+  "Links": [],
+  "Intro": "The Bad Batch là một bộ phim khoa học viễn tưởng kinh dị kể về câu chuyện của một cô gái trẻ tuổi Arlen. Ô tô của cô bị chết máy giữa sa mạc. Không may cô đã bị một băng nhóm tôn sùng thứ tôn giáo ma quỷ và chuyên ăn thịt người bắt cóc và tra tấn dã man.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/7o14VaMphEIzPwzeW6FP3A6zb4W-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/1NrjKgwqNOU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-bad-batch/",
+  "Name": "Kẻ Bị Khai Trừ"
+}

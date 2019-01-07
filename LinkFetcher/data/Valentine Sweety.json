@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qerEgao62wM7S2cLSdIA8j2e5HQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qerEgao62wM7S2cLSdIA8j2e5HQ.jpg",
+      "Name": "Valentine Sweety"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1IG9WG45Nx8tstKxyFwasbppYBY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1IG9WG45Nx8tstKxyFwasbppYBY.jpg",
+      "Name": "Valentine Sweety"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uVfzMKqXoZ5chGGkqA8Lm3n23ZW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uVfzMKqXoZ5chGGkqA8Lm3n23ZW.jpg",
+      "Name": "Valentine Sweety"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iAh9Q3gXzl1i5p6HJXXJ8Aw13U1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iAh9Q3gXzl1i5p6HJXXJ8Aw13U1.jpg",
+      "Name": "Valentine Sweety"
+    }
+  ],
+  "Links": [],
+  "Intro": "A romantic comedy which is a sequel to last year’s popular Bangkok Sweety. As before, it features a number of different love stories that take place on Valentine’s Day.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/unp3XDcX47IdtIls6d74uyeleJM-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/valentine-sweety/",
+  "Name": "Valentine Sweety"
+}

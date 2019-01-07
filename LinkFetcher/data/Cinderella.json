@@ -1,21 +1,80 @@
 {
-  "Id": "movgaDYoN11224",
-  "Url": "https://fsharephim.com/movies/cinderella/",
-  "Name": "Cinderella",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movgadyon11224-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/cinderella",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movgadyon11224/",
-      "Name": "Cinderella.1950.720p.HDTV.DD5.1.x264-CtrlHD (Thuyet minh - HDVNBITS.ORG).mkv",
-      "Url": "https://www.fshare.vn/file/T3TSH7CSVT",
-      "Size": "2.44 GB",
-      "FileSize": 2615323804
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xSN1cpugrzi8DjpVxtHeRRlbB6Q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xSN1cpugrzi8DjpVxtHeRRlbB6Q.jpg",
+      "Name": "Cinderella"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xDbpTlz5VfZx8SNcVObl40FRRio.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xDbpTlz5VfZx8SNcVObl40FRRio.jpg",
+      "Name": "Cinderella"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qqx4BuhUcp0fnFpsShhF5QywK8m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qqx4BuhUcp0fnFpsShhF5QywK8m.jpg",
+      "Name": "Cinderella"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kbm5k0MXxcZAgqt3HBZqJvlOwFR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kbm5k0MXxcZAgqt3HBZqJvlOwFR.jpg",
+      "Name": "Cinderella"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dSfqPUyKqoJzSuG27tczh5fOkWj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dSfqPUyKqoJzSuG27tczh5fOkWj.jpg",
+      "Name": "Cinderella"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7rZZFmyvGFnJx7fGIug2cl6mHGd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7rZZFmyvGFnJx7fGIug2cl6mHGd.jpg",
+      "Name": "Cinderella"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bH869Mka2Qs1OP4fA9nXp8wFjyn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bH869Mka2Qs1OP4fA9nXp8wFjyn.jpg",
+      "Name": "Cinderella"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b7liWxA9QLdfva26n4rNEWPaNes.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b7liWxA9QLdfva26n4rNEWPaNes.jpg",
+      "Name": "Cinderella"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v4TF8Xh5f5QDDoliLvQz0zzDuNM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v4TF8Xh5f5QDDoliLvQz0zzDuNM.jpg",
+      "Name": "Cinderella"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/y4S5tj7BatNBLhY1nGYX3KoUaEo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/y4S5tj7BatNBLhY1nGYX3KoUaEo.jpg",
+      "Name": "Cinderella"
+    }
+  ],
+  "Links": [],
+  "Intro": "Cinderella has faith her dreams of a better life will come true. With help from her loyal mice friends and a wave of her Fairy Godmother&#8217;s wand, Cinderella&#8217;s rags are magically turned into a glorious gown and off she goes to the Royal Ball. But when the clock strikes midnight, the spell is broken, leaving a single glass slipper&#8230; the only key to the ultimate fairy-tale ending!",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/cdf4J7tDhSPAghWWgx9EnwQWBfF-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/5TdZQDbRNKU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/cinderella/",
+  "Name": "Cinderella"
 }

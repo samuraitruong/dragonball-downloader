@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3NK02PLJSs01SY1hsXUAcqbG3WP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3NK02PLJSs01SY1hsXUAcqbG3WP.jpg",
+      "Name": "Percy Jackson: Sea of Monsters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gU4ZyV9bhKuZ8fjBNgfC439fecI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gU4ZyV9bhKuZ8fjBNgfC439fecI.jpg",
+      "Name": "Percy Jackson: Sea of Monsters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/45eWOGsGse0WevLTbp3SfVxrRf8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/45eWOGsGse0WevLTbp3SfVxrRf8.jpg",
+      "Name": "Percy Jackson: Sea of Monsters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/im2ljgv5BEJsUlb4mVQEt4vYgr7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/im2ljgv5BEJsUlb4mVQEt4vYgr7.jpg",
+      "Name": "Percy Jackson: Sea of Monsters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mh8m9q2cLWOiaSV5GVlKPPvYCVl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mh8m9q2cLWOiaSV5GVlKPPvYCVl.jpg",
+      "Name": "Percy Jackson: Sea of Monsters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bB8WeUkJPZ8gcffwuEiaaEkedzx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bB8WeUkJPZ8gcffwuEiaaEkedzx.jpg",
+      "Name": "Percy Jackson: Sea of Monsters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v9rp96WHGglphBUnhZypflBBruc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v9rp96WHGglphBUnhZypflBBruc.jpg",
+      "Name": "Percy Jackson: Sea of Monsters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eRAZleM5HVVbrWMfk70PrgY4M7x.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eRAZleM5HVVbrWMfk70PrgY4M7x.jpg",
+      "Name": "Percy Jackson: Sea of Monsters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/WgDoKO3pbgmmclC3Pnu2A8g1dA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/WgDoKO3pbgmmclC3Pnu2A8g1dA.jpg",
+      "Name": "Percy Jackson: Sea of Monsters"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ehTE0nOTXAbhWsSEqm0ruuJzN81.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ehTE0nOTXAbhWsSEqm0ruuJzN81.jpg",
+      "Name": "Percy Jackson: Sea of Monsters"
+    }
+  ],
+  "Links": [],
+  "Intro": "In their quest to confront the ultimate evil, Percy and his friends battle swarms of mythical creatures to find the mythical Golden Fleece and to stop an ancient evil from rising.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/k1bhUW7XM5X0yD3iewAEvloFBEo-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/6tkzMVAdlXk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/percy-jackson-sea-of-monsters/",
+  "Name": "Percy Jackson: Sea of Monsters"
+}

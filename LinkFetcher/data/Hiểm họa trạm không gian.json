@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2cnUCcNmmj79hGmimvWlUo5P2K8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2cnUCcNmmj79hGmimvWlUo5P2K8.jpg",
+      "Name": "Hiểm họa trạm không gian - The Cloverfield Paradox"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pnFlnw8Pq2gKi9vieZ63iwGLVUk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pnFlnw8Pq2gKi9vieZ63iwGLVUk.jpg",
+      "Name": "Hiểm họa trạm không gian - The Cloverfield Paradox"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fNseT0APAicV63T7yvsfg5yWwCx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fNseT0APAicV63T7yvsfg5yWwCx.jpg",
+      "Name": "Hiểm họa trạm không gian - The Cloverfield Paradox"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lX4jScWnurasu6Kxuqo9819mjM2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lX4jScWnurasu6Kxuqo9819mjM2.jpg",
+      "Name": "Hiểm họa trạm không gian - The Cloverfield Paradox"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zbma9RWyIVOmpJYfowvS10gAxvA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zbma9RWyIVOmpJYfowvS10gAxvA.jpg",
+      "Name": "Hiểm họa trạm không gian - The Cloverfield Paradox"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2pKH1EcBbEFWUr6G4DkbZ9kj5Ir.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2pKH1EcBbEFWUr6G4DkbZ9kj5Ir.jpg",
+      "Name": "Hiểm họa trạm không gian - The Cloverfield Paradox"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m9qkcnb4XGM9rBzUur7VX7t7tZ0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m9qkcnb4XGM9rBzUur7VX7t7tZ0.jpg",
+      "Name": "Hiểm họa trạm không gian - The Cloverfield Paradox"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5TQICJAxK9Py811gfXEfXIbpk6V.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5TQICJAxK9Py811gfXEfXIbpk6V.jpg",
+      "Name": "Hiểm họa trạm không gian - The Cloverfield Paradox"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oRzcpIv7Vc5Uzw0U1nhJe2z1V5W.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oRzcpIv7Vc5Uzw0U1nhJe2z1V5W.jpg",
+      "Name": "Hiểm họa trạm không gian - The Cloverfield Paradox"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bFsubVQTFmYPKmht6wcXAGJF0A3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bFsubVQTFmYPKmht6wcXAGJF0A3.jpg",
+      "Name": "Hiểm họa trạm không gian - The Cloverfield Paradox"
+    }
+  ],
+  "Links": [],
+  "Intro": "Vào năm 2008, bộ phim giả tư liệu (found-footage) lấy đề tài quái vật mang tên Cloverfield khi ra mắt đã tạo ra nhiều phản ứng trái chiều, nhưng nhìn chung vẫn là một trong những bộ phim điện ảnh ấn tượng nhất khoảng thời gian này.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/dJe4s2h9hac0Fu3pQVV4OuWe8kU-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/8brYvhEg5Aw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-cloverfield-paradox/",
+  "Name": "Hiểm họa trạm không gian"
+}

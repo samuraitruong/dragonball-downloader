@@ -1,0 +1,33 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6wSMtXHhvjnCu3Pj4AtYhjgtj86.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6wSMtXHhvjnCu3Pj4AtYhjgtj86.jpg ",
+      "Name": "The Children Act"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2a0enNwRzuDOv3np3xD3QSPw3xw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2a0enNwRzuDOv3np3xD3QSPw3xw.jpg ",
+      "Name": "The Children Act"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rRUmFlDmLzyGJKNsM8ZoqOdm5Zl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rRUmFlDmLzyGJKNsM8ZoqOdm5Zl.jpg ",
+      "Name": "The Children Act"
+    }
+  ],
+  "Links": [],
+  "Intro": "In the midst of a marital crisis, a High Court judge must decide if she should order a life-saving blood transfusion for a teen with cancer despite his family&#8217;s refusal to accept medical treatment for religious reasons.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/09/sUZA9uLAhEOmO7WemICodTxXokS-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/0J-_v38DBgU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-children-act/",
+  "Name": "The Children Act"
+}

@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rMtDntmRmkXGSK7apEMe1OrVbOG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rMtDntmRmkXGSK7apEMe1OrVbOG.jpg",
+      "Name": "The Way Way Back"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3JzEF6VqqMjlulKL8qCzwHO1wDV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3JzEF6VqqMjlulKL8qCzwHO1wDV.jpg",
+      "Name": "The Way Way Back"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1KmRGG3TJsvJu9u5wVRYz2wylRK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1KmRGG3TJsvJu9u5wVRYz2wylRK.jpg",
+      "Name": "The Way Way Back"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6YnH7ulPJHuOp52cnQjTpMZOYqi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6YnH7ulPJHuOp52cnQjTpMZOYqi.jpg",
+      "Name": "The Way Way Back"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iGDiVgC05xjlOXuTkEOEJqG6gAx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iGDiVgC05xjlOXuTkEOEJqG6gAx.jpg",
+      "Name": "The Way Way Back"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eSz9SGXou8jMBarPiDeaa83LgNX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eSz9SGXou8jMBarPiDeaa83LgNX.jpg",
+      "Name": "The Way Way Back"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4YGeEfn1KxpJUk3ypeJKxsRuIFw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4YGeEfn1KxpJUk3ypeJKxsRuIFw.jpg",
+      "Name": "The Way Way Back"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7LKRPTEu4GZ2LrFUsMATjUEpJkz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7LKRPTEu4GZ2LrFUsMATjUEpJkz.jpg",
+      "Name": "The Way Way Back"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/j06SCGdR18pYrroLDvZdaNK6VnY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/j06SCGdR18pYrroLDvZdaNK6VnY.jpg",
+      "Name": "The Way Way Back"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ynyzVhVgD4ouyXruGyTfegLUaWO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ynyzVhVgD4ouyXruGyTfegLUaWO.jpg",
+      "Name": "The Way Way Back"
+    }
+  ],
+  "Links": [],
+  "Intro": "Over the course of his summer break, a teenager comes into his own thanks in part to the friendship he strikes up with one of the park&#8217;s managers.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/cCA0ZPetEWYn7dbe6MHDwjue4UZ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/OwNo1i3jkCo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-way-way-back/",
+  "Name": "The Way Way Back"
+}

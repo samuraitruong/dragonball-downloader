@@ -1,0 +1,72 @@
+{
+  "Id": "mov1o3vln1870",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/goVghBJCVoou1U8Gpdtg37iHDQO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/goVghBJCVoou1U8Gpdtg37iHDQO.jpg",
+      "Name": "Fantomas Unleashed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vY5H7ecUHyW1kUm8z240DzEL3z5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vY5H7ecUHyW1kUm8z240DzEL3z5.jpg",
+      "Name": "Fantomas Unleashed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/32ptzgJfPOuvtl5FpFsrLfYhhik.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/32ptzgJfPOuvtl5FpFsrLfYhhik.jpg",
+      "Name": "Fantomas Unleashed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cP8pfUNZIYuWBd3Mq3RhaBfSyY5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cP8pfUNZIYuWBd3Mq3RhaBfSyY5.jpg",
+      "Name": "Fantomas Unleashed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eNDRt9Ulds3KLp8HROnGJdgTKVI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eNDRt9Ulds3KLp8HROnGJdgTKVI.jpg",
+      "Name": "Fantomas Unleashed"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/mov1o3vln1870/",
+      "Size": "5.3 GB",
+      "FileSize": 5723360172,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/T22G4AG2HT",
+      "Name": "Fantomas.se.dechaine.1965.720p.BluRay.x264-DON.mkv"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/mov1o3vln1870-2/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/fantomas-strikes-back-fantmas-se-dechaine-dchane",
+      "Name": "Subtitle"
+    }
+  ],
+  "Intro": "In the second episode of the trilogy Fantômas kidnaps distinguished scientist professor Marchand with the aim to develop a super weapon that will enable him to menace the world. Fantômas is also planning to abduct a second scientist, professor Lefebvre.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/mVaHzujwXAVnBiN2kJbQZ77W69r-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ILYL586QI38?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/fantomas-unleashed/",
+  "Name": "Fantomas Unleashed"
+}

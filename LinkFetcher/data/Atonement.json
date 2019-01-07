@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6WZFwJOKyitCqWkIj52HB34wddU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6WZFwJOKyitCqWkIj52HB34wddU.jpg",
+      "Name": "Atonement"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/p4rgmAXUtFaPjKtyaAU3a75jk6m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/p4rgmAXUtFaPjKtyaAU3a75jk6m.jpg",
+      "Name": "Atonement"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8CqaFSxjmoma7x3mKkNGwpBsn7c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8CqaFSxjmoma7x3mKkNGwpBsn7c.jpg",
+      "Name": "Atonement"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/c3p2SDEFiG2msWlm9jyL9PO0TQS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/c3p2SDEFiG2msWlm9jyL9PO0TQS.jpg",
+      "Name": "Atonement"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/98jCUTFnZdQfICBsi9dZXcIEi8L.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/98jCUTFnZdQfICBsi9dZXcIEi8L.jpg",
+      "Name": "Atonement"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/q9D3DufMctbXGfbiY4tg7UsXO3D.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/q9D3DufMctbXGfbiY4tg7UsXO3D.jpg",
+      "Name": "Atonement"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hrTYeBC329zQxRJ36AJykA837s5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hrTYeBC329zQxRJ36AJykA837s5.jpg",
+      "Name": "Atonement"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3DP5asU15Qdkuzw7mU2BsFehllS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3DP5asU15Qdkuzw7mU2BsFehllS.jpg",
+      "Name": "Atonement"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9C7HuFRSqU8hSUVBP3wzc6v5dgC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9C7HuFRSqU8hSUVBP3wzc6v5dgC.jpg",
+      "Name": "Atonement"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1waIQrBtkJ3yp8qx0Mqos185OIZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1waIQrBtkJ3yp8qx0Mqos185OIZ.jpg",
+      "Name": "Atonement"
+    }
+  ],
+  "Links": [],
+  "Intro": "As a 13-year-old, fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister&#8217;s lover of a crime he did not commit.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/quaWuwYZd8IbZMCOhW3CZEvyCWJ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/WZAttjca0b8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/atonement/",
+  "Name": "Atonement"
+}

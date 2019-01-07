@@ -1,0 +1,68 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kCnwpd8kfOmxH3qra2xnaPuJQn7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kCnwpd8kfOmxH3qra2xnaPuJQn7.jpg",
+      "Name": "The Aviator"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lPkhOgbkrbPijXWtRoWyUCBIcY4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lPkhOgbkrbPijXWtRoWyUCBIcY4.jpg",
+      "Name": "The Aviator"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oTCBY6ZL2tYz11nBNjh4v0IASCn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oTCBY6ZL2tYz11nBNjh4v0IASCn.jpg",
+      "Name": "The Aviator"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1qcw7ceSVtaaddgUxHrmAeLiYPK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1qcw7ceSVtaaddgUxHrmAeLiYPK.jpg",
+      "Name": "The Aviator"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sLUTgseueHNuVBmvzVCRH2nGYTf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sLUTgseueHNuVBmvzVCRH2nGYTf.jpg",
+      "Name": "The Aviator"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iaO3G1i002XwmHVC4tNFcXqaU39.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iaO3G1i002XwmHVC4tNFcXqaU39.jpg",
+      "Name": "The Aviator"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jnntrmwAXTy0POVgwbwludgeG9o.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jnntrmwAXTy0POVgwbwludgeG9o.jpg",
+      "Name": "The Aviator"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wS4AdEzX6GWajpLxuXFUt0hQPQW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wS4AdEzX6GWajpLxuXFUt0hQPQW.jpg",
+      "Name": "The Aviator"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/68FrSs7HG7GM1QPTMpEUjIgVdFZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/68FrSs7HG7GM1QPTMpEUjIgVdFZ.jpg",
+      "Name": "The Aviator"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6CtAbvL7yTxxKDVVhMPNX9NRR1f.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6CtAbvL7yTxxKDVVhMPNX9NRR1f.jpg",
+      "Name": "The Aviator"
+    }
+  ],
+  "Links": [],
+  "Intro": "A biopic depicting the life of filmmaker and aviation pioneer Howard Hughes from 1927 to 1947, during which time he became a successful film producer and an aviation magnate, while simultaneously growing more unstable due to severe obsessive-compulsive disorder.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/3MKBQgIHI5DPVNvryiTesskS5mf-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/FebPJlmgldE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-aviator/",
+  "Name": "The Aviator"
+}

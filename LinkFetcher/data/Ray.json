@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lcVQocaLf4wf5Inmwj7TtrPRnPp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lcVQocaLf4wf5Inmwj7TtrPRnPp.jpg",
+      "Name": "Ray"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2JTylhhJLErHdEvj1zSXXmVIWih.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2JTylhhJLErHdEvj1zSXXmVIWih.jpg",
+      "Name": "Ray"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/q8Vs0MPPF5IRmnS7ilpbaP8xGw9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/q8Vs0MPPF5IRmnS7ilpbaP8xGw9.jpg",
+      "Name": "Ray"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jfySQqrCoAhL0Y7tgJACbtAg5JA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jfySQqrCoAhL0Y7tgJACbtAg5JA.jpg",
+      "Name": "Ray"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/c2vr4wNMgpKS8y8Lwoh8TfSrnBJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/c2vr4wNMgpKS8y8Lwoh8TfSrnBJ.jpg",
+      "Name": "Ray"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g9n9cuSOFZWwKJJvdAooKESHgZk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g9n9cuSOFZWwKJJvdAooKESHgZk.jpg",
+      "Name": "Ray"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/s6jdNSGvTFJoHOjoSAXEZhJ5htj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/s6jdNSGvTFJoHOjoSAXEZhJ5htj.jpg",
+      "Name": "Ray"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zDP8AtKnSyl7fTKZsVqXpLYpJ7i.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zDP8AtKnSyl7fTKZsVqXpLYpJ7i.jpg",
+      "Name": "Ray"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5Zb0XFfiysloBnvUqGv2VCBE3qd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5Zb0XFfiysloBnvUqGv2VCBE3qd.jpg",
+      "Name": "Ray"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pOgflFnmDI4AcYpTTkTOdoi4Tqe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pOgflFnmDI4AcYpTTkTOdoi4Tqe.jpg",
+      "Name": "Ray"
+    }
+  ],
+  "Links": [],
+  "Intro": "Born on a sharecropping plantation in Northern Florida, Ray Charles went blind at seven. Inspired by a fiercely independent mom who insisted he make his own way, He found his calling and his gift behind a piano keyboard. Touring across the Southern musical circuit, the soulful singer gained a reputation and then exploded with worldwide fame when he pioneered couping gospel and country together.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/fPDsBL0MdegEvyPhim9b5srHOqG-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/X1rJvSF3l6k?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ray/",
+  "Name": "Ray"
+}

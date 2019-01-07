@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8Sh5rRcOrBy4AIm3keZ50dOIn4D.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8Sh5rRcOrBy4AIm3keZ50dOIn4D.jpg",
+      "Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aDPlrZDlGWuJBqTjrAL5E4dCWGk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aDPlrZDlGWuJBqTjrAL5E4dCWGk.jpg",
+      "Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7Gr3IkGqfl00W3oWbfopYSEL6Yt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7Gr3IkGqfl00W3oWbfopYSEL6Yt.jpg",
+      "Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/myHG0k87rvNDbAYudjrbVNz0ONN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/myHG0k87rvNDbAYudjrbVNz0ONN.jpg",
+      "Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ybxM8rk0ShDbldRkDwn6pFQZ3L7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ybxM8rk0ShDbldRkDwn6pFQZ3L7.jpg",
+      "Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/itqYNATdGLDYiML07qYKZNpBhCZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/itqYNATdGLDYiML07qYKZNpBhCZ.jpg",
+      "Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v73TLs9hBRVccvAsH4m5agkhCM4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v73TLs9hBRVccvAsH4m5agkhCM4.jpg",
+      "Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5N4xG5YmkegJSby59rA2S2m3Epm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5N4xG5YmkegJSby59rA2S2m3Epm.jpg",
+      "Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/csKahxHqfNNAT2NVbuAoCXN7LQw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/csKahxHqfNNAT2NVbuAoCXN7LQw.jpg",
+      "Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3EhwlYIiL4u08JEfdy7nM58RkQA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3EhwlYIiL4u08JEfdy7nM58RkQA.jpg",
+      "Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+    }
+  ],
+  "Links": [],
+  "Intro": "Insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union. As soon as the actions of General &#8220;Buck&#8221; Turgidson are discovered, a war room full of politicians, generals and a Russian diplomat all frantically try to stop the nuclear strike. Near the end is a scene that is probably the most uniquely unforgettable performance of Slim Pickens in his movie career. Peter Sellers plays multiple roles in this film.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/tviJ68Wj4glQk3CPMvdvExYHxX-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/71I4bdA7lDA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/",
+  "Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+}

@@ -1,0 +1,59 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g3AmpUuoApepdt106vWCZgveFTa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g3AmpUuoApepdt106vWCZgveFTa.jpg",
+      "Name": "Lock Up"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dbRU41CkCOFji8g4Mp9pMNu7jrC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dbRU41CkCOFji8g4Mp9pMNu7jrC.jpg",
+      "Name": "Lock Up"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9e0ewdWPjluHNWKYMIVMDMLo0mB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9e0ewdWPjluHNWKYMIVMDMLo0mB.jpg",
+      "Name": "Lock Up"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/WlOCwgoa1eARcLzgj4Ox2wMaXl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/WlOCwgoa1eARcLzgj4Ox2wMaXl.jpg",
+      "Name": "Lock Up"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4KgAt5JfsJX2ryeNxaEMpFmi2ZU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4KgAt5JfsJX2ryeNxaEMpFmi2ZU.jpg",
+      "Name": "Lock Up"
+    }
+  ],
+  "Links": [],
+  "Intro": "Frank Leone is nearing the end of his prison term for a relatively minor crime. Just before he is paroled, however, Warden Drumgoole takes charge. Drumgoole was assigned to a hell-hole prison after his administration was publicly humiliated by Leone, and has now arrived on the scene to ensure that Leone never sees the light of day.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/jZHNC2ZzhDBb1WfrFc9DSSs7449-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/RWORyxCUJxI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/lock-up/",
+  "Name": "Lock Up"
+}

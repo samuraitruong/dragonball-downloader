@@ -1,0 +1,47 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/78PjwaykLY2QqhMfWRDvmfbC6EV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/78PjwaykLY2QqhMfWRDvmfbC6EV.jpg ",
+      "Name": "Green Book"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg ",
+      "Name": "Green Book"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/205t5YwbjdcLtxfsds09ZifIlFZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/205t5YwbjdcLtxfsds09ZifIlFZ.jpg ",
+      "Name": "Green Book"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b05DiO4cFFKSNSE4tu3XpoiRDRw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b05DiO4cFFKSNSE4tu3XpoiRDRw.jpg ",
+      "Name": "Green Book"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fW1impMbsmYU1u56RbalpZnThmJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fW1impMbsmYU1u56RbalpZnThmJ.jpg ",
+      "Name": "Green Book"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim Green Book: Tony Lip, một bouncer năm 1962, được thuê để điều khiển nghệ sĩ dương cầm Don Shirley tham quan Deep South trong những ngày người Mỹ gốc Phi buộc phải tìm chỗ ở và dịch vụ thay thế do luật phân biệt bên dưới dòng Mason-Dixon dựa trên một hướng dẫn gọi là Cuốn sách màu xanh lá cây của người lái xe Negro.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2019/01/h70wRv6iWxiqED4orqfxcEl74Rc-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/QkZxoko_HC0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/green-book/",
+  "Name": "Green Book"
+}

@@ -1,0 +1,40 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uUdRp79ciBeBtZ5fPiQGqo9czL9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uUdRp79ciBeBtZ5fPiQGqo9czL9.jpg",
+      "Name": "Kung Fu Yoga - Kung Fu Yoga"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bTbDeyJAEMMaT5WcebgZiQOmf9F.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bTbDeyJAEMMaT5WcebgZiQOmf9F.jpg",
+      "Name": "Kung Fu Yoga - Kung Fu Yoga"
+    }
+  ],
+  "Links": [],
+  "Intro": "Jack (Thành Long) là một giáo sư khảo cổ nổi tiếng tại Viện bảo tàng cổ ở thành phố Tây An. Một nhà khảo cổ Ấn Độ Ashmita (Disha Patani) cho Jack xem bản đồ chứa gợi ý đến kho báu bị mất tích lâu đời của vương quốc Magadha. Ashmita mời Jack cùng những cộng sự tham gia vào chuyến phiêu lưu đến Tây Tạng.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/03/ko0OKLprl6uNbY1FLIkFeGem0mV-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/DkPluechlNY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/kung-fu-yoga/",
+  "Name": "Kung Fu Yoga"
+}

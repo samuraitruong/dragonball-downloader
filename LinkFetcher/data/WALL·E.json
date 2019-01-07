@@ -1,21 +1,72 @@
 {
-  "Id": "movFvqjmU10681",
-  "Url": "https://fsharephim.com/movies/wall%c2%b7e/",
-  "Name": "WALL·E",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movfvqjmu10681/",
-      "Name": "WALL-E.2008.2in1.1080p.BluRay.DTS-ES.Hi10P.x264-NiP.mkv",
-      "Url": "https://www.fshare.vn/file/NENV6WS1HZ9Z",
-      "Size": "5.76 GB",
-      "FileSize": 6179575915
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movfvqjmu10681-2/",
-      "Name": "WALL-E.2008.2in1.1080p.BluRay.DTS-ES.Hi10P.x264-NiP.srt",
-      "Url": "https://www.fshare.vn/file/GX26D34ZEP31",
-      "Size": "96.36 KB",
-      "FileSize": 98674
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2nFyTvssbtJMLC6eyYwwZ88gALD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2nFyTvssbtJMLC6eyYwwZ88gALD.jpg",
+      "Name": "WALL·E"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bPceVvSRMPCILUOfuss5STD5rsi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bPceVvSRMPCILUOfuss5STD5rsi.jpg",
+      "Name": "WALL·E"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bCmbR6kySl7YKk2st6RF4ztXOkU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bCmbR6kySl7YKk2st6RF4ztXOkU.jpg",
+      "Name": "WALL·E"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kuMeotVhHkluGxoSovBfwWTBM3b.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kuMeotVhHkluGxoSovBfwWTBM3b.jpg",
+      "Name": "WALL·E"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wzQzW06IfqbCTM8E8FAYK0jDSBH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wzQzW06IfqbCTM8E8FAYK0jDSBH.jpg",
+      "Name": "WALL·E"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/el3mv6H7D7yH2qhtuJG1PT3dwot.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/el3mv6H7D7yH2qhtuJG1PT3dwot.jpg",
+      "Name": "WALL·E"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2XVYF7MpYRh9erYdtvBmXf0sTRm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2XVYF7MpYRh9erYdtvBmXf0sTRm.jpg",
+      "Name": "WALL·E"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zffVmrFP2TKz9mpf9kRV8TgHR9D.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zffVmrFP2TKz9mpf9kRV8TgHR9D.jpg",
+      "Name": "WALL·E"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/24xI1jU7HQ41seKJtDFbHQWakKF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/24xI1jU7HQ41seKJtDFbHQWakKF.jpg",
+      "Name": "WALL·E"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/btRs26155WP066PKJ6d5m16vdpZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/btRs26155WP066PKJ6d5m16vdpZ.jpg",
+      "Name": "WALL·E"
+    }
+  ],
+  "Links": [],
+  "Intro": "WALL·E is the last robot left on an Earth that has been overrun with garbage and all humans have fled to outer space. For 700 years he has continued to try and clean up the mess, but has developed some rather interesting human-like qualities. When a ship arrives with a sleek new type of robot, WALL·E thinks he&#8217;s finally found a friend and stows away on the ship when it leaves.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/9cJETuLMc6R0bTWRA5i7ctY9bxk-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/8-_9n5DtKOc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/wall%c2%b7e/",
+  "Name": "WALL·E"
 }

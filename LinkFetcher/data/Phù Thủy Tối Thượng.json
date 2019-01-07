@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sDNhWjd4X7c0oOlClkkwvqVOo45.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sDNhWjd4X7c0oOlClkkwvqVOo45.jpg",
+      "Name": "Phù Thủy Tối Thượng - Doctor Strange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tFI8VLMgSTTU38i8TIsklfqS9Nl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tFI8VLMgSTTU38i8TIsklfqS9Nl.jpg",
+      "Name": "Phù Thủy Tối Thượng - Doctor Strange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hETu6AxKsWAS42tw8eXgLUgn4Lo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hETu6AxKsWAS42tw8eXgLUgn4Lo.jpg",
+      "Name": "Phù Thủy Tối Thượng - Doctor Strange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yqyZLEfSiSeqmn5oRahbOUTUHd9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yqyZLEfSiSeqmn5oRahbOUTUHd9.jpg",
+      "Name": "Phù Thủy Tối Thượng - Doctor Strange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2wgKgQAqso1p1yP6unsq9nl7Xdc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2wgKgQAqso1p1yP6unsq9nl7Xdc.jpg",
+      "Name": "Phù Thủy Tối Thượng - Doctor Strange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o0PkvPlXAnvLO7mzhQRDmlt2GM7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o0PkvPlXAnvLO7mzhQRDmlt2GM7.jpg",
+      "Name": "Phù Thủy Tối Thượng - Doctor Strange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wbBy671e24Eqmo5DfvSXWThy9CR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wbBy671e24Eqmo5DfvSXWThy9CR.jpg",
+      "Name": "Phù Thủy Tối Thượng - Doctor Strange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/am7uBFYnOY9xzxOXnvGgtoIOne9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/am7uBFYnOY9xzxOXnvGgtoIOne9.jpg",
+      "Name": "Phù Thủy Tối Thượng - Doctor Strange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8e1KXEKQADumBgIYnL6KtlJsZUC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8e1KXEKQADumBgIYnL6KtlJsZUC.jpg",
+      "Name": "Phù Thủy Tối Thượng - Doctor Strange"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3NG4WyCuIPnZbwxTEPaaigMtlXY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3NG4WyCuIPnZbwxTEPaaigMtlXY.jpg",
+      "Name": "Phù Thủy Tối Thượng - Doctor Strange"
+    }
+  ],
+  "Links": [],
+  "Intro": "DOCTOR STRANGE là câu chuyện về bác sĩ Giải Phẫu Thần Kinh tên Stephen Vincent Strange. Cuộc đời anh thay đổi từ sau một tai nạn xe hơi khủng khiếp. Sau tai nạn đó, Stephen nhận ra mình có những năng lực bí ẩn cũng như biết thêm về thế giới ma thuật huyền bí. Từ một vị bác sĩ bình thường, Stephen Strange dần nhận được nhiều siêu năng lực để cứu trái đất khỏi những tai họa.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/02/xfWac8MTYDxujaxgPVcRD9yZaul-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/rbCYloWrR7A?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/doctor-strange/",
+  "Name": "Phù Thủy Tối Thượng"
+}

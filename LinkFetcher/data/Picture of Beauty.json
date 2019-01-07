@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aId9QYtFJgFR9w684SFMcwqwhMw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aId9QYtFJgFR9w684SFMcwqwhMw.jpg ",
+      "Name": "Picture of Beauty"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7IHyJ7Gsa96SAb2BeCnz2cyZu8j.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7IHyJ7Gsa96SAb2BeCnz2cyZu8j.jpg ",
+      "Name": "Picture of Beauty"
+    }
+  ],
+  "Links": [],
+  "Intro": "In an early 20th century village, a painter with an unusual commission finds two pretty girls two model for him. The girls slowly come of age while exploring their sexuality and finding liberation in a repressed society.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/mH9ngk8aY6a96rlMRoHcSMb1Wno-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/BVO3Wrk4hbg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/picture-of-beauty/",
+  "Name": "Picture of Beauty"
+}

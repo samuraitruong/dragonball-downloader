@@ -1,0 +1,55 @@
+{
+  "Id": "112454",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3Lf6PotJ6iNmPNCDOJS9G1XCfhI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3Lf6PotJ6iNmPNCDOJS9G1XCfhI.jpg",
+      "Name": "Clown"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8agC0HJCfNP4o88oyf9ii7mTgvA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8agC0HJCfNP4o88oyf9ii7mTgvA.jpg",
+      "Name": "Clown"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/csIrngPBOMExHVqPE3lC6b5m7UA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/csIrngPBOMExHVqPE3lC6b5m7UA.jpg",
+      "Name": "Clown"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mSjCeFSqPGnNaYdj8rxwPnL4xuC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mSjCeFSqPGnNaYdj8rxwPnL4xuC.jpg",
+      "Name": "Clown"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/112454/",
+      "Size": "754.9 MB",
+      "FileSize": 791544964,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/YOA133WZXHCX",
+      "Name": "Clown.2014.720p.BluRay.x264.YIFY.mp4"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/112454-2/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/clown",
+      "Name": "Subtitle"
+    }
+  ],
+  "Intro": "A loving father finds a clown suit for his son&#8217;s birthday party, only to realize the suit is part of an evil curse that turns its wearer into a killer.",
+  "Poster": "https://image.tmdb.org/t/p/w185/3Z97W9dDWU9YH3fk2sQKVauLNnu.jpg",
+  "Trailer": "https://www.youtube.com/embed/utmvmr7cgcg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/clown/",
+  "Name": "Clown"
+}

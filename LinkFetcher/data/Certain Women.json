@@ -1,0 +1,48 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cG8wfo8Y0VUfwZhHjZkrkOFL4N.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cG8wfo8Y0VUfwZhHjZkrkOFL4N.jpg",
+      "Name": "Certain Women"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jeETIl4icbnCFEvfZzW2Cyj4TKi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jeETIl4icbnCFEvfZzW2Cyj4TKi.jpg",
+      "Name": "Certain Women"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tmjPVn7oIFIsPCyvFkhaeua0HHW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tmjPVn7oIFIsPCyvFkhaeua0HHW.jpg",
+      "Name": "Certain Women"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4HyZM2plHBczSFbyLAIxBySYX4m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4HyZM2plHBczSFbyLAIxBySYX4m.jpg",
+      "Name": "Certain Women"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yhsHldA1ZNNsiMCtGkQ3QR4Gh55.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yhsHldA1ZNNsiMCtGkQ3QR4Gh55.jpg",
+      "Name": "Certain Women"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4ovDwwOQFarYI4l9H8cPGJ7p3kF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4ovDwwOQFarYI4l9H8cPGJ7p3kF.jpg",
+      "Name": "Certain Women"
+    }
+  ],
+  "Links": [],
+  "Intro": "The lives of three women intersect in small-town America, where each is imperfectly blazing a trail.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/mjtDQ9yx0Atb8QxBGcfXNBu0EmX-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/TU0caOeu_Ag?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/certain-women/",
+  "Name": "Certain Women"
+}

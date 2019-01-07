@@ -1,49 +1,110 @@
 {
   "Id": "movzO1UuC326215",
-  "Url": "https://fsharephim.com/movies/ooops-noah-is-gone/",
-  "Name": "Ooops! Noah is Gone...",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wosdsamiQZTpJUyKDvQQ5EtpmIf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wosdsamiQZTpJUyKDvQQ5EtpmIf.jpg",
+      "Name": "Ooops! Noah is Gone... - Ooops! Noah is Gone&#8230;"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2d8E7YQmNPBmfPcfVrdwgXTj44a.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2d8E7YQmNPBmfPcfVrdwgXTj44a.jpg",
+      "Name": "Ooops! Noah is Gone... - Ooops! Noah is Gone&#8230;"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6hglS7zvjjLfSBgH3L9RA95dG7K.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6hglS7zvjjLfSBgH3L9RA95dG7K.jpg",
+      "Name": "Ooops! Noah is Gone... - Ooops! Noah is Gone&#8230;"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gTjas2YNiSePD1N9I9eXmufAdBt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gTjas2YNiSePD1N9I9eXmufAdBt.jpg",
+      "Name": "Ooops! Noah is Gone... - Ooops! Noah is Gone&#8230;"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g1hlzGQiR5Q1t3LKpKYBBVcl6GY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g1hlzGQiR5Q1t3LKpKYBBVcl6GY.jpg",
+      "Name": "Ooops! Noah is Gone... - Ooops! Noah is Gone&#8230;"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jmoPWn1CEc0puTltlmfswBqUN8f.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jmoPWn1CEc0puTltlmfswBqUN8f.jpg",
+      "Name": "Ooops! Noah is Gone... - Ooops! Noah is Gone&#8230;"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h9AebvRbmOaR46sBKDVYGv1qpsj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h9AebvRbmOaR46sBKDVYGv1qpsj.jpg",
+      "Name": "Ooops! Noah is Gone... - Ooops! Noah is Gone&#8230;"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movzo1uuc326215-6/",
-      "Name": "Bluray - Vie",
-      "Url": "https://www.fshare.vn/file/PVXTZ9ZZPB5K",
       "Size": "23.06 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/PVXTZ9ZZPB5K",
+      "Name": "Bluray - Vie"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movzo1uuc326215-2/",
-      "Name": "All Creatures Big and Small (2015) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/5ZDJAJL4IYYQ",
       "Size": "695.37 MB",
-      "FileSize": 729145881
+      "FileSize": 729145881,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/5ZDJAJL4IYYQ",
+      "Name": "All Creatures Big and Small (2015) 720p BrRip x264.mp4"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movzo1uuc326215-3/",
-      "Name": "All Creatures Big and Small (2015) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/T2KDX9717MAB",
       "Size": "1.23 GB",
-      "FileSize": 1322576045
+      "FileSize": 1322576045,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/T2KDX9717MAB",
+      "Name": "All Creatures Big and Small (2015) 1080p BrRip x264.mp4"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movzo1uuc326215-4/",
-      "Name": "All Creatures Big and Small (2015) 1080p Bluray AVC DTS-HD MA 5.1.m2ts",
-      "Url": "https://www.fshare.vn/file/BI9KSY8YVAIC",
       "Size": "14.16 GB",
-      "FileSize": 15209324544
+      "FileSize": 15209324544,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/BI9KSY8YVAIC",
+      "Name": "All Creatures Big and Small (2015) 1080p Bluray AVC DTS-HD MA 5.1.m2ts"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movzo1uuc326215-5/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/all-creatures-big-and-small",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/all-creatures-big-and-small",
+      "Name": "Subtitle"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movzo1uuc326215/",
-      "Name": "All.Creatures.Big.and.Small-Ooops.Noah.is.Gone.2015.mkv",
-      "Url": "https://www.fshare.vn/file/HQYABEUR1JDY",
       "Size": "1.93 GB",
-      "FileSize": 2074577522
+      "FileSize": 2074577522,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/HQYABEUR1JDY",
+      "Name": "All.Creatures.Big.and.Small-Ooops.Noah.is.Gone.2015.mkv"
     }
-  ]
+  ],
+  "Intro": null,
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/y1sW14KiKMHQbQCIZiUDha7lkR3-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/spcghvLHXdk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ooops-noah-is-gone/",
+  "Name": "Ooops! Noah is Gone..."
 }

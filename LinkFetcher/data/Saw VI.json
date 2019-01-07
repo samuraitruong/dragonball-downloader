@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mfL91mRgncWZLGprAW1ZCKAOawG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mfL91mRgncWZLGprAW1ZCKAOawG.jpg",
+      "Name": "Saw VI"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/n7rXLeKo28a3Rxiyg9MQBoX7heX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/n7rXLeKo28a3Rxiyg9MQBoX7heX.jpg",
+      "Name": "Saw VI"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o5tiaxgvi4NcJaXSDecMyxZPBni.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o5tiaxgvi4NcJaXSDecMyxZPBni.jpg",
+      "Name": "Saw VI"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6nzconxGokbMsFnJoL0jiYiahgm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6nzconxGokbMsFnJoL0jiYiahgm.jpg",
+      "Name": "Saw VI"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hHpjhsses72qCVgbBi9d7cxscjH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hHpjhsses72qCVgbBi9d7cxscjH.jpg",
+      "Name": "Saw VI"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7mgsb4gWTBbhcrch3534UwXmQue.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7mgsb4gWTBbhcrch3534UwXmQue.jpg",
+      "Name": "Saw VI"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vE9lVIYPvEeXsyOuWYWWCPin1w4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vE9lVIYPvEeXsyOuWYWWCPin1w4.jpg",
+      "Name": "Saw VI"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/w2VdbRiH0LFUulhDqhFSdEL4fKt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/w2VdbRiH0LFUulhDqhFSdEL4fKt.jpg",
+      "Name": "Saw VI"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/opOcrbElUpWqfYkD2CWqnuQ34V5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/opOcrbElUpWqfYkD2CWqnuQ34V5.jpg",
+      "Name": "Saw VI"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xzoRjkZMdacZJ9OT8bYdm8xGd0R.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xzoRjkZMdacZJ9OT8bYdm8xGd0R.jpg",
+      "Name": "Saw VI"
+    }
+  ],
+  "Links": [],
+  "Intro": "Special Agent Strahm is dead, and Detective Hoffman has emerged as the unchallenged successor to Jigsaw&#8217;s legacy. However, when the FBI draws closer to Hoffman, he is forced to set a game into motion, and Jigsaw&#8217;s grand scheme is finally understood.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/iCVk1uniEoQLXdluUGUXBaAgD1H-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/XKxcf50t1xE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/saw-vi/",
+  "Name": "Saw VI"
+}

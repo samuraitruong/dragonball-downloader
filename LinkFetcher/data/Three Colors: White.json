@@ -1,0 +1,66 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vDjKiiCsJah9qVutwTY07D5GIK5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vDjKiiCsJah9qVutwTY07D5GIK5.jpg ",
+      "Name": "Three Colors: White"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AuijfgpvJFlGtllkQaVIerngNyK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AuijfgpvJFlGtllkQaVIerngNyK.jpg ",
+      "Name": "Three Colors: White"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2eBL3wXDZqemW8SJ1RNxqtx6bgJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2eBL3wXDZqemW8SJ1RNxqtx6bgJ.jpg ",
+      "Name": "Three Colors: White"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kA93JyJKPbS3my9pZVrr9V2jDeV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kA93JyJKPbS3my9pZVrr9V2jDeV.jpg ",
+      "Name": "Three Colors: White"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fQDFouAaQV1XT7flklolHnnKZYm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fQDFouAaQV1XT7flklolHnnKZYm.jpg ",
+      "Name": "Three Colors: White"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/brWfiEU6rM4iOF5V44oGaRK6TtN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/brWfiEU6rM4iOF5V44oGaRK6TtN.jpg ",
+      "Name": "Three Colors: White"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yOpNvGSsT0YECuhhrlGBLIshh0u.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yOpNvGSsT0YECuhhrlGBLIshh0u.jpg ",
+      "Name": "Three Colors: White"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qzgdS398zygyJug3e3922PRLhO3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qzgdS398zygyJug3e3922PRLhO3.jpg ",
+      "Name": "Three Colors: White"
+    }
+  ],
+  "Links": [],
+  "Intro": "Polish immigrant Karol Karol finds himself out of a marriage, a job and a country when his French wife, Dominique, divorces him after six months due to his impotence. Forced to leave France after losing the business they jointly owned, Karol enlists fellow Polish expatriate Mikolah to smuggle him back to their homeland.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/xOLY69rXKwuH9JUnOE4G2HHKiW5-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/xECEAPfdqic?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/three-colors-white/",
+  "Name": "Three Colors: White"
+}

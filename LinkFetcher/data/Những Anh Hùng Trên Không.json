@@ -1,21 +1,25 @@
 {
-  "Id": "movrCor2o280890",
-  "Url": "https://fsharephim.com/movies/wings-sky-force-heroes/",
-  "Name": "Những Anh Hùng Trên Không",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movrcor2o280890/",
-      "Name": "Wings.Sky Force.Heroes.2014.mkv",
-      "Url": "https://www.fshare.vn/file/TDSP35B0RT",
-      "Size": "2.66 GB",
-      "FileSize": 2859368348
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movrcor2o280890-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/wings-sky-force-heroes",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [],
+  "Links": [],
+  "Intro": "Ace, một chiến sĩ cứu hỏa trẻ tuổi và kiêu ngạo, phải đi làm việc ở mỏ than sau khi bất tuân lệnh thượng cấp và làm cho cả đội lâm vào nguy hiểm. Nhưng rồi một ngày nọ, cậu ta được trao cho một cơ hội để chuộc lại lỗi lầm ngày xưa.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/4mgxG7ue6rQ42ONz5sc993Lj2PM-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ywG5_L1sPbg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/wings-sky-force-heroes/",
+  "Name": "Những Anh Hùng Trên Không"
 }

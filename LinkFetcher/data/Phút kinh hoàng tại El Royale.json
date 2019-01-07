@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tkUpruYM2zBdbHYW9fgthbrCjV4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tkUpruYM2zBdbHYW9fgthbrCjV4.jpg ",
+      "Name": "Phút kinh hoàng tại El Royale - Bad Times at the El Royale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wGSJUA9V7kIyudSQNfyadkE2lXL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wGSJUA9V7kIyudSQNfyadkE2lXL.jpg ",
+      "Name": "Phút kinh hoàng tại El Royale - Bad Times at the El Royale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wTDeYlDyN3bfnfDwgC5Hunix3FL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wTDeYlDyN3bfnfDwgC5Hunix3FL.jpg ",
+      "Name": "Phút kinh hoàng tại El Royale - Bad Times at the El Royale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aac6WhDpkFwe950M1oVoKrt3VLb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aac6WhDpkFwe950M1oVoKrt3VLb.jpg ",
+      "Name": "Phút kinh hoàng tại El Royale - Bad Times at the El Royale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uyM09BML2F05VpJoXtf0tza44A4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uyM09BML2F05VpJoXtf0tza44A4.jpg ",
+      "Name": "Phút kinh hoàng tại El Royale - Bad Times at the El Royale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gb3TVVZNNxVGNfS1NxGaiWZfwnW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gb3TVVZNNxVGNfS1NxGaiWZfwnW.jpg ",
+      "Name": "Phút kinh hoàng tại El Royale - Bad Times at the El Royale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4704PDuWDDZSpkA4UslA0ulvdll.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4704PDuWDDZSpkA4UslA0ulvdll.jpg ",
+      "Name": "Phút kinh hoàng tại El Royale - Bad Times at the El Royale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fbLZdpQDXzXatWpv6PWWrWeoau9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fbLZdpQDXzXatWpv6PWWrWeoau9.jpg ",
+      "Name": "Phút kinh hoàng tại El Royale - Bad Times at the El Royale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qYBDwebtN4pALhrWRght2pKV56D.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qYBDwebtN4pALhrWRght2pKV56D.jpg ",
+      "Name": "Phút kinh hoàng tại El Royale - Bad Times at the El Royale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ShOA6Qw1Exb44Q06Pjiepg7HR2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ShOA6Qw1Exb44Q06Pjiepg7HR2.jpg ",
+      "Name": "Phút kinh hoàng tại El Royale - Bad Times at the El Royale"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bad Times at the El Royale lấy bối cảnh El Royale – một khách sạn sang trọng và lâu đời tại nơi giao nhau giữa California và Nevada. Một ngày nọ, chàng lễ tân trẻ tuổi chào đón cùng lúc sáu vị khách bí ẩn. Họ gồm mục sư Daniel Flynn, nữ ca sĩ Darlene Sweet, hai chị em nhà Summerspring , tay bán máy hút hút bụi Laramie Seymour Sullivan và thủ lĩnh giáo phái bí ẩn Billy Lee . Song, tất cả chỉ là danh tính giả khi mỗi người đều có một bí mật đen tối muốn chôn giấu.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/12/iNtFgXqXPRMkm1QO8CHn5sHfUgE-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/SQmOaJciI7Q?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/bad-times-at-the-el-royale/",
+  "Name": "Phút kinh hoàng tại El Royale"
+}

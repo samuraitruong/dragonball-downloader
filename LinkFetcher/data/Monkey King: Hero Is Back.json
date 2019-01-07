@@ -1,14 +1,40 @@
 {
   "Id": "movjWRNP6351694",
-  "Url": "https://fsharephim.com/movies/monkey-king-hero-is-back/",
-  "Name": "Monkey King: Hero Is Back",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iQhE9j8sFsxYh0w6YoG2ISkRPgu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iQhE9j8sFsxYh0w6YoG2ISkRPgu.jpg",
+      "Name": "Monkey King: Hero Is Back"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movjwrnp6351694/",
-      "Name": "Monkey King Hero is Back 2015 ViE 4k-2160p WEB-DL x264 AAC-SeeHD.mkv",
-      "Url": "https://www.fshare.vn/file/PC9ZWAF2OXF2NWC",
       "Size": "4.1 GB",
-      "FileSize": 4414822638
+      "FileSize": 4414822638,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/PC9ZWAF2OXF2NWC",
+      "Name": "Monkey King Hero is Back 2015 ViE 4k-2160p WEB-DL x264 AAC-SeeHD.mkv"
     }
-  ]
+  ],
+  "Intro": "The all-powerful Monkey King once roamed freely between Heaven and Earth, but after angering the Gods, he was imprisoned within an ice cage deep within the mountains. 500 years later, monsters attack a small village and a child flees to the mountains. Unknowingly, the child releases the Monkey King from his curse. With the help and encouragement from this special child, Monkey King saves the village from the evil monsters.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/lTaRCichc1Ogg63ZMbf6bVxVypk-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/v33o9deALkA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/monkey-king-hero-is-back/",
+  "Name": "Monkey King: Hero Is Back"
 }

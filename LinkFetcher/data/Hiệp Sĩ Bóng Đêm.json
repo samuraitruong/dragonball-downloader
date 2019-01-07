@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hqkIcbrOHL86UncnHIsHVcVmzue.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hqkIcbrOHL86UncnHIsHVcVmzue.jpg ",
+      "Name": "Hiệp Sĩ Bóng Đêm - The Dark Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nnMC0BM6XbjIIrT4miYmMtPGcQV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nnMC0BM6XbjIIrT4miYmMtPGcQV.jpg ",
+      "Name": "Hiệp Sĩ Bóng Đêm - The Dark Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/thhj160MUUBrU4PkuLRmAf5t9Vy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/thhj160MUUBrU4PkuLRmAf5t9Vy.jpg ",
+      "Name": "Hiệp Sĩ Bóng Đêm - The Dark Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pBqyLiqRGCO06x0b1auuC3mQ8dM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pBqyLiqRGCO06x0b1auuC3mQ8dM.jpg ",
+      "Name": "Hiệp Sĩ Bóng Đêm - The Dark Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jfYVWfCsQ2wkif7KXD1Qsqxte2A.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jfYVWfCsQ2wkif7KXD1Qsqxte2A.jpg ",
+      "Name": "Hiệp Sĩ Bóng Đêm - The Dark Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u4WFn5bCnO3i2l3NtxCnd7jlsVW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u4WFn5bCnO3i2l3NtxCnd7jlsVW.jpg ",
+      "Name": "Hiệp Sĩ Bóng Đêm - The Dark Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gSgAiiq2cXgorMbs0UOSwWbFOCn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gSgAiiq2cXgorMbs0UOSwWbFOCn.jpg ",
+      "Name": "Hiệp Sĩ Bóng Đêm - The Dark Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vSupzIcJCa64lCGYmw5flIOeiEH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vSupzIcJCa64lCGYmw5flIOeiEH.jpg ",
+      "Name": "Hiệp Sĩ Bóng Đêm - The Dark Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ephhiWWarWLKJWWvn7zcRm4HUf6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ephhiWWarWLKJWWvn7zcRm4HUf6.jpg ",
+      "Name": "Hiệp Sĩ Bóng Đêm - The Dark Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qg9NQ0Zkdfz9XWHtJ1X1GtKqqe9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qg9NQ0Zkdfz9XWHtJ1X1GtKqqe9.jpg ",
+      "Name": "Hiệp Sĩ Bóng Đêm - The Dark Knight"
+    }
+  ],
+  "Links": [],
+  "Intro": "Người Dơi bước vào giai đoạn cam go nhất trong cuộc chiến chống lại cái ác khi tên tội phạm bậc thầy The Joker xuất hiện. Các tay trùm thuê The Joker giết Người Dơi để trả thù cho chỗ tài sản phi pháp bị anh lật tẩy. Tiếp tay cho The Joker là toàn bộ tội phạm ở thành phố Gotham, những kẻ đang bị bộ ba Người Dơi &#8211; Trung úy Gordon &#8211; Luật sư Harvey Dent thu hẹp đất sống. Hàng loạt vụ tấn công xảy ra khiến Người Dơi lúng túng. Các quan chức bị sát hại, người dân không dám ra đường buổi tối vì sợ bị giết, mọi lối ra vào thành phố Gotham bị phong tỏa. Tất cả đều do một tay The Joker sắp đặt.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/02/1hRoyzDtpgMU7Dz4JF22RANzQO7-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/kmJLuwP3MbY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-dark-knight/",
+  "Name": "Hiệp Sĩ Bóng Đêm"
+}

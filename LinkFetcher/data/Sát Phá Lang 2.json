@@ -1,0 +1,71 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9AXex0320Pmcj7Mc2RTzg31TI8G.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9AXex0320Pmcj7Mc2RTzg31TI8G.jpg ",
+      "Name": "Sát Phá Lang 2 - SPL 2: A Time for Consequences"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1gxyYYSv5l6TmyA7CdSeDAk8XP1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1gxyYYSv5l6TmyA7CdSeDAk8XP1.jpg ",
+      "Name": "Sát Phá Lang 2 - SPL 2: A Time for Consequences"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fHefBY4BDgcGVnnZMZYMuyGGXpV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fHefBY4BDgcGVnnZMZYMuyGGXpV.jpg ",
+      "Name": "Sát Phá Lang 2 - SPL 2: A Time for Consequences"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jLLlihUNLmwuyk9dR1bC6Ehccf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jLLlihUNLmwuyk9dR1bC6Ehccf.jpg ",
+      "Name": "Sát Phá Lang 2 - SPL 2: A Time for Consequences"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dcf3Fu0EX0UIJBLc7qgSF9ULsDf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dcf3Fu0EX0UIJBLc7qgSF9ULsDf.jpg ",
+      "Name": "Sát Phá Lang 2 - SPL 2: A Time for Consequences"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vFy1c9EaHNQvizWTTs48U7j2d2L.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vFy1c9EaHNQvizWTTs48U7j2d2L.jpg ",
+      "Name": "Sát Phá Lang 2 - SPL 2: A Time for Consequences"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xPHYrKUigRUlfuHRjU2ezM9bOS1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xPHYrKUigRUlfuHRjU2ezM9bOS1.jpg ",
+      "Name": "Sát Phá Lang 2 - SPL 2: A Time for Consequences"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9o6REmls2hsCVTH2UEHjJGz8RPJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9o6REmls2hsCVTH2UEHjJGz8RPJ.jpg ",
+      "Name": "Sát Phá Lang 2 - SPL 2: A Time for Consequences"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cHKD9qR5pkjlc3hfAcIYps7JvBR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cHKD9qR5pkjlc3hfAcIYps7JvBR.jpg ",
+      "Name": "Sát Phá Lang 2 - SPL 2: A Time for Consequences"
+    }
+  ],
+  "Links": [],
+  "Intro": "Sát Phá Lang 2 xoay quanh cuộc hành trình giải thoát cho cô con gái nhỏ của một nhân viên cai ngục người Thái, vì chỉ có một mình đơn độc không thể nào chống lại được thế lực bóng tối nên anh phải nhờ vào sự giúp đỡ của một người đồng nghiệp, đó là một cảnh sát chìm.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/mzOU5fKY0vx5YTSDyOFvG6YmdSG-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/D-h9PxGY4bA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/spl-2-time-consequences/",
+  "Name": "Sát Phá Lang 2"
+}

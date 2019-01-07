@@ -1,14 +1,85 @@
 {
   "Id": "movMC2ia19323",
-  "Url": "https://fsharephim.com/movies/ghost-in-the-shell-2/",
-  "Name": "Hồn Ma Vô Tội",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m1LUdsYnFThcrbvRzlpbsFioEQT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m1LUdsYnFThcrbvRzlpbsFioEQT.jpg",
+      "Name": "Hồn Ma Vô Tội - Ghost in the Shell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kcilD5Qavkk9qPYUshROqeqIJPp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kcilD5Qavkk9qPYUshROqeqIJPp.jpg",
+      "Name": "Hồn Ma Vô Tội - Ghost in the Shell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1GmA8iiHHOrMMWcjfnlEy88vYCi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1GmA8iiHHOrMMWcjfnlEy88vYCi.jpg",
+      "Name": "Hồn Ma Vô Tội - Ghost in the Shell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u8wIN4aQXWkgbFB9PtO4TS3O2PS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u8wIN4aQXWkgbFB9PtO4TS3O2PS.jpg",
+      "Name": "Hồn Ma Vô Tội - Ghost in the Shell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jaiaRiiaunJ8faob9vZ8XBTx9ou.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jaiaRiiaunJ8faob9vZ8XBTx9ou.jpg",
+      "Name": "Hồn Ma Vô Tội - Ghost in the Shell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hYNNSR29SX3ki2ALVvUNtCNadx7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hYNNSR29SX3ki2ALVvUNtCNadx7.jpg",
+      "Name": "Hồn Ma Vô Tội - Ghost in the Shell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k4BF5VWI25K0PfvkgRgptFVNxZf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k4BF5VWI25K0PfvkgRgptFVNxZf.jpg",
+      "Name": "Hồn Ma Vô Tội - Ghost in the Shell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jIpagj2Dud9g3ZVJFvaWikEWsYz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jIpagj2Dud9g3ZVJFvaWikEWsYz.jpg",
+      "Name": "Hồn Ma Vô Tội - Ghost in the Shell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bNwvRmYGMeXZfbVGwbwIyfdDYz6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bNwvRmYGMeXZfbVGwbwIyfdDYz6.jpg",
+      "Name": "Hồn Ma Vô Tội - Ghost in the Shell"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1uph7SUbmMxboiJxB4yxj1tOuWj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1uph7SUbmMxboiJxB4yxj1tOuWj.jpg",
+      "Name": "Hồn Ma Vô Tội - Ghost in the Shell"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movmc2ia19323/",
-      "Name": "Ghost.in.the.Shell.1995.720p.BluRay.x264.DTS-ES.THORA.mkv",
-      "Url": "https://www.fshare.vn/file/L3FLDVXU62I5UJV",
       "Size": "2.9 GB",
-      "FileSize": 3109393756
+      "FileSize": 3109393756,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/L3FLDVXU62I5UJV",
+      "Name": "Ghost.in.the.Shell.1995.720p.BluRay.x264.DTS-ES.THORA.mkv"
     }
-  ]
+  ],
+  "Intro": "Ghost in the Shell được chuyển thể thành Anime dựa trên bộ Manga cùng tên của Masamune Shirow. Phim kể về một nữ cảnh sát người máy và cộng sự của mình đi săn một hacker bí ẩn và nguy hiểm được gọi là “Bậc Thầy Điều Khiển Rối”.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/9gC88zYUBARRSThcG93MvW14sqx-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/wNtgA5Xfd2s?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ghost-in-the-shell-2/",
+  "Name": "Hồn Ma Vô Tội"
 }

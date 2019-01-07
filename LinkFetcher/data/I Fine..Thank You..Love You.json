@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pXzHlRAlTFcP9OJleZlFd6jBGgR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pXzHlRAlTFcP9OJleZlFd6jBGgR.jpg",
+      "Name": "I Fine..Thank You..Love You"
+    }
+  ],
+  "Links": [],
+  "Intro": "Yim goes to English school to keep his Japanese girlfriend in this Thai romantic comedy.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/mZSC3e7ZbZxSxZJmpPXGTjmDsX8-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/i-fine-thank-you-love-you/",
+  "Name": "I Fine..Thank You..Love You"
+}

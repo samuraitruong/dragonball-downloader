@@ -1,14 +1,50 @@
 {
-  "Id": "movHt4Dfx34065",
-  "Url": "https://fsharephim.com/movies/pokemon-destiny-deoxys/",
-  "Name": "Pokémon: Destiny Deoxys",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movht4dfx34065/",
-      "Name": "2004.Pokemon.Destiny.Deoxys.Bluray.VIE.1080p.AVC.DD.5.1.mkv",
-      "Url": "https://www.fshare.vn/file/VM5K83I3KCQC",
-      "Size": "19.28 GB",
-      "FileSize": 20697142250
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iLaeLzMK2tWKiaHLGtOp8fd1To5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iLaeLzMK2tWKiaHLGtOp8fd1To5.jpg",
+      "Name": "Pokémon: Destiny Deoxys"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zJLa0vP91B9id0GD95EehwEV9Qe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zJLa0vP91B9id0GD95EehwEV9Qe.jpg",
+      "Name": "Pokémon: Destiny Deoxys"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iU6UOCjveqzKvn21PyAJInuLYul.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iU6UOCjveqzKvn21PyAJInuLYul.jpg",
+      "Name": "Pokémon: Destiny Deoxys"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cCXAqwI56xc2xQPkrcHPQSoJtRe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cCXAqwI56xc2xQPkrcHPQSoJtRe.jpg",
+      "Name": "Pokémon: Destiny Deoxys"
+    }
+  ],
+  "Links": [],
+  "Intro": "A comet bearing a deadly Pokemon creature crash-lands onto Earth, terrorising a nearby high-tech city, where Ash, Pikachu and friends are currently visiting&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/4OevTwLmfTnNnbcKkrvr5ahMSDJ-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/pokemon-destiny-deoxys/",
+  "Name": "Pokémon: Destiny Deoxys"
 }

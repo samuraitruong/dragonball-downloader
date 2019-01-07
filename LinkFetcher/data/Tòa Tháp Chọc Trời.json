@@ -1,0 +1,61 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oMKFQmoVgB69fyXfSMu0lGlHJP2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oMKFQmoVgB69fyXfSMu0lGlHJP2.jpg ",
+      "Name": "Tòa Tháp Chọc Trời - Skyscraper"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/n5p2jk8NBau8K1Usz5t1wkG4ezV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/n5p2jk8NBau8K1Usz5t1wkG4ezV.jpg ",
+      "Name": "Tòa Tháp Chọc Trời - Skyscraper"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pfzC0MVhIiyRMRukp1jSMDYSzJW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pfzC0MVhIiyRMRukp1jSMDYSzJW.jpg ",
+      "Name": "Tòa Tháp Chọc Trời - Skyscraper"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7SHNyeVtGjTu67x1kqKbflBOdjv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7SHNyeVtGjTu67x1kqKbflBOdjv.jpg ",
+      "Name": "Tòa Tháp Chọc Trời - Skyscraper"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kcHKIDisUnmWVxlkkMbJAb3gEI1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kcHKIDisUnmWVxlkkMbJAb3gEI1.jpg ",
+      "Name": "Tòa Tháp Chọc Trời - Skyscraper"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9bn8ApCTuqTb7rLoxzyGcyzjuFx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9bn8ApCTuqTb7rLoxzyGcyzjuFx.jpg ",
+      "Name": "Tòa Tháp Chọc Trời - Skyscraper"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kQwLX3EUgxopPiuDrab6OhKaOqu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kQwLX3EUgxopPiuDrab6OhKaOqu.jpg ",
+      "Name": "Tòa Tháp Chọc Trời - Skyscraper"
+    }
+  ],
+  "Links": [],
+  "Intro": "Dwayne Johnson sẽ vào vai cựu quân nhân và cựu trưởng nhóm đặc nhiệm giải cứu của FBI Will Ford đầy dũng cảm. Không may trong một nhiệm vụ nguy hiểm, tai nạn khủng khiếp xảy đến với Will làm anh mất đi chân trái của mình. Kể từ đó, Will Ford từ bỏ công việc tại FBI và trở thành chuyên gia đánh giá an ninh cho các tòa nhà.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/08/3NL1FiTEhU4SWOuWk8lkVCbmnYm-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/t9QePUT-Yt8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/skyscraper/",
+  "Name": "Tòa Tháp Chọc Trời"
+}

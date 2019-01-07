@@ -1,0 +1,47 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1C1d3Tpesm8Vn3BRqsQZt0LfZcG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1C1d3Tpesm8Vn3BRqsQZt0LfZcG.jpg",
+      "Name": "American Pie 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9Kum6Gu9fGQkpePkS1PxIoVGLPJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9Kum6Gu9fGQkpePkS1PxIoVGLPJ.jpg",
+      "Name": "American Pie 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kJ2lqkvfUd9Rt97k0ikdCLEVQch.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kJ2lqkvfUd9Rt97k0ikdCLEVQch.jpg",
+      "Name": "American Pie 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hAOjREz3naPrtOaKu9swd2AXy0b.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hAOjREz3naPrtOaKu9swd2AXy0b.jpg",
+      "Name": "American Pie 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tskEtxchuKRrZConbi4GWvVESc5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tskEtxchuKRrZConbi4GWvVESc5.jpg",
+      "Name": "American Pie 2"
+    }
+  ],
+  "Links": [],
+  "Intro": "The whole gang are back and as close as ever. They decide to get even closer by spending the summer together at a beach house. They decide to hold the biggest party ever to be seen, even if the preparation doesn&#8217;t always go to plan. Especially when Stifler, Finch and Jim become more close to each other than they ever want to be and when Jim mistakes super glue for lubricant&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/q4LNgUnRfltxzp3gf1MAGiK5LhV-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ntxIBzJ0tU8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/american-pie-2/",
+  "Name": "American Pie 2"
+}

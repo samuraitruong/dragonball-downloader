@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kTkH9kPb70SuW0w2UrwhCjXoNIW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kTkH9kPb70SuW0w2UrwhCjXoNIW.jpg",
+      "Name": "The Escape"
+    }
+  ],
+  "Links": [],
+  "Intro": "An ordinary woman makes an extraordinary decision which will change her life forever.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/lWETGfd6FEHGecnKE6JuWeXy90c-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/htGlL3tMMHk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-escape/",
+  "Name": "The Escape"
+}

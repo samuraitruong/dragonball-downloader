@@ -1,42 +1,97 @@
 {
   "Id": "movuJNu8B11621",
-  "Url": "https://fsharephim.com/movies/porco-rosso/",
-  "Name": "Porco Rosso",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8Uf3eyuXOzb8THszZNgT0srEsXu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8Uf3eyuXOzb8THszZNgT0srEsXu.jpg",
+      "Name": "Porco Rosso"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2zTH3OdZjbnF7Xfb6alS5ui5lHq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2zTH3OdZjbnF7Xfb6alS5ui5lHq.jpg",
+      "Name": "Porco Rosso"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6S8i52Q1ipCVYphnBJLhzCy0lb9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6S8i52Q1ipCVYphnBJLhzCy0lb9.jpg",
+      "Name": "Porco Rosso"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7GYd4wVga8xSBdOrP0kYohLAO7Z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7GYd4wVga8xSBdOrP0kYohLAO7Z.jpg",
+      "Name": "Porco Rosso"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8NDEKhRAJXFxjBtJA5L7m5bZcnN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8NDEKhRAJXFxjBtJA5L7m5bZcnN.jpg",
+      "Name": "Porco Rosso"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ufgDvLOfckVd0gpfzDiWt79n7xR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ufgDvLOfckVd0gpfzDiWt79n7xR.jpg",
+      "Name": "Porco Rosso"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movujnu8b11621-3/",
-      "Name": "Porco Rosso (1992) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/VZ5GJ1CA5LCM",
       "Size": "1.13 GB",
-      "FileSize": 1211817779
+      "FileSize": 1211817779,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/VZ5GJ1CA5LCM",
+      "Name": "Porco Rosso (1992) 720p BrRip x264.mp4"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movujnu8b11621-4/",
-      "Name": "Porco Rosso (1992) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/GMG5ZDLLWHD5",
       "Size": "1.78 GB",
-      "FileSize": 1911758318
+      "FileSize": 1911758318,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/GMG5ZDLLWHD5",
+      "Name": "Porco Rosso (1992) 1080p BrRip x264.mp4"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movujnu8b11621-5/",
-      "Name": "Porco Rosso (1992) Bluray 1080p AVC DTS-HD MA 2.0.iso",
-      "Url": "https://www.fshare.vn/file/Z7OMRQ3YABCK",
       "Size": "40.54 GB",
-      "FileSize": 43528486912
+      "FileSize": 43528486912,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/Z7OMRQ3YABCK",
+      "Name": "Porco Rosso (1992) Bluray 1080p AVC DTS-HD MA 2.0.iso"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movujnu8b11621/",
-      "Name": "Porco.Rosso.1992.720p.HDTV.DD2.0.x264-PerfectionHD.mkv",
-      "Url": "https://www.fshare.vn/file/TGHY4KVGYT",
       "Size": "4.43 GB",
-      "FileSize": 4757773727
+      "FileSize": 4757773727,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/TGHY4KVGYT",
+      "Name": "Porco.Rosso.1992.720p.HDTV.DD2.0.x264-PerfectionHD.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movujnu8b11621-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/porco-rosso-kurenai-no-buta/vietnamese/500924",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/porco-rosso-kurenai-no-buta/vietnamese/500924",
+      "Name": "Viet - Subtitle"
     }
-  ]
+  ],
+  "Intro": "Porco Rosso, known in Japan as Crimson Pig (Kurenai no Buta) is the sixth animated film by Hayao Miyazaki and released in 1992. You&#8217;re introduced to an Italian World War I fighter ace, now living as a freelance bounty hunter chasing &#8220;air pirates&#8221; in the Adriatic Sea. He has been given a curse that changed his head to that of a pig. Once called Marco Pagot, he is now known to the world as &#8220;Porco Rosso&#8221;, Italian for &#8220;Red Pig.&#8221;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/d8J98dLZkfTpJY64VvtCOH2UkXP-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/fmyrWYrvF5s?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/porco-rosso/",
+  "Name": "Porco Rosso"
 }

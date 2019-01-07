@@ -1,14 +1,31 @@
 {
-  "Id": "movHeZZuX85315",
-  "Url": "https://fsharephim.com/movies/kikoriki-team-invincible/",
-  "Name": "Kikoriki: Team Invincible",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movhezzux85315/",
-      "Name": "Smeshariki.Nachalo.2011.ViE.1080p.BluRay.DD5.1.x264.mkv",
-      "Url": "https://www.fshare.vn/file/SAOEKGASWUBPDEO",
-      "Size": "4.78 GB",
-      "FileSize": 5130634878
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aEgiHDONSM2UJvM1kFsE7ToYyKx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aEgiHDONSM2UJvM1kFsE7ToYyKx.jpg",
+      "Name": "Kikoriki: Team Invincible"
+    }
+  ],
+  "Links": [],
+  "Intro": "But the lives of the Kikoriki are suddenly turned upside-down when they stumble on a strange device they had only heard about &#8211; a TV.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/6Vk10QwpCz7wahu5lbdS9itbDVE-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/kikoriki-team-invincible/",
+  "Name": "Kikoriki: Team Invincible"
 }

@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rX6b7tdqdVoLOaMr1vaSak8TJqi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rX6b7tdqdVoLOaMr1vaSak8TJqi.jpg",
+      "Name": "Goldbuster"
+    }
+  ],
+  "Links": [],
+  "Intro": "A quirky internet star, a pair of retired gangsters, and the black sheep of a prolific family of herbalists are a few of the oddball tenants that call the dilapidated apartments of Humble Grove home. Fearful of being locked out by a ruthless property developer with his eye on the building, they’ve stayed inside for years. So, when supernatural incidents befall them all on one night, instead of running, they turn to flamboyant ghost hunter Golden Ling to perform a most unusual exorcism.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/jETIjiAfLMpTXxm0jIBAdEqtKW6-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/6gDhRgtr1Pk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/goldbuster/",
+  "Name": "Goldbuster"
+}

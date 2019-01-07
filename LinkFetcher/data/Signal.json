@@ -1,0 +1,595 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zEXpekMVjAACIFqhNdxolVNRHjW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zEXpekMVjAACIFqhNdxolVNRHjW.jpg",
+      "Name": "Signal"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/signal-1x1/",
+      "Name": "You're Doomed"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/signal-1x2/",
+      "Name": "We Still Have a Chance"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/signal-1x3/",
+      "Name": "We Can Prevent the Killings"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/signal-1x4/",
+      "Name": "We Found the Killer"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/signal-1x5/",
+      "Name": "Changing the Past Alters the Present"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/signal-1x6/",
+      "Name": "Catch Him by All Means"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/signal-1x7/",
+      "Name": "We Must Dig Deeper"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/signal-1x8/",
+      "Name": "How Are You Alive?"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/signal-1x9/",
+      "Name": "Hongwon Dong Case"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/signal-1x10/",
+      "Name": "Someone Has to Stop the Bad Guys"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/signal-1x11/",
+      "Name": "The One Last Case"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/signal-1x12/",
+      "Name": "The Case Was Manipulated"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/signal-1x13/",
+      "Name": "The Real Assailant"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/signal-1x14/",
+      "Name": "Not Now, But Maybe In The Past"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/signal-1x15/",
+      "Name": "Is It Really You?"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/signal-1x16/",
+      "Name": "If You Don't Give Up"
+    }
+  ],
+  "Intro": "Detectives from the present and a detective from the past communicate via walkie-talkie to solve a long-time unsolved case.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/qkUHMlu8xzrr0TUo2oROTeMczeO-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": "tvowS9Zg1151741",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fMPgLORwox4bKVVIiOA6NuGrHlQ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fMPgLORwox4bKVVIiOA6NuGrHlQ.jpg",
+              "Name": "Signal 1&#215;1"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvows9zg1151741/",
+              "Size": "1.3 GB",
+              "FileSize": 1370327827,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/HD1UVL26FB4B",
+              "Name": "[K-Zone].Signal.E01.HD.KITES.VN.mkv"
+            }
+          ],
+          "Intro": "Haunted by a classmate&#8217;s kidnapping 15 years ago, Park Hae Young becomes a police profiler who&#8217;s lost faith in the police force. This all changes when he stumbles upon an old radio that&#8217;s receiving transmissions from the past.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/signal-1x1/",
+          "Name": "Signal 1x1"
+        },
+        {
+          "Id": "tvowS9Zg1160224",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/31hUmVBJErrZDzcVdTd9N5ADhXI.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/31hUmVBJErrZDzcVdTd9N5ADhXI.jpg",
+              "Name": "Signal 1&#215;10"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvows9zg1160224/",
+              "Size": "1.2 GB",
+              "FileSize": 1282991688,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/7CTVNDKJOJDZ",
+              "Name": "[K-Zone].Signal.E10.HD.KITES.VN.mkv"
+            }
+          ],
+          "Intro": "The Cold Case Squad is assigned to the serial murder, but the last the victims isn&#8217;t identified. Cha Soo Hyun revisits a past trauma.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/signal-1x10/",
+          "Name": "Signal 1x10"
+        },
+        {
+          "Id": "tvowS9Zg1160225",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6QtgfKZnvarngnDITrq2TxmpoOE.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6QtgfKZnvarngnDITrq2TxmpoOE.jpg",
+              "Name": "Signal 1&#215;11"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvows9zg1160225/",
+              "Size": "1.3 GB",
+              "FileSize": 1388947532,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/SIUJUCYG4Y91",
+              "Name": "[K-Zone].Signal.E11.HD.KITES.VN.mkv"
+            }
+          ],
+          "Intro": "The Cold Case Squad catches the Hongwon-dong serial killer, but Lee Jae Han&#8217;s determination changes the past again.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/signal-1x11/",
+          "Name": "Signal 1x11"
+        },
+        {
+          "Id": "tvowS9Zg1160226",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/54hKxsGd5HUtrZCbu8LbN25FF5O.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/54hKxsGd5HUtrZCbu8LbN25FF5O.jpg",
+              "Name": "Signal 1&#215;12"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvows9zg1160226/",
+              "Size": "1.3 GB",
+              "FileSize": 1390708405,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/PB91468BPB7P",
+              "Name": "[K-Zone].Signal.E12.HD.KITES.VN.mkv"
+            }
+          ],
+          "Intro": "Park Hae Young becomes the prime suspect for the Section Chief&#8217;s murder. Meanwhile, Lee Jae Han must find out who this &#8220;one&#8221; is before it&#8217;s too late.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/signal-1x12/",
+          "Name": "Signal 1x12"
+        },
+        {
+          "Id": "tvowS9Zg1160227",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/yNU3zfzKAuyIfegcDi1tAIycmi7.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/yNU3zfzKAuyIfegcDi1tAIycmi7.jpg",
+              "Name": "Signal 1&#215;13"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvows9zg1160227/",
+              "Size": "1.2 GB",
+              "FileSize": 1310549786,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/B4C369LWGD48",
+              "Name": "[K-Zone].Signal.E13.HD.KITES.VN.mkv"
+            }
+          ],
+          "Intro": "The Cold Case Squad secretly reinvestigates the Injoo gang rape case. Lee Jae Han finds out the connection Park Hae Young has to the case.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/signal-1x13/",
+          "Name": "Signal 1x13"
+        },
+        {
+          "Id": "tvowS9Zg1160228",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7M8VImgIvivbEhnEa0ptzLIjve6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7M8VImgIvivbEhnEa0ptzLIjve6.jpg",
+              "Name": "Signal 1&#215;14"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvows9zg1160228/",
+              "Size": "1.2 GB",
+              "FileSize": 1332469775,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/YV86WT5VQREC",
+              "Name": "[K-Zone].Signal.E14.HD.KITES.VN.mkv"
+            }
+          ],
+          "Intro": "Following the trail the Section Chief left, Park Hae Young uncovers the truth behind his brother&#8217;s death. Meanwhile, Cha Soo Hyun finds Lee Jae Han&#8217;s radio in Hae Young&#8217;s possession.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/signal-1x14/",
+          "Name": "Signal 1x14"
+        },
+        {
+          "Id": "tvowS9Zg1160229",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ocjWXONgEKtfvQ4FfBYH9hwc2yg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ocjWXONgEKtfvQ4FfBYH9hwc2yg.jpg",
+              "Name": "Signal 1&#215;15"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvows9zg1160229/",
+              "Size": "1.2 GB",
+              "FileSize": 1284238634,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/MCIAN7OKJQRD",
+              "Name": "[K-Zone].Signal.E15.HD.KITES.VN.mkv"
+            }
+          ],
+          "Intro": "Park Hae Young is framed and arrested for the murder of the Section Chief. Cha Soo Hyun sets out to save Lee Jae Han and to find the one witness who can bring down their enemy.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/signal-1x15/",
+          "Name": "Signal 1x15"
+        },
+        {
+          "Id": "tvowS9Zg1160230",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bJJs7j5iLws7zy2B0hJ0p4TyXDV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bJJs7j5iLws7zy2B0hJ0p4TyXDV.jpg",
+              "Name": "Signal 1&#215;16"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvows9zg1160230/",
+              "Size": "1.5 GB",
+              "FileSize": 1588406554,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/VT5ZCFRC357B",
+              "Name": "[K-Zone].Signal.E16.END.HD.KITES.VN.mkv"
+            }
+          ],
+          "Intro": "Lee Jae Han is set on bringing down Kim Bum Joo, despite knowing that he&#8217;s going to die, but a certain transmission is about to make all the difference.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/signal-1x16/",
+          "Name": "Signal 1x16"
+        },
+        {
+          "Id": "tvowS9Zg1160215",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hfRjVdGzQ3NnqTUNEndtsSda85U.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hfRjVdGzQ3NnqTUNEndtsSda85U.jpg",
+              "Name": "Signal 1&#215;2"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvows9zg1160215/",
+              "Size": "1.1 GB",
+              "FileSize": 1172347962,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/FEI2HXZYIE9P",
+              "Name": "[K-Zone].Signal.E02.HD.KITES.VN.mkv"
+            }
+          ],
+          "Intro": "After the Kim Yoon Jung kidnapping case, the Chief of police creates a cold case squad. Their first case is the infamous Gyeonggi Nambu serial murders.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/signal-1x2/",
+          "Name": "Signal 1x2"
+        },
+        {
+          "Id": "tvowS9Zg1160216",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/iZvdFR7mZmA1c4Drbb4kKRxCJJO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/iZvdFR7mZmA1c4Drbb4kKRxCJJO.jpg",
+              "Name": "Signal 1&#215;3"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvows9zg1160216/",
+              "Size": "1.1 GB",
+              "FileSize": 1145241917,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/LG8HIQYDOZMX",
+              "Name": "[K-Zone].Signal.E03.HD.KITES.VN.mkv"
+            }
+          ],
+          "Intro": "During the investigation of the serial murders, Park Hae Young discovers that the radio transmissions are actually connecting him to the past.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/signal-1x3/",
+          "Name": "Signal 1x3"
+        },
+        {
+          "Id": "tvowS9Zg1160217",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7zD0EaDbvIN6FIbKMkXE7QmrqIb.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7zD0EaDbvIN6FIbKMkXE7QmrqIb.jpg",
+              "Name": "Signal 1&#215;4"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvows9zg1160217/",
+              "Size": "1.1 GB",
+              "FileSize": 1159684864,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/I3LF41JBO6JX",
+              "Name": "[K-Zone].Signal.E04.HD.KITES.VN.mkv"
+            }
+          ],
+          "Intro": "The cold case squad figures out who the serial killer is, but not before the wrong suspect turns himself in.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/signal-1x4/",
+          "Name": "Signal 1x4"
+        },
+        {
+          "Id": "tvowS9Zg1160219",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nzGmRLjy7qLT0Uz3NO730f7kVa1.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nzGmRLjy7qLT0Uz3NO730f7kVa1.jpg",
+              "Name": "Signal 1&#215;5"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvows9zg1160219/",
+              "Size": "1.1 GB",
+              "FileSize": 1213896325,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/5WYRPZKKWKT6",
+              "Name": "[K-Zone].Signal.E05.HD.KITES.VN.mkv"
+            }
+          ],
+          "Intro": "Park Hae Young begins asking questions about Lee Jae Han. Meanwhile, the police force in Lee Jan Han&#8217;s time struggles with a string of larceny cases.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/signal-1x5/",
+          "Name": "Signal 1x5"
+        },
+        {
+          "Id": "tvowS9Zg1160220",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8ajfMnH4LPYbKhsiWVTwv7zbquY.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8ajfMnH4LPYbKhsiWVTwv7zbquY.jpg",
+              "Name": "Signal 1&#215;6"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvows9zg1160220/",
+              "Size": "1.2 GB",
+              "FileSize": 1250679799,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/SK5TC1TTD2X8",
+              "Name": "[K-Zone].Signal.E06.HD.KITES.VN.mkv"
+            }
+          ],
+          "Intro": "Park Hae Young figures out that Oh Kyung Tae&#8217;s true objective is the father of the girl he kidnaps.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/signal-1x6/",
+          "Name": "Signal 1x6"
+        },
+        {
+          "Id": "tvowS9Zg1160221",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4HIxfsr7GqVzDt5zbXNqLL8lZfB.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4HIxfsr7GqVzDt5zbXNqLL8lZfB.jpg",
+              "Name": "Signal 1&#215;7"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvows9zg1160221/",
+              "Size": "1.1 GB",
+              "FileSize": 1195258798,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/EAVBN38KXN9Y",
+              "Name": "[K-Zone].Signal.E07.HD.KITES.VN.mkv"
+            }
+          ],
+          "Intro": "Lee Jae Han catches the real culprit behind the burglaries, unwittingly changing the past for the worse again.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/signal-1x7/",
+          "Name": "Signal 1x7"
+        },
+        {
+          "Id": "tvowS9Zg1160222",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bBSuo4QbADQgvYkhuPHCx258b3O.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bBSuo4QbADQgvYkhuPHCx258b3O.jpg",
+              "Name": "Signal 1&#215;8"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvows9zg1160222/",
+              "Size": "1.2 GB",
+              "FileSize": 1331461847,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/4BXHE8M8YWEW",
+              "Name": "[K-Zone].Signal.E08.HD.KITES.VN.mkv"
+            }
+          ],
+          "Intro": "The cold case squad finds Shin Da Hye, who has been living under the murder victim&#8217;s identity.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/signal-1x8/",
+          "Name": "Signal 1x8"
+        },
+        {
+          "Id": "tvowS9Zg1160223",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jEqVH11smMTA4Q7gHg4eHUbtCRW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jEqVH11smMTA4Q7gHg4eHUbtCRW.jpg",
+              "Name": "Signal 1&#215;9"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvows9zg1160223/",
+              "Size": "1.2 GB",
+              "FileSize": 1307053419,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/HIVKXPI5X1YG",
+              "Name": "[K-Zone].Signal.E09.HD.KITES.VN.mkv"
+            }
+          ],
+          "Intro": "Park Hae Young uncovers another layer to Lee Jae Han&#8217;s disappearance. An old demon from Cha Soo Hyun&#8217;s past resurfaces.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/signal-1x9/",
+          "Name": "Signal 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Jan. 22, 2016"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/signal/",
+  "Name": "Signal"
+}

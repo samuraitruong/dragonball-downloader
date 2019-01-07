@@ -1,0 +1,62 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/36bUqxQYAsPTYCfVjrcxecGqMZr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/36bUqxQYAsPTYCfVjrcxecGqMZr.jpg",
+      "Name": "The Last Emperor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4FfjHGlzloUqJe9h3mZK1T2olty.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4FfjHGlzloUqJe9h3mZK1T2olty.jpg",
+      "Name": "The Last Emperor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9alS7FBSf8rvDLskpCRuKqAI2h5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9alS7FBSf8rvDLskpCRuKqAI2h5.jpg",
+      "Name": "The Last Emperor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bv1DGcisZAJ1hFvbIhERCh2D4Tp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bv1DGcisZAJ1hFvbIhERCh2D4Tp.jpg",
+      "Name": "The Last Emperor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yqceay4AfPCcd9vRLQvMHi8EtB7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yqceay4AfPCcd9vRLQvMHi8EtB7.jpg",
+      "Name": "The Last Emperor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8higjBV0lWhoCSyOQazQenzAdXw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8higjBV0lWhoCSyOQazQenzAdXw.jpg",
+      "Name": "The Last Emperor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v9Ig1CxtsUO6qXyFVIWeCfMah9n.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v9Ig1CxtsUO6qXyFVIWeCfMah9n.jpg",
+      "Name": "The Last Emperor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oOrxqgBTebud6mfrpzxoF53EbSd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oOrxqgBTebud6mfrpzxoF53EbSd.jpg",
+      "Name": "The Last Emperor"
+    }
+  ],
+  "Links": [],
+  "Intro": "A dramatic history of Pu Yi, the last of the Emperors of China, from his lofty birth and brief reign in the Forbidden City, the object of worship by half a billion people; through his abdication, his decline and dissolute lifestyle; his exploitation by the invading Japanese, and finally to his obscure existence as just another peasant worker in the People&#8217;s Republic.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/gnKVWiegQ6IoaYA0miR0OdPyI5P-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/PtFrcVjVJBI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-last-emperor/",
+  "Name": "The Last Emperor"
+}

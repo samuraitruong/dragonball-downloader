@@ -1,0 +1,46 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tcpXHVOFgRxaaqOXF36DpNwC0Gv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tcpXHVOFgRxaaqOXF36DpNwC0Gv.jpg ",
+      "Name": "Ô Nhục - Outrage Coda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ylC2MmQeD2q5UAZyxU37deUeq74.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ylC2MmQeD2q5UAZyxU37deUeq74.jpg ",
+      "Name": "Ô Nhục - Outrage Coda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oWEurbT8GNdYg1n6Es6PlPbnWsM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oWEurbT8GNdYg1n6Es6PlPbnWsM.jpg ",
+      "Name": "Ô Nhục - Outrage Coda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7RcpQ1wv2pcWdJMJJFZl2GN9JmN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7RcpQ1wv2pcWdJMJJFZl2GN9JmN.jpg ",
+      "Name": "Ô Nhục - Outrage Coda"
+    }
+  ],
+  "Links": [],
+  "Intro": "5 năm sau khi sống sót trong cuộc đại chiến giữa các gia đình yakuza Sanno và Hanabishi, cựu giám đốc yakuza Otomo hiện đang làm việc tại Hàn Quốc cho ông Chang, một thợ sửa lỗi nổi tiếng có ảnh hưởng đến tận Nhật Bản. Một sự cố tương đối nhỏ gây ra những căng thẳng gia tăng giữa Chang Enterprises và Hanabishi. Xung đột ngày càng lớn dần và bùng nổ một cuộc đấu tranh dữ dội giữa các cấp trên của Hanabishi. Khi cuộc sống của Chang cuối cùng bị đe dọa, yakuza Otomo đã trở về Nhật Bản để giải quyết mọi thứ một lần và mãi mãi.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/pAgXu3sjuqeJDoaHRfbZG3F5CcU-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/AKrv2u4nglo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/outrage-coda/",
+  "Name": "Ô Nhục"
+}

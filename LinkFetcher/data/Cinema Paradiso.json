@@ -1,0 +1,52 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tVi83ttAeyMJinYpy6xfgJSpzvP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tVi83ttAeyMJinYpy6xfgJSpzvP.jpg",
+      "Name": "Cinema Paradiso"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/q7IagPtxJ9l2cQ3Zz0R8NvKmVcA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/q7IagPtxJ9l2cQ3Zz0R8NvKmVcA.jpg",
+      "Name": "Cinema Paradiso"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AntITqQvxaN1YGezz5rwet7NbmS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AntITqQvxaN1YGezz5rwet7NbmS.jpg",
+      "Name": "Cinema Paradiso"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zGBuhP2jctBBOH8ZKlKKca7Xgdj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zGBuhP2jctBBOH8ZKlKKca7Xgdj.jpg",
+      "Name": "Cinema Paradiso"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vOnR1cZZ2XqZjFVEk3KYnopxJIW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vOnR1cZZ2XqZjFVEk3KYnopxJIW.jpg",
+      "Name": "Cinema Paradiso"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/OxiuaHqfOu7pVEyZdxs3vUBdKu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/OxiuaHqfOu7pVEyZdxs3vUBdKu.jpg",
+      "Name": "Cinema Paradiso"
+    }
+  ],
+  "Links": [],
+  "Intro": "A filmmaker recalls his childhood, when he fell in love with the movies at his village&#8217;s theater and formed a deep friendship with the theater&#8217;s projectionist.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/pVJAStFPfdLD25DEhv410PZumOM-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/C2-GX0Tltgw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/cinema-paradiso/",
+  "Name": "Cinema Paradiso"
+}

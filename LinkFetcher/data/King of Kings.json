@@ -1,0 +1,68 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sdMXmahcfL8eo4wXzkgVHDPGBc2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sdMXmahcfL8eo4wXzkgVHDPGBc2.jpg",
+      "Name": "King of Kings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iKbhmVcE8gTM9T9qHQ0ApyJ820x.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iKbhmVcE8gTM9T9qHQ0ApyJ820x.jpg",
+      "Name": "King of Kings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vsy5SrtuBwuTgNxwUQXGPf3ALma.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vsy5SrtuBwuTgNxwUQXGPf3ALma.jpg",
+      "Name": "King of Kings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sSeitVlM2ueQ2UHfRI8y5UHay6M.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sSeitVlM2ueQ2UHfRI8y5UHay6M.jpg",
+      "Name": "King of Kings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/i3EPdJ0NKUV0I8DpQJg6BLv1RLP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/i3EPdJ0NKUV0I8DpQJg6BLv1RLP.jpg",
+      "Name": "King of Kings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hDx8HoS1jOdnXg6ztU5duTGsrAN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hDx8HoS1jOdnXg6ztU5duTGsrAN.jpg",
+      "Name": "King of Kings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8CjraBQ0Yv40HhXbyVlCTfPzrjA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8CjraBQ0Yv40HhXbyVlCTfPzrjA.jpg",
+      "Name": "King of Kings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gyjfuT4X0IdOxfG1RvuXJdFkOzH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gyjfuT4X0IdOxfG1RvuXJdFkOzH.jpg",
+      "Name": "King of Kings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dwJa9TqjKCTrhMTS8yMB5C8xvjd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dwJa9TqjKCTrhMTS8yMB5C8xvjd.jpg",
+      "Name": "King of Kings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/r3jWdVzdcfbf47DhmnPH40SUjXh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/r3jWdVzdcfbf47DhmnPH40SUjXh.jpg",
+      "Name": "King of Kings"
+    }
+  ],
+  "Links": [],
+  "Intro": "Who is Jesus, and why does he impact all he meets? He is respected and reviled, emulated and accused, beloved, betrayed, and finally crucified. Yet that terrible fate would not be the end of the story.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/e9IF2vWeKuu7NnwdZ9Um1HCRKAq-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/iHEPRuWNF1A?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/king-of-kings/",
+  "Name": "King of Kings"
+}

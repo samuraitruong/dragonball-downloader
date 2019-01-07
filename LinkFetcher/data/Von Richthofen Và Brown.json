@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nI1e1mB2wohyaF5Yn70ZyePnYXA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nI1e1mB2wohyaF5Yn70ZyePnYXA.jpg ",
+      "Name": "Von Richthofen Và Brown - Von Richthofen and Brown"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v15egAE8d73B0exXpdnMVUIORJL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v15egAE8d73B0exXpdnMVUIORJL.jpg ",
+      "Name": "Von Richthofen Và Brown - Von Richthofen and Brown"
+    }
+  ],
+  "Links": [],
+  "Intro": "một sĩ quan kỵ binh người Đức mới được bổ nhiệm vào một phi đội không quân dưới quyền chỉ huy của Oswald Boelcke ( Peter Masterson ). Trên toàn tuyến, một phi công khác, một người Canada tên Roy Brown ( Don Stroud ), đến một phi đội Anh dưới sự chỉ huy của Lanoe Hawker ( Corin Redgrave ).",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/d691rGgc46Ac7JdaxmQ8Sp7e9DP-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/842nz9QaMaU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/von-richthofen-and-brown/",
+  "Name": "Von Richthofen Và Brown"
+}

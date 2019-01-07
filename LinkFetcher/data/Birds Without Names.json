@@ -1,0 +1,37 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iLmzTmIrMy7ElOC8xK8Bjy8zlEE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iLmzTmIrMy7ElOC8xK8Bjy8zlEE.jpg",
+      "Name": "Birds Without Names"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9tzu5iXi3fSTZAgTycZQttfs9nH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9tzu5iXi3fSTZAgTycZQttfs9nH.jpg",
+      "Name": "Birds Without Names"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pyTeQNDTRniLoQXT8Y4Vkf0JIVI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pyTeQNDTRniLoQXT8Y4Vkf0JIVI.jpg",
+      "Name": "Birds Without Names"
+    }
+  ],
+  "Links": [],
+  "Intro": "Towako lives with Jinji, a man fifteen years her senior. Dedicated to her in every way, Jinji cooks, does the chores, and works a grueling job in his bid to support Towako. On the other hand, Towako lies around all day, neither working nor cleaning. Worse, she scolds and berates the sweet-tempered Jinji remorselessly, and cheats on him without a second thought. However, foremost on Towako’s mind is Kurosaki, an ex-boyfriend who brought her the only joy she ever knew. No longer able to resist her urges, Towako calls Kurosaki, but hangs up immediately. Soon after, Towako is visited by the police. It seems Kurosaki vanished five years ago under mysterious circumstances. As Towako searches for answers, she begins to wonder what role Jinji might have played in Kurosaki’s disappearance, and if there might be something sinister at work beneath his ever-pleasant demeanor.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/PrW2tGm1w0C5v68QNwjbR5p31p-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Rb1lcU_VCn4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/birds-without-names/",
+  "Name": "Birds Without Names"
+}

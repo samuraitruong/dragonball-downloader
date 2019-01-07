@@ -1,0 +1,69 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qEadwHs8JtZnkQ63i4x2A6fHxbt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qEadwHs8JtZnkQ63i4x2A6fHxbt.jpg ",
+      "Name": "Chuyến Bay Số Hiệu 93 - United 93"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3sPAF9jZLXfYD7gKjCldJF6tFsH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3sPAF9jZLXfYD7gKjCldJF6tFsH.jpg ",
+      "Name": "Chuyến Bay Số Hiệu 93 - United 93"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/naXDSf4eN3raSr3xmRSsyYAKKM3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/naXDSf4eN3raSr3xmRSsyYAKKM3.jpg ",
+      "Name": "Chuyến Bay Số Hiệu 93 - United 93"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4ehjilcn1ySprd3Uqc7J94ciGKd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4ehjilcn1ySprd3Uqc7J94ciGKd.jpg ",
+      "Name": "Chuyến Bay Số Hiệu 93 - United 93"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AoXOIURULQygaW5tCDU8heOUrEk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AoXOIURULQygaW5tCDU8heOUrEk.jpg ",
+      "Name": "Chuyến Bay Số Hiệu 93 - United 93"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zOvjlSArJXrttm8DjWfFAJZnYSq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zOvjlSArJXrttm8DjWfFAJZnYSq.jpg ",
+      "Name": "Chuyến Bay Số Hiệu 93 - United 93"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nhcWkiaZb6xoMIJc4IkyyeI6WNs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nhcWkiaZb6xoMIJc4IkyyeI6WNs.jpg ",
+      "Name": "Chuyến Bay Số Hiệu 93 - United 93"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bộ phim không chỉ miêu tả không khí căng thẳng và bàng hoàng đến bất lực của những người làm việc tại Trung tâm giám sát không lưu trước thảm kịch đang diễn ra, mà còn kể lại những gì đã xảy ra trên chuyến bay United 93, nơi mà 40 hành khách và phi hành đoàn đã cùng nhau chống trả quyết liệt 4 tên khủng bố khiến cho kế hoạch lái máy bay đâm vào Nhà Trắng của chúng bất thành.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/pHp3DlbGDcLSKAahCwGR9bzhbZs-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/kHdqw6scuIc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/united-93/",
+  "Name": "Chuyến Bay Số Hiệu 93"
+}

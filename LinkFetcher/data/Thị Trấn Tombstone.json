@@ -1,0 +1,35 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/mien-tay/",
+      "Name": "Miền Tây"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6l5nPBoKIPScVZ7v55O1Hm01Wk9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6l5nPBoKIPScVZ7v55O1Hm01Wk9.jpg",
+      "Name": "Thị Trấn Tombstone - Dead Again in Tombstone"
+    }
+  ],
+  "Links": [],
+  "Intro": "&#8221;Dead in Tombstone 2013&#8243;: Guerrero, một thủ lĩnh của nhóm cao bồi luôn tin rằng trong anh tồn tại một quỷ Satan khát máu trong những cơn ác mộng của mình. Trong một phị vụ lớn đánh cướp vàng tại thị trấn Colorado anh đã bị chính anh em và đồng bọn của mình phản bội và giết chết. Nay cơn ác mộng của anh đã thành hiện thực và anh có cơ hội hồi sinh 1 lần nữa để bắt những tên phản bội và tàn ác đền tội &#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/bGEgTjxcLF2irOwpLCM64itEkbJ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ANyr_7daaTk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/dead-again-in-tombstone/",
+  "Name": "Thị Trấn Tombstone"
+}

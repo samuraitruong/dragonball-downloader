@@ -1,0 +1,36 @@
+{
+  "Id": "mov72hTJe421504",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3ItltcZSAkzdI6bLUOBJFJq1Nml.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3ItltcZSAkzdI6bLUOBJFJq1Nml.jpg",
+      "Name": "Ghost Is All Around"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/mov72htje421504/",
+      "Size": "823.73 MB",
+      "FileSize": 863744300,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/L97YYO9XLZXCO36",
+      "Name": "Ghost.Is.All.Around.11-12-13.2016.DVDRip.x264.mkv"
+    }
+  ],
+  "Intro": null,
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/aFVAvxE6XdhlVbCZEz5JdcO3LMf-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ghost-is-all-around/",
+  "Name": "Ghost Is All Around"
+}

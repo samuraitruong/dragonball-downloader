@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lgYe1h5YgfLwx8O15EucS1yrDLi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lgYe1h5YgfLwx8O15EucS1yrDLi.jpg ",
+      "Name": "A Kind of Murder"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5CNhUC8Mos97YRcRQKS7oVAYcAD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5CNhUC8Mos97YRcRQKS7oVAYcAD.jpg ",
+      "Name": "A Kind of Murder"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1CiJOo8w7kMWCREpnh3da8M0PtC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1CiJOo8w7kMWCREpnh3da8M0PtC.jpg ",
+      "Name": "A Kind of Murder"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lxNGxYFPi0bAnWWJtPYtJ9pqUU8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lxNGxYFPi0bAnWWJtPYtJ9pqUU8.jpg ",
+      "Name": "A Kind of Murder"
+    }
+  ],
+  "Links": [],
+  "Intro": "In 1960s New York, Walter Stackhouse is a successful architect married to the beautiful Clara who leads a seemingly perfect life. But his fascination with an unsolved murder leads him into a spiral of chaos as he is forced to play cat-and-mouse with a clever killer and an overambitious detective, while at the same time lusting after another woman.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/03/KCJywO3PnrG25LKqyWnKdoKUCD-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/12zoi09mRoE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/a-kind-of-murder/",
+  "Name": "A Kind of Murder"
+}

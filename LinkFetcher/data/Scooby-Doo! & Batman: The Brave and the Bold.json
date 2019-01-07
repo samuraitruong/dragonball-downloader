@@ -1,14 +1,32 @@
 {
   "Id": "movoRaBLn484862",
-  "Url": "https://fsharephim.com/movies/scooby-doo-batman-the-brave-and-the-bold/",
-  "Name": "Scooby-Doo! & Batman: The Brave and the Bold",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eGCOOXOdhmERXUMXy43vsxL5k5N.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eGCOOXOdhmERXUMXy43vsxL5k5N.jpg",
+      "Name": "Scooby-Doo! &#038; Batman: The Brave and the Bold"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movorabln484862/",
-      "Name": "Scooby-Doo.and.Batman.the.Brave.and.the.Bold.2018.720p.WEB-DL.DD5.1.H264-FGT.mkv",
-      "Url": "https://www.fshare.vn/file/TY1XCMSXYROTTFB",
       "Size": "2.3 GB",
-      "FileSize": 2487022101
+      "FileSize": 2487022101,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/TY1XCMSXYROTTFB",
+      "Name": "Scooby-Doo.and.Batman.the.Brave.and.the.Bold.2018.720p.WEB-DL.DD5.1.H264-FGT.mkv"
     }
-  ]
+  ],
+  "Intro": "Batman teams up with the Scooby gang when villains from both of their worlds unite to wreak havoc on the city. Featuring classic DC villains like the Joker, Catwoman, Harley Quinn and the Riddler alongside heroes like Aquaman, Black Canary, and Plastic Man. Also featuring classic Scooby-Doo villains like the Ghost Clown, Space Kook, and Miner 49er.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/hSPeF1zoYH8kCOhFMu7x3B55zu6-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Qf3xIcaCBEk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/scooby-doo-batman-the-brave-and-the-bold/",
+  "Name": "Scooby-Doo! & Batman: The Brave and the Bold"
 }

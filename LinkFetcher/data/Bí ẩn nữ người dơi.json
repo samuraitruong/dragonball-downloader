@@ -1,21 +1,58 @@
 {
-  "Id": "movw5LHRy21683",
-  "Url": "https://fsharephim.com/movies/batman-mystery-of-the-batwoman/",
-  "Name": "Bí ẩn nữ người dơi",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movw5lhry21683-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/batman-mystery-of-the-batwoman",
-      "Size": "0",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movw5lhry21683/",
-      "Name": "Batman-Mystery-Of-The-Batwoman-2003-phimnhanh.com.mkv",
-      "Url": "https://www.fshare.vn/file/4D8T65WU8AHD31L",
-      "Size": "624.6 MB",
-      "FileSize": 654964412
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l4FaAhS0fThHyBifKkPEJefhq0K.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l4FaAhS0fThHyBifKkPEJefhq0K.jpg",
+      "Name": "Bí ẩn nữ người dơi - Batman: Mystery of the Batwoman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sW2KgYKdfIOx2msGhdYvX81ZgnN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sW2KgYKdfIOx2msGhdYvX81ZgnN.jpg",
+      "Name": "Bí ẩn nữ người dơi - Batman: Mystery of the Batwoman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/Ak7iM6Yal1KMTajxKGOd0at7ouy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/Ak7iM6Yal1KMTajxKGOd0at7ouy.jpg",
+      "Name": "Bí ẩn nữ người dơi - Batman: Mystery of the Batwoman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/YjUBTR6bR7oh25bytKrcPUu3vz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/YjUBTR6bR7oh25bytKrcPUu3vz.jpg",
+      "Name": "Bí ẩn nữ người dơi - Batman: Mystery of the Batwoman"
+    }
+  ],
+  "Links": [],
+  "Intro": "Hiệp sĩ bóng đêm Batman phải đối mặt với một câu hỏi khó, ai thực sự là nữ người dơi, khi tất cả các phương án Batman nghi ngờ đều vừa bị bác bỏ, nhưng một lần nữa,với khả năng thám tử siêu việt,Batman vừa tìm ra được sự thật đằng sau câu chuyện đầy rắc rối đó&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/3l2ArPFKXKQIwPOFm0keIkyjwqH-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Qe9evYaBZ9M?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/batman-mystery-of-the-batwoman/",
+  "Name": "Bí ẩn nữ người dơi"
 }

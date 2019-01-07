@@ -1,42 +1,113 @@
 {
   "Id": "movTpFrFu62211",
-  "Url": "https://fsharephim.com/movies/monsters-university/",
-  "Name": "Monsters University",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5mDCKKS7M8aUZKdShnCa7lLbzmH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5mDCKKS7M8aUZKdShnCa7lLbzmH.jpg",
+      "Name": "Monsters University"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9KiDJZkPV0EutPyvciewLI3Uzk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9KiDJZkPV0EutPyvciewLI3Uzk.jpg",
+      "Name": "Monsters University"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/j9UkU9VVFLn75BSg8vsTDAXRzuC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/j9UkU9VVFLn75BSg8vsTDAXRzuC.jpg",
+      "Name": "Monsters University"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ipEeiCJb1sNvoljTV9Dr1Fh8ppV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ipEeiCJb1sNvoljTV9Dr1Fh8ppV.jpg",
+      "Name": "Monsters University"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zOolUAkGgTayZqEFoF3IApDQhgi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zOolUAkGgTayZqEFoF3IApDQhgi.jpg",
+      "Name": "Monsters University"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zYppMa465jOROZXppgTwDRohTCo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zYppMa465jOROZXppgTwDRohTCo.jpg",
+      "Name": "Monsters University"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pJN5V8VvvEMQREZK24JhHtJaxet.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pJN5V8VvvEMQREZK24JhHtJaxet.jpg",
+      "Name": "Monsters University"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/s7fgQDgvpszJHP1uFWCvaxRzOdv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/s7fgQDgvpszJHP1uFWCvaxRzOdv.jpg",
+      "Name": "Monsters University"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ty0JJm1j6WYipxYKaXHn9uno2Th.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ty0JJm1j6WYipxYKaXHn9uno2Th.jpg",
+      "Name": "Monsters University"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yKiBriPKGoY4JrPnkBHn2xKUcw0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yKiBriPKGoY4JrPnkBHn2xKUcw0.jpg",
+      "Name": "Monsters University"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movtpfrfu62211-3/",
-      "Name": "Monsters University (2013) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/MESJ4MG8IK2C",
       "Size": "1.25 GB",
-      "FileSize": 1346433022
+      "FileSize": 1346433022,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/MESJ4MG8IK2C",
+      "Name": "Monsters University (2013) 720p BrRip x264.mp4"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movtpfrfu62211-4/",
-      "Name": "Monsters University (2013) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/5FEFPXESK7YZ",
       "Size": "1.98 GB",
-      "FileSize": 2124673081
+      "FileSize": 2124673081,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/5FEFPXESK7YZ",
+      "Name": "Monsters University (2013) 1080p BrRip x264.mp4"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movtpfrfu62211-5/",
-      "Name": "Monsters University (2013) ViE 1080p 3D2D Bluray MVC DTS-HD MA 7.1.iso",
-      "Url": "https://www.fshare.vn/file/S52I89CMT2FS",
       "Size": "22.96 GB",
-      "FileSize": 24651956224
+      "FileSize": 24651956224,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/S52I89CMT2FS",
+      "Name": "Monsters University (2013) ViE 1080p 3D2D Bluray MVC DTS-HD MA 7.1.iso"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movtpfrfu62211/",
-      "Name": "Monsters.University.2013.mkv",
-      "Url": "https://www.fshare.vn/file/T3YWQXH6CT",
       "Size": "2.23 GB",
-      "FileSize": 2393380195
+      "FileSize": 2393380195,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/T3YWQXH6CT",
+      "Name": "Monsters.University.2013.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movtpfrfu62211-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/monsters-university",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/monsters-university",
+      "Name": "Subtitle"
     }
-  ]
+  ],
+  "Intro": "A look at the relationship between Mike and Sulley during their days at Monsters University — when they weren&#8217;t necessarily the best of friends.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/a05xQU9huY3P5uurLcGGHmsf2Vh-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/JbeFIfS8uno?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/monsters-university/",
+  "Name": "Monsters University"
 }

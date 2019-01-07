@@ -1,21 +1,80 @@
 {
-  "Id": "movpKJ6Mw228165",
-  "Url": "https://fsharephim.com/movies/the-spongebob-movie-sponge-out-of-water/",
-  "Name": "Anh Hùng Lên Cạn",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movpkj6mw228165/",
-      "Name": "mHD - Thuyết Minh",
-      "Url": "https://www.fshare.vn/file/5MEVUGEEJ9EY",
-      "Size": "1.65 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movpkj6mw228165-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/the-spongebob-movie-sponge-out-of-water",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/c42tFwWNHc8jJ49Zb0yqSAqr5TM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/c42tFwWNHc8jJ49Zb0yqSAqr5TM.jpg ",
+      "Name": "Anh Hùng Lên Cạn - The SpongeBob Movie: Sponge Out of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1WNayre36yQ2ZBNXzXksQotoK25.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1WNayre36yQ2ZBNXzXksQotoK25.jpg ",
+      "Name": "Anh Hùng Lên Cạn - The SpongeBob Movie: Sponge Out of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/auBcignfHfdGl5VJ18ELSSNV5ex.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/auBcignfHfdGl5VJ18ELSSNV5ex.jpg ",
+      "Name": "Anh Hùng Lên Cạn - The SpongeBob Movie: Sponge Out of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/w8GX4czcp2bcuFJmT9uyiAzlHn5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/w8GX4czcp2bcuFJmT9uyiAzlHn5.jpg ",
+      "Name": "Anh Hùng Lên Cạn - The SpongeBob Movie: Sponge Out of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ls8lnqLitfa5iYsW1bSwkGOPsc1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ls8lnqLitfa5iYsW1bSwkGOPsc1.jpg ",
+      "Name": "Anh Hùng Lên Cạn - The SpongeBob Movie: Sponge Out of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gL3aKBYyQ3P5XwqIyRvEkHnRmE0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gL3aKBYyQ3P5XwqIyRvEkHnRmE0.jpg ",
+      "Name": "Anh Hùng Lên Cạn - The SpongeBob Movie: Sponge Out of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bkihBWwjwUrn4k7p7Ra607Xkab5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bkihBWwjwUrn4k7p7Ra607Xkab5.jpg ",
+      "Name": "Anh Hùng Lên Cạn - The SpongeBob Movie: Sponge Out of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vkthFvU67a9Hegppp30BF9GSawU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vkthFvU67a9Hegppp30BF9GSawU.jpg ",
+      "Name": "Anh Hùng Lên Cạn - The SpongeBob Movie: Sponge Out of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1DMrM1RDSClzeabdrTejEYtTFMU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1DMrM1RDSClzeabdrTejEYtTFMU.jpg ",
+      "Name": "Anh Hùng Lên Cạn - The SpongeBob Movie: Sponge Out of Water"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7nbC82d6tQHRj6G9bmMiQ6ShYKD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7nbC82d6tQHRj6G9bmMiQ6ShYKD.jpg ",
+      "Name": "Anh Hùng Lên Cạn - The SpongeBob Movie: Sponge Out of Water"
+    }
+  ],
+  "Links": [],
+  "Intro": "Nhân vật bọt biển màu vàng SpongeBob SquarePants đã trở thành một “hiện tượng” suốt nhiều thập kỷ. Với tính cách luôn luôn lạc quan, cuộc sống ở Bikini Bottom không thể tốt đẹp hơn với SpongeBob và những người bạn kỳ quái: Squidward, Sandy, Sao biển Patrick trung thành và ngài Krabs với công thức món burger Krabby Patty tuyệt ngon.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/9wChSuUoQDiBKUnGTcYMkzRha60-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/TGjbpO1toTc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-spongebob-movie-sponge-out-of-water/",
+  "Name": "Anh Hùng Lên Cạn"
 }

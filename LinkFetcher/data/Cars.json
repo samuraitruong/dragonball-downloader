@@ -1,42 +1,80 @@
 {
-  "Id": "movOl19JV920",
-  "Url": "https://fsharephim.com/movies/cars/",
-  "Name": "Cars",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movol19jv920-5/",
-      "Name": "Viet - Subtitle",
-      "Url": "http://www.fshare.vn/file/7E3Y96S9JOH6",
-      "Size": "251.5 KB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movol19jv920-4/",
-      "Name": "Cars.2006.ViE.720p.BluRay.DTS.x264-ESiR.mkv",
-      "Url": "https://www.fshare.vn/file/NG4WYTWUALVAIHL",
-      "Size": "4.4 GB",
-      "FileSize": 4745835447
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movol19jv920-3/",
-      "Name": "Cars 1 (2006) ViE 1080p 2D3D Bluray MVC DTS HD5.1-UHDRemux.iso",
-      "Url": "https://www.fshare.vn/file/JM6R2P5AQLIGHSB",
-      "Size": "22.0 GB",
-      "FileSize": 23642701824
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movol19jv920-2/",
-      "Name": "Cars.2006.1080p.BluRay.DTS.x264-ETRG.mkv",
-      "Url": "https://www.fshare.vn/file/FIY4C4BYN1V2FLJ",
-      "Size": "4.9 GB",
-      "FileSize": 5255246986
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movol19jv920/",
-      "Name": "Cars 2006.720p.BluRay.DTS.x264-ESiR(tm).mkv",
-      "Url": "https://www.fshare.vn/file/OEOYJKUCUZ5GLCP",
-      "Size": "4.4 GB",
-      "FileSize": 4745835447
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a1MlbLBk5Sy6YvMbSuKfwGlDVlb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a1MlbLBk5Sy6YvMbSuKfwGlDVlb.jpg",
+      "Name": "Cars"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6pwDuJXUD5DDDkNzomcVTYSzV97.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6pwDuJXUD5DDDkNzomcVTYSzV97.jpg",
+      "Name": "Cars"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fXZIwmAJBGwcSiRz02yuq2FWYhG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fXZIwmAJBGwcSiRz02yuq2FWYhG.jpg",
+      "Name": "Cars"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wBbwaCvqOQIbTQeEyyVpWLTliIz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wBbwaCvqOQIbTQeEyyVpWLTliIz.jpg",
+      "Name": "Cars"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9Xeimr83FZJFe5DcJ0Isa2MLw5E.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9Xeimr83FZJFe5DcJ0Isa2MLw5E.jpg",
+      "Name": "Cars"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hoSepfRFeiMMYNf7rNyL6zBhGPm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hoSepfRFeiMMYNf7rNyL6zBhGPm.jpg",
+      "Name": "Cars"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7ypWkWcMxYJsaGeJ79ebfzS5dsi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7ypWkWcMxYJsaGeJ79ebfzS5dsi.jpg",
+      "Name": "Cars"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/99w6aTUNJc0LQsE189dD4lfA0dN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/99w6aTUNJc0LQsE189dD4lfA0dN.jpg",
+      "Name": "Cars"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bKr8bAMQkcWtwKv9RS4ARAYwPJQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bKr8bAMQkcWtwKv9RS4ARAYwPJQ.jpg",
+      "Name": "Cars"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7aKMU3J9rF5rEKHldymaA02ciqo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7aKMU3J9rF5rEKHldymaA02ciqo.jpg",
+      "Name": "Cars"
+    }
+  ],
+  "Links": [],
+  "Intro": "Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town&#8217;s offbeat characters.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/5damnMcRFKSjhCirgX3CMa88MBj-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/SbXIj2T-_uk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/cars/",
+  "Name": "Cars"
 }

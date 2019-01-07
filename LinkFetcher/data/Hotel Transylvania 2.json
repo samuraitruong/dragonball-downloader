@@ -1,42 +1,80 @@
 {
-  "Id": "movB7hw9u159824",
-  "Url": "https://fsharephim.com/movies/hotel-transylvania-2/",
-  "Name": "Hotel Transylvania 2",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movb7hw9u159824-5/",
-      "Name": "1080p",
-      "Url": "http://www.fshare.vn/file/A37KYWCP8QQ9",
-      "Size": "4.37 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movb7hw9u159824-3/",
-      "Name": "mHD - 1080p",
-      "Url": "http://www.fshare.vn/file/FLCMWF6789EX",
-      "Size": "1.7 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movb7hw9u159824-4/",
-      "Name": "mHD - 720p",
-      "Url": "http://www.fshare.vn/file/OAZYJIOKM26G",
-      "Size": "1.08 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movb7hw9u159824/",
-      "Name": "Hotel.Transylvania.2.2015.mkv",
-      "Url": "https://www.fshare.vn/file/MO911SOQB5FH",
-      "Size": "1.56 GB",
-      "FileSize": 1674420373
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movb7hw9u159824-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/hotel-transylvania-2",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h3t4zZPteUPqyDBrmz5Z2zzGM61.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h3t4zZPteUPqyDBrmz5Z2zzGM61.jpg",
+      "Name": "Hotel Transylvania 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6JRbFATfcpXuo4QqFHPlOi38TFJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6JRbFATfcpXuo4QqFHPlOi38TFJ.jpg",
+      "Name": "Hotel Transylvania 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bs1A91xtn1ccYFjI1hld7ZkFjd2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bs1A91xtn1ccYFjI1hld7ZkFjd2.jpg",
+      "Name": "Hotel Transylvania 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bU8YiNdxmL6I7ZSOishJVFQmleK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bU8YiNdxmL6I7ZSOishJVFQmleK.jpg",
+      "Name": "Hotel Transylvania 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wsCeL2p1LNo9buGKlC9EPbytm0e.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wsCeL2p1LNo9buGKlC9EPbytm0e.jpg",
+      "Name": "Hotel Transylvania 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m2wZTVy2qOMlcZsIxJrkosst95O.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m2wZTVy2qOMlcZsIxJrkosst95O.jpg",
+      "Name": "Hotel Transylvania 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zqarkahQJ06IPuZKaE5QdK8N3G6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zqarkahQJ06IPuZKaE5QdK8N3G6.jpg",
+      "Name": "Hotel Transylvania 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1vcXVRRfj9ouJrKjkkH0VrWOJIG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1vcXVRRfj9ouJrKjkkH0VrWOJIG.jpg",
+      "Name": "Hotel Transylvania 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/irRKMjqHFgMsv9x1VpBs5FtDyn8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/irRKMjqHFgMsv9x1VpBs5FtDyn8.jpg",
+      "Name": "Hotel Transylvania 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/igEWmaHoCn3mJDdZZGI81ozhUvh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/igEWmaHoCn3mJDdZZGI81ozhUvh.jpg",
+      "Name": "Hotel Transylvania 2"
+    }
+  ],
+  "Links": [],
+  "Intro": "When the old-old-old-fashioned vampire Vlad arrives at the hotel for an impromptu family get-together, Hotel Transylvania is in for a collision of supernatural old-school and modern day cool.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/cFQHMUmxaO3PEDo5lxuQC8MCRIH-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/T3nqmGgnJe8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/hotel-transylvania-2/",
+  "Name": "Hotel Transylvania 2"
 }

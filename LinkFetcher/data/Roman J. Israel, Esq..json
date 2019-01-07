@@ -1,0 +1,28 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sY2ttr9jdPFlTVm5gxFkRW2ELUi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sY2ttr9jdPFlTVm5gxFkRW2ELUi.jpg ",
+      "Name": "Roman J. Israel, Esq."
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zms098KnZ30YfV9K0FaeiCUGuQ6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zms098KnZ30YfV9K0FaeiCUGuQ6.jpg ",
+      "Name": "Roman J. Israel, Esq."
+    }
+  ],
+  "Links": [],
+  "Intro": "Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forever while others take the credit. When his partner, the firm’s frontman, has a heart attack, Israel suddenly takes on that role. He soon discovers some unsettling truths about the firm&#8211;truths that conflict with his values of helping the poor and dispossessed&#8211;and finds himself in an existential crisis that leads to extreme actions.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/8e5IGlLrVjwrlDcRtzSQkXhJFWl-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/CItEtnp3nPY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/roman-j-israel-esq/",
+  "Name": "Roman J. Israel, Esq."
+}

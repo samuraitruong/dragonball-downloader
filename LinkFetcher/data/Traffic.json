@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ivAC8eZkzKoTf8EWQh7pkFD0AGS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ivAC8eZkzKoTf8EWQh7pkFD0AGS.jpg",
+      "Name": "Traffic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jkVjyGhM6z5cbtUeAHoAXxl4gdX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jkVjyGhM6z5cbtUeAHoAXxl4gdX.jpg",
+      "Name": "Traffic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1edydp18PYIaihYLfG52e3v9jwQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1edydp18PYIaihYLfG52e3v9jwQ.jpg",
+      "Name": "Traffic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a9wa3njt5LKp7YeRIfhKtMqrOWl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a9wa3njt5LKp7YeRIfhKtMqrOWl.jpg",
+      "Name": "Traffic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qOsbS4Jf9KmCWjkkGA99GF8V0Tl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qOsbS4Jf9KmCWjkkGA99GF8V0Tl.jpg",
+      "Name": "Traffic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2UlOp8avIskymES2AuCwNU0NcnQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2UlOp8avIskymES2AuCwNU0NcnQ.jpg",
+      "Name": "Traffic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u4h2aqjEppxBjKw96Ey0llx5cSr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u4h2aqjEppxBjKw96Ey0llx5cSr.jpg",
+      "Name": "Traffic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fuMDzf2dub0yMzjUMn2MZsLWXP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fuMDzf2dub0yMzjUMn2MZsLWXP.jpg",
+      "Name": "Traffic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hsE8NCxTf9oxzM8zX70eNTuyqu8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hsE8NCxTf9oxzM8zX70eNTuyqu8.jpg",
+      "Name": "Traffic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ytayQWHl8HtLq6DrE5sA258SxD4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ytayQWHl8HtLq6DrE5sA258SxD4.jpg",
+      "Name": "Traffic"
+    }
+  ],
+  "Links": [],
+  "Intro": "An exploration of the United States of America&#8217;s war on drugs from multiple perspectives. For the new head of the Office of National Drug Control Policy, the war becomes personal when he discovers his well-educated daughter is abusing cocaine within their comfortable suburban home. In Mexico, a flawed, but noble policeman agrees to testify against a powerful general in league with a cartel, and in San Diego, a drug kingpin&#8217;s sheltered trophy wife must learn her husband&#8217;s ruthless business after he is arrested, endangering her luxurious lifestyle.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/9qPLd5hdXIlrAyknVWK38eZyUMo-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/g3Du7F7htXc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/traffic/",
+  "Name": "Traffic"
+}

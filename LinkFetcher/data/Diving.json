@@ -1,0 +1,68 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pCFnnHMmhgW7J6nCs0UsbR5VxSa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pCFnnHMmhgW7J6nCs0UsbR5VxSa.jpg",
+      "Name": "Diving"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lxIWg6XvnGWmSGL3fqgEAHRPwP9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lxIWg6XvnGWmSGL3fqgEAHRPwP9.jpg",
+      "Name": "Diving"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9djITOg5sngnlNHViwSvMy2Bl8t.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9djITOg5sngnlNHViwSvMy2Bl8t.jpg",
+      "Name": "Diving"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/56YRVXbugiQ1zafWKupfVmVukbk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/56YRVXbugiQ1zafWKupfVmVukbk.jpg",
+      "Name": "Diving"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jsw0TJjtQXbhlnDm5HcCZfjqThJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jsw0TJjtQXbhlnDm5HcCZfjqThJ.jpg",
+      "Name": "Diving"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pepNjDgtYhYyEAuhcGC4U9t3wTL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pepNjDgtYhYyEAuhcGC4U9t3wTL.jpg",
+      "Name": "Diving"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t5yM6J3JD0x67BNJI5we4nbGA8w.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t5yM6J3JD0x67BNJI5we4nbGA8w.jpg",
+      "Name": "Diving"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1q1JiOwOtmAaP9mwOgrESiIMK4E.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1q1JiOwOtmAaP9mwOgrESiIMK4E.jpg",
+      "Name": "Diving"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rrpvIRirYbJ92CDnPKMNqCAtv2K.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rrpvIRirYbJ92CDnPKMNqCAtv2K.jpg",
+      "Name": "Diving"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tMaeDswGStivaEbMLWZj78Mfj9n.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tMaeDswGStivaEbMLWZj78Mfj9n.jpg",
+      "Name": "Diving"
+    }
+  ],
+  "Links": [],
+  "Intro": "A restless photographer leaves her family to &#8220;find herself&#8221; and takes up deep-sea diving.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/A44lIM211tHIzNwQZ0uGgv8WHIZ-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/diving/",
+  "Name": "Diving"
+}

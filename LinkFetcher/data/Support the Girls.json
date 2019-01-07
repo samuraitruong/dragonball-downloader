@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nzkNBGiyHBUdxQwBQ0eR2HZwIgu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nzkNBGiyHBUdxQwBQ0eR2HZwIgu.jpg ",
+      "Name": "Support the Girls"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wMiJPxdZ4avOtqijP62T6yR1wqo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wMiJPxdZ4avOtqijP62T6yR1wqo.jpg ",
+      "Name": "Support the Girls"
+    }
+  ],
+  "Links": [],
+  "Intro": "Lisa Conroy may not love managing the restaurant Double Whammies, but she loves her employees more than anything, not only Danyelle, and Maci, her closest friends, but also her extended family. Unfortunately, the cheap, curmudgeonly owner Ben Cubby doesn’t care nearly as much, and confronts Lisa when he learns that she’s using the restaurant to raise money for Shaina, an employee in legal trouble related to an abusive boyfriend. To get even, the girls decide to sabotage the restaurant on the night of a major mixed martial arts fight.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/08/hXfwrs8g3pY4mmaO5WDAowWLqBg-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/gp-8oB53P7k?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/support-the-girls/",
+  "Name": "Support the Girls"
+}

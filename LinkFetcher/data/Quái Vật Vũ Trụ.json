@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9gh3kcihkCH5EWjxBtb19pdQxhm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9gh3kcihkCH5EWjxBtb19pdQxhm.jpg",
+      "Name": "Quái Vật Vũ Trụ - Super 8"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7fAYnRpOUjVCFUx9Iibz7lgnhqk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7fAYnRpOUjVCFUx9Iibz7lgnhqk.jpg",
+      "Name": "Quái Vật Vũ Trụ - Super 8"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tEkT6HPyMPvuzImhX9hfxZHD36X.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tEkT6HPyMPvuzImhX9hfxZHD36X.jpg",
+      "Name": "Quái Vật Vũ Trụ - Super 8"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/exMT7YP7nY2XUHvUOPQxXocpFDg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/exMT7YP7nY2XUHvUOPQxXocpFDg.jpg",
+      "Name": "Quái Vật Vũ Trụ - Super 8"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2JrRRu6D5E1flefIvHfCTS3Ggtf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2JrRRu6D5E1flefIvHfCTS3Ggtf.jpg",
+      "Name": "Quái Vật Vũ Trụ - Super 8"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ddpLzzpXD27q7PBqTNoecRXyKr5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ddpLzzpXD27q7PBqTNoecRXyKr5.jpg",
+      "Name": "Quái Vật Vũ Trụ - Super 8"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8yL5Jq7sqZ1RsKL79kdhrsler7S.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8yL5Jq7sqZ1RsKL79kdhrsler7S.jpg",
+      "Name": "Quái Vật Vũ Trụ - Super 8"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wwnPy5BTH6JsRDqaLmSeVTOEBkM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wwnPy5BTH6JsRDqaLmSeVTOEBkM.jpg",
+      "Name": "Quái Vật Vũ Trụ - Super 8"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3qBi2tkoisl5YyL7ltMP8csfZlI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3qBi2tkoisl5YyL7ltMP8csfZlI.jpg",
+      "Name": "Quái Vật Vũ Trụ - Super 8"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9HDP7FZJJw7DLOMXYVgcgcBvDhl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9HDP7FZJJw7DLOMXYVgcgcBvDhl.jpg",
+      "Name": "Quái Vật Vũ Trụ - Super 8"
+    }
+  ],
+  "Links": [],
+  "Intro": "Lấy bối cảnh ở Ohio năm 1979, bộ phim nói về một nhóm sáu thanh niên dùng máy quay Super 8 để thực hiện bộ phim về Zombie của họ. Vào một đêm định mệnh, dự án này đưa cả nhóm đến một đoạn đường ray tàu hoả ở vùng nông thôn. Khi máy quay đang chạy, họ đã chứng kiến tai nạn khủng khiếp – một xe tải chở hàng va chạm với đầu máy xe lửa đang đến và đoàn tàu trật bánh với tiếng rít của kim loại và mưa lửa trong đêm. Và rồi một thứ gì đó xuất hiện từ các mảnh vụn, một thứ gì đó đích thực không phải là con người.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/1JAKnHjENVz1adurNjtsWZnVQGY-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/t-0XuYxh67w?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/super-8/",
+  "Name": "Quái Vật Vũ Trụ"
+}

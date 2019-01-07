@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tOBQsIikE6HyJ3il16TBgGpbmTl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tOBQsIikE6HyJ3il16TBgGpbmTl.jpg",
+      "Name": "Newness"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ne1aepAui6ezS8F8erMpsWjOS7y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ne1aepAui6ezS8F8erMpsWjOS7y.jpg",
+      "Name": "Newness"
+    }
+  ],
+  "Links": [],
+  "Intro": "In contemporary Los Angeles, two millennials navigating a social media–driven hookup culture begin a relationship that pushes both emotional and physical boundaries.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/zgBvMGisJpf4nMuO2yoNt7ZVR2q-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/EtBhKTuPjEk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/newness/",
+  "Name": "Newness"
+}

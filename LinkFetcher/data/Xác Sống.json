@@ -1,0 +1,31 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eqoUhDLieLdstbWLoSEXDC3zMqf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eqoUhDLieLdstbWLoSEXDC3zMqf.jpg ",
+      "Name": "Xác Sống - The Cured"
+    }
+  ],
+  "Links": [],
+  "Intro": "The Cured lấy bối cảnh trong tương lai gần khi con người phải đối mặt với dịch bệnh do virus Maze gây ra khiến cho những người bị nhiễm bệnh trở thành thây ma. Khi các nhà khoa học tìm được thuốc chữa, những người bị nhiễm bệnh dần dần hồi phục và được trả tự do sau thời gian bị cách ly. Thế nhưng, loại thuốc này không thể nào giúp những người đã từng bị bệnh quên đi ký ức và những hành động mà họ đã làm trong thời gian bị biến thành zombie. Không những vậy, họ còn bị xã hội xa lánh, kì thị và phải làm những công việc nặng nhọc, bị đẩy xuống dưới đáy của xã hội.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/hM0vi1s51RYR6knEAXqxyidlJSW-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/fSutgzDY_I4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-cured/",
+  "Name": "Xác Sống"
+}

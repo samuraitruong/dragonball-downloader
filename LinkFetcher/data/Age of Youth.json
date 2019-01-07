@@ -1,0 +1,509 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cRNfe3y7yUxVvUAjAKDJSoKUzxu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cRNfe3y7yUxVvUAjAKDJSoKUzxu.jpg ",
+      "Name": "Age of Youth"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/izlTkYYH8JQyxxFh6bISJIVp18d.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/izlTkYYH8JQyxxFh6bISJIVp18d.jpg ",
+      "Name": "Age of Youth"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vu5F4wLOBPFWYcBkJ3at2XKJgGa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vu5F4wLOBPFWYcBkJ3at2XKJgGa.jpg ",
+      "Name": "Age of Youth"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7s88P33YEfjBmD0jeZivRVfVEPC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7s88P33YEfjBmD0jeZivRVfVEPC.jpg ",
+      "Name": "Age of Youth"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nhFi3zziBL6oLD2goDLX8PSXap1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nhFi3zziBL6oLD2goDLX8PSXap1.jpg ",
+      "Name": "Age of Youth"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/age-of-youth-2x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/age-of-youth-2x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/age-of-youth-2x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/age-of-youth-2x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/age-of-youth-2x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/age-of-youth-2x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/age-of-youth-2x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/age-of-youth-2x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/age-of-youth-2x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/age-of-youth-2x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/age-of-youth-2x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/age-of-youth-2x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/age-of-youth-2x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/age-of-youth-2x14/",
+      "Name": "Episode 14"
+    }
+  ],
+  "Intro": "University students Yoon Jin-Myung, Jung Ye-Eun, Song Ji-Won, Kang Yi-Na and Yoo Eun-Jae share a house. Jin-Myung is busy supporting herself financially and studying. She suffers from lack of sleep. Ye-Eun is devoted to her boyfriend, she is clear about what she likes or not. Ji-Won has a bright personality and likes to drink. Yi-Na is popular due to her beautiful appearance. Eun-Jae is timid, but she has an unique taste for men.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/qj3m22w9IjrXzZrVMHg8QLAQP3-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-1x1/",
+          "Name": "Age of Youth 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-1x10/",
+          "Name": "Age of Youth 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-1x11/",
+          "Name": "Age of Youth 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-1x12/",
+          "Name": "Age of Youth 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-1x2/",
+          "Name": "Age of Youth 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-1x3/",
+          "Name": "Age of Youth 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-1x4/",
+          "Name": "Age of Youth 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-1x5/",
+          "Name": "Age of Youth 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-1x6/",
+          "Name": "Age of Youth 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-1x7/",
+          "Name": "Age of Youth 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-1x8/",
+          "Name": "Age of Youth 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-1x9/",
+          "Name": "Age of Youth 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Jul. 22, 2016"
+    },
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/vpGQXTZ8UidIW2Fi5IjBc29lHCA.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/vpGQXTZ8UidIW2Fi5IjBc29lHCA.jpg",
+              "Name": "Age of Youth 2&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-2x1/",
+          "Name": "Age of Youth 2x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-2x10/",
+          "Name": "Age of Youth 2x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-2x11/",
+          "Name": "Age of Youth 2x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-2x12/",
+          "Name": "Age of Youth 2x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-2x13/",
+          "Name": "Age of Youth 2x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-2x14/",
+          "Name": "Age of Youth 2x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lAGzBVednq05fNowOon2ftpWDMT.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lAGzBVednq05fNowOon2ftpWDMT.jpg",
+              "Name": "Age of Youth 2&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-2x2/",
+          "Name": "Age of Youth 2x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bgD83WkNwcm1Oj7Kw1NK1WMigKe.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bgD83WkNwcm1Oj7Kw1NK1WMigKe.jpg",
+              "Name": "Age of Youth 2&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-2x3/",
+          "Name": "Age of Youth 2x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9xZK3d9TKKnN3VwBPMf7hKtA7hq.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9xZK3d9TKKnN3VwBPMf7hKtA7hq.jpg",
+              "Name": "Age of Youth 2&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-2x4/",
+          "Name": "Age of Youth 2x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-2x5/",
+          "Name": "Age of Youth 2x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-2x6/",
+          "Name": "Age of Youth 2x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-2x7/",
+          "Name": "Age of Youth 2x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-2x8/",
+          "Name": "Age of Youth 2x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/age-of-youth-2x9/",
+          "Name": "Age of Youth 2x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 2 Aug. 25, 2017"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/age-of-youth/",
+  "Name": "Age of Youth"
+}

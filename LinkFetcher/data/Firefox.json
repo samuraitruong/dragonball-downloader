@@ -1,0 +1,67 @@
+{
+  "Id": "moviBqMRQ10724",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yIvxB5Gbq27ZexGgmKLcuDVTq1c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yIvxB5Gbq27ZexGgmKLcuDVTq1c.jpg",
+      "Name": "Firefox"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xpCzDybVmXDY64IpyFcIfpWOOYb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xpCzDybVmXDY64IpyFcIfpWOOYb.jpg",
+      "Name": "Firefox"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oGBFYxfQpiFK9alfRupvBzg7K1G.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oGBFYxfQpiFK9alfRupvBzg7K1G.jpg",
+      "Name": "Firefox"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8HXKVn6nxY63ndI3pCz8iaL1hi1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8HXKVn6nxY63ndI3pCz8iaL1hi1.jpg",
+      "Name": "Firefox"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movibqmrq10724/",
+      "Size": "8.75 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/JALT4SEB4B1T",
+      "Name": "1080p"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movibqmrq10724-2/",
+      "Size": "8.75 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://4share.vn/f/23161415101a1110/Firefox.1982.1080p.BluRay.x264-TheWretched.mkv.file",
+      "Name": "1080p"
+    }
+  ],
+  "Intro": "The Soviets have developed a revolutionary new jet fighter, called &#8220;Firefox&#8221;. Naturally, the British are worried that the jet will be used as a first-strike weapon, as rumours say that the jet is indetectable on radar. They send ex-Vietnam War pilot Mitchell Gant on a covert mission into the Soviet Union to steal Firefox.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/1QK1xhmvnLLZhDC8DNaFt08psp9-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/T5W4MiBuEnY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/firefox/",
+  "Name": "Firefox"
+}

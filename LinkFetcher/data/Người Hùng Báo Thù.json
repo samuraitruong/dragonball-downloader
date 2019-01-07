@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ok6Ws65nDSLAIKkKgIjqyM5OGCc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ok6Ws65nDSLAIKkKgIjqyM5OGCc.jpg",
+      "Name": "Người Hùng Báo Thù - Watchmen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iy6gS2LYPDS0HX4WFKzWSsauRhd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iy6gS2LYPDS0HX4WFKzWSsauRhd.jpg",
+      "Name": "Người Hùng Báo Thù - Watchmen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uOvNJMVy3VzEfS75hXroITSsdWY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uOvNJMVy3VzEfS75hXroITSsdWY.jpg",
+      "Name": "Người Hùng Báo Thù - Watchmen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yXzFAWqQiTPNbTTJGbGcHKComqj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yXzFAWqQiTPNbTTJGbGcHKComqj.jpg",
+      "Name": "Người Hùng Báo Thù - Watchmen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hiPYIAB1VCzIRTwV67f7tJOnv9f.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hiPYIAB1VCzIRTwV67f7tJOnv9f.jpg",
+      "Name": "Người Hùng Báo Thù - Watchmen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eUkt4wwp6OfWFNz71OITOxgrCei.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eUkt4wwp6OfWFNz71OITOxgrCei.jpg",
+      "Name": "Người Hùng Báo Thù - Watchmen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jmHPk09Eetd7OSbxXT71LyM20yM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jmHPk09Eetd7OSbxXT71LyM20yM.jpg",
+      "Name": "Người Hùng Báo Thù - Watchmen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8AtpIZmUrjLn4SXTex6XFCtHP4T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8AtpIZmUrjLn4SXTex6XFCtHP4T.jpg",
+      "Name": "Người Hùng Báo Thù - Watchmen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z58zwzIWwQcEKu8FgqwXcbw2PkF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z58zwzIWwQcEKu8FgqwXcbw2PkF.jpg",
+      "Name": "Người Hùng Báo Thù - Watchmen"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oXLJ0aM1YlCJTfZef2UZfmrcMc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oXLJ0aM1YlCJTfZef2UZfmrcMc.jpg",
+      "Name": "Người Hùng Báo Thù - Watchmen"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bối cảnh của phim diễn ra vào năm 1985 giả định, thời điểm mà các siêu anh hùng tồn tại, Richard Nixon vẫn còn là tổng thống, và cuộc chiến tranh lạnh căng thẳng giữa Mỹ và Liên bang Xô Viết đang ở đỉnh cao. Ủy viên ban trật tự Rorschach đang điều tra vụ ám sát Comedian và khám phá ra một loạt những vụ sát hại những siêu anh hùng khác. Rorschach phát hiện ra một âm mưu diện rộng liên quan đến quá khứ của những đồng nghiệp của mình khiến toàn bộ lịch sử thay đổi&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/1QqwJBv5a6ddgzaT6cLytJioyrJ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/PVgUZ2NSzBo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/watchmen/",
+  "Name": "Người Hùng Báo Thù"
+}

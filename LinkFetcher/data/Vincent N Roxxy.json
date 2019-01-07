@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/n3guCVACMbY3YZ0hLQaBx4JNgsd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/n3guCVACMbY3YZ0hLQaBx4JNgsd.jpg",
+      "Name": "Vincent N Roxxy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fxhtbhxcTon0vIrleEYIw1WMAHM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fxhtbhxcTon0vIrleEYIw1WMAHM.jpg",
+      "Name": "Vincent N Roxxy"
+    }
+  ],
+  "Links": [],
+  "Intro": "A small town loner and a rebellious punk rocker unexpectedly fall in love as they are forced on the run and soon discover violence follows them everywhere.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/pK5pEto2thTo8fRcSQIJc63IbSK-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ZE0NhS0mmW4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/vincent-n-roxxy/",
+  "Name": "Vincent N Roxxy"
+}

@@ -1,0 +1,41 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/prfgGRUhTdX2a0mPLRapNkdUiXv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/prfgGRUhTdX2a0mPLRapNkdUiXv.jpg",
+      "Name": "Biến Dạng - Distorted"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hznaqLWiT5Vjunmbyrp99eqt4Fz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hznaqLWiT5Vjunmbyrp99eqt4Fz.jpg",
+      "Name": "Biến Dạng - Distorted"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/el16u1LZuyPlraMvMaDFJQgjdKK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/el16u1LZuyPlraMvMaDFJQgjdKK.jpg",
+      "Name": "Biến Dạng - Distorted"
+    }
+  ],
+  "Links": [],
+  "Intro": "Một phụ nữ 32 tuổi (Christina Ricci) bị rối loạn lưỡng cực đến nghi ngờ chủ sở hữu của &#8220;căn hộ thông minh&#8221; hiện đại, cô và chồng (Brendan Fletcher) vừa chuyển sang một khu chung cư mà không biết rằng ở đó có một thì nghiệm bí mật về tẩy não mang tên &#8220;thần giao cách cảm tổng hợp&#8221;.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/06/fnvBQzWlh0Dd9vWq4l0ZmkrM34F-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/VIAqGOBOnyw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/distorted/",
+  "Name": "Biến Dạng"
+}

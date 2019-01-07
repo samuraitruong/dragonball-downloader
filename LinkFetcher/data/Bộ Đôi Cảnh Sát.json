@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ci42sWxqZbSnzRV9wrZKbk6nEsV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ci42sWxqZbSnzRV9wrZKbk6nEsV.jpg",
+      "Name": "Bộ Đôi Cảnh Sát - Dishoom"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oKq1xwaUcGeWJo6uWc1iOLvOYij.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oKq1xwaUcGeWJo6uWc1iOLvOYij.jpg",
+      "Name": "Bộ Đôi Cảnh Sát - Dishoom"
+    }
+  ],
+  "Links": [],
+  "Intro": "Cầu thủ cricket nổi tiếng của Ấn Độ Viraj Sharma bị bắt cóc trong chuyến du đấu ở Trung Đông 48 giờ trước trận chung kết giữa Ấn Độ và Pakistan. Đặc vụ ACP Kabir Shergill được bộ quốc phòng cử tới UAE để giải cứu Viraj trong vòng 36 giờ, phối hợp cùng tân binh cảnh sát gà mờ Junaid, với tính cách khá trái ngược cả hai đã có cuộc phiêu vô cùng hồi hộp và kỳ thú&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/cFh8RSlqfSiYs4e0h0iV5oAbCDl-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/DU6IdS2gVog?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/dishoom/",
+  "Name": "Bộ Đôi Cảnh Sát"
+}

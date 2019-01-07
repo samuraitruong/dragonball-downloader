@@ -1,42 +1,72 @@
 {
-  "Id": "mov1f5lcP77950",
-  "Url": "https://fsharephim.com/movies/turbo/",
-  "Name": "Turbo",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov1f5lcp77950-3/",
-      "Name": "Turbo (2013) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/GFLEW5PTPVWP",
-      "Size": "1.16 GB",
-      "FileSize": 1241771073
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov1f5lcp77950-4/",
-      "Name": "Turbo (2013) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/N3ASX13ZH8DU",
-      "Size": "1.82 GB",
-      "FileSize": 1959070322
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/mov1f5lcp77950-5/",
-      "Name": "Turbo (2013) 1080p Bluray 3D ViE AVC DTS-HD MA.5.1-MRC VAV.iso",
-      "Url": "https://www.fshare.vn/file/O1SOO7L6S8HF",
-      "Size": "43.52 GB",
-      "FileSize": 46733393920
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/mov1f5lcp77950/",
-      "Name": "Turbo.2013.LT.mkv",
-      "Url": "https://www.fshare.vn/file/T3465FKXYT",
-      "Size": "2.01 GB",
-      "FileSize": 2158744350
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/mov1f5lcp77950-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/turbo",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9jP2kMPUDpBKE5viSevTa4ga4bX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9jP2kMPUDpBKE5viSevTa4ga4bX.jpg",
+      "Name": "Turbo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dvdKrICCKP8Uh1Xqkn60oQXnYer.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dvdKrICCKP8Uh1Xqkn60oQXnYer.jpg",
+      "Name": "Turbo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eZVMcfmxxDPluEayeXbf3ZmPVDr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eZVMcfmxxDPluEayeXbf3ZmPVDr.jpg",
+      "Name": "Turbo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/r55iLccjpUoupQBsOULbs36hwFz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/r55iLccjpUoupQBsOULbs36hwFz.jpg",
+      "Name": "Turbo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gmDWxWSzFofVhV3ZXVYQfocBui2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gmDWxWSzFofVhV3ZXVYQfocBui2.jpg",
+      "Name": "Turbo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oIJD2wnwSUts8RL3gybCygqylaD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oIJD2wnwSUts8RL3gybCygqylaD.jpg",
+      "Name": "Turbo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AiV5QPAEW0ehJKRlpKOb5oT0T6L.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AiV5QPAEW0ehJKRlpKOb5oT0T6L.jpg",
+      "Name": "Turbo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4KXDfPWdBubkPa40VRGPzWXL58H.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4KXDfPWdBubkPa40VRGPzWXL58H.jpg",
+      "Name": "Turbo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v26h28iCF9aX9ldyccRfVh4xRyI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v26h28iCF9aX9ldyccRfVh4xRyI.jpg",
+      "Name": "Turbo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t5vqRCLkrgB06XI0PeCU9iIuS16.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t5vqRCLkrgB06XI0PeCU9iIuS16.jpg",
+      "Name": "Turbo"
+    }
+  ],
+  "Links": [],
+  "Intro": "The tale of an ordinary garden snail who dreams of winning the Indy 500.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/kajPlPUgobxci8ME5oqvzjN430q-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/QULzGYRThH8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/turbo/",
+  "Name": "Turbo"
 }

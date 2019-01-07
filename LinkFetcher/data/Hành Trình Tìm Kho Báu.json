@@ -1,0 +1,92 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ufCiAwtanx3FKQv1f7E3IuyPccx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ufCiAwtanx3FKQv1f7E3IuyPccx.jpg ",
+      "Name": "Hành Trình Tìm Kho Báu - The Librarian: Quest for the Spear"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/79zgGPPcv8a3FrBXtx0PuZRBkTl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/79zgGPPcv8a3FrBXtx0PuZRBkTl.jpg ",
+      "Name": "Hành Trình Tìm Kho Báu - The Librarian: Quest for the Spear"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6cgiFvwbxx21sphwhCFtxf5qTa4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6cgiFvwbxx21sphwhCFtxf5qTa4.jpg ",
+      "Name": "Hành Trình Tìm Kho Báu - The Librarian: Quest for the Spear"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4zC7ldPFSqsMQsfAEwOCWPsjzNX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4zC7ldPFSqsMQsfAEwOCWPsjzNX.jpg ",
+      "Name": "Hành Trình Tìm Kho Báu - The Librarian: Quest for the Spear"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9khareCOdm2sCMolIRRB2JYlTae.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9khareCOdm2sCMolIRRB2JYlTae.jpg ",
+      "Name": "Hành Trình Tìm Kho Báu - The Librarian: Quest for the Spear"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u7O39NtGG8iVxmG9CEd3sYO7en4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u7O39NtGG8iVxmG9CEd3sYO7en4.jpg ",
+      "Name": "Hành Trình Tìm Kho Báu - The Librarian: Quest for the Spear"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tjeUF5mJuw3Au5Rt0U3k8bwz07r.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tjeUF5mJuw3Au5Rt0U3k8bwz07r.jpg ",
+      "Name": "Hành Trình Tìm Kho Báu - The Librarian: Quest for the Spear"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wPn0tR0UAYp7sq087uA5tPcnxVK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wPn0tR0UAYp7sq087uA5tPcnxVK.jpg ",
+      "Name": "Hành Trình Tìm Kho Báu - The Librarian: Quest for the Spear"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lfJE6Sf3sWqhwAAcWRv9NgwjynX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lfJE6Sf3sWqhwAAcWRv9NgwjynX.jpg ",
+      "Name": "Hành Trình Tìm Kho Báu - The Librarian: Quest for the Spear"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4hQYQV3ktCyUndTUMjRmt579nN5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4hQYQV3ktCyUndTUMjRmt579nN5.jpg ",
+      "Name": "Hành Trình Tìm Kho Báu - The Librarian: Quest for the Spear"
+    }
+  ],
+  "Links": [],
+  "Intro": "Flynn Carsen là một sinh viên khảo cổ học xuất sắc. Với thú vui đọc sách và vốn hiểu biết phong phú về lịch sử, văn hoá, ngôn ngữ các dân tộc cổ đại, anh muốn ở lại trường để làm công tác nghiên cứu. Nhưng vị giáo sư của Carsen đã đuổi khéo chàng sinh viên giỏi của ông ra khỏi trường, cho rằng anh chỉ là “mọt sách” và nên tự tích luỹ kinh nghiệm sống ở thế giới bên ngoài.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/428VHqgQ2sWp0ioZ6I90PCOlr2M-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/eYUHJ978EU8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-librarian-quest-for-the-spear/",
+  "Name": "Hành Trình Tìm Kho Báu"
+}

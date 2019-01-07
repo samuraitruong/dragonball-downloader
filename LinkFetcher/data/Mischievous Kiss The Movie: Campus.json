@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a3NOEcibKplRenveK0bJhQY2LRL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a3NOEcibKplRenveK0bJhQY2LRL.jpg",
+      "Name": "Mischievous Kiss The Movie: Campus"
+    }
+  ],
+  "Links": [],
+  "Intro": null,
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/y6cugLEPDfBkbTCGv32RVq8P2DZ-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/mischievous-kiss-the-movie-campus/",
+  "Name": "Mischievous Kiss The Movie: Campus"
+}

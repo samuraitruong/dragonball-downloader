@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bKdxJMqvr4wltzAQaieA6CTkaa9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bKdxJMqvr4wltzAQaieA6CTkaa9.jpg",
+      "Name": "Basic Instinct"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/13Eqt5vMyV5bLjZPYL1gBWIHuZj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/13Eqt5vMyV5bLjZPYL1gBWIHuZj.jpg",
+      "Name": "Basic Instinct"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ajCz3lpxYG5m1snOLP5qJNdVyRt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ajCz3lpxYG5m1snOLP5qJNdVyRt.jpg",
+      "Name": "Basic Instinct"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/512skYppvYIJxIu0EXHEfHbJpLE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/512skYppvYIJxIu0EXHEfHbJpLE.jpg",
+      "Name": "Basic Instinct"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pu8OVQTSgLLUDwiYJDSBzPz7TVX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pu8OVQTSgLLUDwiYJDSBzPz7TVX.jpg",
+      "Name": "Basic Instinct"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bCndYBtle0eIIqjmLUhjCEw6pPh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bCndYBtle0eIIqjmLUhjCEw6pPh.jpg",
+      "Name": "Basic Instinct"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lhOxT2DbflTw4SPagPOISKKNJc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lhOxT2DbflTw4SPagPOISKKNJc.jpg",
+      "Name": "Basic Instinct"
+    }
+  ],
+  "Links": [],
+  "Intro": "A police detective is in charge of the investigation of a brutal murder, in which a beautiful and seductive woman could be involved.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/p1DHOfLFZmM567ePKfFNMV4mY92-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/EZc7uAUa38Q?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/basic-instinct/",
+  "Name": "Basic Instinct"
+}

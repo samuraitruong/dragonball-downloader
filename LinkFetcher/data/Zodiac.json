@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jP2htGBHE7vKq4MLeC75UeC0sZH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jP2htGBHE7vKq4MLeC75UeC0sZH.jpg",
+      "Name": "Zodiac"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/evayD0ZvaYepGAtoiuVs9XIR8su.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/evayD0ZvaYepGAtoiuVs9XIR8su.jpg",
+      "Name": "Zodiac"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eZHgxdUV38utOvlWQCVuo6wRPgY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eZHgxdUV38utOvlWQCVuo6wRPgY.jpg",
+      "Name": "Zodiac"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1fwX44TvZ2o1BO4POLApjbHWtnn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1fwX44TvZ2o1BO4POLApjbHWtnn.jpg",
+      "Name": "Zodiac"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lXZgNXoMNbCCp0j03AC20LvdiHd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lXZgNXoMNbCCp0j03AC20LvdiHd.jpg",
+      "Name": "Zodiac"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v487cF9fQkc24HieYoVLg62ekuG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v487cF9fQkc24HieYoVLg62ekuG.jpg",
+      "Name": "Zodiac"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bgYCtbvlVJzkaajmvDlZkwXsgNk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bgYCtbvlVJzkaajmvDlZkwXsgNk.jpg",
+      "Name": "Zodiac"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wmAh9OiPEgySaZRH9ofod19sZUn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wmAh9OiPEgySaZRH9ofod19sZUn.jpg",
+      "Name": "Zodiac"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xZcGX2hIcOoXwWCRkI0wkmvqMea.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xZcGX2hIcOoXwWCRkI0wkmvqMea.jpg",
+      "Name": "Zodiac"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hL6KaI8fGoYGxLpwp3pPd9smnZP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hL6KaI8fGoYGxLpwp3pPd9smnZP.jpg",
+      "Name": "Zodiac"
+    }
+  ],
+  "Links": [],
+  "Intro": "The true story of the investigation of the &#8220;Zodiac Killer&#8221;, a serial killer who terrified the San Francisco Bay Area, taunting police with his ciphers and letters. The case becomes an obsession for four men as their lives and careers are built and destroyed by the endless trail of clues.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/bgLyOROfFQI3FqYL7jQbiaV8lkN-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/dJ0oNfjzx4k?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/zodiac/",
+  "Name": "Zodiac"
+}

@@ -1,0 +1,51 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8stDsK4qpm4YDv9nVd3dD6j6QRI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8stDsK4qpm4YDv9nVd3dD6j6QRI.jpg",
+      "Name": "Jason Và Bộ Lông Cừu Vàng - Jason and the Argonauts"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3NhIiwwkyBzLRw8aL5WRW4d21zJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3NhIiwwkyBzLRw8aL5WRW4d21zJ.jpg",
+      "Name": "Jason Và Bộ Lông Cừu Vàng - Jason and the Argonauts"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/i705giLcck1WHWKXKzIJ1qqg2b2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/i705giLcck1WHWKXKzIJ1qqg2b2.jpg",
+      "Name": "Jason Và Bộ Lông Cừu Vàng - Jason and the Argonauts"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qX3gnd1YbwR3cmWbtgiJCFHTjO4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qX3gnd1YbwR3cmWbtgiJCFHTjO4.jpg",
+      "Name": "Jason Và Bộ Lông Cừu Vàng - Jason and the Argonauts"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kTOcMM9XBqJ8a8X9iDeRW4dRP4T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kTOcMM9XBqJ8a8X9iDeRW4dRP4T.jpg",
+      "Name": "Jason Và Bộ Lông Cừu Vàng - Jason and the Argonauts"
+    }
+  ],
+  "Links": [],
+  "Intro": "20 năm sau khi Pelios sát hại nhà vua Aristo chiếm ngai vàng Thessaly, Jason trở về nhà để đòi lại ngai vàng. Để làm được điều đó, đầu tiên anh phải tìm cho được Bộ Lông Cừu Vàng. Jake đóng một con thuyền lớn đặt tên là Argo, sau đó lựa chọn những thuỷ thủ xuất sắc nhất để lên đường đến Colchis, nơi cất giấu báu vật. Con trai Pelisos, Acostus, cũng tham gia cuộc hành trình và âm mưu phá hoại kế hoạch của Jason lấy bộ lông cừu về cho cha. Với sự giúp đỡ của Hera, nữ hoàng của các vị thần, Jason vượt qua được nhiều chướng ngại vật được gài bẫy trên đường và cứu được Media khỏi biển sâu",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/cxcsBwMvrSdUDjx527YWwhZYRZX-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/YSfZop4IroM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/jason-and-the-argonauts/",
+  "Name": "Jason Và Bộ Lông Cừu Vàng"
+}

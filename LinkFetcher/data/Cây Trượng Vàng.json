@@ -1,0 +1,37 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iUqMSSpVOy3AwDsEdHcAJ1H4JCs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iUqMSSpVOy3AwDsEdHcAJ1H4JCs.jpg ",
+      "Name": "Cây Trượng Vàng - The Golden Cane Warrior"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u3DIQb9ZVcZex60311HXa0dRzqC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u3DIQb9ZVcZex60311HXa0dRzqC.jpg ",
+      "Name": "Cây Trượng Vàng - The Golden Cane Warrior"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sUAn0JWr9NNziQNUA9NFv7SzazR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sUAn0JWr9NNziQNUA9NFv7SzazR.jpg ",
+      "Name": "Cây Trượng Vàng - The Golden Cane Warrior"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim nói về Cempaka là võ lâm chí tôn, được biết đến với tên gọi Kim Quyền Trượng. Bà ta có bốn đồ đệ, vốn được nhận về nuôi nấng và dạy võ từ khi còn là trẻ con, mà lại là con của những kẻ thù đã bị bà đánh bại. Đã đến lúc rửa tay gác trượng, giao cây Kim Quyền Trượng và những tuyệt kỹ võ công giúp và bất bại đến nay cho một đệ tử xứng đáng. Nếu trao lầm người, đó sẽ là đại họa cho võ lâm. Phim với sự tham gia của Christine Hakim,  Tara Basro,  Eva Celia Latjuba&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/5KC2YSsZLXo5GulPWCo1QGc3CHI-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/f81HJASsf7E?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/golden-cane-warrior/",
+  "Name": "Cây Trượng Vàng"
+}

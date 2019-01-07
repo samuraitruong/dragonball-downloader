@@ -1,0 +1,41 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xlfnQMqCWCg9TcHgpakXSJOTY2Q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xlfnQMqCWCg9TcHgpakXSJOTY2Q.jpg ",
+      "Name": "Mầm Chết - Viral"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1YEaKkEpUbcpyAcdyqo6CFZAPEz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1YEaKkEpUbcpyAcdyqo6CFZAPEz.jpg ",
+      "Name": "Mầm Chết - Viral"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bpnaGOlaDkgUFdFpG930yOmtd5V.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bpnaGOlaDkgUFdFpG930yOmtd5V.jpg ",
+      "Name": "Mầm Chết - Viral"
+    }
+  ],
+  "Links": [],
+  "Intro": "Sau sự bùng nổ của một loại virus đã xóa sổ hầu hết nhân loại, Emma và chị của mình là Stacey bị mắc kẹt trong vùng dịch bệnh, và khi Stacey bị nhiễm bệnh Emma buộc phải đứng giữa sự lựa chọn hoặc bảo vệ chị gái hoặc sống sót trước virus…",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/7Pk0Plmw3ySEqxhQPaKdxtbfU9F-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/4XdRLd13a4M?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/viral/",
+  "Name": "Mầm Chết"
+}

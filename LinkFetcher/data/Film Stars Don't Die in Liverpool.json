@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4PhlrH3brfcKcxXjMP7nqHjVnQO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4PhlrH3brfcKcxXjMP7nqHjVnQO.jpg ",
+      "Name": "Film Stars Don&#8217;t Die in Liverpool"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wBBjC4Hh4aIrPEsLTn7x9TOrn69.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wBBjC4Hh4aIrPEsLTn7x9TOrn69.jpg ",
+      "Name": "Film Stars Don&#8217;t Die in Liverpool"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u3WPzxh1PNn4dOSHLD20uq707PR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u3WPzxh1PNn4dOSHLD20uq707PR.jpg ",
+      "Name": "Film Stars Don&#8217;t Die in Liverpool"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rF432Lr1uXjJ1m537WOCvBX6f9M.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rF432Lr1uXjJ1m537WOCvBX6f9M.jpg ",
+      "Name": "Film Stars Don&#8217;t Die in Liverpool"
+    }
+  ],
+  "Links": [],
+  "Intro": "Romance sparks between a young actor and a leading lady.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/87oy4bxwkhmb4Jb3MRvosvd9NOX-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/43_KLNaEc6M?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/film-stars-dont-die-in-liverpool/",
+  "Name": "Film Stars Don't Die in Liverpool"
+}

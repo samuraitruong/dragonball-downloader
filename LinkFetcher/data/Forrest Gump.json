@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ctOEhQiFIHWkiaYp7b0ibSTe5IL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ctOEhQiFIHWkiaYp7b0ibSTe5IL.jpg",
+      "Name": "Forrest Gump"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wMgbnUVS9wbRGAdki8fqxKU1O0N.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wMgbnUVS9wbRGAdki8fqxKU1O0N.jpg",
+      "Name": "Forrest Gump"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/d5ud5KadGTrY6UQzzNIuK6L0Xyo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/d5ud5KadGTrY6UQzzNIuK6L0Xyo.jpg",
+      "Name": "Forrest Gump"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vdsc8Xd6SihxSmMz8VELbvudrXE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vdsc8Xd6SihxSmMz8VELbvudrXE.jpg",
+      "Name": "Forrest Gump"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/w84VhF6t5lLNS4hFC7N6426CSDp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/w84VhF6t5lLNS4hFC7N6426CSDp.jpg",
+      "Name": "Forrest Gump"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bb0OBbB3mP8Z4bB8YbJiAIfLiED.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bb0OBbB3mP8Z4bB8YbJiAIfLiED.jpg",
+      "Name": "Forrest Gump"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xLNTKZSoA1CnnfogZhuJnZdv2fF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xLNTKZSoA1CnnfogZhuJnZdv2fF.jpg",
+      "Name": "Forrest Gump"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lsVACig1Qm6rxEiS8zLQPIQymi5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lsVACig1Qm6rxEiS8zLQPIQymi5.jpg",
+      "Name": "Forrest Gump"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sycPMnziQajTZMUa2Vg5NllIbEi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sycPMnziQajTZMUa2Vg5NllIbEi.jpg",
+      "Name": "Forrest Gump"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eMYlBdPc0y0qOLND9MA3r5HpkKy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eMYlBdPc0y0qOLND9MA3r5HpkKy.jpg",
+      "Name": "Forrest Gump"
+    }
+  ],
+  "Links": [],
+  "Intro": "A man with a low IQ has accomplished great things in his life and been present during significant historic events &#8211; in each case, far exceeding what anyone imagined he could do. Yet, despite all the things he has attained, his one true love eludes him. &#8216;Forrest Gump&#8217; is the story of a man who rose above his challenges, and who proved that determination, courage, and love are more important than ability.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/02/yE5d3BUhE8hCnkMUJOo1QDoOGNz-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/bLvqoHBptjg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/forrest-gump/",
+  "Name": "Forrest Gump"
+}

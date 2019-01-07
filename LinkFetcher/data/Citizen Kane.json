@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xqDfLC7XbiaVN5XxZBWOJCX0hU7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xqDfLC7XbiaVN5XxZBWOJCX0hU7.jpg",
+      "Name": "Citizen Kane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zGutQCLUIQ5LakubDZtfM8s22eA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zGutQCLUIQ5LakubDZtfM8s22eA.jpg",
+      "Name": "Citizen Kane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yN8t1qalUaM0nOpvuzmdbjJYSDE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yN8t1qalUaM0nOpvuzmdbjJYSDE.jpg",
+      "Name": "Citizen Kane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wBci0AqVSxa7CTWN4eJQEpi2iqL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wBci0AqVSxa7CTWN4eJQEpi2iqL.jpg",
+      "Name": "Citizen Kane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/n5bNyVyPgiaMr9Q29d6KSvTeTdK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/n5bNyVyPgiaMr9Q29d6KSvTeTdK.jpg",
+      "Name": "Citizen Kane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bUso4VS03HV7mrQnqk0wAu6P2Xq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bUso4VS03HV7mrQnqk0wAu6P2Xq.jpg",
+      "Name": "Citizen Kane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vVarsoUYG5dqibBrwfyC8ebtrlZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vVarsoUYG5dqibBrwfyC8ebtrlZ.jpg",
+      "Name": "Citizen Kane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tumItaJodLhFZE2ruo01XF8cVxx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tumItaJodLhFZE2ruo01XF8cVxx.jpg",
+      "Name": "Citizen Kane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yE3ltUOI70iFk0HCFm8ylG1xkSx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yE3ltUOI70iFk0HCFm8ylG1xkSx.jpg",
+      "Name": "Citizen Kane"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fZSm8LVbimkFc1y6MFQJYr91JG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fZSm8LVbimkFc1y6MFQJYr91JG.jpg",
+      "Name": "Citizen Kane"
+    }
+  ],
+  "Links": [],
+  "Intro": "Newspaper magnate, Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/oFWvF7OJfT2ydAAatlnsgChV4FP-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/wiS-E-u9M6A?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/citizen-kane/",
+  "Name": "Citizen Kane"
+}

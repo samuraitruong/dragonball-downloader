@@ -1,0 +1,545 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/anDMMvgVV6pTNSxhHgiDPUjc4pH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/anDMMvgVV6pTNSxhHgiDPUjc4pH.jpg",
+      "Name": "American Horror Story"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AoDbj4HnwtcwuOW4VHZthFiyhd1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AoDbj4HnwtcwuOW4VHZthFiyhd1.jpg",
+      "Name": "American Horror Story"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vZhtZZ3qfIUVS6GeQTYhmBkq0nZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vZhtZZ3qfIUVS6GeQTYhmBkq0nZ.jpg",
+      "Name": "American Horror Story"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fEqY778wVVeKfgQkDlmbLJAuiIX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fEqY778wVVeKfgQkDlmbLJAuiIX.jpg",
+      "Name": "American Horror Story"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eUbfgM86i6QXRC9TwM6eJicG3UH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eUbfgM86i6QXRC9TwM6eJicG3UH.jpg",
+      "Name": "American Horror Story"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/loXjdditzJMP1tEwXESuvf77i0g.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/loXjdditzJMP1tEwXESuvf77i0g.jpg",
+      "Name": "American Horror Story"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wpuGydaSjVPRh0nWnw0RUyf2N3Q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wpuGydaSjVPRh0nWnw0RUyf2N3Q.jpg",
+      "Name": "American Horror Story"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/egM9YKGiN6OFOejjoK7i6S9o2kH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/egM9YKGiN6OFOejjoK7i6S9o2kH.jpg",
+      "Name": "American Horror Story"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uDToGOfTbIDltaJufxXfg5vHl3z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uDToGOfTbIDltaJufxXfg5vHl3z.jpg",
+      "Name": "American Horror Story"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h6oOpNbOsdkVkKvMX4dQvXg8J3C.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h6oOpNbOsdkVkKvMX4dQvXg8J3C.jpg",
+      "Name": "American Horror Story"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/american-horror-story-7x1/",
+      "Name": "Election Night"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/american-horror-story-7x2/",
+      "Name": "Don't Be Afraid of the Dark"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/american-horror-story-7x3/",
+      "Name": "Neighbors from Hell"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/american-horror-story-7x4/",
+      "Name": "11/9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/american-horror-story-7x5/",
+      "Name": "Holes"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/american-horror-story-7x6/",
+      "Name": "Mid-Western Assassin"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/american-horror-story-7x7/",
+      "Name": "Valerie Solanas Died for Your Sins: Scumbag"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/american-horror-story-7x8/",
+      "Name": "Winter of Our Discontent"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/american-horror-story-7x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/american-horror-story-7x10/",
+      "Name": "Episode 10"
+    }
+  ],
+  "Intro": "American Horror Story is an anthology horror drama series.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/gwSzP1cJL2HsBmGStN2vOg3d4Qd-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/2c3VVJb562Y?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": [
+    {
+      "Episodes": null,
+      "Url": null,
+      "Name": "Season 1 Oct. 05, 2011"
+    },
+    {
+      "Episodes": null,
+      "Url": null,
+      "Name": "Season 2 Oct. 17, 2012"
+    },
+    {
+      "Episodes": null,
+      "Url": null,
+      "Name": "Season 3 Oct. 09, 2013"
+    },
+    {
+      "Episodes": null,
+      "Url": null,
+      "Name": "Season 4 Oct. 08, 2014"
+    },
+    {
+      "Episodes": null,
+      "Url": null,
+      "Name": "Season 5 Oct. 07, 2015"
+    },
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/coYQadKVYgRoAK0MhOq2iyr1BTF.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/coYQadKVYgRoAK0MhOq2iyr1BTF.jpg",
+              "Name": "American Horror Story 6&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oNQMEX9glxFDJkneUybSuCONNxp.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oNQMEX9glxFDJkneUybSuCONNxp.jpg",
+              "Name": "American Horror Story 6&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": "A young interracial couple move into a farmhouse in North Carolina after purchasing it with their life savings. However, unearthly phenomena begin occurring and things are not what they seem.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-6x1/",
+          "Name": "American Horror Story 6x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oR4PximRHvaPyKZuLNJsDJBa2iZ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oR4PximRHvaPyKZuLNJsDJBa2iZ.jpg",
+              "Name": "American Horror Story 6&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": "Lee Harris, the lone survivor of Return to Roanoke: Three Days in Hell, agrees to an interview live on television, the Lana Winters Special.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-6x10/",
+          "Name": "American Horror Story 6x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rFB5pp6oMTxtAVYpy8MGSJtatHH.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rFB5pp6oMTxtAVYpy8MGSJtatHH.jpg",
+              "Name": "American Horror Story 6&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": "While the Millers discover some of their house&#8217;s history, Lee falls into old habits and her daughter, Flora, makes a new friend.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-6x2/",
+          "Name": "American Horror Story 6x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zIW9dxKQbnv9QNsFlCvQzZUXz5l.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zIW9dxKQbnv9QNsFlCvQzZUXz5l.jpg",
+              "Name": "American Horror Story 6&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": "Nightmares become an inescapable reality as unique stories of people&#8217;s lives in America reveal the astonishing power of the supernatural.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-6x3/",
+          "Name": "American Horror Story 6x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jjHmi7hlMT4qEc8AwleBIsBK24i.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jjHmi7hlMT4qEc8AwleBIsBK24i.jpg",
+              "Name": "American Horror Story 6&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": "Scathach presents herself for the first time and reveals what she wants. However, Tomasyn and the ghost settlers have other plans.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-6x4/",
+          "Name": "American Horror Story 6x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bWCKA7Dr9TEnSnnAy7keZsoFSr1.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bWCKA7Dr9TEnSnnAy7keZsoFSr1.jpg",
+              "Name": "American Horror Story 6&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": "The mob comes for Shelby, Matt and Flora, but they get help from a new face to escape the Butcher&#8217;s wrath.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-6x5/",
+          "Name": "American Horror Story 6x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/f8t4ISfm2DwPQi9oH2LxAYxhcXO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/f8t4ISfm2DwPQi9oH2LxAYxhcXO.jpg",
+              "Name": "American Horror Story 6&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": "After the wrap of the show My Roanoke Nightmare, the producer creates a follow up show called Return to Roanoke, bringing the actors of the previous show and the real Shelby, Matt, and Lee, back to the house.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-6x6/",
+          "Name": "American Horror Story 6x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9luJT5zntLt3mctHdVYNBp3Fwov.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9luJT5zntLt3mctHdVYNBp3Fwov.jpg",
+              "Name": "American Horror Story 6&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": "Audrey, Lee, and Monet find themselves in grave danger as they search for Rory; Agnes comes back for revenge; Matt and Shelby deal with the ramifications of their situation.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-6x7/",
+          "Name": "American Horror Story 6x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/syHo6xMD8ZUOVDiWKazuqGyqtmg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/syHo6xMD8ZUOVDiWKazuqGyqtmg.jpg",
+              "Name": "American Horror Story 6&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": "Audrey, Monet, and Lee remain hostages of the Polks, while Shelby and Dominic try to think of a way to escape the wrath of The Butcher back at the house.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-6x8/",
+          "Name": "American Horror Story 6x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qNdGCDyCVMm7hzDCFlH58JrhxY.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qNdGCDyCVMm7hzDCFlH58JrhxY.jpg",
+              "Name": "American Horror Story 6&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": "A new actor shows up to the house per Sidney&#8217;s request; three young adults enter the woods to shoot footage of the blood moon and the history of the house for the web. Meanwhile Lee, Monet, and Audrey remain on the run.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-6x9/",
+          "Name": "American Horror Story 6x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 6 Sep. 14, 2016"
+    },
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/60MOcspNqCGXeqrt7VINftwYtDm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/60MOcspNqCGXeqrt7VINftwYtDm.jpg",
+              "Name": "American Horror Story 7&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zGttpn1x7ViyOP2Bvr0fgZWeQgU.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zGttpn1x7ViyOP2Bvr0fgZWeQgU.jpg",
+              "Name": "American Horror Story 7&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kepWOHVRbjyCIE9mM3sBYflMEyA.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kepWOHVRbjyCIE9mM3sBYflMEyA.jpg",
+              "Name": "American Horror Story 7&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": "After Trump is elected President, Ally Mayfair-Richards is beset by all of her old phobias&#8230; and they appear to be coming to life.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-7x1/",
+          "Name": "American Horror Story 7x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-7x10/",
+          "Name": "American Horror Story 7x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6R8oFf7zmJiJ4icXDnPnH8RM5Ft.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6R8oFf7zmJiJ4icXDnPnH8RM5Ft.jpg",
+              "Name": "American Horror Story 7&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/iivlA5g9ih8qnO0qhjtBfneW3j4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/iivlA5g9ih8qnO0qhjtBfneW3j4.jpg",
+              "Name": "American Horror Story 7&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ggAAMDZTB6e7haswhkWR55GoMj7.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ggAAMDZTB6e7haswhkWR55GoMj7.jpg",
+              "Name": "American Horror Story 7&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ally, Ivy and Oz meet the new neighbors. Kai runs for city council. Detective Samuels investigates a murder. A blackout terrorizes Ally.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-7x2/",
+          "Name": "American Horror Story 7x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6AgjhdihfefZjQQeRe0CPpcO4qP.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6AgjhdihfefZjQQeRe0CPpcO4qP.jpg",
+              "Name": "American Horror Story 7&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xERyWMwiI80F73EOjRm54Aki7B7.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xERyWMwiI80F73EOjRm54Aki7B7.jpg",
+              "Name": "American Horror Story 7&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": "The community turns on Ally after she shoots and kills a Hispanic man. At home tensions between Ally and Ivy grow worse, and Kai may be Ally&#8217;s only hope.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-7x3/",
+          "Name": "American Horror Story 7x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oAHH3GUm2jeRwTZ7CrQ8b30WyEN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oAHH3GUm2jeRwTZ7CrQ8b30WyEN.jpg",
+              "Name": "American Horror Story 7&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": "Kai gathers familiar faces to join his cult as the events surrounding 11/8/17 are explored.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-7x4/",
+          "Name": "American Horror Story 7x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-7x5/",
+          "Name": "American Horror Story 7x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-7x6/",
+          "Name": "American Horror Story 7x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-7x7/",
+          "Name": "American Horror Story 7x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-7x8/",
+          "Name": "American Horror Story 7x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/american-horror-story-7x9/",
+          "Name": "American Horror Story 7x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 7 Sep. 05, 2017"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/american-horror-story/",
+  "Name": "American Horror Story"
+}

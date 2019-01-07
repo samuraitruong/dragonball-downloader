@@ -1,21 +1,80 @@
 {
-  "Id": "movG6LbAk25475",
-  "Url": "https://fsharephim.com/movies/tinker-bell-and-the-lost-treasure/",
-  "Name": "Tinker Bell Và Kho Báu Thất Lạc",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movg6lbak25475/",
-      "Name": "Tinker.Bell.II.and.the.Lost.Treasure.2009.mkv",
-      "Url": "https://www.fshare.vn/file/TJNSM4S1CT",
-      "Size": "1.51 GB",
-      "FileSize": 1618234185
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movg6lbak25475-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/tinker-bell-and-the-lost-treasure",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eCVyxdraegyZLxz47VxqJQ6xUZ9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eCVyxdraegyZLxz47VxqJQ6xUZ9.jpg ",
+      "Name": "Tinker Bell Và Kho Báu Thất Lạc - Tinker Bell and the Lost Treasure"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fNzWr09uCmRSIPBxPNHa2r8pasZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fNzWr09uCmRSIPBxPNHa2r8pasZ.jpg ",
+      "Name": "Tinker Bell Và Kho Báu Thất Lạc - Tinker Bell and the Lost Treasure"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/txMB4XVAm1r7RFRpsyHS4VFagKn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/txMB4XVAm1r7RFRpsyHS4VFagKn.jpg ",
+      "Name": "Tinker Bell Và Kho Báu Thất Lạc - Tinker Bell and the Lost Treasure"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aMq5OnXN7A1lVG7AWinwrRGJsv5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aMq5OnXN7A1lVG7AWinwrRGJsv5.jpg ",
+      "Name": "Tinker Bell Và Kho Báu Thất Lạc - Tinker Bell and the Lost Treasure"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tGvx8OT8AS8OkDwM68u7JfU56oD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tGvx8OT8AS8OkDwM68u7JfU56oD.jpg ",
+      "Name": "Tinker Bell Và Kho Báu Thất Lạc - Tinker Bell and the Lost Treasure"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v7oUAxykl1FJWzPqdQyepRL7m9E.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v7oUAxykl1FJWzPqdQyepRL7m9E.jpg ",
+      "Name": "Tinker Bell Và Kho Báu Thất Lạc - Tinker Bell and the Lost Treasure"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wmXscEj2rFTzA4LbcM810J7HpeG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wmXscEj2rFTzA4LbcM810J7HpeG.jpg ",
+      "Name": "Tinker Bell Và Kho Báu Thất Lạc - Tinker Bell and the Lost Treasure"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/49ybg9tBGG9q1cLml5QsMhyePf8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/49ybg9tBGG9q1cLml5QsMhyePf8.jpg ",
+      "Name": "Tinker Bell Và Kho Báu Thất Lạc - Tinker Bell and the Lost Treasure"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jr5u2XMbJj539BCgb9cBn6g7GEa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jr5u2XMbJj539BCgb9cBn6g7GEa.jpg ",
+      "Name": "Tinker Bell Và Kho Báu Thất Lạc - Tinker Bell and the Lost Treasure"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9HRZ5Khmi3y7iD2mOTfMwa7Vwm2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9HRZ5Khmi3y7iD2mOTfMwa7Vwm2.jpg ",
+      "Name": "Tinker Bell Và Kho Báu Thất Lạc - Tinker Bell and the Lost Treasure"
+    }
+  ],
+  "Links": [],
+  "Intro": "Tinker Bell là một nàng tiên nhỏ bé có nhiệm vụ mang lại sự giao mùa: Đổi màu lá, mang tia nắng tới làm tan tuyết, đánh thức loài vật từ giấc ngủ đông hoặc tưới tia nước mát cho mầm xanh vươn lên. Cảm thấy công việc của mình không quan trọng bằng những nàng tiên khác, Tinker Bell cố gắng thay đổi bản thân nhưng điều đó chỉ mang lại các thảm họa.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/c695u6KN4E42DMbzzvq3UHLI47S-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/NpY25tI3s9M?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/tinker-bell-and-the-lost-treasure/",
+  "Name": "Tinker Bell Và Kho Báu Thất Lạc"
 }

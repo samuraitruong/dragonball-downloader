@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vqLb69dcsxT3Cai066XQzcUPsCP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vqLb69dcsxT3Cai066XQzcUPsCP.jpg",
+      "Name": "Jab Harry Met Sejal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/agakSL58hJHv1guCOFLPM9WIPCF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/agakSL58hJHv1guCOFLPM9WIPCF.jpg",
+      "Name": "Jab Harry Met Sejal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ie9tAMpBI1jWhtrJHEdx6xjrYP3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ie9tAMpBI1jWhtrJHEdx6xjrYP3.jpg",
+      "Name": "Jab Harry Met Sejal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/suSkfkT6reAaJXipvHgDffh4qXY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/suSkfkT6reAaJXipvHgDffh4qXY.jpg",
+      "Name": "Jab Harry Met Sejal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/c64rvJTrDuNyAuLvQUy2nkHdeB8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/c64rvJTrDuNyAuLvQUy2nkHdeB8.jpg",
+      "Name": "Jab Harry Met Sejal"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/r3ujQIECFDdYAI4zbjdQGxb7dhs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/r3ujQIECFDdYAI4zbjdQGxb7dhs.jpg",
+      "Name": "Jab Harry Met Sejal"
+    }
+  ],
+  "Links": [],
+  "Intro": "After a month-long tour of Europe, Sejal is just about to board her flight to India, when she realises that her engagement ring is lost. In quest of the object, she hires the same tour-guide Harry and together they set off visiting the exact same spots that she and her family visited—in the hope of finding the heirloom. Of course the journey proves to be much more…",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/2hIbGcy0Ec4Dek75d3zLzwFhoPM-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/0Oz8zFwEn0E?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/jab-harry-met-sejal/",
+  "Name": "Jab Harry Met Sejal"
+}

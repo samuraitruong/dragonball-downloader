@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uaf2sM4vnIH4zGwSJPs4SwubUrI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uaf2sM4vnIH4zGwSJPs4SwubUrI.jpg",
+      "Name": "Gendarme và các sinh vật từ ngoài vũ trụ - The Gendarme and the Creatures from Outer Space"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nNUvgLrBu2rokZjoBmNSBAzqtnD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nNUvgLrBu2rokZjoBmNSBAzqtnD.jpg",
+      "Name": "Gendarme và các sinh vật từ ngoài vũ trụ - The Gendarme and the Creatures from Outer Space"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/377oGStrDPtXOjJMpbrynzujb3z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/377oGStrDPtXOjJMpbrynzujb3z.jpg",
+      "Name": "Gendarme và các sinh vật từ ngoài vũ trụ - The Gendarme and the Creatures from Outer Space"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7416lbgXt5dTovudPpPMPQ6JnKz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7416lbgXt5dTovudPpPMPQ6JnKz.jpg",
+      "Name": "Gendarme và các sinh vật từ ngoài vũ trụ - The Gendarme and the Creatures from Outer Space"
+    }
+  ],
+  "Links": [],
+  "Intro": null,
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/kX4wWZ7NpdVhlY88ouTedLg2xV0-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-gendarme-and-the-creatures-from-outer-space/",
+  "Name": "Gendarme và các sinh vật từ ngoài vũ trụ"
+}

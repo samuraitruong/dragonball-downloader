@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2EnKFs8Z4ypSWLAP2Hh1nznY3OT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2EnKFs8Z4ypSWLAP2Hh1nznY3OT.jpg",
+      "Name": "Restraint"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9BOu8kGR1ICefgEXWQ9FEEOdw85.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9BOu8kGR1ICefgEXWQ9FEEOdw85.jpg",
+      "Name": "Restraint"
+    }
+  ],
+  "Links": [],
+  "Intro": "Two fugitives land in hot water when they take a hostage who poses a threat to their well-being.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/pRNM7nJzberePNDLZTiTppX3xsF-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/KUXakzC5xj4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/restraint/",
+  "Name": "Restraint"
+}

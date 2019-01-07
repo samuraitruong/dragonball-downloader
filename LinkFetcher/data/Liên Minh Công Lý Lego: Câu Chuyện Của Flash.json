@@ -1,14 +1,39 @@
 {
-  "Id": "movZWeHvf504997",
-  "Url": "https://fsharephim.com/movies/lego-dc-comics-super-heroes-the-flash/",
-  "Name": "Liên Minh Công Lý Lego: Câu Chuyện Của Flash",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movzwehvf504997/",
-      "Name": "Lego.DC.Comics.Super.Heroes.The.Flash.2018.720p.WEB-DL.H264.AC3-EVO.mkv",
-      "Url": "https://www.fshare.vn/file/KAHAN7S1KE2SLDO",
-      "Size": "2.39 GB",
-      "FileSize": 2561945130
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5ppoh1NTxMjDyHmaxnIj4SNxO6c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5ppoh1NTxMjDyHmaxnIj4SNxO6c.jpg ",
+      "Name": "Liên Minh Công Lý Lego: Câu Chuyện Của Flash - Lego DC Comics Super Heroes: The Flash"
+    }
+  ],
+  "Links": [],
+  "Intro": "Lego DC Comics Super Heroes: The Flash (Liên Minh Công Lý Lego: Câu Chuyện Của Flash): Reverse-Flash (Flash vàng) thực hiện âm mưu loại trừ The Flash, các băng đảng villain và đánh bại Liên Minh Công Lý nhằm thôn tính thế giới. Kế hoạch của hắn dường như đã viên mãn cho đến khi bị hai con chó phá đám (đó là Ace của Batman và Krypto của Superman).",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/peKFgffHTs6gzDgAWOjIfxziLbQ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/AGKDZNU_HNo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/lego-dc-comics-super-heroes-the-flash/",
+  "Name": "Liên Minh Công Lý Lego: Câu Chuyện Của Flash"
 }

@@ -1,0 +1,31 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3vVlKIULu56yyjjj9zvwSdrowDr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3vVlKIULu56yyjjj9zvwSdrowDr.jpg",
+      "Name": "Lies We Tell"
+    }
+  ],
+  "Links": [],
+  "Intro": "A trusted driver must deal with his dead boss&#8217;s Muslim mistress, her dark past pulling him into a life-and-death showdown with her notorious gangster cousin/ex-husband.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/4j2OYmRiDcEkfYNv0IAsXu5RRf1-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ZiZh7gsEjQ4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/lies-we-tell/",
+  "Name": "Lies We Tell"
+}

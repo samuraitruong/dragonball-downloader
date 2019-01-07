@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lh79qx9sEkRZvtTHHmHSUUwYZLN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lh79qx9sEkRZvtTHHmHSUUwYZLN.jpg",
+      "Name": "Donnie Darko"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/prqu2I0eClYqZkczxNmP8RYj2u5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/prqu2I0eClYqZkczxNmP8RYj2u5.jpg",
+      "Name": "Donnie Darko"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7XOnwpLLrIDEv81M9mJP98UAptg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7XOnwpLLrIDEv81M9mJP98UAptg.jpg",
+      "Name": "Donnie Darko"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mqMGZIMKg2tGEkcuSduAxWAL7UF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mqMGZIMKg2tGEkcuSduAxWAL7UF.jpg",
+      "Name": "Donnie Darko"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ld7huGVoyXAY6EsdAUeLh9QxAl6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ld7huGVoyXAY6EsdAUeLh9QxAl6.jpg",
+      "Name": "Donnie Darko"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3AoMdexV0VeMAW46RrMHgtb47O6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3AoMdexV0VeMAW46RrMHgtb47O6.jpg",
+      "Name": "Donnie Darko"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aCG3soae158FoIux8ANOXEAh8BN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aCG3soae158FoIux8ANOXEAh8BN.jpg",
+      "Name": "Donnie Darko"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ltJP6tbOPxhA5wEZRxJfuVrXKJ1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ltJP6tbOPxhA5wEZRxJfuVrXKJ1.jpg",
+      "Name": "Donnie Darko"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zM4bSsPF1nmQkdYfyUgLBarWjKI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zM4bSsPF1nmQkdYfyUgLBarWjKI.jpg",
+      "Name": "Donnie Darko"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tLUm8B61GYmKI7bV7WBOOd7fkEw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tLUm8B61GYmKI7bV7WBOOd7fkEw.jpg",
+      "Name": "Donnie Darko"
+    }
+  ],
+  "Links": [],
+  "Intro": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/nmb4QhCRmdfNP6rgb81yUFgI83l-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/vijy4Oiawa8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/donnie-darko/",
+  "Name": "Donnie Darko"
+}

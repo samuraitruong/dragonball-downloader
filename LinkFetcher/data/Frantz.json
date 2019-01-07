@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a0EFsfSuXPvW6lEVU8fRyjW9Ttb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a0EFsfSuXPvW6lEVU8fRyjW9Ttb.jpg",
+      "Name": "Frantz"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rARvH6HK9SiZl9m1VfrzY6ISLaj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rARvH6HK9SiZl9m1VfrzY6ISLaj.jpg",
+      "Name": "Frantz"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6oMa0PmTndAWPcZgvRVhuSMZLqA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6oMa0PmTndAWPcZgvRVhuSMZLqA.jpg",
+      "Name": "Frantz"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4nErjYw39JT1hT2TqfgoeTHTTIy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4nErjYw39JT1hT2TqfgoeTHTTIy.jpg",
+      "Name": "Frantz"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/x27NBM6JqQBTssb4d3TTUuEmi0E.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/x27NBM6JqQBTssb4d3TTUuEmi0E.jpg",
+      "Name": "Frantz"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zNbpV1s2SFeSkhx1ZzWuvOXEjCf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zNbpV1s2SFeSkhx1ZzWuvOXEjCf.jpg",
+      "Name": "Frantz"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/d1W0uo2dMlrvmbnpgN9p9QZ2wHi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/d1W0uo2dMlrvmbnpgN9p9QZ2wHi.jpg",
+      "Name": "Frantz"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/js3U8qhTjsZmcKuJscevOSzFaZl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/js3U8qhTjsZmcKuJscevOSzFaZl.jpg",
+      "Name": "Frantz"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/glyFFI4Hewwkjg0PvsNcWF0qbRU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/glyFFI4Hewwkjg0PvsNcWF0qbRU.jpg",
+      "Name": "Frantz"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aOzKXrRD2eHK1z4mJXUPoUBVHYI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aOzKXrRD2eHK1z4mJXUPoUBVHYI.jpg",
+      "Name": "Frantz"
+    }
+  ],
+  "Links": [],
+  "Intro": "In the aftermath of WWI, a young German who grieves the death of her fiancé in France meets a mysterious French man who visits the fiance’s grave to lay flowers.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/qqEci86RyvSODj8XcyXWmceXXID-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/oop8_CgSgmo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/frantz/",
+  "Name": "Frantz"
+}

@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lXtS4sFvOtwnFBiezzJvOMC7b9W.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lXtS4sFvOtwnFBiezzJvOMC7b9W.jpg",
+      "Name": "Super Troopers 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wWsTV7KOp2hA6Rwzb8WxxSKSeYI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wWsTV7KOp2hA6Rwzb8WxxSKSeYI.jpg",
+      "Name": "Super Troopers 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bm3oca8z0dL55DQ7qbwueXIxzKj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bm3oca8z0dL55DQ7qbwueXIxzKj.jpg",
+      "Name": "Super Troopers 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ovokoVSB5tL2nVHS3lWs2ZebzXR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ovokoVSB5tL2nVHS3lWs2ZebzXR.jpg",
+      "Name": "Super Troopers 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/j7auECOxDGF0WRtHzrdQnjfwk9z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/j7auECOxDGF0WRtHzrdQnjfwk9z.jpg",
+      "Name": "Super Troopers 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cvkNLe9JXUw9VrXzXEEjP27YvAB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cvkNLe9JXUw9VrXzXEEjP27YvAB.jpg",
+      "Name": "Super Troopers 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vEoGAmceRykyYBcaIp0kuvGL98n.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vEoGAmceRykyYBcaIp0kuvGL98n.jpg",
+      "Name": "Super Troopers 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v9N8AxyHf9crA9Iza9fF5ntPJFj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v9N8AxyHf9crA9Iza9fF5ntPJFj.jpg",
+      "Name": "Super Troopers 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k4EOiyltF2zzfRckCUbsG1FDFzP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k4EOiyltF2zzfRckCUbsG1FDFzP.jpg",
+      "Name": "Super Troopers 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/i0ZXgF6sB1ONgCM7qQDE9ruWK1F.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/i0ZXgF6sB1ONgCM7qQDE9ruWK1F.jpg",
+      "Name": "Super Troopers 2"
+    }
+  ],
+  "Links": [],
+  "Intro": "When an international border dispute arises between the U.S. and Canada, the Super Troopers- Mac, Thorny, Foster, Rabbit and Farva, are called in to set up a new Highway Patrol station in the disputed area.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/07/57SZgdugVClIy22rfnANeBJ5KsN-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/zt0mSRLTEbQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/super-troopers-2/",
+  "Name": "Super Troopers 2"
+}

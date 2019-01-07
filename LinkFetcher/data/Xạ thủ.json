@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dbzi9IO7ZhZe1OB9uTaXUWr5bGR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dbzi9IO7ZhZe1OB9uTaXUWr5bGR.jpg ",
+      "Name": "Xạ thủ - The Gunman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6cdfa7xvM1dQqfwhza3pxIUohcI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6cdfa7xvM1dQqfwhza3pxIUohcI.jpg ",
+      "Name": "Xạ thủ - The Gunman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oUsa0d6Dd9VKbotmfAxuiZHbPtr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oUsa0d6Dd9VKbotmfAxuiZHbPtr.jpg ",
+      "Name": "Xạ thủ - The Gunman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m6KhUOU4DB4b76UKiG6NBqhc7wh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m6KhUOU4DB4b76UKiG6NBqhc7wh.jpg ",
+      "Name": "Xạ thủ - The Gunman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jVU1bRNcXCfX9LC8pj9Hp9McN7x.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jVU1bRNcXCfX9LC8pj9Hp9McN7x.jpg ",
+      "Name": "Xạ thủ - The Gunman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tPeuyyOGWpk077cTSr7RH6tLd7A.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tPeuyyOGWpk077cTSr7RH6tLd7A.jpg ",
+      "Name": "Xạ thủ - The Gunman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kD83OvlFeLUABP6jFw005OMQAGY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kD83OvlFeLUABP6jFw005OMQAGY.jpg ",
+      "Name": "Xạ thủ - The Gunman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2zYuWvg9fFxS6YnQI392ogzRI98.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2zYuWvg9fFxS6YnQI392ogzRI98.jpg ",
+      "Name": "Xạ thủ - The Gunman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4TsYF8Mj2jZWXjN7JhsQvB1ECLJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4TsYF8Mj2jZWXjN7JhsQvB1ECLJ.jpg ",
+      "Name": "Xạ thủ - The Gunman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5QZScF4q5vFLfzYjCCzrSwnfNH9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5QZScF4q5vFLfzYjCCzrSwnfNH9.jpg ",
+      "Name": "Xạ thủ - The Gunman"
+    }
+  ],
+  "Links": [],
+  "Intro": "Tám năm trước, Jim Terrier và những cộng sự được trả tiền để khai trừ Bộ trưởng bộ khai thác mỏ của Cộng Hòa Dân Chủ Công-gô. Sau vụ ám sát, sự diệt chủng và nội chiến nổi lên. Với tư cách là xạ thủ trong vụ ám sát, Terrier bị buộc rời khỏi quốc gia ngay lập tức.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/k7WX4UTkiWqef3pM20iuj122mL7-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Ug9xufczPVE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-gunman/",
+  "Name": "Xạ thủ"
+}

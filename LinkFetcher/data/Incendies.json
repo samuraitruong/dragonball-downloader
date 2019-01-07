@@ -1,0 +1,66 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b7BxW3C4cjVKOlKzFBoMUgyNt6A.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b7BxW3C4cjVKOlKzFBoMUgyNt6A.jpg",
+      "Name": "Incendies"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cROnOesCwglciEioEysFgt6RW13.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cROnOesCwglciEioEysFgt6RW13.jpg",
+      "Name": "Incendies"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t5xbNg0kWE2QOggt2UoLfpzL1yd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t5xbNg0kWE2QOggt2UoLfpzL1yd.jpg",
+      "Name": "Incendies"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/20CRAX2hyASvxfQOfZX1kxjPpKm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/20CRAX2hyASvxfQOfZX1kxjPpKm.jpg",
+      "Name": "Incendies"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nD3sFQepA0neK8BB8YikFjBqh7f.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nD3sFQepA0neK8BB8YikFjBqh7f.jpg",
+      "Name": "Incendies"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mzITbSVqzWOYidQZmsxzDM0QFaK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mzITbSVqzWOYidQZmsxzDM0QFaK.jpg",
+      "Name": "Incendies"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/A7cYaPk2PbQ2LhrCDGIh6pGtC1n.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/A7cYaPk2PbQ2LhrCDGIh6pGtC1n.jpg",
+      "Name": "Incendies"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fbaPUXOWERwcUpluQmDyRbwvNQl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fbaPUXOWERwcUpluQmDyRbwvNQl.jpg",
+      "Name": "Incendies"
+    }
+  ],
+  "Links": [],
+  "Intro": "A mother&#8217;s last wishes send twins Jeanne and Simon on a journey to Middle East in search of their tangled roots. Adapted from Wajdi Mouawad&#8217;s acclaimed play, Incendies tells the powerful and moving tale of two young adults&#8217; voyage to the core of deep-rooted hatred, never-ending wars and enduring love.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/sEUG3qjxwHjxkzuO7plrRHhOZUH-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/0nycksytL1A?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/incendies/",
+  "Name": "Incendies"
+}

@@ -1,0 +1,72 @@
+{
+  "Id": "movtTNdoJ612",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4P5yVNTA3RWXLgXWPAxCWRTJ4le.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4P5yVNTA3RWXLgXWPAxCWRTJ4le.jpg",
+      "Name": "Munich"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ziplvB1cIqB3xtbOT5Cz2L5BJIJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ziplvB1cIqB3xtbOT5Cz2L5BJIJ.jpg",
+      "Name": "Munich"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qhOlcpkWW0AcrCRvqnddA6kgCH4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qhOlcpkWW0AcrCRvqnddA6kgCH4.jpg",
+      "Name": "Munich"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kMHLXyVRjkvnUgVKgExnXmJfneh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kMHLXyVRjkvnUgVKgExnXmJfneh.jpg",
+      "Name": "Munich"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/EFNDfsaTUChufBceIUSk3ZEYMJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/EFNDfsaTUChufBceIUSk3ZEYMJ.jpg",
+      "Name": "Munich"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movttndoj612/",
+      "Size": "19.1 GB",
+      "FileSize": 20510607925,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/1V2EJ9BLSWT7",
+      "Name": "Munich.2005.1080p.BluRay.DTS.x264-CtrlHD.mkv"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movttndoj612-2/",
+      "Size": "259.93 KB",
+      "FileSize": 266172,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/GFK74MIHLBFZ",
+      "Name": "Munich.2005.1080p.BluRay.DTS.x264-CtrlHD.srt"
+    }
+  ],
+  "Intro": "München là bộ phim hư cấu lịch sử nói về các cuộc tấn công trả đũa bí mật của chính phủ Israel, sau vụ thảm sát các vận động viên Israel bởi nhóm khủng bố Tháng Chín Đen, trong thời gian Thế vận hội mùa hè năm 1972.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/3pnsX1egUElYvgmAcCqYvXVOY9O-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/0LFfT44BlaQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/munich/",
+  "Name": "Munich"
+}

@@ -1,28 +1,40 @@
 {
-  "Id": "movAFHFGw271706",
-  "Url": "https://fsharephim.com/movies/big-fish-begonia/",
-  "Name": "Đại Ngư Hải Đường",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movafhfgw271706/",
-      "Name": "Big Fish  Begonia 2016 1080p WEB-DL x264 AAC-SeeHD.mkv",
-      "Url": "https://www.fshare.vn/file/9CLQNRMJKXQMKQR",
-      "Size": "4.33 GB",
-      "FileSize": 4645783403
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movafhfgw271706-2/",
-      "Name": "大鱼海棠.Big.Fish..Begonia.2016.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.mp4",
-      "Url": "https://www.fshare.vn/file/KCQHTHNKKWINFVU",
-      "Size": "4.33 GB",
-      "FileSize": 4646929252
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movafhfgw271706-3/",
-      "Name": "[C-Zone].Big.Fish.Begonia.2016.HD.KITES.VN.mkv",
-      "Url": "https://www.fshare.vn/file/GSD5BU2HY5K3I2F",
-      "Size": "2.24 GB",
-      "FileSize": 2409934773
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kNAzo7icHdFkF43JQa18mPEUtvf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kNAzo7icHdFkF43JQa18mPEUtvf.jpg ",
+      "Name": "Đại Ngư Hải Đường - Big Fish &#038; Begonia"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mwOpBsMDutmEal9sdWB6umA6pxQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mwOpBsMDutmEal9sdWB6umA6pxQ.jpg ",
+      "Name": "Đại Ngư Hải Đường - Big Fish &#038; Begonia"
+    }
+  ],
+  "Links": [],
+  "Intro": "Đại Ngư Hải Đường bắt đầu với truyền thuyết về Côn bằng tương truyền Biển Bắc có con cá gọi là cá Côn, mình dài không biết mấy ngàn dặm. Đại Ngư Hải Đường là câu chuyện về tình bạn cảm động của 3 người bạn: Xuân, Tưu và Côn.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/bFwTDDhqGHmj75Eck3B4Bb2nbKK-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/big-fish-begonia/",
+  "Name": "Đại Ngư Hải Đường"
 }

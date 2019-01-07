@@ -1,0 +1,427 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong-va-phieu-luu/",
+      "Name": "Hành Động và Phiêu Lưu"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao-khoa-hoc/",
+      "Name": "Kỳ Ảo Khoa Học"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h1qyblc5p9G3ZWIVK8ZrkpxcXgO.jpg",
+      "Name": "The Walking Dead"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eFikUzWij204fr9dv37DhFTPFRz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eFikUzWij204fr9dv37DhFTPFRz.jpg",
+      "Name": "The Walking Dead"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zYFQM9G5j9cRsMNMuZAX64nmUMf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zYFQM9G5j9cRsMNMuZAX64nmUMf.jpg",
+      "Name": "The Walking Dead"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xVzvD5BPAU4HpleFSo8QOdHkndo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xVzvD5BPAU4HpleFSo8QOdHkndo.jpg",
+      "Name": "The Walking Dead"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9RcGLLcHHSerRmJZDkPNjb1tkjl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9RcGLLcHHSerRmJZDkPNjb1tkjl.jpg",
+      "Name": "The Walking Dead"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vu8Kqk56VjNSMbExx1OOGGzgKsE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vu8Kqk56VjNSMbExx1OOGGzgKsE.jpg",
+      "Name": "The Walking Dead"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qCqGdMqt4YUeNijzuISH8NVLyjM.jpg",
+      "Name": "The Walking Dead"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a5wth3RMfm4trPuMgPeYojn1NIL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a5wth3RMfm4trPuMgPeYojn1NIL.jpg",
+      "Name": "The Walking Dead"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o6R0cyCLqFEQd2PWR2B79DDtjWD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o6R0cyCLqFEQd2PWR2B79DDtjWD.jpg",
+      "Name": "The Walking Dead"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eN15Pri1ySIXO9T0LkXnIJH2mss.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eN15Pri1ySIXO9T0LkXnIJH2mss.jpg",
+      "Name": "The Walking Dead"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/walking-dead-9x1/",
+      "Name": "A New Beginning"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/walking-dead-9x2/",
+      "Name": "The Bridge"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/walking-dead-9x3/",
+      "Name": "Warning Signs"
+    }
+  ],
+  "Intro": "Sheriff&#8217;s deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/vxuoMW6YBt6UsxvMfRNwRl9LtWS-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/R1v0uFms68U?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": "tvKzc7zN1353992",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fHQ2f4xaxrBuVcS7WFMJpZjmgbN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fHQ2f4xaxrBuVcS7WFMJpZjmgbN.jpg",
+              "Name": "The Walking Dead 8&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1TOiADBMEwGhbyeXisMVTsXDK7F.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1TOiADBMEwGhbyeXisMVTsXDK7F.jpg",
+              "Name": "The Walking Dead 8&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/pwA0criaevjVcg2JMRNUFSyXf5r.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/pwA0criaevjVcg2JMRNUFSyXf5r.jpg",
+              "Name": "The Walking Dead 8&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zkKf75lbb0MlzavYOkzNa5hPfBQ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zkKf75lbb0MlzavYOkzNa5hPfBQ.jpg",
+              "Name": "The Walking Dead 8&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6sbz7VMaeqXSVS3zOdmTglsmDP4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6sbz7VMaeqXSVS3zOdmTglsmDP4.jpg",
+              "Name": "The Walking Dead 8&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kwjDWLxYxCB54ql03lTGttln8Sm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kwjDWLxYxCB54ql03lTGttln8Sm.jpg",
+              "Name": "The Walking Dead 8&#215;1"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzc7zn1353992-3/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/the-walking-dead-eighth-season",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzc7zn1353992-2/",
+              "Size": "4.9 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/KVGBZPA38M5L",
+              "Name": "WEB-DL-1080p"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvkzc7zn1353992/",
+              "Size": "2.3 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/XBIAKSX4FHY2",
+              "Name": "WEB-DL-720p"
+            }
+          ],
+          "Intro": "Rick and his group, along with the Kingdom and Hilltop, have banded together to bring the fight to Negan and the Saviors.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-walking-dead-8x1/",
+          "Name": "The Walking Dead 8x1"
+        },
+        {
+          "Id": "tvKzc7zN1373509",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/pek9cYNFQ3SmlG1ZfAkfgqPgiet.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/pek9cYNFQ3SmlG1ZfAkfgqPgiet.jpg",
+              "Name": "The Walking Dead 8&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3Tjbd0lFRCiR5c9a2bECNkBOsAM.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3Tjbd0lFRCiR5c9a2bECNkBOsAM.jpg",
+              "Name": "The Walking Dead 8&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fVsoRywhhncBnJ0lUlc48QSn5lq.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fVsoRywhhncBnJ0lUlc48QSn5lq.jpg",
+              "Name": "The Walking Dead 8&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6hLYmn3ZG4fTlUlAROaSZxQZkVj.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6hLYmn3ZG4fTlUlAROaSZxQZkVj.jpg",
+              "Name": "The Walking Dead 8&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": "The plan involving Alexandrians, Kingdommers and Hilltoppers unfolds. As Rick continues to fight, he encounters a familiar face.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-walking-dead-8x2/",
+          "Name": "The Walking Dead 8x2"
+        },
+        {
+          "Id": "tvKzc7zN1373510",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bS5YS5Vl0wJ0mODSo60yWXSCaNp.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bS5YS5Vl0wJ0mODSo60yWXSCaNp.jpg",
+              "Name": "The Walking Dead 8&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ou20bwhxAVkBogXkf64gTQ9dbqS.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ou20bwhxAVkBogXkf64gTQ9dbqS.jpg",
+              "Name": "The Walking Dead 8&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2v6GWdNAOINsqsZwUUyxvR0dDPT.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2v6GWdNAOINsqsZwUUyxvR0dDPT.jpg",
+              "Name": "The Walking Dead 8&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2tLnPpNDGGrFut9Kyt1Q4axdBIp.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2tLnPpNDGGrFut9Kyt1Q4axdBIp.jpg",
+              "Name": "The Walking Dead 8&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xt2E38c7WbYWxXoKf4qnCJbedkv.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xt2E38c7WbYWxXoKf4qnCJbedkv.jpg",
+              "Name": "The Walking Dead 8&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rI1WQxLmxbSBvxcqrmzlcV41Crr.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rI1WQxLmxbSBvxcqrmzlcV41Crr.jpg",
+              "Name": "The Walking Dead 8&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": "Conflict with the Saviors leads to unintended consequences for the Hilltop, the Kingdom, and Alexandria; morality proves tricky in wartime.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/the-walking-dead-8x3/",
+          "Name": "The Walking Dead 8x3"
+        },
+        {
+          "Id": "tv9yRgX11394727",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bIxlwAFvJIvOzU1RzHOvUxTYj57.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bIxlwAFvJIvOzU1RzHOvUxTYj57.jpg",
+              "Name": "The Walking Dead 8&#215;8"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv9yrgx11394727-2/",
+              "Size": "341.5 MB",
+              "FileSize": 358113508,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/8BJKZWCN1W83",
+              "Name": "The.Walking.Dead.S08E08.HDTV.x264-BATV.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv9yrgx11394727/",
+              "Size": "341.5 MB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://uploadgig.com/file/download/925173917a1982e4/The.Walking.Dead.S08E08.HDTV.x264-BATV.mkv",
+              "Name": "HDTV"
+            }
+          ],
+          "Intro": "Every story and battle comes crashing together.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/walking-dead-8x8/",
+          "Name": "The Walking Dead 8x8"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 8 Oct. 22, 2017"
+    },
+    {
+      "Episodes": [
+        {
+          "Id": "tvTpEphG1575785",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rMnf7qMMdKW2RSm5OWvT2y2R0GN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rMnf7qMMdKW2RSm5OWvT2y2R0GN.jpg",
+              "Name": "Xác Sống 9: Tập 1 - Một Sự Khởi Đầu Mới - The Walking Dead 9&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/otvCosLU4MpsrgHW5NfEFsVOjNM.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/otvCosLU4MpsrgHW5NfEFsVOjNM.jpg",
+              "Name": "Xác Sống 9: Tập 1 - Một Sự Khởi Đầu Mới - The Walking Dead 9&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7Vq1PJ5zdeqh86Hl1S1asUjy5i4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7Vq1PJ5zdeqh86Hl1S1asUjy5i4.jpg",
+              "Name": "Xác Sống 9: Tập 1 - Một Sự Khởi Đầu Mới - The Walking Dead 9&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jvggBUc82QAZNsqwJX759nfKSKC.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jvggBUc82QAZNsqwJX759nfKSKC.jpg",
+              "Name": "Xác Sống 9: Tập 1 - Một Sự Khởi Đầu Mới - The Walking Dead 9&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/z0NC6L94izoLfROx7ttYDlSRulH.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/z0NC6L94izoLfROx7ttYDlSRulH.jpg",
+              "Name": "Xác Sống 9: Tập 1 - Một Sự Khởi Đầu Mới - The Walking Dead 9&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/f7wbtXZP83vRe0MW7lmq9IXJWa6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/f7wbtXZP83vRe0MW7lmq9IXJWa6.jpg",
+              "Name": "Xác Sống 9: Tập 1 - Một Sự Khởi Đầu Mới - The Walking Dead 9&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rcdjqMa7GuWQJ1ijSCb6HeBqAW4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rcdjqMa7GuWQJ1ijSCb6HeBqAW4.jpg",
+              "Name": "Xác Sống 9: Tập 1 - Một Sự Khởi Đầu Mới - The Walking Dead 9&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kKHs3oud5lRQUbVPuGZJgZH6EDN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kKHs3oud5lRQUbVPuGZJgZH6EDN.jpg",
+              "Name": "Xác Sống 9: Tập 1 - Một Sự Khởi Đầu Mới - The Walking Dead 9&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hsBvl2YLdXzsssa7nLHxe1b6Nmm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hsBvl2YLdXzsssa7nLHxe1b6Nmm.jpg",
+              "Name": "Xác Sống 9: Tập 1 - Một Sự Khởi Đầu Mới - The Walking Dead 9&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jgKsAw3IS3dzDaBSUdfgVRDvjeg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jgKsAw3IS3dzDaBSUdfgVRDvjeg.jpg",
+              "Name": "Xác Sống 9: Tập 1 - Một Sự Khởi Đầu Mới - The Walking Dead 9&#215;1"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvtpephg1575785-2/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/the-walking-dead-ninth-season",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvtpephg1575785/",
+              "Size": "1.92 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/26HOMTY4FI1C",
+              "Name": "HDTV - 720"
+            }
+          ],
+          "Intro": "Rick and his group make a risky run into Washington, D.C. to search for artifacts they will need to build the civilization he and Carl envisioned.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/walking-dead-9x1/",
+          "Name": "The Walking Dead 9x1"
+        },
+        {
+          "Id": "tvwbeCaf1586411",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zO1rD6iejuejgz2oTzySRl9DITS.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zO1rD6iejuejgz2oTzySRl9DITS.jpg",
+              "Name": "Xác Sống 9: Tập 2 - The Walking Dead 9&#215;2"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvwbecaf1586411/",
+              "Size": "1.62 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/RHQ3VXQNPDHY",
+              "Name": "WEB-DL-720p"
+            }
+          ],
+          "Intro": "The communities join forces to restore a bridge that will facilitate communication and trade; someone is gravely injured at the construction site.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/walking-dead-9x2/",
+          "Name": "The Walking Dead 9x2"
+        },
+        {
+          "Id": "tv06rfe81586412",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fK88HKwFRzXt1m7YGztb6OG2DXy.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fK88HKwFRzXt1m7YGztb6OG2DXy.jpg",
+              "Name": "Xác Sống 9: Tập 3 - The Walking Dead 9&#215;3"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv06rfe81586412/",
+              "Size": "1.75 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://www.fshare.vn/file/LOFQ7FB1XADQ",
+              "Name": "WEB-DL-720p"
+            }
+          ],
+          "Intro": "Rick&#8217;s vision for the future is threatened by a mysterious disappearance that divides the work camp where the communities are building a bridge.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/walking-dead-9x3/",
+          "Name": "The Walking Dead 9x3"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 9 Oct. 07, 2018"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/the-walking-dead/",
+  "Name": "The Walking Dead"
+}

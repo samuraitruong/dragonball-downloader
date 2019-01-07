@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hvQN0z0HeYZEM7vPOKEqE6WsMWf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hvQN0z0HeYZEM7vPOKEqE6WsMWf.jpg ",
+      "Name": "Her"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4f4tWe6uhwtuKMygfIAytR2W0pj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4f4tWe6uhwtuKMygfIAytR2W0pj.jpg ",
+      "Name": "Her"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mzTDgjyXA6A6RG0pV7k6t2oPAgE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mzTDgjyXA6A6RG0pV7k6t2oPAgE.jpg ",
+      "Name": "Her"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/406QlaRqAjMUg70xZBhAJOcH5vu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/406QlaRqAjMUg70xZBhAJOcH5vu.jpg ",
+      "Name": "Her"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9kEHeBxUZfmuZTKQvv0ejv9LSHm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9kEHeBxUZfmuZTKQvv0ejv9LSHm.jpg ",
+      "Name": "Her"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vEJR2pmf247G8ZBnI6FO5vMLRtE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vEJR2pmf247G8ZBnI6FO5vMLRtE.jpg ",
+      "Name": "Her"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bvhN0dK9oWRh6iBBbJII7mhiIRy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bvhN0dK9oWRh6iBBbJII7mhiIRy.jpg ",
+      "Name": "Her"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/e7Wsn7YaujX8WM74PGA6a1dOhfM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/e7Wsn7YaujX8WM74PGA6a1dOhfM.jpg ",
+      "Name": "Her"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/csUi1nsqTmxkKjJYqnjhTeDl0bZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/csUi1nsqTmxkKjJYqnjhTeDl0bZ.jpg ",
+      "Name": "Her"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xPnQktwvYIGRn7irtEltnfiBXTR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xPnQktwvYIGRn7irtEltnfiBXTR.jpg ",
+      "Name": "Her"
+    }
+  ],
+  "Links": [],
+  "Intro": "In the not so distant future, Theodore, a lonely writer purchases a newly developed operating system designed to meet the user&#8217;s every needs. To Theordore&#8217;s surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/fsoTLnUXEUTNuVCBxAJMY0HPPd-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ne6p6MfLBxc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/her/",
+  "Name": "Her"
+}

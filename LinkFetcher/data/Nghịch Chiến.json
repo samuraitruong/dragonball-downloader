@@ -1,0 +1,52 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3LrxMeRfsrDVBIk1U5G7D1HPyYM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3LrxMeRfsrDVBIk1U5G7D1HPyYM.jpg ",
+      "Name": "Nghịch Chiến - The Viral Factor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rwgWOBNRnNrHOFBvSjukFA3uEOX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rwgWOBNRnNrHOFBvSjukFA3uEOX.jpg ",
+      "Name": "Nghịch Chiến - The Viral Factor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/Ksg5nl4nyMLdIxb9mEbbnjkbU5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/Ksg5nl4nyMLdIxb9mEbbnjkbU5.jpg ",
+      "Name": "Nghịch Chiến - The Viral Factor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4NJoQSG6NxpdF82DUjTNRTiBknh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4NJoQSG6NxpdF82DUjTNRTiBknh.jpg ",
+      "Name": "Nghịch Chiến - The Viral Factor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/q8L74YOOlCMjYnA5QjzvN1M1e7c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/q8L74YOOlCMjYnA5QjzvN1M1e7c.jpg ",
+      "Name": "Nghịch Chiến - The Viral Factor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ea7vPAsFr8VYG4v9TMnybtK0Lh5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ea7vPAsFr8VYG4v9TMnybtK0Lh5.jpg ",
+      "Name": "Nghịch Chiến - The Viral Factor"
+    }
+  ],
+  "Links": [],
+  "Intro": "Nghịch Chiến kể về cuộc đối đầu sinh tử của hai anh em Vạn Dương – Vạn Phi. Phim là bài học quý giá về sự lựa chọn của con người khi đứng giữa ranh giới sự sống và cái chết. Dù bạn xuất thân từ đâu, dù bạn có quá khứ như thế nào nhưng nếu một lòng hướng về cái thiện thì cuộc sống vẫn luôn mỉm cười với bạn.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/5prgnqqgny0xnBWUq0BtHMiA3LE-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/aWzbWMt-l1E?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-viral-factor/",
+  "Name": "Nghịch Chiến"
+}

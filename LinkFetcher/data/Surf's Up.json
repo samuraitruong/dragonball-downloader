@@ -1,21 +1,93 @@
 {
   "Id": "movnG7wLx9408",
-  "Url": "https://fsharephim.com/movies/surfs-up/",
-  "Name": "Surf's Up",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v6cvZfSAiUjvFVCCiaPNaZLA7gk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v6cvZfSAiUjvFVCCiaPNaZLA7gk.jpg",
+      "Name": "Surf&#8217;s Up"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fLpa4de4UtmWlT0rDRi5CPszvcb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fLpa4de4UtmWlT0rDRi5CPszvcb.jpg",
+      "Name": "Surf&#8217;s Up"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AtXWA2YDwk6VwMLhqR2nzXWsMZT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AtXWA2YDwk6VwMLhqR2nzXWsMZT.jpg",
+      "Name": "Surf&#8217;s Up"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bIGAtL2eCcbmyi0960VOuFh8hDK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bIGAtL2eCcbmyi0960VOuFh8hDK.jpg",
+      "Name": "Surf&#8217;s Up"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sbOktaiP88smS2cge0VYjNXoz6m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sbOktaiP88smS2cge0VYjNXoz6m.jpg",
+      "Name": "Surf&#8217;s Up"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xeeViozS5XOgnBYx8G4kaZBm01u.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xeeViozS5XOgnBYx8G4kaZBm01u.jpg",
+      "Name": "Surf&#8217;s Up"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5hNtLQL1umcAFYhbNl2wjhQzXZI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5hNtLQL1umcAFYhbNl2wjhQzXZI.jpg",
+      "Name": "Surf&#8217;s Up"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aiKD2vq9Nh8J2DrtowwZX4C4E9B.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aiKD2vq9Nh8J2DrtowwZX4C4E9B.jpg",
+      "Name": "Surf&#8217;s Up"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3tvOfrt2xFCXMOxRJWC2dGEpJHC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3tvOfrt2xFCXMOxRJWC2dGEpJHC.jpg",
+      "Name": "Surf&#8217;s Up"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vlqdrNJhI5s6F9a0ctrThVQP4CH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vlqdrNJhI5s6F9a0ctrThVQP4CH.jpg",
+      "Name": "Surf&#8217;s Up"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movng7wlx9408/",
-      "Name": "720p",
-      "Url": "https://www.fshare.vn/file/T4FRHPNMZT/",
       "Size": "4.52 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/T4FRHPNMZT/",
+      "Name": "720p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movng7wlx9408-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/surfs-up",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/surfs-up",
+      "Name": "Subtitle"
     }
-  ]
+  ],
+  "Intro": "Cody is a surfing penguin from Shiverpool who dreams of making it big and being like his idol Big Z. On his journey he discovers his talents are not all he thinks they are and he must learn to accept that their is more to surfing than fame and fortune. Surf&#8217;s Up is a 2007 American computer-animated mockumentary film produced by Sony Pictures Animation and distributed by Columbia Pictures and ImageWorks Studios. It stars the voices of Shia LaBeouf, Jeff Bridges, Zooey Deschanel, Jon Heder among others.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/2Car4vWVDenBIMhfCjBvAHzameI-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/N41QJ0VCs68?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/surfs-up/",
+  "Name": "Surf's Up"
 }

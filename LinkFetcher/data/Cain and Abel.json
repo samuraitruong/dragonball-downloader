@@ -1,0 +1,615 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong-va-phieu-luu/",
+      "Name": "Hành Động và Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qe47BrthOToVhifUsUw28oSkgJW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qe47BrthOToVhifUsUw28oSkgJW.jpg",
+      "Name": "Cain and Abel"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x1/",
+      "Name": "Cain and Abel Season 1 Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x2/",
+      "Name": "Cain and Abel Season 1 Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x3/",
+      "Name": "Cain and Abel Season 1 Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x4/",
+      "Name": "Cain and Abel Season 1 Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x5/",
+      "Name": "Cain and Abel Season 1 Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x6/",
+      "Name": "Cain and Abel Season 1 Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x7/",
+      "Name": "Cain and Abel Season 1 Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x8/",
+      "Name": "Cain and Abel Season 1 Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x9/",
+      "Name": "Cain and Abel Season 1 Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x10/",
+      "Name": "Cain and Abel Season 1 Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x11/",
+      "Name": "Cain and Abel Season 1 Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x12/",
+      "Name": "Cain and Abel Season 1 Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x13/",
+      "Name": "Cain and Abel Season 1 Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x14/",
+      "Name": "Cain and Abel Season 1 Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x15/",
+      "Name": "Cain and Abel Season 1 Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x16/",
+      "Name": "Cain and Abel Season 1 Episode 16"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x17/",
+      "Name": "Cain and Abel Season 1 Episode 17"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x18/",
+      "Name": "Cain and Abel Season 1 Episode 18"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x19/",
+      "Name": "Cain and Abel Season 1 Episode 19"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/cain-and-abel-1x20/",
+      "Name": "Cain and Abel Season 1 Episode 20"
+    }
+  ],
+  "Intro": "Cain and Abel is a 2009 South Korean television series starring So Ji-sub, Shin Hyun-joon, Han Ji-min, and Chae Jung-an. It aired on SBS from February 18 to April 23, 2009 on Wednesdays and Thursdays at 21:55 for 20 episodes.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/cQvqyjzAxr1keTgMLjIYBEjBAnn-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": "tvuTAzDe864319",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864319/",
+              "Size": "992.2 MB",
+              "FileSize": 1040448396,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/NPB8WN8WM39T",
+              "Name": "Cain và Abel-Cain and Abel tập 1.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x1/",
+          "Name": "Cain and Abel 1x1"
+        },
+        {
+          "Id": "tvuTAzDe864328",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864328/",
+              "Size": "1.1 GB",
+              "FileSize": 1200658248,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/EAZU18VE2TON",
+              "Name": "Cain và Abel-Cain and Abel tập 10.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x10/",
+          "Name": "Cain and Abel 1x10"
+        },
+        {
+          "Id": "tvuTAzDe864329",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864329/",
+              "Size": "1.1 GB",
+              "FileSize": 1227747751,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/PCA4FKBIE7JT",
+              "Name": "Cain và Abel-Cain and Abel tập 11.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x11/",
+          "Name": "Cain and Abel 1x11"
+        },
+        {
+          "Id": "tvuTAzDe864330",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864330/",
+              "Size": "1.1 GB",
+              "FileSize": 1230740092,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/E9VCRKCMU4Q5",
+              "Name": "Cain và Abel-Cain and Abel tập 12.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x12/",
+          "Name": "Cain and Abel 1x12"
+        },
+        {
+          "Id": "tvuTAzDe864331",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864331/",
+              "Size": "1.1 GB",
+              "FileSize": 1217409185,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/97Z38LYV5UL5",
+              "Name": "Cain và Abel-Cain and Abel tập 13.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x13/",
+          "Name": "Cain and Abel 1x13"
+        },
+        {
+          "Id": "tvuTAzDe864332",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864332/",
+              "Size": "1.1 GB",
+              "FileSize": 1232007584,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/28QP47AMZU2C",
+              "Name": "Cain và Abel-Cain and Abel tập 14.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x14/",
+          "Name": "Cain and Abel 1x14"
+        },
+        {
+          "Id": "tvuTAzDe864333",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864333/",
+              "Size": "1.1 GB",
+              "FileSize": 1201771919,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/SWYQLJL27JUF",
+              "Name": "Cain và Abel-Cain and Abel tập 15.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x15/",
+          "Name": "Cain and Abel 1x15"
+        },
+        {
+          "Id": "tvuTAzDe864334",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864334/",
+              "Size": "1.1 GB",
+              "FileSize": 1215417402,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/64Q41MOCCH2K",
+              "Name": "Cain và Abel-Cain and Abel tập 16.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x16/",
+          "Name": "Cain and Abel 1x16"
+        },
+        {
+          "Id": "tvuTAzDe864335",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864335/",
+              "Size": "1.1 GB",
+              "FileSize": 1232262918,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/G4ZEP453OYJH",
+              "Name": "Cain và Abel-Cain and Abel tập 17.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x17/",
+          "Name": "Cain and Abel 1x17"
+        },
+        {
+          "Id": "tvuTAzDe864336",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864336/",
+              "Size": "1.1 GB",
+              "FileSize": 1230747757,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/XLU8BKL3DDDI",
+              "Name": "Cain và Abel-Cain and Abel tập 18.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x18/",
+          "Name": "Cain and Abel 1x18"
+        },
+        {
+          "Id": "tvuTAzDe864337",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864337/",
+              "Size": "1.1 GB",
+              "FileSize": 1211841740,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/1GWVGD6HONYK",
+              "Name": "Cain và Abel-Cain and Abel tập 19.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x19/",
+          "Name": "Cain and Abel 1x19"
+        },
+        {
+          "Id": "tvuTAzDe864320",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864320/",
+              "Size": "984.6 MB",
+              "FileSize": 1032449202,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/W86TCYJIPRFL",
+              "Name": "Cain và Abel-Cain and Abel tập 2.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x2/",
+          "Name": "Cain and Abel 1x2"
+        },
+        {
+          "Id": "tvuTAzDe864338",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864338/",
+              "Size": "1.1 GB",
+              "FileSize": 1208791966,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/7CTSBU2ENSQ3",
+              "Name": "Cain và Abel-Cain and Abel tập 20-END.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x20/",
+          "Name": "Cain and Abel 1x20"
+        },
+        {
+          "Id": "tvuTAzDe864321",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864321/",
+              "Size": "982.5 MB",
+              "FileSize": 1030181057,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/ZSPX83EJ9CMW",
+              "Name": "Cain và Abel-Cain and Abel tập 3.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x3/",
+          "Name": "Cain and Abel 1x3"
+        },
+        {
+          "Id": "tvuTAzDe864323",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864323/",
+              "Size": "989.4 MB",
+              "FileSize": 1037501545,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/YFYA9816JXRQ",
+              "Name": "Cain và Abel-Cain and Abel tập 4.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x4/",
+          "Name": "Cain and Abel 1x4"
+        },
+        {
+          "Id": "tvuTAzDe864322",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864322/",
+              "Size": "1.1 GB",
+              "FileSize": 1223552420,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/X39T4TJYWDW5",
+              "Name": "Cain và Abel-Cain and Abel tập 5.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x5/",
+          "Name": "Cain and Abel 1x5"
+        },
+        {
+          "Id": "tvuTAzDe864324",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864324/",
+              "Size": "--",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/cain-and-abel-kaingwa-abel--dr-stop",
+              "Name": "Subtitle"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x6/",
+          "Name": "Cain and Abel 1x6"
+        },
+        {
+          "Id": "tvuTAzDe864325",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864325/",
+              "Size": "1.2 GB",
+              "FileSize": 1239432434,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/OXAETQW2AXO8",
+              "Name": "Cain và Abel-Cain and Abel tập 7.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x7/",
+          "Name": "Cain and Abel 1x7"
+        },
+        {
+          "Id": "tvuTAzDe864326",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864326/",
+              "Size": "1.1 GB",
+              "FileSize": 1231491924,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/PELJNBEQB1W6",
+              "Name": "Cain và Abel-Cain and Abel tập 8.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x8/",
+          "Name": "Cain and Abel 1x8"
+        },
+        {
+          "Id": "tvuTAzDe864327",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvutazde864327/",
+              "Size": "1.1 GB",
+              "FileSize": 1229294513,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/39RSGLAF2MRM",
+              "Name": "Cain và Abel-Cain and Abel tập 9.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/cain-and-abel-1x9/",
+          "Name": "Cain and Abel 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Feb. 18, 2009"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/cain-and-abel/",
+  "Name": "Cain and Abel"
+}

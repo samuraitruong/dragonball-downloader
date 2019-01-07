@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gzKW3emulMxIHzuXxZoyDB1lei9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gzKW3emulMxIHzuXxZoyDB1lei9.jpg",
+      "Name": "Harry Potter and the Goblet of Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/88NSakV9G4S6nw1BWCcrD9a3VDl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/88NSakV9G4S6nw1BWCcrD9a3VDl.jpg",
+      "Name": "Harry Potter and the Goblet of Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xqdaPA3pDxYpPARrlDU8lQhLUce.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xqdaPA3pDxYpPARrlDU8lQhLUce.jpg",
+      "Name": "Harry Potter and the Goblet of Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wIFIqPCWo6lYka1m4JSYCjl4O6o.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wIFIqPCWo6lYka1m4JSYCjl4O6o.jpg",
+      "Name": "Harry Potter and the Goblet of Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8NyRKQ4q5FYpWbCKIMvDot0rfCv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8NyRKQ4q5FYpWbCKIMvDot0rfCv.jpg",
+      "Name": "Harry Potter and the Goblet of Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dRXFCAqicRgGgClTGcv4rrxDxvI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dRXFCAqicRgGgClTGcv4rrxDxvI.jpg",
+      "Name": "Harry Potter and the Goblet of Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5dwPluVJforQARCxGANEVmYfjDP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5dwPluVJforQARCxGANEVmYfjDP.jpg",
+      "Name": "Harry Potter and the Goblet of Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dPWbuAfdgjWzzhiRl7M97SvRyIR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dPWbuAfdgjWzzhiRl7M97SvRyIR.jpg",
+      "Name": "Harry Potter and the Goblet of Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9TO4jRf5K0Yl9AhU75t1JUkAbx7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9TO4jRf5K0Yl9AhU75t1JUkAbx7.jpg",
+      "Name": "Harry Potter and the Goblet of Fire"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9C3088hyzwTll4OBJ13JM2cky6K.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9C3088hyzwTll4OBJ13JM2cky6K.jpg",
+      "Name": "Harry Potter and the Goblet of Fire"
+    }
+  ],
+  "Links": [],
+  "Intro": "Harry starts his fourth year at Hogwarts, competes in the treacherous Triwizard Tournament and faces the evil Lord Voldemort. Ron and Hermione help Harry manage the pressure – but Voldemort lurks, awaiting his chance to destroy Harry and all that he stands for.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/6sASqcdrEHXxUhA3nFpjrRecPD2-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/PFWAOnvMd1Q?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/harry-potter-and-the-goblet-of-fire/",
+  "Name": "Harry Potter and the Goblet of Fire"
+}

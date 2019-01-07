@@ -1,0 +1,977 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong-va-phieu-luu/",
+      "Name": "Hành Động và Phiêu Lưu"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b6XlRbChljHvuRU4qQJPDOKEJq2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b6XlRbChljHvuRU4qQJPDOKEJq2.jpg",
+      "Name": "Transporter: The Series"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/55lfmRpSxjtInR6JDzHouZMzc9v.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/55lfmRpSxjtInR6JDzHouZMzc9v.jpg",
+      "Name": "Transporter: The Series"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/42tc85nsmCeA2sSTZg7YNJj2Dtm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/42tc85nsmCeA2sSTZg7YNJj2Dtm.jpg",
+      "Name": "Transporter: The Series"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vzDMIfSqFySH4GWtSeIr1bEiHW5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vzDMIfSqFySH4GWtSeIr1bEiHW5.jpg",
+      "Name": "Transporter: The Series"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gFZSDwzn8QRYDgbCOEYgmQipFcI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gFZSDwzn8QRYDgbCOEYgmQipFcI.jpg",
+      "Name": "Transporter: The Series"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5zQuUcHpYyZoAsKMhvxvaydoiVQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5zQuUcHpYyZoAsKMhvxvaydoiVQ.jpg",
+      "Name": "Transporter: The Series"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qK1OZqyC4PiGR6aYq86377huu59.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qK1OZqyC4PiGR6aYq86377huu59.jpg",
+      "Name": "Transporter: The Series"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2L4d1KFxxZbbArf8fQtMbKK4WDJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2L4d1KFxxZbbArf8fQtMbKK4WDJ.jpg",
+      "Name": "Transporter: The Series"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tX0sgAz4YyKj9yBDPw8GdAIyXs9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tX0sgAz4YyKj9yBDPw8GdAIyXs9.jpg",
+      "Name": "Transporter: The Series"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dfkcju3V1S3ZoIKeIJ4uZ6wcl1k.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dfkcju3V1S3ZoIKeIJ4uZ6wcl1k.jpg",
+      "Name": "Transporter: The Series"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/transporter-the-series-2x1/",
+      "Name": "2B or Not 2B"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/transporter-the-series-2x2/",
+      "Name": "Boom"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/transporter-the-series-2x3/",
+      "Name": "Beacon of Hope"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/transporter-the-series-2x4/",
+      "Name": "We Go Back"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/transporter-the-series-2x5/",
+      "Name": "Euphro"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/transporter-the-series-2x6/",
+      "Name": "Diva"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/transporter-the-series-2x7/",
+      "Name": "Sex, Lies and Videotape"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/transporter-the-series-2x8/",
+      "Name": "T2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/transporter-the-series-2x9/",
+      "Name": "Trust"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/transporter-the-series-2x10/",
+      "Name": "Chimera"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/transporter-the-series-2x11/",
+      "Name": "Sixteen Hands"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/transporter-the-series-2x12/",
+      "Name": "End Game"
+    }
+  ],
+  "Intro": "Transporter: The Series is an English-language French-Canadian action-adventure television series, spun off from the Transporter film series created by Luc Besson and Robert Mark Kamen. It is co-produced by the French Atlantique Productions and the Canadian boutique entertainment company QVF Inc. in association with broadcast partners M6, RTL, The Movie Network, Movie Central and HBO/Cinemax.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/xs310Z2Ujl2dRXCmicnAM3RWOQx-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/MFY6t2KRtq0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": "tvHK2MwM868277",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9b7wsRckeMN9i5Am6YGg9ecLJRS.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9b7wsRckeMN9i5Am6YGg9ecLJRS.jpg",
+              "Name": "Transporter: The Series 1&#215;1"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868277/",
+              "Size": "1.4 GB",
+              "FileSize": 1511022703,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T6SBH885VT",
+              "Name": "Transporter.The.Series.S01E01.TheGeneralsDaughter.720p.Bluray.x264-DC.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868277-2/",
+              "Size": "2.7 GB",
+              "FileSize": 2871636458,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T6N65SB32T",
+              "Name": "Transporter.The.Series.S01E01.The General's Daughter.1080p.Bluray.x264-DC.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868277-3/",
+              "Size": "0",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://subscene.com/subtitles/transporter-the-series",
+              "Name": "Subtitle"
+            }
+          ],
+          "Intro": "Frank races towards Paris to deliver a new eco-friendly motor prototype on time to the Paris Motor Show. But a dangerous hitman, nicknamed &#8220;The Wolf&#8221;, has been hired by an oil company to eliminate him before he can complete his mission. Unfortunately, the protoype emits a signal, enabling The Wolf to track Frank&#8230;",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-1x1/",
+          "Name": "Transporter: The Series 1x1"
+        },
+        {
+          "Id": "tvHK2MwM868285",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/o1v4TG4ddZpFeKsJyZwGxZX2SsQ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/o1v4TG4ddZpFeKsJyZwGxZX2SsQ.jpg",
+              "Name": "Transporter: The Series 1&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": "Frank is to pick up a valuable painting from a gallery and bring it to a rich art collector. There is a wild chase during the transfer and a young woman threatens him with a gun and claims that the painting is hers. Fortunately, at this moment the police appears and Frank seizes the opportunity to wriggle out of the situation. But when he delivers the painting to art collector Max Khyber (Hannes Jaenicke), it turns out that it is a fake. Khyber feels betrayed and suspects Frank. He holds Frank prisoner on his property and sends in a dominatrix to get him to to talk, but Frank manages to free himself and goes in search of the original.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-1x10/",
+          "Name": "Transporter: The Series 1x10"
+        },
+        {
+          "Id": "tvHK2MwM868283",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/aK5TwjVMtws87s3FV8tRupLxFo3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/aK5TwjVMtws87s3FV8tRupLxFo3.jpg",
+              "Name": "Transporter: The Series 1&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": "Frank has twelve hours to transport a stolen microchip, meant for the development of advanced weaponry, before the rigged package kills him. In a race against time, Frank must find a way to force the client to neutralize the deadly device.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-1x11/",
+          "Name": "Transporter: The Series 1x11"
+        },
+        {
+          "Id": "tvHK2MwM868286",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rToIKujXD2UlMr6EasLf0Gg0Q0C.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rToIKujXD2UlMr6EasLf0Gg0Q0C.jpg",
+              "Name": "Transporter: The Series 1&#215;12"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868286/",
+              "Size": "1.4 GB",
+              "FileSize": 1544041485,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T128YKAFQT",
+              "Name": "Transporter.The.Series.S01E10.CherchezLaFemme.720p.Bluray.x264-DC.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868286-2/",
+              "Size": "2.9 GB",
+              "FileSize": 3095325809,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TMV11HAN8T",
+              "Name": "Transporter.The.Series.S01E10.Cherchez La Femme.1080p.Bluray.x264-DC.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868286-3/",
+              "Size": "0",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://subscene.com/subtitles/transporter-the-series",
+              "Name": "Subtitle"
+            }
+          ],
+          "Intro": "Frank has to transport a young hacker to her new employer. But the employer is not the only one that is interested in the girl. Meanwhile, Frank has a lunch date with Juliette that doesn&#8217;t exactly turn out to become a romantic moment.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-1x12/",
+          "Name": "Transporter: The Series 1x12"
+        },
+        {
+          "Id": "tvHK2MwM868287",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4Be300Cxipf4qx1v0UFvPAK9ncw.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4Be300Cxipf4qx1v0UFvPAK9ncw.jpg",
+              "Name": "Transporter: The Series 1&#215;2"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868287/",
+              "Size": "1.4 GB",
+              "FileSize": 1520268646,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TP19C0GY8T",
+              "Name": "Transporter.The.Series.S01E02.Harvest.720p.Bluray.x264-DC.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868287-2/",
+              "Size": "2.7 GB",
+              "FileSize": 2885243369,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TBHX8K2VMT",
+              "Name": "Transporter.The.Series.S01E02.Harvest.1080p.Bluray.x264-DC.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868287-3/",
+              "Size": "0",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://subscene.com/subtitles/transporter-the-series",
+              "Name": "Subtitle"
+            }
+          ],
+          "Intro": "Frank&#8217;s latest job goes completely wrong: he loses the package and is accused by his employers to have embezzled the money. To prove his innocence, Frank embarks on a search for the real culprits and the trail leads him to old friends from his SAS unit. The soldiers were attempting to settle a score from the past, by enriching themselves and using him as a scapegoat in the process. But when both they and Frank find themselves in danger, they fight side by side &#8211; just like old times.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-1x2/",
+          "Name": "Transporter: The Series 1x2"
+        },
+        {
+          "Id": "tvHK2MwM868279",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qYqYc8Ld9NCY8HwztXr2MYjHL9T.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qYqYc8Ld9NCY8HwztXr2MYjHL9T.jpg",
+              "Name": "Transporter: The Series 1&#215;3"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868279-3/",
+              "Size": "0",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://subscene.com/subtitles/transporter-the-series",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868279/",
+              "Size": "1.4 GB",
+              "FileSize": 1476030961,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TM4XD940TT",
+              "Name": "Transporter.The.Series.S01E03.Switch.720p.Bluray.x264-DC.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868279-2/",
+              "Size": "2.6 GB",
+              "FileSize": 2812774930,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T60Z749RYT",
+              "Name": "Transporter.The.Series.S01E03.Switch.1080p.Bluray.x264-DC.mkv"
+            }
+          ],
+          "Intro": "In Berlin, Frank is assigned to transport Delia Weigert (Rachel Skarsten), a rich young socialite to a safe house. Her father, a former influential general in the army (Barry Flatman), has sold off some of his insider military knowledge and Delia is now in grave danger with a German crime lord threatening to kidnap her. With the enemy closing in, Frank must get Delia on a flight back to America, but a sudden betrayal places Delia in deadly jeopardy, and Frank must use all his skills to save her.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-1x3/",
+          "Name": "Transporter: The Series 1x3"
+        },
+        {
+          "Id": "tvHK2MwM868280",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wOHYSsx34aUFXP2GUJoPo4dIAU5.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wOHYSsx34aUFXP2GUJoPo4dIAU5.jpg",
+              "Name": "Transporter: The Series 1&#215;4"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868280-3/",
+              "Size": "0",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://subscene.com/subtitles/transporter-the-series",
+              "Name": "Subtitle"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868280/",
+              "Size": "1.4 GB",
+              "FileSize": 1528435295,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TKYZYSVFQT",
+              "Name": "Transporter.The.Series.S01E04.DeadDrop.720p.Bluray.x264-DC.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868280-2/",
+              "Size": "2.7 GB",
+              "FileSize": 2874571900,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T29C7BDF8T",
+              "Name": "Transporter.The.Series.S01E04.Dead Drop.1080p.Bluray.x264-DC.mkv"
+            }
+          ],
+          "Intro": "While transporting a package, Frank notices the police is on his trail. Ignoring his rules, he opens the package and finds a stolen heart in a cooler, meant for transplantation in a hospital. Frank faces a dilemma when he figures out that his client, Sujic Drago (Mike Dopud), one of the most powerful crime lords in southern France, stole the heart to save his own son, who suffers from a congenital heart defect, and when Inspector Tarconi informs him that another dying boy is waiting at the hospital for the heart.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-1x4/",
+          "Name": "Transporter: The Series 1x4"
+        },
+        {
+          "Id": "tvHK2MwM868281",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/livjmULrJfOSVQ6nFxnfYPDMAfm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/livjmULrJfOSVQ6nFxnfYPDMAfm.jpg",
+              "Name": "Transporter: The Series 1&#215;5"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868281/",
+              "Size": "1.3 GB",
+              "FileSize": 1408460734,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TF90T4PQ5T",
+              "Name": "Transporter.The.Series.S01E05.Payback.720p.Bluray.x264-DC.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868281-2/",
+              "Size": "2.6 GB",
+              "FileSize": 2751588862,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TSZXZ5H5HT",
+              "Name": "Transporter.The.Series.S01E05.Payback.1080p.Bluray.x264-DC.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868281-3/",
+              "Size": "0",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://subscene.com/subtitles/transporter-the-series",
+              "Name": "Subtitle"
+            }
+          ],
+          "Intro": "On a mission in Philadelphia, Frank finds out his package is Jack Perkins, his old C.I.A. instructor. The blind man is trying to prove his innocence, while an agency mole is attempting to frame him for leaking confidential information and getting fellow agents unmasked. To save his and his client&#8217;s lives, Frank has only one solution: find a USB key containing evidence that can clear Jack&#8217;s name and reveal the real mole&#8217;s identity&#8230;",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-1x5/",
+          "Name": "Transporter: The Series 1x5"
+        },
+        {
+          "Id": "tvHK2MwM868288",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/k2gjmzMPbCst8OzQxQVwFzNXBm2.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/k2gjmzMPbCst8OzQxQVwFzNXBm2.jpg",
+              "Name": "Transporter: The Series 1&#215;6"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868288/",
+              "Size": "1.4 GB",
+              "FileSize": 1475045596,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T7AYYDH1XT",
+              "Name": "Transporter.The.Series.S01E06.Sharks.720p.Bluray.x264-DC.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868288-2/",
+              "Size": "0",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://subscene.com/subtitles/transporter-the-series",
+              "Name": "Subtitle"
+            }
+          ],
+          "Intro": "Frank must pick up a package from a bank. Shortly after, he not only has trouble with an attractive woman security officer (Katheryn Winnick), but also a hit squad on his tail&#8230;",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-1x6/",
+          "Name": "Transporter: The Series 1x6"
+        },
+        {
+          "Id": "tvHK2MwM868278",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/eqIAxUgaOjWES81FuhFgHYQe8xX.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/eqIAxUgaOjWES81FuhFgHYQe8xX.jpg",
+              "Name": "Transporter: The Series 1&#215;7"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868278/",
+              "Size": "1.5 GB",
+              "FileSize": 1568715951,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T95BZD43CT",
+              "Name": "Transporter.The.Series.S01E07.TrojanHorsepower.720p.Bluray.x264-DC.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868278-2/",
+              "Size": "0",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://subscene.com/subtitles/transporter-the-series",
+              "Name": "Subtitle"
+            }
+          ],
+          "Intro": "As he&#8217;s waiting for his package to be delivered in a Toronto parking lot, Frank finds himself faced with a series of strange coincidences. He understands he fell into a trap when the police throws him in jail, accusing him of a crime he didn&#8217;t commit. His imprisonment is supposed to allow to get a very protected package out of the prison walls: the hand of a mob boss who&#8217;s just been murdered&#8230;",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-1x7/",
+          "Name": "Transporter: The Series 1x7"
+        },
+        {
+          "Id": "tvHK2MwM868282",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4X5ArqAW2B5D3FPL1XGPIG7TmOQ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4X5ArqAW2B5D3FPL1XGPIG7TmOQ.jpg",
+              "Name": "Transporter: The Series 1&#215;8"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868282/",
+              "Size": "1.3 GB",
+              "FileSize": 1445548153,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T5203VQHJT",
+              "Name": "Transporter.The.Series.S01E08.HotIce.720p.Bluray.x264-DC.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868282-2/",
+              "Size": "0",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://subscene.com/subtitles/transporter-the-series",
+              "Name": "Subtitle"
+            }
+          ],
+          "Intro": "Frank must transport a million euros from Paris to Marseille while racing against two other elite runners each with the same package and destination. The client whose transporter wins will gain an important missile contract. Word of the race has reached two gangs that decide to try and rob the money but Frank, who needs to prove he&#8217;s the one and only worthwhile transporter on the market, doesn&#8217;t intend to let himself be swindled&#8230; The task is further complicated by a mysterious hitchhiker, who can not be shaken off and wants to know everything about Frank. Frank manages to end up as the lone transporter to finish the race, but victory is bittersweet, due to the loss of an old friend, who was one of the other two transporters in contention.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-1x8/",
+          "Name": "Transporter: The Series 1x8"
+        },
+        {
+          "Id": "tvHK2MwM868284",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/5Aypuuso0VPWzLU3M8cOMCxkdrq.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/5Aypuuso0VPWzLU3M8cOMCxkdrq.jpg",
+              "Name": "Transporter: The Series 1&#215;9"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868284/",
+              "Size": "1.3 GB",
+              "FileSize": 1408412192,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TD34Z9SH4T",
+              "Name": "Transporter.The.Series.S01E09.CityofLove.720p.Bluray.x264-DC.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868284-2/",
+              "Size": "2.5 GB",
+              "FileSize": 2720722006,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TKSTXRXG7T",
+              "Name": "Transporter.The.Series.S01E09.City of Love.1080p.Bluray.x264-DC.mkv"
+            },
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvhk2mwm868284-3/",
+              "Size": "0",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "http://subscene.com/subtitles/transporter-the-series",
+              "Name": "Subtitle"
+            }
+          ],
+          "Intro": "Frank is hired to bring a package from the south of France to Paris. Once there, he realizes the package is a bomb meant for a planned terrorist attack.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-1x9/",
+          "Name": "Transporter: The Series 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Dec. 06, 2012"
+    },
+    {
+      "Episodes": [
+        {
+          "Id": "tv3ORCCN1012436",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ezGQiYOHNEdHSVtCh0KOEnakmlV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ezGQiYOHNEdHSVtCh0KOEnakmlV.jpg",
+              "Name": "Transporter: The Series 2&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/GhWe23fORvk9QHDkTXrMoAnm7h.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/GhWe23fORvk9QHDkTXrMoAnm7h.jpg",
+              "Name": "Transporter: The Series 2&#215;1"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv3orccn1012436/",
+              "Size": "401.5 MB",
+              "FileSize": 420977100,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/6CXF1MPGUPMRP1O",
+              "Name": "Transporter-The-Series-Season-2-2014-1.mp4"
+            }
+          ],
+          "Intro": "A 12-year-old witnesses the murder of his father, an italian judge",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-2x1/",
+          "Name": "Transporter: The Series 2x1"
+        },
+        {
+          "Id": "tv3ORCCN1014197",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nYDsSmQ8Ndh8lY9WBkSnyghVhwY.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nYDsSmQ8Ndh8lY9WBkSnyghVhwY.jpg",
+              "Name": "Transporter: The Series 2&#215;10"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv3orccn1014197/",
+              "Size": "363.3 MB",
+              "FileSize": 380972852,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/19VGD6FDCDI75SE",
+              "Name": "Transporter-The-Series-Season-2-2014-10.mp4"
+            }
+          ],
+          "Intro": "The FBI hires Frank Martin to retrieve a chemical weapon, codenamed &#8216;Chimera&#8217;, from a Louis Tien, a Chinese Triad crime lord who operates from a restaurant in Chicago&#8217;s Chinatown.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-2x10/",
+          "Name": "Transporter: The Series 2x10"
+        },
+        {
+          "Id": "tv3ORCCN1016538",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/dpudbC0MHvJqnZBZWChibVPNNVd.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/dpudbC0MHvJqnZBZWChibVPNNVd.jpg",
+              "Name": "Transporter: The Series 2&#215;11"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv3orccn1016538/",
+              "Size": "160.7 MB",
+              "FileSize": 168473134,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/U5SBV9BKM7T8E2T",
+              "Name": "Transporter-The-Series-Season-2-2014-11.mp4"
+            }
+          ],
+          "Intro": "Frank Martin has been hired to transport a thoroughbred racehorse, Daksha, worth ten million dollars, from her stables in Kentucky to the racetrack of the prestigious Belmont Stakes race in New York.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-2x11/",
+          "Name": "Transporter: The Series 2x11"
+        },
+        {
+          "Id": "tv3ORCCN1016539",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9B0OtPDcdLAKbJMoG0fiQWBIEun.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9B0OtPDcdLAKbJMoG0fiQWBIEun.jpg",
+              "Name": "Transporter: The Series 2&#215;12"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv3orccn1016539/",
+              "Size": "360.7 MB",
+              "FileSize": 378229130,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/AZTWRUPRFJ71B8Y",
+              "Name": "Transporter-The-Series-Season-2-2014-12-End.mp4"
+            }
+          ],
+          "Intro": "Frank Martin and Caterina Boldieu are posing as an extraordinarily wealthy couple, in order to retrieve a handful of diamonds which have been stolen from their current client, and replace them with infallible fakes.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-2x12/",
+          "Name": "Transporter: The Series 2x12"
+        },
+        {
+          "Id": "tv3ORCCN1012438",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nzaQerfP3Vod71mO4wqus4dVXGq.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nzaQerfP3Vod71mO4wqus4dVXGq.jpg",
+              "Name": "Transporter: The Series 2&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bNZdFMvFasRKJk4YlD3NnSRke4h.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bNZdFMvFasRKJk4YlD3NnSRke4h.jpg",
+              "Name": "Transporter: The Series 2&#215;2"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv3orccn1012438/",
+              "Size": "386.2 MB",
+              "FileSize": 404955767,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/2XACMROTR7D1QEE",
+              "Name": "Transporter-The-Series-Season-2-2014-2.mp4"
+            }
+          ],
+          "Intro": "Frank and Cat travel to the Sahara Desert to deliver a briefcase, but they end up stranded over night.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-2x2/",
+          "Name": "Transporter: The Series 2x2"
+        },
+        {
+          "Id": "tv3ORCCN1012439",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tldkYxvHSMrIgQQeKrhOzHlCQpI.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tldkYxvHSMrIgQQeKrhOzHlCQpI.jpg",
+              "Name": "Transporter: The Series 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/uETz3LC2s5Tkm88cnxiEWECEOBc.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/uETz3LC2s5Tkm88cnxiEWECEOBc.jpg",
+              "Name": "Transporter: The Series 2&#215;3"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv3orccn1012439/",
+              "Size": "367.7 MB",
+              "FileSize": 385607806,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/LKOI79CO4AU3MMZ",
+              "Name": "Transporter-The-Series-Season-2-2014-3.mp4"
+            }
+          ],
+          "Intro": "Frank and Caterina have to rescue her ex-fiancé, Zac, from a Mauritanian warlord. However Zac won&#8217;t leave unless they can take a bus load of orphans that he has been caring for with them.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-2x3/",
+          "Name": "Transporter: The Series 2x3"
+        },
+        {
+          "Id": "tv3ORCCN1012440",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/dul65ljY7A6LjdZMtVnKQhW4LRd.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/dul65ljY7A6LjdZMtVnKQhW4LRd.jpg",
+              "Name": "Transporter: The Series 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lUIzTVQL8yJ5FmmF5gzGIn0TB3g.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lUIzTVQL8yJ5FmmF5gzGIn0TB3g.jpg",
+              "Name": "Transporter: The Series 2&#215;4"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv3orccn1012440/",
+              "Size": "377.7 MB",
+              "FileSize": 396008359,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/RLEW5OP8POZNZPC",
+              "Name": "Transporter-The-Series-Season-2-2014-4.mp4"
+            }
+          ],
+          "Intro": "Frank is asked to travel to Libya by his old army buddy to rescue their friend and a fellow officer.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-2x4/",
+          "Name": "Transporter: The Series 2x4"
+        },
+        {
+          "Id": "tv3ORCCN1014188",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/20w5bD9zt0R2QtVXYGwVXkTRrJl.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/20w5bD9zt0R2QtVXYGwVXkTRrJl.jpg",
+              "Name": "Transporter: The Series 2&#215;5"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv3orccn1014188/",
+              "Size": "371.2 MB",
+              "FileSize": 389179188,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/B92AXMZUXYQKAG6",
+              "Name": "Transporter-The-Series-Season-2-2014-5.mp4"
+            }
+          ],
+          "Intro": "Inspector Tarconi leads a SWAT team to arrest a counterfeit drug dealer in Belarus, but has to ask for Frank&#8217;s help when things go badly wrong.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-2x5/",
+          "Name": "Transporter: The Series 2x5"
+        },
+        {
+          "Id": "tv3ORCCN1014189",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4Vf7UpHQ3KosG76B40zxbr9Oc6i.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4Vf7UpHQ3KosG76B40zxbr9Oc6i.jpg",
+              "Name": "Transporter: The Series 2&#215;6"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv3orccn1014189/",
+              "Size": "374.0 MB",
+              "FileSize": 392203171,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/774PXBH8DXACKJP",
+              "Name": "Transporter-The-Series-Season-2-2014-6.mp4"
+            }
+          ],
+          "Intro": "Frank is hired to transport a famous singer who has received an anonymous threat to and from her concert venues.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-2x6/",
+          "Name": "Transporter: The Series 2x6"
+        },
+        {
+          "Id": "tv3ORCCN1012520",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/cCHOzKsGvHFInAXbf880wHlfC3I.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/cCHOzKsGvHFInAXbf880wHlfC3I.jpg",
+              "Name": "Transporter: The Series 2&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/h6uyzp1NI5Vakyrus4qnG52J7nE.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/h6uyzp1NI5Vakyrus4qnG52J7nE.jpg",
+              "Name": "Transporter: The Series 2&#215;7"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv3orccn1012520/",
+              "Size": "376.9 MB",
+              "FileSize": 395167736,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/O1TR3TNH8EZLQNP",
+              "Name": "Transporter-The-Series-Season-2-2014-7.mp4"
+            }
+          ],
+          "Intro": "Frank is hired to collect a package, a dress that contains DNA evidence",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-2x7/",
+          "Name": "Transporter: The Series 2x7"
+        },
+        {
+          "Id": "tv3ORCCN1014192",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wThAseXRmNN7JD3RYSGu9VwO9ae.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wThAseXRmNN7JD3RYSGu9VwO9ae.jpg",
+              "Name": "Transporter: The Series 2&#215;8"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv3orccn1014192/",
+              "Size": "404.6 MB",
+              "FileSize": 424270014,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/DFQ44WXOCGWYSSD",
+              "Name": "Transporter-The-Series-Season-2-2014-8.mp4"
+            }
+          ],
+          "Intro": "Frank and Caterina are asked to rescue a wounded aid worker, Zac Preston, from a warlord in Mauritania.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-2x8/",
+          "Name": "Transporter: The Series 2x8"
+        },
+        {
+          "Id": "tv3ORCCN1014196",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2xJ0dsPAENLGtdpnfhfMm3tTdxg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2xJ0dsPAENLGtdpnfhfMm3tTdxg.jpg",
+              "Name": "Transporter: The Series 2&#215;9"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv3orccn1014196/",
+              "Size": "373.5 MB",
+              "FileSize": 391619769,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/6JTAMYRPXBIAMZU",
+              "Name": "Transporter-The-Series-Season-2-2014-9.mp4"
+            }
+          ],
+          "Intro": "Frank is asked to retrieve a vital document from a villa in Crimea. The villa is heavily guarded and just getting across the border will be a challenge.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/transporter-the-series-2x9/",
+          "Name": "Transporter: The Series 2x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 2 Oct. 05, 2014"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/transporter-the-series/",
+  "Name": "Transporter: The Series"
+}

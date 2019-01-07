@@ -1,21 +1,93 @@
 {
   "Id": "movkbwzIk13851",
-  "Url": "https://fsharephim.com/movies/batman-gotham-knight/",
-  "Name": "Người Dơi: Hiệp Sĩ Bóng Đêm",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cAW1NAahXhBUFJZgicBIGPs2OkZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cAW1NAahXhBUFJZgicBIGPs2OkZ.jpg",
+      "Name": "Người Dơi: Hiệp Sĩ Bóng Đêm - Batman: Gotham Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fE287WoFyoRU4kmQMPncpf3rukF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fE287WoFyoRU4kmQMPncpf3rukF.jpg",
+      "Name": "Người Dơi: Hiệp Sĩ Bóng Đêm - Batman: Gotham Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2LPjCX6FLlBc5FxtCLfd3Cdo0AR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2LPjCX6FLlBc5FxtCLfd3Cdo0AR.jpg",
+      "Name": "Người Dơi: Hiệp Sĩ Bóng Đêm - Batman: Gotham Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9n8q01fq8I4pKZvtkNf8SaqnDy1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9n8q01fq8I4pKZvtkNf8SaqnDy1.jpg",
+      "Name": "Người Dơi: Hiệp Sĩ Bóng Đêm - Batman: Gotham Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uBCDlhZb2PEbr4Yth6T1wFBGIxx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uBCDlhZb2PEbr4Yth6T1wFBGIxx.jpg",
+      "Name": "Người Dơi: Hiệp Sĩ Bóng Đêm - Batman: Gotham Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/q7mQwvg4scWQ83drc5OSBSdjJMK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/q7mQwvg4scWQ83drc5OSBSdjJMK.jpg",
+      "Name": "Người Dơi: Hiệp Sĩ Bóng Đêm - Batman: Gotham Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yZS1zRx1YV9vuofwVgGcUclzOko.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yZS1zRx1YV9vuofwVgGcUclzOko.jpg",
+      "Name": "Người Dơi: Hiệp Sĩ Bóng Đêm - Batman: Gotham Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h9xrTEaXvogkiUaGm9C1f5I69E0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h9xrTEaXvogkiUaGm9C1f5I69E0.jpg",
+      "Name": "Người Dơi: Hiệp Sĩ Bóng Đêm - Batman: Gotham Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vqX1zJb33txquSL76fsQ8QprEAK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vqX1zJb33txquSL76fsQ8QprEAK.jpg",
+      "Name": "Người Dơi: Hiệp Sĩ Bóng Đêm - Batman: Gotham Knight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/y7kpMK7vqR9J5jgEJXGc40kMYBR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/y7kpMK7vqR9J5jgEJXGc40kMYBR.jpg",
+      "Name": "Người Dơi: Hiệp Sĩ Bóng Đêm - Batman: Gotham Knight"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movkbwzik13851/",
-      "Name": "Batman.Gotham.Knight.2008.mHD.BluRay.DD5.1.x264-EPiK.mkv",
-      "Url": "https://www.fshare.vn/file/DP7JUE6CZMWD",
       "Size": "1.74 GB",
-      "FileSize": 1865391364
+      "FileSize": 1865391364,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/DP7JUE6CZMWD",
+      "Name": "Batman.Gotham.Knight.2008.mHD.BluRay.DD5.1.x264-EPiK.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movkbwzik13851-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/batman-gotham-knight-batman-anime/vietnamese/431020",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/batman-gotham-knight-batman-anime/vietnamese/431020",
+      "Name": "Viet - Subtitle"
     }
-  ]
+  ],
+  "Intro": "Trong phim Người Dơi: Hiệp Sĩ Bóng Đêm, cuộc sống của những cư dân thành phố Gotham bị đảo lộn do hàng loạt vụ giết người xảy ra mà không tìm ra hung thủ. Xem phim này, bạn sẽ nhận ra kẻ đứng sau tất cả âm mưu đen tối này là Joker, kẻ được các băng đảng trong thành phố thuê để trừ khử Người Dơi. Bộ 3 Người dơi &#8211; Trung úy Gordon &#8211; Luật sư Harvey Dent vốn gắn bó với nhau chống lại các thế lực xấu nay bị chia rẽ. Mọi chuyện sẽ diễn tiến ra sao trong bộ phim hay này? Hãy cùng theo dõi phim Người Dơi: Hiệp Sĩ Bóng Đêm để có câu trả lời.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/eIAhXROHG8t3QQ7qU0HfZgL5XFf-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/0beX8b4zX5E?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/batman-gotham-knight/",
+  "Name": "Người Dơi: Hiệp Sĩ Bóng Đêm"
 }

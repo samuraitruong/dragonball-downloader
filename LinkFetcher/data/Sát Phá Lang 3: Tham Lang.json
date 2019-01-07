@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dwCLmedYaAaAj2rfNmHtAS7SWTU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dwCLmedYaAaAj2rfNmHtAS7SWTU.jpg ",
+      "Name": "Sát Phá Lang 3: Tham Lang - SPL3: Paradox"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/89zVpJwjVqW6Vdb00Gh96KyX4AD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/89zVpJwjVqW6Vdb00Gh96KyX4AD.jpg ",
+      "Name": "Sát Phá Lang 3: Tham Lang - SPL3: Paradox"
+    }
+  ],
+  "Links": [],
+  "Intro": "Xoay quanh câu chuyện truy tìm và trả thù kẻ bắt cóc con của Lee (Cổ Thiên Lạc). Trong quá trình sang Thái Lan tìm kiếm con gái mình, Lee còn phát hiện ra bí mật liên quan đến ứng cử viên thị trưởng của Bangkok.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/9e7X4NjnioUoLMR74d0fUW1WSp9-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/_Ay3r6dxua0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/paradox/",
+  "Name": "Sát Phá Lang 3: Tham Lang"
+}

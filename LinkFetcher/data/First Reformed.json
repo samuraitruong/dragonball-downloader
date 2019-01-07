@@ -1,0 +1,62 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oXNtdwoRsG9MIpOjJHeT4xGjwbV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oXNtdwoRsG9MIpOjJHeT4xGjwbV.jpg ",
+      "Name": "First Reformed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g8G91vbvyUqnyFSlVruwiaZsUrn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g8G91vbvyUqnyFSlVruwiaZsUrn.jpg ",
+      "Name": "First Reformed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AgAR1i7qFsoH7jDFYoTDuVca0qJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AgAR1i7qFsoH7jDFYoTDuVca0qJ.jpg ",
+      "Name": "First Reformed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ia7Pm53iou0dF7NJZQZFv079cwL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ia7Pm53iou0dF7NJZQZFv079cwL.jpg ",
+      "Name": "First Reformed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vhwb9aFrKSfFkYDyA2G23FzqVqK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vhwb9aFrKSfFkYDyA2G23FzqVqK.jpg ",
+      "Name": "First Reformed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lPEGDlqbKNnckRNdqKpnuxhC4aW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lPEGDlqbKNnckRNdqKpnuxhC4aW.jpg ",
+      "Name": "First Reformed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/88wQvpgctYZZ7PiUfUPJbZd9SoL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/88wQvpgctYZZ7PiUfUPJbZd9SoL.jpg ",
+      "Name": "First Reformed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9YltTqDsFFQ021ua3KGw2gXizDY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9YltTqDsFFQ021ua3KGw2gXizDY.jpg ",
+      "Name": "First Reformed"
+    }
+  ],
+  "Links": [],
+  "Intro": "A pastor of a small church in upstate New York starts to spiral out of control after a soul-shaking encounter with an unstable environmental activist and his pregnant wife.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/07/p2UylV0hPefEuWPFMo1r56vu2nb-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/EC0TIg0wPhw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/first-reformed/",
+  "Name": "First Reformed"
+}

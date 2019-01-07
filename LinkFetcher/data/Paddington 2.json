@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9mfgklCMdSTHcnkABfHQV6TAjWc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9mfgklCMdSTHcnkABfHQV6TAjWc.jpg ",
+      "Name": "Paddington 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dixP2X8GbQF0KjkkBnwgOAikjjC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dixP2X8GbQF0KjkkBnwgOAikjjC.jpg ",
+      "Name": "Paddington 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/M0mvrYv5hvjS3evBAMuAQkP2Ps.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/M0mvrYv5hvjS3evBAMuAQkP2Ps.jpg ",
+      "Name": "Paddington 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jRXlfvuV1HRvR4sWq7UMt9M1lCP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jRXlfvuV1HRvR4sWq7UMt9M1lCP.jpg ",
+      "Name": "Paddington 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mdfZ4O1LgB20uVxa1yRXDxj1Frd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mdfZ4O1LgB20uVxa1yRXDxj1Frd.jpg ",
+      "Name": "Paddington 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/J1X0TeO9LetEJhP60xNbZTvNTi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/J1X0TeO9LetEJhP60xNbZTvNTi.jpg ",
+      "Name": "Paddington 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vaFoWh0kBDrsqFVzgeWg7ayaBrr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vaFoWh0kBDrsqFVzgeWg7ayaBrr.jpg ",
+      "Name": "Paddington 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mGzYJ6PlQwMuni8XGmKqVbIofRI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mGzYJ6PlQwMuni8XGmKqVbIofRI.jpg ",
+      "Name": "Paddington 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bqjqnR8Optn5BJ7hE1FnPt3LQxE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bqjqnR8Optn5BJ7hE1FnPt3LQxE.jpg ",
+      "Name": "Paddington 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6bM0f5tjclt7JjgwR7AWvCma8QZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6bM0f5tjclt7JjgwR7AWvCma8QZ.jpg ",
+      "Name": "Paddington 2"
+    }
+  ],
+  "Links": [],
+  "Intro": "Paddington, now happily settled with the Brown family and a popular member of the local community, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy&#8217;s 100th birthday, only for the gift to be stolen.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/bU5pSpQfXRmqDd6jthmP8iWJOjd-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/sw7RElt-SvE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/paddington-2/",
+  "Name": "Paddington 2"
+}

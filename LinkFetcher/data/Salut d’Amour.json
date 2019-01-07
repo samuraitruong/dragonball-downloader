@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xdektXeP5Lm3SRkQYLMp0TJf41q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xdektXeP5Lm3SRkQYLMp0TJf41q.jpg",
+      "Name": "Salut d’Amour"
+    }
+  ],
+  "Links": [],
+  "Intro": "Sung-Chil works at the Jang-Soo Store which is owned by Jang-Soo. Sung-Chil is stubborn and has a bad temper, but he changes after meeting Geum-Nim. Geun-Nim runs a flower shop and her daughter Min-Jung does not like her meeting Sung-Chil.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/p43ux98NRL2BVAwHQMObgzRrpRR-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ZWVS8hRW7s4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/salut-damour/",
+  "Name": "Salut d’Amour"
+}

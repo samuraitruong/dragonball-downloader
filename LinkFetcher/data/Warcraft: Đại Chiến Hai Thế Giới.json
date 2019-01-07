@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5SX2rgKXZ7NVmAJR5z5LprqSXKa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5SX2rgKXZ7NVmAJR5z5LprqSXKa.jpg",
+      "Name": "Warcraft: Đại Chiến Hai Thế Giới - Warcraft"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/apXVRHh2W9kqjFMnrsNAox5BjUS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/apXVRHh2W9kqjFMnrsNAox5BjUS.jpg",
+      "Name": "Warcraft: Đại Chiến Hai Thế Giới - Warcraft"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2aMNWoy4Q1SMpHDkB7rVkhMJwnq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2aMNWoy4Q1SMpHDkB7rVkhMJwnq.jpg",
+      "Name": "Warcraft: Đại Chiến Hai Thế Giới - Warcraft"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5niUzzHTRsNmOalHjYzddXQij0Y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5niUzzHTRsNmOalHjYzddXQij0Y.jpg",
+      "Name": "Warcraft: Đại Chiến Hai Thế Giới - Warcraft"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mCLrDNdKKluUrD0mEQxdExVcXKf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mCLrDNdKKluUrD0mEQxdExVcXKf.jpg",
+      "Name": "Warcraft: Đại Chiến Hai Thế Giới - Warcraft"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eFI8z2M7ucZ2WWdbVcXAzc1RGK5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eFI8z2M7ucZ2WWdbVcXAzc1RGK5.jpg",
+      "Name": "Warcraft: Đại Chiến Hai Thế Giới - Warcraft"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4nZA0L3i5Lwe81ESzb4aDwSEEBJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4nZA0L3i5Lwe81ESzb4aDwSEEBJ.jpg",
+      "Name": "Warcraft: Đại Chiến Hai Thế Giới - Warcraft"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iJiRdMLrenfjMt7Pz5lX4MoAxjL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iJiRdMLrenfjMt7Pz5lX4MoAxjL.jpg",
+      "Name": "Warcraft: Đại Chiến Hai Thế Giới - Warcraft"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bzuiDPyHCvdzPwnOihZbAcAUXbL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bzuiDPyHCvdzPwnOihZbAcAUXbL.jpg",
+      "Name": "Warcraft: Đại Chiến Hai Thế Giới - Warcraft"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/59lQOqjdOuOA0GxtfCHIcv4jRVc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/59lQOqjdOuOA0GxtfCHIcv4jRVc.jpg",
+      "Name": "Warcraft: Đại Chiến Hai Thế Giới - Warcraft"
+    }
+  ],
+  "Links": [],
+  "Intro": "Vương quốc Azeroth – vùng đất thanh bình của loài người đứng trên vực thẳm chiến tranh khi tộc người Orcs phát hiện ra một lối đi kết nối giữa hai thế giới. Trong đó, vùng đất của loài người phải đối mặt với nguy cơ bị phá hủy còn thế giới Orcs có thể sẽ tuyệt diệt. Để bảo vệ vùng đất của mình với sự sống còn, hai vị thủ lĩnh đại diện cho hai thế giới này đã đứng lên và quyết chiến. Đây sẽ là trận đấu quyết định số phận gia đình, con người và thế giới của họ. Vì lẽ này, câu chuyện khởi đầu cùng sự hi sinh và quyền lực với lời khẳng định mỗi cuộc chiến đều có nhiều mặt. Trong đó, tất cả sẽ đấu tranh vì một mục đích nào đó.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/04/ckrTPz6FZ35L5ybjqvkLWzzSLO7-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/2Rxoz13Bthc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/warcraft/",
+  "Name": "Warcraft: Đại Chiến Hai Thế Giới"
+}

@@ -1,0 +1,547 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3aQRPXYdAqqADQoPK7WDwKxhZe5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3aQRPXYdAqqADQoPK7WDwKxhZe5.jpg",
+      "Name": "Another Miss Oh"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x1/",
+      "Name": "Can I Cry?"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x2/",
+      "Name": "A Relationship Due To Willful Negligence"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x3/",
+      "Name": "Love If You Want To Live"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x4/",
+      "Name": "Let's Buy A Humming Tune And Go Home"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x5/",
+      "Name": "Crazily Heart-Wrenching"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x6/",
+      "Name": "Half Love, Half Pity"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x7/",
+      "Name": "I Wish I Was The Only Woman In The World"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x8/",
+      "Name": "I'm Crying Not Because Of Him, But Because Of You"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x9/",
+      "Name": "The Wind Blew In His Heart"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x10/",
+      "Name": "On My Way to You"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x11/",
+      "Name": "In Pain, In Pain..."
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x12/",
+      "Name": "Wish You Misery Once You Leave Me"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x13/",
+      "Name": "The Heart I've Understood"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x14/",
+      "Name": "Silence All The Other Sounds That Are Not Of Love"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x15/",
+      "Name": "Those Past Days I Couldn't Give You More, More Love"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x16/",
+      "Name": "Through You, I Live"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x17/",
+      "Name": "I Could Die Today With No Regrets"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x18/",
+      "Name": "Please Stay Alive, I'm Grateful You're Alive, Honey"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x19/",
+      "Name": "Special 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/another-miss-oh-1x20/",
+      "Name": "Special 2"
+    }
+  ],
+  "Intro": "Two women working in the same industry with the exact same name keep getting their lives entangled both professionally and personally.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/cO2rnUv5XTNUjYWyqkZwbSW25NA-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jkiUCY3RmbVh1uDDWz62WJXKeDN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jkiUCY3RmbVh1uDDWz62WJXKeDN.jpg",
+              "Name": "Another Miss Oh 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x1/",
+          "Name": "Another Miss Oh 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4QgFVfF6tdcTHFUed8Am5deIaG1.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4QgFVfF6tdcTHFUed8Am5deIaG1.jpg",
+              "Name": "Another Miss Oh 1&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x10/",
+          "Name": "Another Miss Oh 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ywMTKrlBl3LRj4C4XhSQJFgQ08.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ywMTKrlBl3LRj4C4XhSQJFgQ08.jpg",
+              "Name": "Another Miss Oh 1&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x11/",
+          "Name": "Another Miss Oh 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/x4Z7j1A0uHgyHhwNfTvDLIhAXLx.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/x4Z7j1A0uHgyHhwNfTvDLIhAXLx.jpg",
+              "Name": "Another Miss Oh 1&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x12/",
+          "Name": "Another Miss Oh 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/x658PWAKKvNG4zEnD7XNsAN4yOJ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/x658PWAKKvNG4zEnD7XNsAN4yOJ.jpg",
+              "Name": "Another Miss Oh 1&#215;13"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x13/",
+          "Name": "Another Miss Oh 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1CxHiOgarNiVhSyDgJjkw3aCAJW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1CxHiOgarNiVhSyDgJjkw3aCAJW.jpg",
+              "Name": "Another Miss Oh 1&#215;14"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x14/",
+          "Name": "Another Miss Oh 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/o8mO3FSiNKi3yD4bX5gXaI7cXYL.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/o8mO3FSiNKi3yD4bX5gXaI7cXYL.jpg",
+              "Name": "Another Miss Oh 1&#215;15"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x15/",
+          "Name": "Another Miss Oh 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lsJiwVSX3q1gQs9Pf3FrQ7bVWj4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lsJiwVSX3q1gQs9Pf3FrQ7bVWj4.jpg",
+              "Name": "Another Miss Oh 1&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x16/",
+          "Name": "Another Miss Oh 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8ugChZMlGmMjfdBnSwFn5ZmVhw2.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8ugChZMlGmMjfdBnSwFn5ZmVhw2.jpg",
+              "Name": "Another Miss Oh 1&#215;17"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x17/",
+          "Name": "Another Miss Oh 1x17"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/a2Y5iU31qjw3UIAMxvIDfoWfpJ8.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/a2Y5iU31qjw3UIAMxvIDfoWfpJ8.jpg",
+              "Name": "Another Miss Oh 1&#215;18"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x18/",
+          "Name": "Another Miss Oh 1x18"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x19/",
+          "Name": "Another Miss Oh 1x19"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xarvHu1XtWu03PcpgWem4gzP3LY.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xarvHu1XtWu03PcpgWem4gzP3LY.jpg",
+              "Name": "Another Miss Oh 1&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x2/",
+          "Name": "Another Miss Oh 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x20/",
+          "Name": "Another Miss Oh 1x20"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wwr9indfnLJRRCn7PLAqDfYTxcG.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wwr9indfnLJRRCn7PLAqDfYTxcG.jpg",
+              "Name": "Another Miss Oh 1&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x3/",
+          "Name": "Another Miss Oh 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/gVmHh9F6yz2IPZhVPnV0x4FNgIC.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/gVmHh9F6yz2IPZhVPnV0x4FNgIC.jpg",
+              "Name": "Another Miss Oh 1&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x4/",
+          "Name": "Another Miss Oh 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/c9rCGAz5VEC5sfjL3CbgK7AVxmk.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/c9rCGAz5VEC5sfjL3CbgK7AVxmk.jpg",
+              "Name": "Another Miss Oh 1&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x5/",
+          "Name": "Another Miss Oh 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/333zhnr5gl9vR1lgKYiE5UNZrHq.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/333zhnr5gl9vR1lgKYiE5UNZrHq.jpg",
+              "Name": "Another Miss Oh 1&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x6/",
+          "Name": "Another Miss Oh 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4II5fkSrgjVy44DZJlh9tRDsQ0g.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4II5fkSrgjVy44DZJlh9tRDsQ0g.jpg",
+              "Name": "Another Miss Oh 1&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x7/",
+          "Name": "Another Miss Oh 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1zF1xK5zYj3UTY5fIVdA8Mv7PWt.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1zF1xK5zYj3UTY5fIVdA8Mv7PWt.jpg",
+              "Name": "Another Miss Oh 1&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x8/",
+          "Name": "Another Miss Oh 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/gR92gzBIM1VhPzvtdfZEJVx4xKB.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/gR92gzBIM1VhPzvtdfZEJVx4xKB.jpg",
+              "Name": "Another Miss Oh 1&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/another-miss-oh-1x9/",
+          "Name": "Another Miss Oh 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 May. 02, 2016"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/another-miss-oh/",
+  "Name": "Another Miss Oh"
+}

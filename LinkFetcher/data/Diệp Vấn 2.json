@@ -1,0 +1,46 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ddIyFf15chpnCS5ayHoH1pgb80R.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ddIyFf15chpnCS5ayHoH1pgb80R.jpg ",
+      "Name": "Diệp Vấn 2 - Ip Man 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kaWA1HEZdcoHJG03lsi98PpMgxa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kaWA1HEZdcoHJG03lsi98PpMgxa.jpg ",
+      "Name": "Diệp Vấn 2 - Ip Man 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cVRia71LWCeRixU7FfBO4tAT7D8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cVRia71LWCeRixU7FfBO4tAT7D8.jpg ",
+      "Name": "Diệp Vấn 2 - Ip Man 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bN1HaiGRlRqEO4iURpuEP3Mu8Yd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bN1HaiGRlRqEO4iURpuEP3Mu8Yd.jpg ",
+      "Name": "Diệp Vấn 2 - Ip Man 2"
+    }
+  ],
+  "Links": [],
+  "Intro": "Diệp Vấn 2 tiếp nối kết thúc của phần 1, tập trung vào những sóng gió trong cuộc đời của Diệp Vấn tại Hong Kong. Diệp Vấn là bậc thầy của môn phái Vịnh Xuân và chính những năm tháng sống tại Hong Kong đã giúp ông sáng tạo nhiều thế võ đặc sắc riêng của mình. Ngoài ra, ông còn chính sư phụ của huyền thoại võ thuật Lý Tiểu Long. Với cốt truyện li kì hấp dẫn, cộng với đạo diễn và dàn diễn viên nổi tiếng, tài năng Chân Tử Đan và Hùng Đại còn có nhiều diễn viên tên tuổi khác như Hồng Kim Bảo, Huỳnh Hiểu Minh, Thích Tiểu Long&#8230;., Diệp Vấn 2 đã tạo ra cơn sốt khi công chiếu rộng rãi tại các rạp Trung Quốc.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/9mu13RSsvyDdlyD8TyjuQVrT0gM-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/gaBdgu00otE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ip-man-2/",
+  "Name": "Diệp Vấn 2"
+}

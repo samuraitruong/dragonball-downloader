@@ -1,14 +1,41 @@
 {
-  "Id": "movvexcHH355111",
-  "Url": "https://fsharephim.com/movies/barbie-in-rock-n-royals/",
-  "Name": "Barbie in Rock 'N Royals",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movvexchh355111/",
-      "Name": "Barbie.In.Rock.n.Royals.2015.mkv",
-      "Url": "https://www.fshare.vn/file/579G8GD7MAAC",
-      "Size": "1.72 GB",
-      "FileSize": 1847682006
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kNmnBuoUTCHUjnswMA60qR6tb3v.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kNmnBuoUTCHUjnswMA60qR6tb3v.jpg",
+      "Name": "Barbie in Rock &#8216;N Royals"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7S2iHlMIm36IFAiGzofRK82jqFN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7S2iHlMIm36IFAiGzofRK82jqFN.jpg",
+      "Name": "Barbie in Rock &#8216;N Royals"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eNAJnUVySPCzfvFDgcWh96FgFSF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eNAJnUVySPCzfvFDgcWh96FgFSF.jpg",
+      "Name": "Barbie in Rock &#8216;N Royals"
+    }
+  ],
+  "Links": [],
+  "Intro": "In this upbeat musical, Barbie stars as Princess Courtney, a modern princess whose world is turned upside down when she switches places with Erika, a famous rockstar. Two very different worlds collide when a mix-up sends Princess Courtney to Camp Pop and Erika, to Camp Royalty. While the leaders of the rival camps try to correct the mix-up, both Courtney and Erika learn to adjust to the different worlds and have fun while making new, unexpected friends. When the girls learn both camps are at risk of shutting down, they must embrace their differences, find their true voices, and come together for an epic sing-off that shows anything is possible when you dare to dream big!",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/aCKWWQpEijagMEfIOz0vW0aTDmv-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/barbie-in-rock-n-royals/",
+  "Name": "Barbie in Rock 'N Royals"
 }

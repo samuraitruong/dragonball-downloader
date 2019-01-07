@@ -1,0 +1,28 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1RSoHYKttOBQeRTBwFuDxxXOXgM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1RSoHYKttOBQeRTBwFuDxxXOXgM.jpg ",
+      "Name": "Last Rampage: The Escape of Gary Tison"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9D7Bp9Tth1ILcwTPyGUXU77Ag0u.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9D7Bp9Tth1ILcwTPyGUXU77Ag0u.jpg ",
+      "Name": "Last Rampage: The Escape of Gary Tison"
+    }
+  ],
+  "Links": [],
+  "Intro": "The true story of the infamous prison break of Gary Tison and Randy Greenwalt from the Arizona State prison in Florence, in the summer of 1978.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/kZDF2GDto5WCPW9wbRqrqf9yRWM-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/5WkAWEnjqAI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/last-rampage-the-escape-of-gary-tison/",
+  "Name": "Last Rampage: The Escape of Gary Tison"
+}

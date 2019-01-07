@@ -1,0 +1,52 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zMGfDzzV66AaBltN7CCLLb2I8YY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zMGfDzzV66AaBltN7CCLLb2I8YY.jpg ",
+      "Name": "Obsessed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ndrH0gI3HNl6aZA0bOjnwaBq8E7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ndrH0gI3HNl6aZA0bOjnwaBq8E7.jpg ",
+      "Name": "Obsessed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bRCKajgcTsI60tx3gV02BNw24w1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bRCKajgcTsI60tx3gV02BNw24w1.jpg ",
+      "Name": "Obsessed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3nEq2ZuzFUmD0qYKOhSJWhel9tj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3nEq2ZuzFUmD0qYKOhSJWhel9tj.jpg ",
+      "Name": "Obsessed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qOtAhHv8MnIyLO5fgxkBeV2u0bb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qOtAhHv8MnIyLO5fgxkBeV2u0bb.jpg ",
+      "Name": "Obsessed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1K75JqYIkvS6b0qQ20S8InmN7NY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1K75JqYIkvS6b0qQ20S8InmN7NY.jpg ",
+      "Name": "Obsessed"
+    }
+  ],
+  "Links": [],
+  "Intro": "Set in 1969 at the end of the Vietnam War, elite officer and war hero Colonel Kim Jin-pyeong is about to get promoted to general. He is a constant subject of jealousy, with the commander for a father-in-law and a beautiful wife. But in truth, his affection for his wife has subsided and he is suffering from post-traumatic stress disorder from the war. One day, Jin-pyeong encounters Ga-heun, the wife of one of his captains, and falls into a fatal and obsessive love affair that forces him to give up everything he had achieved.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/guSmKrz6qY4ySl1FNidbT5GGY1l-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/cbLqF2HzI0o?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/obsessed/",
+  "Name": "Obsessed"
+}

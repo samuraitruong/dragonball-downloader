@@ -1,0 +1,395 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao-khoa-hoc/",
+      "Name": "Kỳ Ảo Khoa Học"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/piiF7ZGulwM6MGu4OGK3P2IPuvd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/piiF7ZGulwM6MGu4OGK3P2IPuvd.jpg",
+      "Name": "Goblin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/beBtxMfngFt5F9qwHEQfVTSpQNu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/beBtxMfngFt5F9qwHEQfVTSpQNu.jpg",
+      "Name": "Goblin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
+      "Name": "Goblin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z6eZ35E0VVjP5eInL9uIru28Tv9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z6eZ35E0VVjP5eInL9uIru28Tv9.jpg",
+      "Name": "Goblin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/p6gaBCjoc5BEGTRAUhR3jaE5XqV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/p6gaBCjoc5BEGTRAUhR3jaE5XqV.jpg",
+      "Name": "Goblin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8SsFYGEpokTyVBjWgfsBiSWHddM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8SsFYGEpokTyVBjWgfsBiSWHddM.jpg",
+      "Name": "Goblin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hhvOeOeauDCWxiToGkctAuzafAB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hhvOeOeauDCWxiToGkctAuzafAB.jpg",
+      "Name": "Goblin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2vBpKfs4KLKayINsWBvCWu0cJyD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2vBpKfs4KLKayINsWBvCWu0cJyD.jpg",
+      "Name": "Goblin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dAvLLeogQkuI33UFeizNXaZbzkk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dAvLLeogQkuI33UFeizNXaZbzkk.jpg",
+      "Name": "Goblin"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/goblin-1x1/",
+      "Name": "What Kind Of A Guardian Are You?"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/goblin-1x2/",
+      "Name": "I'll Become Your Bride In 200 Years"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/goblin-1x3/",
+      "Name": "I See The Sword"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/goblin-1x4/",
+      "Name": "I Won't Leave You"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/goblin-1x5/",
+      "Name": "I Have To End My Life"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/goblin-1x6/",
+      "Name": "Tomorrow"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/goblin-1x7/",
+      "Name": "I Think It's Your Face"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/goblin-1x8/",
+      "Name": "You Gave Her That Fate"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/goblin-1x9/",
+      "Name": "He'll Vanish Forever From This World To Another"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/goblin-1x10/",
+      "Name": "Is She Really Your Sister?"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/goblin-1x11/",
+      "Name": "The Deity Is So Cruel To You And Me"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/goblin-1x12/",
+      "Name": "Forget About Me"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/goblin-1x13/",
+      "Name": "Protect Her"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/goblin-1x14/",
+      "Name": "Whom Have I Forgotten?"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/goblin-1x15/",
+      "Name": "Will You Be My Bride?"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/goblin-1x16/",
+      "Name": "Goodbye and See You Again"
+    }
+  ],
+  "Intro": "Kim Shin is an immortal “goblin,” and has the rather honorable title of being the Protector of Souls. His roommate Wang Yeo also happens to have the equally lofty, if thoroughly opposing, title of Angel of Death, and he acts as the storied grim reaper that claims souls. However, both these devilishly handsome angels have a problem: Wang Yeo has amnesia and Kim Shin wants to end his own (immortal) life. Unfortunately for goblins, the only way to defeat immortality is to marry a human bride. For that purpose, Kim Shin decides to win over Ji Eun Tak an optimistic high school girl who he thinks will be the priestess that ends his cursed existence. Now, once responsible for protecting souls and watching them pass, Kim Shin now tries to send his own to the afterlife. But when a slightly complicated method of suicide starts turning into true love, will our immortal goblin begin to regret his decision&#8211;where acting on that very love ultimately means the end of his life?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/v91l3iHfzkdGQiMXjUz3eCZ0YSp-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/gGkIVSnqxHA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/goblin-1x1/",
+          "Name": "Goblin 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/goblin-1x10/",
+          "Name": "Goblin 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/goblin-1x11/",
+          "Name": "Goblin 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/goblin-1x12/",
+          "Name": "Goblin 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/goblin-1x13/",
+          "Name": "Goblin 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/goblin-1x14/",
+          "Name": "Goblin 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/goblin-1x15/",
+          "Name": "Goblin 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/goblin-1x16/",
+          "Name": "Goblin 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/goblin-1x2/",
+          "Name": "Goblin 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/goblin-1x3/",
+          "Name": "Goblin 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/goblin-1x4/",
+          "Name": "Goblin 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/goblin-1x5/",
+          "Name": "Goblin 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/goblin-1x6/",
+          "Name": "Goblin 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/goblin-1x7/",
+          "Name": "Goblin 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/goblin-1x8/",
+          "Name": "Goblin 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/goblin-1x9/",
+          "Name": "Goblin 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Dec. 02, 2016"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/goblin/",
+  "Name": "Goblin"
+}

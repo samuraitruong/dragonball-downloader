@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/p5rlMIvxWI7jBXur6wjeNiaZVPj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/p5rlMIvxWI7jBXur6wjeNiaZVPj.jpg",
+      "Name": "Spoor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tT3CTXRCkvhV916lQhzusTihuAJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tT3CTXRCkvhV916lQhzusTihuAJ.jpg",
+      "Name": "Spoor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8Bi0LBuSpm3FsxkijQuT2axKgdR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8Bi0LBuSpm3FsxkijQuT2axKgdR.jpg",
+      "Name": "Spoor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tWlPS5QAvbDJTAXGbG1djaRtlNN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tWlPS5QAvbDJTAXGbG1djaRtlNN.jpg",
+      "Name": "Spoor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qviW5ACwtGapWgRCLC8yErkNP2o.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qviW5ACwtGapWgRCLC8yErkNP2o.jpg",
+      "Name": "Spoor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/smEc0RkGlCryYtYb35ul6Mhym4X.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/smEc0RkGlCryYtYb35ul6Mhym4X.jpg",
+      "Name": "Spoor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pc7WimXIGFbPfu0msvaHjCVA8QJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pc7WimXIGFbPfu0msvaHjCVA8QJ.jpg",
+      "Name": "Spoor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yhRyNkHtcWw3LTQJfvZZGg55mXj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yhRyNkHtcWw3LTQJfvZZGg55mXj.jpg",
+      "Name": "Spoor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qfAB4Y31GmQETDu2YRdLVqlI21.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qfAB4Y31GmQETDu2YRdLVqlI21.jpg",
+      "Name": "Spoor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tyC1qHJ1BQ7yotpumbaMOanOQpK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tyC1qHJ1BQ7yotpumbaMOanOQpK.jpg",
+      "Name": "Spoor"
+    }
+  ],
+  "Links": [],
+  "Intro": "A story about Janina Duszejko, an elderly woman, who lives alone in the Klodzko Valley where a series of mysterious crimes are committed. Duszejko is convinced that she knows who (or what) is the murderer, but nobody believes her.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/xiLse0b4mUnpyriJ6ozZlcVpbFZ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/eq28mRyg85U?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/spoor/",
+  "Name": "Spoor"
+}

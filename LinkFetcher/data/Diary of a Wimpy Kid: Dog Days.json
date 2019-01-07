@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4mdRyMSLHxeTIwqNLUgQtNxla20.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4mdRyMSLHxeTIwqNLUgQtNxla20.jpg",
+      "Name": "Diary of a Wimpy Kid: Dog Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xLkOXfVcBVDM3nDZteVsMRh4lFN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xLkOXfVcBVDM3nDZteVsMRh4lFN.jpg",
+      "Name": "Diary of a Wimpy Kid: Dog Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/d0xIiCRiZ9yd2fMMde1fs36aDtt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/d0xIiCRiZ9yd2fMMde1fs36aDtt.jpg",
+      "Name": "Diary of a Wimpy Kid: Dog Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hDEUtON5ewNbsOP1I5gk9or92gI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hDEUtON5ewNbsOP1I5gk9or92gI.jpg",
+      "Name": "Diary of a Wimpy Kid: Dog Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bo4HXjhoGYrqr0Dy3XLkR3xutzp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bo4HXjhoGYrqr0Dy3XLkR3xutzp.jpg",
+      "Name": "Diary of a Wimpy Kid: Dog Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/PqfFsamBHUCaEvoxJHwnKc15lk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/PqfFsamBHUCaEvoxJHwnKc15lk.jpg",
+      "Name": "Diary of a Wimpy Kid: Dog Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jSSTwGuqSVZaz9h1o3ZJ59hsKPQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jSSTwGuqSVZaz9h1o3ZJ59hsKPQ.jpg",
+      "Name": "Diary of a Wimpy Kid: Dog Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oJ1A7tCaE89bMVNNPjkLbWe04Ai.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oJ1A7tCaE89bMVNNPjkLbWe04Ai.jpg",
+      "Name": "Diary of a Wimpy Kid: Dog Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/i5r767upw07KtEmlKUJUS53NwYC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/i5r767upw07KtEmlKUJUS53NwYC.jpg",
+      "Name": "Diary of a Wimpy Kid: Dog Days"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6xoAjdi4B8Xtv4wH3MsHJPXqBov.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6xoAjdi4B8Xtv4wH3MsHJPXqBov.jpg",
+      "Name": "Diary of a Wimpy Kid: Dog Days"
+    }
+  ],
+  "Links": [],
+  "Intro": "School is out and Greg is ready for the days of summer, when all his plans go wrong. What on earth is he going to do all summer?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/tev1d0E9hkiloecGi038tvTsm3y-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/NbnTf8MB8LI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/diary-of-a-wimpy-kid-dog-days/",
+  "Name": "Diary of a Wimpy Kid: Dog Days"
+}

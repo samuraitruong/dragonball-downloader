@@ -1,0 +1,50 @@
+{
+  "Id": "movl2Yyp476600",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9bwCZypKPBZR5Y0fgkwYnNr5qOz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9bwCZypKPBZR5Y0fgkwYnNr5qOz.jpg",
+      "Name": "Avatar 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g0E9nlPKmwyjvCJFbWTMyMLvLiC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g0E9nlPKmwyjvCJFbWTMyMLvLiC.jpg",
+      "Name": "Avatar 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iydzjobviYyltxHSioKsfMRZmgF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iydzjobviYyltxHSioKsfMRZmgF.jpg",
+      "Name": "Avatar 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bRsPR0wycaX8fkqpN2knrRrvbBJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bRsPR0wycaX8fkqpN2knrRrvbBJ.jpg",
+      "Name": "Avatar 2"
+    }
+  ],
+  "Links": [],
+  "Intro": "A sequel to Avatar (2009).",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/wvpOVl37PR21mENpmZKVwrLUsRD-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/RqHI0kE-cyo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/avatar-2/",
+  "Name": "Avatar 2"
+}

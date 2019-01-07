@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a6VvlnIRTJTPUnyf1tIV9kEJO27.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a6VvlnIRTJTPUnyf1tIV9kEJO27.jpg ",
+      "Name": "Giờ Lành - The Finest Hours"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gmDNnMSAKBZAkkyWEj9pjoMm0Ew.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gmDNnMSAKBZAkkyWEj9pjoMm0Ew.jpg ",
+      "Name": "Giờ Lành - The Finest Hours"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cY545kn9YFfgXvftIckIuGRNkn6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cY545kn9YFfgXvftIckIuGRNkn6.jpg ",
+      "Name": "Giờ Lành - The Finest Hours"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6KuMXFFOYb8gLOnXMUYBMd3JJog.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6KuMXFFOYb8gLOnXMUYBMd3JJog.jpg ",
+      "Name": "Giờ Lành - The Finest Hours"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/akuAB8RWTp07EDMaRrGbxoorBps.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/akuAB8RWTp07EDMaRrGbxoorBps.jpg ",
+      "Name": "Giờ Lành - The Finest Hours"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k5oijKnO20ar6EL9qwip132sQV6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k5oijKnO20ar6EL9qwip132sQV6.jpg ",
+      "Name": "Giờ Lành - The Finest Hours"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4u7Eo4sG7jQm8n8Zm8Po32LQshF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4u7Eo4sG7jQm8n8Zm8Po32LQshF.jpg ",
+      "Name": "Giờ Lành - The Finest Hours"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gin2kuOmIUxNyFfGxs0yFkg7VKR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gin2kuOmIUxNyFfGxs0yFkg7VKR.jpg ",
+      "Name": "Giờ Lành - The Finest Hours"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AdX9BcJ77YNRfYs3oepePgI74xO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AdX9BcJ77YNRfYs3oepePgI74xO.jpg ",
+      "Name": "Giờ Lành - The Finest Hours"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/PR7c7ZexLYNjQqvio5oocDgEdB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/PR7c7ZexLYNjQqvio5oocDgEdB.jpg ",
+      "Name": "Giờ Lành - The Finest Hours"
+    }
+  ],
+  "Links": [],
+  "Intro": "Vào ngày 18 tháng 2 năm 1952, một thảm họa thiên nhiên bất ngờ đã xảy ra trên vùng biển phía Đông nước Mỹ khiến tàu chở dầu lớn bị nứt làm đôi và đe dọa mạng sống của tất cả các thủy thủ. Kỹ sư và các thủy thủ trên tàu tìm mọi cách giữ cho tàu trôi nổi càng lâu càng tốt, còn Trạm cứu hộ bờ biển (thuộc Quân đội Mỹ, còn gọi là đội Tuần Duyên) vùng Chatham, Massachusetts cũng đã cử một con tàu nhỏ ra khơi nhằm tìm kiếm những người sống sót ngay khi nhận tin dữ.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/5vfRMplGxOzMiJu0FGFCA1ic44Q-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/BQmllwTKtqU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-finest-hours/",
+  "Name": "Giờ Lành"
+}

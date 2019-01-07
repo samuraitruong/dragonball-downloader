@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eL0QAAtFfA0OvnBsY7tJKrFbc9B.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eL0QAAtFfA0OvnBsY7tJKrFbc9B.jpg ",
+      "Name": "Bullet Head"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8s0ntFj7dNbalDqoc4A9qKw29Lc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8s0ntFj7dNbalDqoc4A9qKw29Lc.jpg ",
+      "Name": "Bullet Head"
+    }
+  ],
+  "Links": [],
+  "Intro": "A group of career criminals finds itself trapped in a warehouse with the law – and an Attack Dog named DeNiro closing in.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/ySmKQPjWnNzuZ5YliQaOVEnWn2-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/m4K6OJ1Hodg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/bullet-head/",
+  "Name": "Bullet Head"
+}

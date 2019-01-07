@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vIZrKlcDYZTfYcp60H0YwW2MISV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vIZrKlcDYZTfYcp60H0YwW2MISV.jpg ",
+      "Name": "Come Sunday"
+    }
+  ],
+  "Links": [],
+  "Intro": "Evangelist Carlton Pearson is ostracized by his church for preaching that there is no Hell.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/ubMFT42itwYEPhyU9xwsvq8eIhC-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/come-sunday/",
+  "Name": "Come Sunday"
+}

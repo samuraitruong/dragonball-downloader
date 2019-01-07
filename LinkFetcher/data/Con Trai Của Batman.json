@@ -1,28 +1,96 @@
 {
   "Id": "movYmnWZp251519",
-  "Url": "https://fsharephim.com/movies/son-of-batman/",
-  "Name": "Con Trai Của Batman",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/omK35Mr3oks6bd5efrgsO7CzmLP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/omK35Mr3oks6bd5efrgsO7CzmLP.jpg",
+      "Name": "Con Trai Của Batman - Son of Batman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h0T6p9IUk79tAwR1zwqi4Notkwe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h0T6p9IUk79tAwR1zwqi4Notkwe.jpg",
+      "Name": "Con Trai Của Batman - Son of Batman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5Vv6V43mhwm1q4RlWlO4QrYMc0w.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5Vv6V43mhwm1q4RlWlO4QrYMc0w.jpg",
+      "Name": "Con Trai Của Batman - Son of Batman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2ibwgeqjiHsuFs1k2rSA4WX81u2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2ibwgeqjiHsuFs1k2rSA4WX81u2.jpg",
+      "Name": "Con Trai Của Batman - Son of Batman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rrxLuBKFAF4MFSYNMganKLA3Umv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rrxLuBKFAF4MFSYNMganKLA3Umv.jpg",
+      "Name": "Con Trai Của Batman - Son of Batman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/y3xPlfe9Fxv19fCGoEuECS7RQB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/y3xPlfe9Fxv19fCGoEuECS7RQB.jpg",
+      "Name": "Con Trai Của Batman - Son of Batman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b22pJ082cMNGNXNf1tfdBiwLD1H.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b22pJ082cMNGNXNf1tfdBiwLD1H.jpg",
+      "Name": "Con Trai Của Batman - Son of Batman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/HNyCxyAAjcLcA6zUVRjbTnvSbU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/HNyCxyAAjcLcA6zUVRjbTnvSbU.jpg",
+      "Name": "Con Trai Của Batman - Son of Batman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uwGdbiSIuysnH0dyzi2h3z7bJ2u.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uwGdbiSIuysnH0dyzi2h3z7bJ2u.jpg",
+      "Name": "Con Trai Của Batman - Son of Batman"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movymnwzp251519/",
-      "Name": "720p",
-      "Url": "https://www.fshare.vn/file/H4BG1UJSAN/",
       "Size": "2.66 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/H4BG1UJSAN/",
+      "Name": "720p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movymnwzp251519-2/",
-      "Name": "1080p",
-      "Url": "https://www.fshare.vn/file/RLZ9RZPYGK/",
       "Size": "4.66 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/RLZ9RZPYGK/",
+      "Name": "1080p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movymnwzp251519-3/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/son-of-batman/vietnamese/896546",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/son-of-batman/vietnamese/896546",
+      "Name": "Viet - Subtitle"
     }
-  ]
+  ],
+  "Intro": null,
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/j3SFJqZPeeB9g5JMU7UFLgEqj2T-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/bis7XOu0Xms?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/son-of-batman/",
+  "Name": "Con Trai Của Batman"
 }

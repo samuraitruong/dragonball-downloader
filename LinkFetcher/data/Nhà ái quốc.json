@@ -1,0 +1,70 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yQWiRYbsO0ceVm6EJ7TUaFXbYx1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yQWiRYbsO0ceVm6EJ7TUaFXbYx1.jpg ",
+      "Name": "Nhà ái quốc - The Patriot"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lFfll0tmi5a6p9RvSIxpKBbrxY2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lFfll0tmi5a6p9RvSIxpKBbrxY2.jpg ",
+      "Name": "Nhà ái quốc - The Patriot"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9IfO3W1MUzDdpBqY1Ru6dzdJJld.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9IfO3W1MUzDdpBqY1Ru6dzdJJld.jpg ",
+      "Name": "Nhà ái quốc - The Patriot"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f8by1v0wSOrBcDmCjsvPkhmbCJs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f8by1v0wSOrBcDmCjsvPkhmbCJs.jpg ",
+      "Name": "Nhà ái quốc - The Patriot"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pMkRLSDR26azxmtCqmpvl8VDarF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pMkRLSDR26azxmtCqmpvl8VDarF.jpg ",
+      "Name": "Nhà ái quốc - The Patriot"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/huJRcb7HixsRN1AhWOcvid0SNW5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/huJRcb7HixsRN1AhWOcvid0SNW5.jpg ",
+      "Name": "Nhà ái quốc - The Patriot"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cML15meBFDn2pmaABSnOIQOR5Mh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cML15meBFDn2pmaABSnOIQOR5Mh.jpg ",
+      "Name": "Nhà ái quốc - The Patriot"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mKASnY445hGyUIVaCCJtnWHb0SC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mKASnY445hGyUIVaCCJtnWHb0SC.jpg ",
+      "Name": "Nhà ái quốc - The Patriot"
+    }
+  ],
+  "Links": [],
+  "Intro": "Cựu binh Benjamin Martin tưởng rằng ông sẽ được hưởng một cuộc sống bình yên trên nông trại, nhưng rồi lại phải cầm súng sau khi hai đứa con trai bị giết.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/tgXOraQmKatqrVs2KMgnNn6QpO-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/R_C_dPHEWN0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-patriot/",
+  "Name": "Nhà ái quốc"
+}

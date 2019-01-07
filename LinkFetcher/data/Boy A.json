@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kVxjPMNUn6nuYQlLP20FVBkQCp7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kVxjPMNUn6nuYQlLP20FVBkQCp7.jpg",
+      "Name": "Boy A"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oFwSuDitXftol3wWCU3u6ZaQERP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oFwSuDitXftol3wWCU3u6ZaQERP.jpg",
+      "Name": "Boy A"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aOioYm1SxxkKGBKLdLs78MmKwG9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aOioYm1SxxkKGBKLdLs78MmKwG9.jpg",
+      "Name": "Boy A"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/44YFV5BZV6jknh5m0bEg4Q6b35e.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/44YFV5BZV6jknh5m0bEg4Q6b35e.jpg",
+      "Name": "Boy A"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nIL9uG0Jn9z7B1bufJeMNZRSrMh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nIL9uG0Jn9z7B1bufJeMNZRSrMh.jpg",
+      "Name": "Boy A"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fbjlvdcjvDiHkG0zASv8RipOAWX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fbjlvdcjvDiHkG0zASv8RipOAWX.jpg",
+      "Name": "Boy A"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kyfWKyIPPEtnpdi4QjJdlrBajCf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kyfWKyIPPEtnpdi4QjJdlrBajCf.jpg",
+      "Name": "Boy A"
+    }
+  ],
+  "Links": [],
+  "Intro": "The story of a young ex-con Jack, newly released from serving a prison sentence for a murder he committed as a child.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/j4tm5o38uyLMPznF3RecfwI118R-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/boy-a/",
+  "Name": "Boy A"
+}

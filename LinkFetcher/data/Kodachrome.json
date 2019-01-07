@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nDrSj4nPj7G7bqBSZVVVZqgtR8P.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nDrSj4nPj7G7bqBSZVVVZqgtR8P.jpg ",
+      "Name": "Kodachrome"
+    }
+  ],
+  "Links": [],
+  "Intro": "Set during the final days of the admired photo development system known as Kodachrome, a father and son hit the road in order to reach the Kansas photo lab before it closes its doors for good.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/mseyc8v3UD1DhaZ3kSdXs4Dj9Xf-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/g3IvVejktJE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/kodachrome/",
+  "Name": "Kodachrome"
+}

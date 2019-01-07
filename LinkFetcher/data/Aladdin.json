@@ -1,42 +1,88 @@
 {
-  "Id": "movOwEKwP812",
-  "Url": "https://fsharephim.com/movies/aladdin/",
-  "Name": "Aladdin",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movowekwp812-3/",
-      "Name": "Aladdin.1992.1080p.BluRay.X264-AMIABLE.mkv",
-      "Url": "https://www.fshare.vn/file/NGX5J3J5UL6Q",
-      "Size": "5.46 GB",
-      "FileSize": 5867786533
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movowekwp812-4/",
-      "Name": "1080p",
-      "Url": "http://4share.vn/f/2d181a181f181d1a/Aladdin.1992.1080p.BluRay.X264-AMIABLE.mkv.file",
-      "Size": "5.46 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movowekwp812-5/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/aladdin",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movowekwp812/",
-      "Name": "Aladdin.1992.720p.HDTV.x264-ESiR (TM - khukhooo - HDVNBits).mkv",
-      "Url": "https://www.fshare.vn/file/TA7H5J17QT",
-      "Size": "3.01 GB",
-      "FileSize": 3231766576
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movowekwp812-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/aladdin/vietnamese/955445",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oZN5w508NSlrmcMql1wohhsQGIg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oZN5w508NSlrmcMql1wohhsQGIg.jpg",
+      "Name": "Aladdin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kQFC7dD9bKUffp9RH0X1UAmMbGo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kQFC7dD9bKUffp9RH0X1UAmMbGo.jpg",
+      "Name": "Aladdin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aXe85bLvsZihPAk5FnBJBQRr72u.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aXe85bLvsZihPAk5FnBJBQRr72u.jpg",
+      "Name": "Aladdin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aLlRYVsrNfxyDSwEFEVePnA0Odf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aLlRYVsrNfxyDSwEFEVePnA0Odf.jpg",
+      "Name": "Aladdin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/toPEmFIckgRSPd40g6OLv3LWPtp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/toPEmFIckgRSPd40g6OLv3LWPtp.jpg",
+      "Name": "Aladdin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2eRTFiNIvDsucaq5AwgenjHsMd4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2eRTFiNIvDsucaq5AwgenjHsMd4.jpg",
+      "Name": "Aladdin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m10P16nBnDA0FBj8d9lCqdsmsQm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m10P16nBnDA0FBj8d9lCqdsmsQm.jpg",
+      "Name": "Aladdin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qog4yRtJeExQHkBjtVTWkp99BvF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qog4yRtJeExQHkBjtVTWkp99BvF.jpg",
+      "Name": "Aladdin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2pSXaGJvA5by1XTxci8xCYSdqJH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2pSXaGJvA5by1XTxci8xCYSdqJH.jpg",
+      "Name": "Aladdin"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tPFcYYMdPBwRyMPaFzTysIJR6eZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tPFcYYMdPBwRyMPaFzTysIJR6eZ.jpg",
+      "Name": "Aladdin"
+    }
+  ],
+  "Links": [],
+  "Intro": "Princess Jasmine grows tired of being forced to remain in the palace, so she sneaks out into the marketplace, in disguise, where she meets street-urchin Aladdin. The couple falls in love, although Jasmine may only marry a prince. After being thrown in jail, Aladdin becomes embroiled in a plot to find a mysterious lamp, with which the evil Jafar hopes to rule the land.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/7f53XAE4nPiGe9XprpGAeWHuKPw-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/cmUZuZniouU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/aladdin/",
+  "Name": "Aladdin"
 }

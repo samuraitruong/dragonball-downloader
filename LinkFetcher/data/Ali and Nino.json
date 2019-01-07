@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bfgIhcZkCVACfLaG0TCOErVR97m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bfgIhcZkCVACfLaG0TCOErVR97m.jpg",
+      "Name": "Ali and Nino"
+    }
+  ],
+  "Links": [],
+  "Intro": "Muslim prince Ali and Georgian aristocrat Nino have grown up in the Russian province of Azerbaijan. Their tragic love story sees the outbreak of the First World War and the world’s struggle for Baku’s oil. Ultimately they must choose to fight for their country’s independence or for each other.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/qqcqscCLoAtGnN7wuqnqNOYdbZG-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/0Zx8dMj_g-E?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ali-and-nino/",
+  "Name": "Ali and Nino"
+}

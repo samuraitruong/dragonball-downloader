@@ -1,21 +1,80 @@
 {
-  "Id": "movkNsUPK41216",
-  "Url": "https://fsharephim.com/movies/legend-of-the-guardians-the-owls-of-gahoole/",
-  "Name": "Hộ Vệ Xứ Ga&#039;Hoole",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movknsupk41216/",
-      "Name": "Legend.of.the.Guardians.The.Owls.of.Ga'Hoole.2010.1080p.BluRay.x264-EbP (Thuyet minh - HDVNBITS.ORG).mkv",
-      "Url": "https://www.fshare.vn/file/THR3DFPRKT",
-      "Size": "7.57 GB",
-      "FileSize": 8129506524
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movknsupk41216-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/legend-of-the-guardians-the-owls-of-gahoole",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6lwiZ1v5n3F0oY9ouCLlI9LgRRm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6lwiZ1v5n3F0oY9ouCLlI9LgRRm.jpg",
+      "Name": "Hộ Vệ Xứ Ga&#039;Hoole - Legend of the Guardians: The Owls of Ga&#8217;Hoole"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/amJRinnDvgcnhNHC0wokH9zb8qw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/amJRinnDvgcnhNHC0wokH9zb8qw.jpg",
+      "Name": "Hộ Vệ Xứ Ga&#039;Hoole - Legend of the Guardians: The Owls of Ga&#8217;Hoole"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tVBUj5Q2P5LxjPR8sdXRi80a5DT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tVBUj5Q2P5LxjPR8sdXRi80a5DT.jpg",
+      "Name": "Hộ Vệ Xứ Ga&#039;Hoole - Legend of the Guardians: The Owls of Ga&#8217;Hoole"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qzTHHIDm781KgaARaKatOwdjtHl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qzTHHIDm781KgaARaKatOwdjtHl.jpg",
+      "Name": "Hộ Vệ Xứ Ga&#039;Hoole - Legend of the Guardians: The Owls of Ga&#8217;Hoole"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v65I3MaGboStCWKwTA7NWtiSuQF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v65I3MaGboStCWKwTA7NWtiSuQF.jpg",
+      "Name": "Hộ Vệ Xứ Ga&#039;Hoole - Legend of the Guardians: The Owls of Ga&#8217;Hoole"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1ev4N7983EAeKoJmctX8ZaiVsne.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1ev4N7983EAeKoJmctX8ZaiVsne.jpg",
+      "Name": "Hộ Vệ Xứ Ga&#039;Hoole - Legend of the Guardians: The Owls of Ga&#8217;Hoole"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vObijsXP64kJWrUFNDJLBD28VfX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vObijsXP64kJWrUFNDJLBD28VfX.jpg",
+      "Name": "Hộ Vệ Xứ Ga&#039;Hoole - Legend of the Guardians: The Owls of Ga&#8217;Hoole"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u9dJhJ4hRDJgQnNzL0C2Zq5Jeds.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u9dJhJ4hRDJgQnNzL0C2Zq5Jeds.jpg",
+      "Name": "Hộ Vệ Xứ Ga&#039;Hoole - Legend of the Guardians: The Owls of Ga&#8217;Hoole"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/njjPm18whWhmvedeeJfSuPwg18Y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/njjPm18whWhmvedeeJfSuPwg18Y.jpg",
+      "Name": "Hộ Vệ Xứ Ga&#039;Hoole - Legend of the Guardians: The Owls of Ga&#8217;Hoole"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oWmSeuQIEiEvoHOb1ab0zL2UJTG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oWmSeuQIEiEvoHOb1ab0zL2UJTG.jpg",
+      "Name": "Hộ Vệ Xứ Ga&#039;Hoole - Legend of the Guardians: The Owls of Ga&#8217;Hoole"
+    }
+  ],
+  "Links": [],
+  "Intro": "Legend of the Guardians bao gồm ba tập đầu trong seri truyện Guardians of Ga’Hoole. Chúng ta sẽ được theo chân Soren, một chú cú đầy mơ mộng và lúc nào cũng bị những câu chuyện cổ của bố mình về Chiến Binh Hộ Vệ Ga’Hoole ám ảnh đến tơi tả.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/mgkRaVtdrOAZT2cFZi9Ihh9QpuL-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/huRnGh-NWGM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/legend-of-the-guardians-the-owls-of-gahoole/",
+  "Name": "Hộ Vệ Xứ Ga&#039;Hoole"
 }

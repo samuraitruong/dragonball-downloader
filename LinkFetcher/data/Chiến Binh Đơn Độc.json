@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pPFbXcONHBntJIAsEn8TaIPPCpZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pPFbXcONHBntJIAsEn8TaIPPCpZ.jpg ",
+      "Name": "Chiến Binh Đơn Độc - Lone Survivor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pjuq4N7tKsJPofRXDxxiLBka6po.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pjuq4N7tKsJPofRXDxxiLBka6po.jpg ",
+      "Name": "Chiến Binh Đơn Độc - Lone Survivor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/izYCpovyAIKLI2i3gmhSKxlR8Pk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/izYCpovyAIKLI2i3gmhSKxlR8Pk.jpg ",
+      "Name": "Chiến Binh Đơn Độc - Lone Survivor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vmrnxaYx1xlG5jhuFUs51dd3VPA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vmrnxaYx1xlG5jhuFUs51dd3VPA.jpg ",
+      "Name": "Chiến Binh Đơn Độc - Lone Survivor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uWLhdh8C5gMKu2DnPDyUIr7Z5np.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uWLhdh8C5gMKu2DnPDyUIr7Z5np.jpg ",
+      "Name": "Chiến Binh Đơn Độc - Lone Survivor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/krkkgbtWHlMXVLbPGdIxzxKJERM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/krkkgbtWHlMXVLbPGdIxzxKJERM.jpg ",
+      "Name": "Chiến Binh Đơn Độc - Lone Survivor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/etoKFDfjME8rVlkivUtyscjSan6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/etoKFDfjME8rVlkivUtyscjSan6.jpg ",
+      "Name": "Chiến Binh Đơn Độc - Lone Survivor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jwCypxoLwdp1TtKbGd2T5GHmDGI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jwCypxoLwdp1TtKbGd2T5GHmDGI.jpg ",
+      "Name": "Chiến Binh Đơn Độc - Lone Survivor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mmL2TYdf4rSni5QYYEVKJRSevdw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mmL2TYdf4rSni5QYYEVKJRSevdw.jpg ",
+      "Name": "Chiến Binh Đơn Độc - Lone Survivor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lfmsyUVuWhYuoKA0GO1awugTyew.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lfmsyUVuWhYuoKA0GO1awugTyew.jpg ",
+      "Name": "Chiến Binh Đơn Độc - Lone Survivor"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bốn thành viên của SEAL Team 10, được giao nhiệm vụ với nhiệm vụ để nắm bắt hoặc tiêu diệt thủ lĩnh Taliban khét tiếng, Ahmad Shahd. Marcus Luttrell là thành viên duy nhất của nhóm nghiên cứu của mình để tồn tại&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/c7Sqof18FgkoNcA0r5BFUcPLER1-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/yoLFk4JK_RM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/lone-survivor/",
+  "Name": "Chiến Binh Đơn Độc"
+}

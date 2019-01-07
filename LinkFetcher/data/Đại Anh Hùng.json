@@ -1,0 +1,46 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m5AMLgKaoOg9724Qx5EXcvUn2dJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m5AMLgKaoOg9724Qx5EXcvUn2dJ.jpg ",
+      "Name": "Đại Anh Hùng - Running on Karma"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/j1T2J2kIL8Pf5B3aaoxa16CyTMw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/j1T2J2kIL8Pf5B3aaoxa16CyTMw.jpg ",
+      "Name": "Đại Anh Hùng - Running on Karma"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4QqMYJwxiYwloLvbuOE6nLHngXX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4QqMYJwxiYwloLvbuOE6nLHngXX.jpg ",
+      "Name": "Đại Anh Hùng - Running on Karma"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/p4rdCGo6IjeXTBFq5lNINZJSXXp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/p4rdCGo6IjeXTBFq5lNINZJSXXp.jpg ",
+      "Name": "Đại Anh Hùng - Running on Karma"
+    }
+  ],
+  "Links": [],
+  "Intro": "Big là một vũ công trong câu lạc bộ dành cho phái nữ. Những quý bà tới đây sẽ được thưởng thức những màn trình diễn mà kết thúc là một điệu vũ thoát y hoàn toàn. Big giúp đỡ nữ cảnh sát trẻ Lee Fung Yee trong cuộc điều tra một vụ án giết người. Vụ án này có liên quan tới một người Ấn Độ có những năng lực siêu phàm. Nhưng không chỉ có anh ta là người duy nhất có được khả năng đặc biệt, vì Big cũng có thể nhìn thấy nghiệp chướng của con người và khám phá ra những hành động trong quá khứ của họ.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/f4isWsSnV8mtmso9lru75NzYPzK-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/kRm720rD2Ww?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/running-on-karma/",
+  "Name": "Đại Anh Hùng"
+}

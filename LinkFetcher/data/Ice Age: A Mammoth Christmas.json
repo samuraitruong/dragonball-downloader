@@ -1,14 +1,76 @@
 {
-  "Id": "mov77AjM279218",
-  "Url": "https://fsharephim.com/movies/ice-age-a-mammoth-christmas/",
-  "Name": "Ice Age: A Mammoth Christmas",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov77ajm279218/",
-      "Name": "Ice.Age.A.Mammoth.Christmas.2011.mkv",
-      "Url": "https://www.fshare.vn/file/RVRY95NJHHS6",
-      "Size": "549.8 MB",
-      "FileSize": 576507992
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/tv-movie/",
+      "Name": "TV Movie"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kXZk3v0YPKysLj6J9oimbuxpmCW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kXZk3v0YPKysLj6J9oimbuxpmCW.jpg",
+      "Name": "Ice Age: A Mammoth Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/y1mEaUanOhCtUmTyDrdGO1FAsc8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/y1mEaUanOhCtUmTyDrdGO1FAsc8.jpg",
+      "Name": "Ice Age: A Mammoth Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/29jDSAI2aAgmLlOeKTHjSfKyvr5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/29jDSAI2aAgmLlOeKTHjSfKyvr5.jpg",
+      "Name": "Ice Age: A Mammoth Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ft1G2HGLOHW1b2QdkVqSqrvcayR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ft1G2HGLOHW1b2QdkVqSqrvcayR.jpg",
+      "Name": "Ice Age: A Mammoth Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1rJuxwgVGTnx3YmtUmfTJ7uRtTH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1rJuxwgVGTnx3YmtUmfTJ7uRtTH.jpg",
+      "Name": "Ice Age: A Mammoth Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qfPYIIKNTIoCLOWjJl9oG083ocK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qfPYIIKNTIoCLOWjJl9oG083ocK.jpg",
+      "Name": "Ice Age: A Mammoth Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jHnmyY7d4f7BCsiZLPhtwgOOHSd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jHnmyY7d4f7BCsiZLPhtwgOOHSd.jpg",
+      "Name": "Ice Age: A Mammoth Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1rzeYIeErEIwZdfiGousRxg3S8N.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1rzeYIeErEIwZdfiGousRxg3S8N.jpg",
+      "Name": "Ice Age: A Mammoth Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6gLP6ASaC24y1FaRUcVjJjfcyLf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6gLP6ASaC24y1FaRUcVjJjfcyLf.jpg",
+      "Name": "Ice Age: A Mammoth Christmas"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nYVB7pJIR62JrtVwm30zIzd8ty4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nYVB7pJIR62JrtVwm30zIzd8ty4.jpg",
+      "Name": "Ice Age: A Mammoth Christmas"
+    }
+  ],
+  "Links": [],
+  "Intro": "When Sid accidentally destroys Manny&#8217;s heirloom Christmas rock and ends up on Santa&#8217;s naughty list, he leads a hilarious quest to the North Pole to make things right and ends up making things much worse. Now it&#8217;s up to Manny and his prehistoric posse to band together and save Christmas for the entire world!",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/bBKkG54YXVTFCKeZ4a5pmRubTQg-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Dk1XJF2SX4E?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ice-age-a-mammoth-christmas/",
+  "Name": "Ice Age: A Mammoth Christmas"
 }

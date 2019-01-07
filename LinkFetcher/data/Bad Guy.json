@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lr8NjLSMKE9n8dCimOjk22KGWln.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lr8NjLSMKE9n8dCimOjk22KGWln.jpg",
+      "Name": "Bad Guy"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/njhaMENarMPRX4jbDU6yCE7TsbG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/njhaMENarMPRX4jbDU6yCE7TsbG.jpg",
+      "Name": "Bad Guy"
+    }
+  ],
+  "Links": [],
+  "Intro": "A criminal who runs a brothel becomes obsessed with a beautiful college student. When she rejects him he sets her up by introducing her to a loan shark and when she can&#8217;t pay, she is forced into working in the brothel. But when she gets the chance to escape she realizes she cannot return to her former life.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/j4B73v7lzhVT9mNrcmTQmV6iaNh-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/97epBNWlO8c?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/bad-guy/",
+  "Name": "Bad Guy"
+}

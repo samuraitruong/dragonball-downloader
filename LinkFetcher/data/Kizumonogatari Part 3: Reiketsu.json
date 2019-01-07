@@ -1,14 +1,41 @@
 {
-  "Id": "movdkxeyV362585",
-  "Url": "https://fsharephim.com/movies/kizumonogatari-part-3-reiketsu/",
-  "Name": "Kizumonogatari Part 3: Reiketsu",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movdkxeyv362585/",
-      "Name": "kizumonogatari-iii-reiketsu-hen-2017-bluray-phimhd.vn.mp4",
-      "Url": "https://www.fshare.vn/file/2SK82EHX11TS8GD",
-      "Size": "694.14 MB",
-      "FileSize": 727853530
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7BUdAbrd0tN2MJU3Rsfux2mGUce.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7BUdAbrd0tN2MJU3Rsfux2mGUce.jpg",
+      "Name": "Kizumonogatari Part 3: Reiketsu"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mXPdKS8igSzHLCj2Sq2xsHNnWtk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mXPdKS8igSzHLCj2Sq2xsHNnWtk.jpg",
+      "Name": "Kizumonogatari Part 3: Reiketsu"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sYMJf00chOcXHF4O5iPb62UKRt5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sYMJf00chOcXHF4O5iPb62UKRt5.jpg",
+      "Name": "Kizumonogatari Part 3: Reiketsu"
+    }
+  ],
+  "Links": [],
+  "Intro": "With help from Meme Oshino, the apparition specialist, Koyomi defeats the three powerful vampire hunters: Dramaturgy, Episode and Guillotinecutter. Koyomi takes back all the limbs of Kiss-shot Acerola-orion Heart-under-blade in order to become a human again.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/jKJQVWyf2kTsIcC534b7HNrPLQc-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/4nTLr6Uf9Ug?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/kizumonogatari-part-3-reiketsu/",
+  "Name": "Kizumonogatari Part 3: Reiketsu"
 }

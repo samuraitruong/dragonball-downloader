@@ -1,42 +1,80 @@
 {
-  "Id": "movVCIxiu151960",
-  "Url": "https://fsharephim.com/movies/planes/",
-  "Name": "Thế giới máy bay",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movvcixiu151960-3/",
-      "Name": "Planes (2013) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/CSNO48JPP7HNICV",
-      "Size": "1.11 GB",
-      "FileSize": 1188480453
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movvcixiu151960-4/",
-      "Name": "Planes (2013) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/WYV6Z6L8Z4AU5WT",
-      "Size": "1.75 GB",
-      "FileSize": 1874875779
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movvcixiu151960-5/",
-      "Name": "Planes (2013) 1080p Bluray 3D ViE AVC DTS-HD MA7.1-MRC VAV.iso",
-      "Url": "https://www.fshare.vn/file/C7NDO1SMG3UR1KG",
-      "Size": "32.36 GB",
-      "FileSize": 34751381504
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movvcixiu151960/",
-      "Name": "Planes.2013.mkv",
-      "Url": "https://www.fshare.vn/file/T34MF2GAMT",
-      "Size": "1.92 GB",
-      "FileSize": 2063994134
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movvcixiu151960-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/planes",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jUe7RbnkLXGYC9MPhdN9cruy4L0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jUe7RbnkLXGYC9MPhdN9cruy4L0.jpg",
+      "Name": "Thế giới máy bay - Planes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/y35onQ1O9X1I15R0VgveF28qhxF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/y35onQ1O9X1I15R0VgveF28qhxF.jpg",
+      "Name": "Thế giới máy bay - Planes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nNg6mO4phsq6DVHqh4yRTITPsxC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nNg6mO4phsq6DVHqh4yRTITPsxC.jpg",
+      "Name": "Thế giới máy bay - Planes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/knwyFWFr9yFshTpKLiopopqUqbb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/knwyFWFr9yFshTpKLiopopqUqbb.jpg",
+      "Name": "Thế giới máy bay - Planes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3fIVO62CeJ9CclCdMYZ2siDoMyr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3fIVO62CeJ9CclCdMYZ2siDoMyr.jpg",
+      "Name": "Thế giới máy bay - Planes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3MS14RM7NT7dqaRkTx0eajEI23H.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3MS14RM7NT7dqaRkTx0eajEI23H.jpg",
+      "Name": "Thế giới máy bay - Planes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nzzamoHreXQERUFPaMHJEEf4Ex9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nzzamoHreXQERUFPaMHJEEf4Ex9.jpg",
+      "Name": "Thế giới máy bay - Planes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qfRjgK9OLB9sVEaR8AS4xIEUNbu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qfRjgK9OLB9sVEaR8AS4xIEUNbu.jpg",
+      "Name": "Thế giới máy bay - Planes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uhCE4sscf0GlP4WWKRJRzoWxEF1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uhCE4sscf0GlP4WWKRJRzoWxEF1.jpg",
+      "Name": "Thế giới máy bay - Planes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/olGWurembx6kzECJXpLJCpMKXPP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/olGWurembx6kzECJXpLJCpMKXPP.jpg",
+      "Name": "Thế giới máy bay - Planes"
+    }
+  ],
+  "Links": [],
+  "Intro": "Dusty Crophopper là một máy bay chuyên rải phân bón cho cây trồng làm việc tại cánh một đồng ngô và thường xuyên thử tài nhào lộn trên không trong thời gian rãnh rỗi của mình, ước mơ của anh ta là trở thành một tay đua. Giấc mơ của anh ta bị xem là vớ vẫn bởi ông chủ Leadbottom và người bạn thợ máy/xe nâng của mình, Dottie. Tuy nhiên, anh ta được ủng hộ bởi người bạn xe tải nhiên liệu của mình, Chug. Dusty và Chug cùng nhau tập luyện cho vòng loại sắp tới của giải đua Toàn cầu Wings. Vào đêm trước khi diễn ra vòng loại, Dusty đến hỏi một cựu máy bay hải quân sống ẩn dật tên Skipper Riley làm thế nào để bay giỏi nhưng bị Skipper từ chối. Dusty tiến vào vòng loại, mặc dù bị khán giả chế giễu mình là một máy bay rải phân bón, nhưng Dusty cố gắng không quan tâm và tập trung đê hoàn thành phần thi của mình thật tốt.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/c8ALtmmmtofVYOxSJG0S5ZcP2pF-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/YRjztG65XgI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/planes/",
+  "Name": "Thế giới máy bay"
 }

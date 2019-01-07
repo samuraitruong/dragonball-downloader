@@ -1,0 +1,40 @@
+{
+  "Id": "movv7t0sV399366",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v1YnFk3iyGYWpmJZlLCM3yGaZU4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v1YnFk3iyGYWpmJZlLCM3yGaZU4.jpg",
+      "Name": "Marrowbone"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movv7t0sv399366/",
+      "Size": "10.28 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/2JBN37HJXU74",
+      "Name": "1080p"
+    }
+  ],
+  "Intro": "A young man and his four younger siblings, who have kept secret the death of their beloved mother in order to remain together, are plagued by a sinister presence in the sprawling manor in which they live.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/ykn2GWDINcbunWPoNVRQtMaybo7-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/bkCqmAxZXvg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/marrowbone/",
+  "Name": "Marrowbone"
+}

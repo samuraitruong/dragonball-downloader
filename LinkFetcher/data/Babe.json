@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/67jzzA7YqDTR5qIUhAH32cvkf53.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/67jzzA7YqDTR5qIUhAH32cvkf53.jpg",
+      "Name": "Babe"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1tivSvqnr8QegpI9X1fO6Wx87wW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1tivSvqnr8QegpI9X1fO6Wx87wW.jpg",
+      "Name": "Babe"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t0Kax0ugB1L4qtY3PBCqfK27ehZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t0Kax0ugB1L4qtY3PBCqfK27ehZ.jpg",
+      "Name": "Babe"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pwAGwlZWnEmWQ7a2AfvYAoarzCK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pwAGwlZWnEmWQ7a2AfvYAoarzCK.jpg",
+      "Name": "Babe"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g7Bw0zvYqVTV4TjUpsmeYPJJn9b.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g7Bw0zvYqVTV4TjUpsmeYPJJn9b.jpg",
+      "Name": "Babe"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kLqgv1o64zfbgh5kQOdRnWMttfu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kLqgv1o64zfbgh5kQOdRnWMttfu.jpg",
+      "Name": "Babe"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cEuZLWvgfKaBF2hrGlduOqWj0cH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cEuZLWvgfKaBF2hrGlduOqWj0cH.jpg",
+      "Name": "Babe"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2ONkFON8OCfVvBColQh9mbNVoFr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2ONkFON8OCfVvBColQh9mbNVoFr.jpg",
+      "Name": "Babe"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eOl0dCKSvEPWG8EGxLqz7FER3pr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eOl0dCKSvEPWG8EGxLqz7FER3pr.jpg",
+      "Name": "Babe"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4s8FnmZQ7omB5vCea4Y6Ak8BlR1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4s8FnmZQ7omB5vCea4Y6Ak8BlR1.jpg",
+      "Name": "Babe"
+    }
+  ],
+  "Links": [],
+  "Intro": "Babe is a little pig who doesn&#8217;t quite know his place in the world. With a bunch of odd friends, like Ferdinand the duck who thinks he is a rooster and Fly the dog he calls mom, Babe realizes that he has the makings to become the greatest sheep pig of all time, and Farmer Hogget knows it. With the help of the sheep dogs Babe learns that a pig can be anything that he wants to be.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/gN6X3fwPya8pLffk9OEWV3DqBnE-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/tVxeoUtVF0o?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/babe/",
+  "Name": "Babe"
+}

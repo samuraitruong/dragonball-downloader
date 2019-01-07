@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3q7X3UionEpjmCI2Ko2m7lbsEvA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3q7X3UionEpjmCI2Ko2m7lbsEvA.jpg",
+      "Name": "Good Night, and Good Luck."
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zoHgrnMD0j6WqdCBLHiopvq7iJy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zoHgrnMD0j6WqdCBLHiopvq7iJy.jpg",
+      "Name": "Good Night, and Good Luck."
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gFkZFM1iw7KY0BkbRGGZqLhaYkr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gFkZFM1iw7KY0BkbRGGZqLhaYkr.jpg",
+      "Name": "Good Night, and Good Luck."
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nVfUIHxPlNK0pEGrnrnFczcDLae.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nVfUIHxPlNK0pEGrnrnFczcDLae.jpg",
+      "Name": "Good Night, and Good Luck."
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qFYLlpjo58jEdrYLPtxkMlmK5Ws.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qFYLlpjo58jEdrYLPtxkMlmK5Ws.jpg",
+      "Name": "Good Night, and Good Luck."
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gZdq8GfvY199sxOQKNZ7GjE09mQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gZdq8GfvY199sxOQKNZ7GjE09mQ.jpg",
+      "Name": "Good Night, and Good Luck."
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7tyD4L6PZpn6ERvEqYEvyCZnT0z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7tyD4L6PZpn6ERvEqYEvyCZnT0z.jpg",
+      "Name": "Good Night, and Good Luck."
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mZibI1wXJ0sU5dshuNPi138dRiB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mZibI1wXJ0sU5dshuNPi138dRiB.jpg",
+      "Name": "Good Night, and Good Luck."
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6drjnFIqHWIuo70QyulTqXDNxh7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6drjnFIqHWIuo70QyulTqXDNxh7.jpg",
+      "Name": "Good Night, and Good Luck."
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6sk9osCWa9hpF5mFDVz2qv3y3QN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6sk9osCWa9hpF5mFDVz2qv3y3QN.jpg",
+      "Name": "Good Night, and Good Luck."
+    }
+  ],
+  "Links": [],
+  "Intro": "The story of journalist, Edward R Murrow&#8217;s stand against Senator McCarthy&#8217;s anti-communist witch-hunts in the early 1950s.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/2sW2FVIvrYs4NbYKMitjogeFw84-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/7C-578tLIfQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/good-night-and-good-luck/",
+  "Name": "Good Night, and Good Luck."
+}

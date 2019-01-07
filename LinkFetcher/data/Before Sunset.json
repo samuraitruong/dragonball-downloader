@@ -1,0 +1,67 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2Kx2q1GOmYRjxmILEFIusMIGTUc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2Kx2q1GOmYRjxmILEFIusMIGTUc.jpg",
+      "Name": "Before Sunset"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9KdZct0XujoKmJMtBAOK5gMJgoo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9KdZct0XujoKmJMtBAOK5gMJgoo.jpg",
+      "Name": "Before Sunset"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4rzu25ueXLvuNG1zcov7L37MOwr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4rzu25ueXLvuNG1zcov7L37MOwr.jpg",
+      "Name": "Before Sunset"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nEIURFiAyrjzxDwv7LskRr27W4M.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nEIURFiAyrjzxDwv7LskRr27W4M.jpg",
+      "Name": "Before Sunset"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f0lS6dFawoZqrzxzZPl53YoOY4q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f0lS6dFawoZqrzxzZPl53YoOY4q.jpg",
+      "Name": "Before Sunset"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mcuGLIBwJM5pBFojvxefBtxUvwQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mcuGLIBwJM5pBFojvxefBtxUvwQ.jpg",
+      "Name": "Before Sunset"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tNOf61ltTMg8UD1Hi9yQravElFF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tNOf61ltTMg8UD1Hi9yQravElFF.jpg",
+      "Name": "Before Sunset"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fxoqsFKkYMQMaKq9vfVNYJUSJqv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fxoqsFKkYMQMaKq9vfVNYJUSJqv.jpg",
+      "Name": "Before Sunset"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8LreGAwWHDrIBv92Ec987F6d24p.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8LreGAwWHDrIBv92Ec987F6d24p.jpg",
+      "Name": "Before Sunset"
+    }
+  ],
+  "Links": [],
+  "Intro": "Nine years ago two strangers met by chance and spent a night in Vienna that ended before sunrise. They are about to meet for the first time since. Now they have one afternoon to find out if they belong together.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/gycdE1ARByGQcK4fYR2mgpU6OO-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/oI3UuneLcyU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/before-sunset/",
+  "Name": "Before Sunset"
+}

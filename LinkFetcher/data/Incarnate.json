@@ -1,0 +1,49 @@
+{
+  "Id": "movvY79wW241258",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/21dr2suNsOCCfeodUYNggoZiRI7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/21dr2suNsOCCfeodUYNggoZiRI7.jpg",
+      "Name": "Incarnate"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/axnlvkS8RRIfz542BoeXRToGI8A.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/axnlvkS8RRIfz542BoeXRToGI8A.jpg",
+      "Name": "Incarnate"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movvy79ww241258-2/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/incarnate/vietnamese/1500579",
+      "Name": "Viet - Subtitle"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movvy79ww241258/",
+      "Size": "4.3 GB",
+      "FileSize": 4659357955,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/X5LDSJ4NP9WKQRD",
+      "Name": "Incarnate.2016.720p.BluRay.DTS.x264-PFa(t).mkv"
+    }
+  ],
+  "Intro": "An exorcist comes up against an evil from his past when he uses his skills to enter the mind of a nine year old boy.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/3wv9bTEHDFWcLHf8RtaGk4XJ8JJ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/8r2GDSXA-6k?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/incarnate/",
+  "Name": "Incarnate"
+}

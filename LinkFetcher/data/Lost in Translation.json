@@ -1,0 +1,63 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gkbtPw5gyp8exaKw4zXEyH33J1m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gkbtPw5gyp8exaKw4zXEyH33J1m.jpg",
+      "Name": "Lost in Translation"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kdNzNml3byCQi5wqYYuiQMim2CX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kdNzNml3byCQi5wqYYuiQMim2CX.jpg",
+      "Name": "Lost in Translation"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sJlWIGaFzd3r3NSaLWu2vADkjxh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sJlWIGaFzd3r3NSaLWu2vADkjxh.jpg",
+      "Name": "Lost in Translation"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iJP2ogeM5YpZyUOkmCiZ5UXWyBf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iJP2ogeM5YpZyUOkmCiZ5UXWyBf.jpg",
+      "Name": "Lost in Translation"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vqhB0vNb347ShmRpf8yjWP4NgRQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vqhB0vNb347ShmRpf8yjWP4NgRQ.jpg",
+      "Name": "Lost in Translation"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/htEXOKnEgt3RsNuCrJttniYDhyn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/htEXOKnEgt3RsNuCrJttniYDhyn.jpg",
+      "Name": "Lost in Translation"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qsZsEf2IktQSoHe6LNUuWlZkaJE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qsZsEf2IktQSoHe6LNUuWlZkaJE.jpg",
+      "Name": "Lost in Translation"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6ITVHoipvxAS8luzKtHTbPaHLtT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6ITVHoipvxAS8luzKtHTbPaHLtT.jpg",
+      "Name": "Lost in Translation"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b2m7sWEtqWMeqgRzhpjTl29mhrU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b2m7sWEtqWMeqgRzhpjTl29mhrU.jpg",
+      "Name": "Lost in Translation"
+    }
+  ],
+  "Links": [],
+  "Intro": "Two lost souls visiting Tokyo &#8212; the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial &#8212; find an odd solace and pensive freedom to be real in each other&#8217;s company, away from their lives in America.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/5T8VvuFTdaawKLJk34i69Utaw7o-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/6wXjObmziEk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/lost-in-translation/",
+  "Name": "Lost in Translation"
+}

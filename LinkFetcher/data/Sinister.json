@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f8jTjoxYCPi7SSsBc4p4pmadxoT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f8jTjoxYCPi7SSsBc4p4pmadxoT.jpg",
+      "Name": "Sinister"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kXzymt9Ttsf0HI7Xk7w9yyuedvt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kXzymt9Ttsf0HI7Xk7w9yyuedvt.jpg",
+      "Name": "Sinister"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t5DVAwff34jZ3u0nn78iUyxPexi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t5DVAwff34jZ3u0nn78iUyxPexi.jpg",
+      "Name": "Sinister"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/c0r8OMoVVxqi7rcDFPLFuxwWjfj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/c0r8OMoVVxqi7rcDFPLFuxwWjfj.jpg",
+      "Name": "Sinister"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9Qrjt865qfG4YKdTRku2JJFkA36.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9Qrjt865qfG4YKdTRku2JJFkA36.jpg",
+      "Name": "Sinister"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m1fConiirTI8Y7QaC3mUfbhkgTq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m1fConiirTI8Y7QaC3mUfbhkgTq.jpg",
+      "Name": "Sinister"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lAdRfK0Clun517bq5V0meoIx7SG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lAdRfK0Clun517bq5V0meoIx7SG.jpg",
+      "Name": "Sinister"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a0lV2kClUPJVjmmfN8WMYX5FldC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a0lV2kClUPJVjmmfN8WMYX5FldC.jpg",
+      "Name": "Sinister"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eTl7VbjHFbe0AjBqSjRWMbtbOi9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eTl7VbjHFbe0AjBqSjRWMbtbOi9.jpg",
+      "Name": "Sinister"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jHD6WTK2fEYmWM0bSlTN0adstN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jHD6WTK2fEYmWM0bSlTN0adstN.jpg",
+      "Name": "Sinister"
+    }
+  ],
+  "Links": [],
+  "Intro": "Found footage helps a true-crime novelist realize how and why a family was murdered in his new home, though his discoveries put his entire family in the path of a supernatural entity.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/hrRYY7FcRc46Ue7h9jcKiW1xqJ3-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/_kbQAJR9YWQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/sinister/",
+  "Name": "Sinister"
+}

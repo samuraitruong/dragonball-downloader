@@ -1,0 +1,780 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4wSpquXTrHAWb3xdze649vs2kaP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4wSpquXTrHAWb3xdze649vs2kaP.jpg",
+      "Name": "A Gentleman&#8217;s Dignity"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dsmQWjpOgLX7FtPk300LLU4XZeH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dsmQWjpOgLX7FtPk300LLU4XZeH.jpg",
+      "Name": "A Gentleman&#8217;s Dignity"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/scmPMRMfduqK032XrAAlECN4Ax1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/scmPMRMfduqK032XrAAlECN4Ax1.jpg",
+      "Name": "A Gentleman&#8217;s Dignity"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bZtrVDbPMWuSCx9z51zgjFa0VNA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bZtrVDbPMWuSCx9z51zgjFa0VNA.jpg",
+      "Name": "A Gentleman&#8217;s Dignity"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/157itu3TX76vnSHTtSHR3q4ea0o.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/157itu3TX76vnSHTtSHR3q4ea0o.jpg",
+      "Name": "A Gentleman&#8217;s Dignity"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bJTvtpnwIM9Kli0WWDp5wNvEcs7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bJTvtpnwIM9Kli0WWDp5wNvEcs7.jpg",
+      "Name": "A Gentleman&#8217;s Dignity"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/p6Iu3ntrVRqbtdSXOiHiAnm3SKW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/p6Iu3ntrVRqbtdSXOiHiAnm3SKW.jpg",
+      "Name": "A Gentleman&#8217;s Dignity"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fqbfC5P3MUVJWhJn81S2mJR7FCJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fqbfC5P3MUVJWhJn81S2mJR7FCJ.jpg",
+      "Name": "A Gentleman&#8217;s Dignity"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hdCUA18ia6hwZhcT3R5cQVh2jXg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hdCUA18ia6hwZhcT3R5cQVh2jXg.jpg",
+      "Name": "A Gentleman&#8217;s Dignity"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fD81kZvKR8q0OSwnMxELwQhTKwO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fD81kZvKR8q0OSwnMxELwQhTKwO.jpg",
+      "Name": "A Gentleman&#8217;s Dignity"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x1/",
+      "Name": "Episode One"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x2/",
+      "Name": "Episode Two"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x3/",
+      "Name": "Episode Three"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x4/",
+      "Name": "Episode Four"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x5/",
+      "Name": "Episode Five"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x6/",
+      "Name": "Episode Six"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x7/",
+      "Name": "Episode Seven"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x8/",
+      "Name": "Episode Eight"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x9/",
+      "Name": "Episode Nine"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x10/",
+      "Name": "Episode Ten"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x11/",
+      "Name": "Episode Eleven"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x12/",
+      "Name": "Episode Twelve"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x13/",
+      "Name": "Episode Thirteen"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x14/",
+      "Name": "Episode Fourteen"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x15/",
+      "Name": "Episode Fifteen"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x16/",
+      "Name": "Episode Sixteen"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x17/",
+      "Name": "Episode Seventeen"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x18/",
+      "Name": "Episode Eighteen"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x19/",
+      "Name": "Episode Nineteen"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x20/",
+      "Name": "Episode Twenty"
+    }
+  ],
+  "Intro": "A Gentleman&#8217;s Dignity is a 2012 South Korean romantic comedy television series starring Jang Dong-gun, Kim Ha-neul, Kim Min-jong, Kim Soo-ro, and Lee Jong-hyuk. It aired on SBS from May 26 to August 12, 2012 on Saturdays and Sundays at 21:55 for 20 episodes.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/xbE1HEWzImq30afEpersj5dt9H3-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": "tv4GM75C885523",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1xLrImIEswHJr0VE2E8PppqkdhM.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1xLrImIEswHJr0VE2E8PppqkdhM.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;1"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885523/",
+              "Size": "1.5 GB",
+              "FileSize": 1658332128,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TWMYH26YDT",
+              "Name": "A.Gentleman's.Dignity.E01.FullHD.mkv"
+            }
+          ],
+          "Intro": "Seo Yi Soo and Kim Do Jin keep meeting each other in the least expected ways and places. Do Jin deduces Yi Soo is in love with Tae San, a mutual friend.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x1/",
+          "Name": "A Gentleman's Dignity 1x1"
+        },
+        {
+          "Id": "tv4GM75C885533",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/q9JmN4Ov9gdvLIJwRRB6UvUz2Xy.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/q9JmN4Ov9gdvLIJwRRB6UvUz2Xy.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;10"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885533/",
+              "Size": "1.6 GB",
+              "FileSize": 1676282872,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TNV2S7CVCT",
+              "Name": "A.Gentleman's.Dignity.E10.FullHD.mkv"
+            }
+          ],
+          "Intro": "In an unexpected twist of events, Yi Soo is chasing after Do Jin in order for him to accept her apology.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x10/",
+          "Name": "A Gentleman's Dignity 1x10"
+        },
+        {
+          "Id": "tv4GM75C885532",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/x81iZ1B6cI2AWU9OjiiLxxnuPT8.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/x81iZ1B6cI2AWU9OjiiLxxnuPT8.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;11"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885532/",
+              "Size": "1.6 GB",
+              "FileSize": 1677167979,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T0N3HDCAMT",
+              "Name": "A.Gentleman's.Dignity.E11.FullHD.mkv"
+            }
+          ],
+          "Intro": "Do Jin creates a &#8220;one-sided love&#8221; checklist for Yi Soo to complete so that they&#8217;re even.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x11/",
+          "Name": "A Gentleman's Dignity 1x11"
+        },
+        {
+          "Id": "tv4GM75C885534",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bCrpiF0GUIs3CH79YYEkwGkkbui.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bCrpiF0GUIs3CH79YYEkwGkkbui.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;12"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885534/",
+              "Size": "1.5 GB",
+              "FileSize": 1622154052,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TZZ5RM5F7T",
+              "Name": "A.Gentleman's.Dignity.E12.FullHD.mkv"
+            }
+          ],
+          "Intro": "Tae San and Se Ra get into their biggest fight yet, which might mean the end of their relationship for good.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x12/",
+          "Name": "A Gentleman's Dignity 1x12"
+        },
+        {
+          "Id": "tv4GM75C885536",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/yuI7x14KEoLXUMHOFZ620mizlWK.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/yuI7x14KEoLXUMHOFZ620mizlWK.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;13"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885536/",
+              "Size": "1.5 GB",
+              "FileSize": 1625245405,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/THPPG0M8MT",
+              "Name": "A.Gentleman's.Dignity.E13.FullHD.mkv"
+            }
+          ],
+          "Intro": "The guys decide they can&#8217;t ignore Colin anymore and set out to send him back to Japan.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x13/",
+          "Name": "A Gentleman's Dignity 1x13"
+        },
+        {
+          "Id": "tv4GM75C885535",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qGgVycyVQxo6AddVBoIPTn1M4Kd.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qGgVycyVQxo6AddVBoIPTn1M4Kd.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;14"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885535/",
+              "Size": "1.6 GB",
+              "FileSize": 1702052617,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TQKWMQB0TT",
+              "Name": "A.Gentleman's.Dignity.E14.FullHD.mkv"
+            }
+          ],
+          "Intro": "Everyone is curious as to who Colin&#8217;s biological father is, creating a mess of misunderstandings and accusations between the guys and their significant others.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x14/",
+          "Name": "A Gentleman's Dignity 1x14"
+        },
+        {
+          "Id": "tv4GM75C885538",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xZWnPdBWoRzmsPuqqS4YsmfdJI3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xZWnPdBWoRzmsPuqqS4YsmfdJI3.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;15"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885538/",
+              "Size": "1.5 GB",
+              "FileSize": 1661691577,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TJJ6MWGSBT",
+              "Name": "A.Gentleman's.Dignity.E15.FullHD.mkv"
+            }
+          ],
+          "Intro": "Jung Rok, Yoon and Tae San are all determined to be good uncles to Colin while unknowingly embarrassing him in the process.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x15/",
+          "Name": "A Gentleman's Dignity 1x15"
+        },
+        {
+          "Id": "tv4GM75C885539",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1BwbLY7WfGgdz1cKY6VbhItLur2.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1BwbLY7WfGgdz1cKY6VbhItLur2.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;16"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885539/",
+              "Size": "1.6 GB",
+              "FileSize": 1698918484,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T82JK8ZQFT",
+              "Name": "A.Gentleman's.Dignity.E16.FullHD.mkv"
+            }
+          ],
+          "Intro": "Yi Soo struggles to come to terms with Do Jin&#8217;s situation; meanwhile she becomes Colin&#8217;s new homeroom teacher.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x16/",
+          "Name": "A Gentleman's Dignity 1x16"
+        },
+        {
+          "Id": "tv4GM75C885540",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/89qRInim2fYgGYQvmkoBjytSMQ6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/89qRInim2fYgGYQvmkoBjytSMQ6.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;17"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885540/",
+              "Size": "1.6 GB",
+              "FileSize": 1704953811,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TSG9BX631T",
+              "Name": "A.Gentleman's.Dignity.E17.FullHD.mkv"
+            }
+          ],
+          "Intro": "Yi Soo puts all her faith into Do Jin returning to her, one last time.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x17/",
+          "Name": "A Gentleman's Dignity 1x17"
+        },
+        {
+          "Id": "tv4GM75C885537",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oAXnx262JwBX0M8iTQm8zX0KBpB.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oAXnx262JwBX0M8iTQm8zX0KBpB.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;18"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885537/",
+              "Size": "1.6 GB",
+              "FileSize": 1712638133,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TKVM8XFQVT",
+              "Name": "A.Gentleman's.Dignity.E18.FullHD.mkv"
+            }
+          ],
+          "Intro": "Yoon finally removes his ring, admitting his feelings for Mae Ahri. Angry, Tae San disowns them both, prompting their friends to comfort and cheer them on separately. Min Sook’s mistrust of Jung Rok will never fade so she sincerely asks for a divorce while Mae Ahri and Yoon officially embark on their first date. Do Jin charms Yi Soo’s fellow teachers by treating them to dinner, ending the night awkwardly listening to provocative music as their feelings for each other continue to grow.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x18/",
+          "Name": "A Gentleman's Dignity 1x18"
+        },
+        {
+          "Id": "tv4GM75C885541",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2WQLqJOfAYJCKY9L1d0HyifEHBH.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2WQLqJOfAYJCKY9L1d0HyifEHBH.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;19"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885541/",
+              "Size": "1.6 GB",
+              "FileSize": 1712054586,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T13TX3699T",
+              "Name": "A.Gentleman's.Dignity.E19.FullHD.mkv"
+            }
+          ],
+          "Intro": "So Tae San finally agrees for Yoon and Meari to be together, but with the condition that they must get married. Meahri and Yoon agree with Tae San to get married. Meanwhile Rok and Min Sook file their divorce. Min Sook now single decides to throw a bacheloratte party for Meahri and the the F44 end up crashing the party.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x19/",
+          "Name": "A Gentleman's Dignity 1x19"
+        },
+        {
+          "Id": "tv4GM75C885524",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/yjqSoKfXvWmXcayk0XMVlyXl31f.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/yjqSoKfXvWmXcayk0XMVlyXl31f.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;2"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885524/",
+              "Size": "1.5 GB",
+              "FileSize": 1604965666,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T0PDBHC6JT",
+              "Name": "A.Gentleman's.Dignity.E02.FullHD.mkv"
+            }
+          ],
+          "Intro": "Because of Me Ah Ri&#8217;s, Tae San&#8217;s younger sister, meddling, Yi Soo is forced to make a false declaration of love to Do Jin in front of Tae San.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x2/",
+          "Name": "A Gentleman's Dignity 1x2"
+        },
+        {
+          "Id": "tv4GM75C885542",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lg45uLxFyuDOdIfgiuCzuRnSxWv.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lg45uLxFyuDOdIfgiuCzuRnSxWv.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;20"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885542/",
+              "Size": "1.6 GB",
+              "FileSize": 1739408716,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TNN2G10AAT",
+              "Name": "A.Gentleman's.Dignity.E20.FullHD.mkv"
+            }
+          ],
+          "Intro": "Yoon and Meari&#8217;s wedding. Jungrok try to win Minsook back. Dojin’s proposal to Yisoo. Sera fainted because she&#8217;s pregnant but will not get married until she delivered the baby.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x20/",
+          "Name": "A Gentleman's Dignity 1x20"
+        },
+        {
+          "Id": "tv4GM75C885525",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ffI8veKtZBVoi5mbci9gThA2VY9.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ffI8veKtZBVoi5mbci9gThA2VY9.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;3"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885525/",
+              "Size": "1.5 GB",
+              "FileSize": 1659994486,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TB1PW282JT",
+              "Name": "A.Gentleman's.Dignity.E03.FullHD.mkv"
+            }
+          ],
+          "Intro": "After Yi Soo makes the false declaration of love to Do Jin, she ignores his calls and messages. Do Jin declares that he will have one-sided love towards Yi Soo.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x3/",
+          "Name": "A Gentleman's Dignity 1x3"
+        },
+        {
+          "Id": "tv4GM75C885526",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oJcKuCEB9Or1aTQlz2AsPvbYNKJ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oJcKuCEB9Or1aTQlz2AsPvbYNKJ.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;4"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885526/",
+              "Size": "1.6 GB",
+              "FileSize": 1684532248,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/THNV60VR7T",
+              "Name": "A.Gentleman's.Dignity.E04.FullHD.mkv"
+            }
+          ],
+          "Intro": "Jung Rok swallows his wedding ring. Yoon accidentally lets Do Jin know he likes Mae Ri. Se Ra, after seeing Tae San&#8217;s yearbook photo on Yi Soo&#8217;s possession, realized the man Yi Soo likes is Tae San.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x4/",
+          "Name": "A Gentleman's Dignity 1x4"
+        },
+        {
+          "Id": "tv4GM75C885527",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ebwuNzx8gpHuAmxc9EBQD4AHvO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ebwuNzx8gpHuAmxc9EBQD4AHvO.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;5"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885527/",
+              "Size": "1.6 GB",
+              "FileSize": 1665426800,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TCAV4MWXXT",
+              "Name": "A.Gentleman's.Dignity.E05.FullHD.mkv"
+            }
+          ],
+          "Intro": "Se Ra catches wind of Yi Soo&#8217;s feelings for Tae San and tries to get her to admit it.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x5/",
+          "Name": "A Gentleman's Dignity 1x5"
+        },
+        {
+          "Id": "tv4GM75C885528",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/iuZFTAAAAFHk2IdGjJq0u3IGqzX.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/iuZFTAAAAFHk2IdGjJq0u3IGqzX.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;6"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885528/",
+              "Size": "1.6 GB",
+              "FileSize": 1664961124,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TPD711TJNT",
+              "Name": "A.Gentleman's.Dignity.E06.FullHD.mkv"
+            }
+          ],
+          "Intro": "Because of her jealousy, Se Ra reveals to Tae San who is Yi Soo&#8217;s unknown crush. Do Jin kisses Yi Soo.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x6/",
+          "Name": "A Gentleman's Dignity 1x6"
+        },
+        {
+          "Id": "tv4GM75C885529",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/eSnWHb4lblstVZ9qZrxxphOr1VG.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/eSnWHb4lblstVZ9qZrxxphOr1VG.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;7"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885529/",
+              "Size": "1.6 GB",
+              "FileSize": 1686387486,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/TZ36QNMXAT",
+              "Name": "A.Gentleman's.Dignity.E07.FullHD.mkv"
+            }
+          ],
+          "Intro": "Tae San tells Yi Soo he likes Se Ra a lot. Se Ra tells Yi Soo she knows she likes Tae San. Yi Soo tells Do Jin she will start dating younger guys. Yoon is jealous because he keeps seeing Maeahri with Colin.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x7/",
+          "Name": "A Gentleman's Dignity 1x7"
+        },
+        {
+          "Id": "tv4GM75C885530",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/j8NVoWRIFaHsEVqXwHSuHSWIIhs.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/j8NVoWRIFaHsEVqXwHSuHSWIIhs.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;8"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885530/",
+              "Size": "1.6 GB",
+              "FileSize": 1706386903,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T61ZBWFSYT",
+              "Name": "A.Gentleman's.Dignity.E08.FullHD.mkv"
+            }
+          ],
+          "Intro": "Me Ah Ri publicly confesses her feelings for Yoon, putting Tae San and Yoon in an awkward position.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x8/",
+          "Name": "A Gentleman's Dignity 1x8"
+        },
+        {
+          "Id": "tv4GM75C885531",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1rhssX8zy1jmiGD4xsm9jMHRFaH.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1rhssX8zy1jmiGD4xsm9jMHRFaH.jpg",
+              "Name": "A Gentleman&#8217;s Dignity 1&#215;9"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tv4gm75c885531/",
+              "Size": "1.5 GB",
+              "FileSize": 1656654802,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/T5TX5W4F4T",
+              "Name": "A.Gentleman's.Dignity.E09.FullHD.mkv"
+            }
+          ],
+          "Intro": "Yi Soo wears the pink shoes given to her by Do Jin. He&#8217;s happy when he sees her wearing them until he hears what he thinks it&#8217;s her second false declaration of love, which hurts and upsets him. Because of this, he doesn&#8217;t want to see her again. Once Yi Soo is back home, as the bubbles in her fantasy break like glass, she realizes she has fallen for Do Jin.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/a-gentlemans-dignity-1x9/",
+          "Name": "A Gentleman's Dignity 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 May. 26, 2012"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/a-gentlemans-dignity/",
+  "Name": "A Gentleman&#8217;s Dignity"
+}

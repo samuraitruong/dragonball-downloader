@@ -1,14 +1,47 @@
 {
   "Id": "movhyuY7235114",
-  "Url": "https://fsharephim.com/movies/destino/",
-  "Name": "Destino",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z73HND8Yt40kGPhOCHqgei0TWPm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z73HND8Yt40kGPhOCHqgei0TWPm.jpg",
+      "Name": "Destino"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yGNTLn8FE50mqgX2uUAeZ6npzjw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yGNTLn8FE50mqgX2uUAeZ6npzjw.jpg",
+      "Name": "Destino"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/p1FSPjAtVx5J4JUgXAPWvfo6PRG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/p1FSPjAtVx5J4JUgXAPWvfo6PRG.jpg",
+      "Name": "Destino"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/filOQ1T48RYaszmQq4qwjjxn5X9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/filOQ1T48RYaszmQq4qwjjxn5X9.jpg",
+      "Name": "Destino"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movhyuy7235114/",
-      "Name": "Destino 2003 1080p WEBRip.mp4",
-      "Url": "https://www.fshare.vn/file/RHTGJ3J72GSEB23",
       "Size": "92.38 MB",
-      "FileSize": 96865052
+      "FileSize": 96865052,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/RHTGJ3J72GSEB23",
+      "Name": "Destino 2003 1080p WEBRip.mp4"
     }
-  ]
+  ],
+  "Intro": "To a song of love lost and rediscovered, a woman sees and undergoes surreal transformations. From the melting clocks and hourglass sand, to the figure rendered in strips, to the character covered in eyeballs, the style and themes of Dalí are clearly recognizable throughout. Destino is an animated short film released in 2003 by The Walt Disney Company. Destino is unique in that its production originally began in 1945, 58 years before its eventual completion. The project was originally a collaboration between Walt Disney and Spanish Surrealist painter Salvador Dalí, and features music written by Mexican songwriter Armando Dominguez and performed by Dora Luz. It was included in the Animation Show of Shows in 2003.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/qZk3X29Q8mQIkIssybVcFQ6Qjeo-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/destino/",
+  "Name": "Destino"
 }

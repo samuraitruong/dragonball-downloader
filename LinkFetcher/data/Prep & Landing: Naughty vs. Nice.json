@@ -1,21 +1,57 @@
 {
-  "Id": "movr5HEpH88096",
-  "Url": "https://fsharephim.com/movies/prep-landing-naughty-vs-nice/",
-  "Name": "Prep & Landing: Naughty vs. Nice",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movr5heph88096/",
-      "Name": "Prep.And.Landing.Naughty.Vs.Nice.2011.mkv",
-      "Url": "https://www.fshare.vn/file/TCQJ7XHZ3T",
-      "Size": "433.55 MB",
-      "FileSize": 454615009
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movr5heph88096-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/prep-and-landing-naught-vs-nice",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/os9MrWwCzIH8qdtaOLHrkK4dBAb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/os9MrWwCzIH8qdtaOLHrkK4dBAb.jpg",
+      "Name": "Prep &#038; Landing: Naughty vs. Nice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zLMvhHVRbmS1OdEbpatE3QAktpj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zLMvhHVRbmS1OdEbpatE3QAktpj.jpg",
+      "Name": "Prep &#038; Landing: Naughty vs. Nice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AuUgmrrpZS4G2vEhsYmznELjZ9v.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AuUgmrrpZS4G2vEhsYmznELjZ9v.jpg",
+      "Name": "Prep &#038; Landing: Naughty vs. Nice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kfLe26ETtYXT6U1bh7yfJOdJB4S.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kfLe26ETtYXT6U1bh7yfJOdJB4S.jpg",
+      "Name": "Prep &#038; Landing: Naughty vs. Nice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uScDR8wh4QCgn38EGn5mi9veaa2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uScDR8wh4QCgn38EGn5mi9veaa2.jpg",
+      "Name": "Prep &#038; Landing: Naughty vs. Nice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8UGOaiLOriRJxACiGFphG0V78yJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8UGOaiLOriRJxACiGFphG0V78yJ.jpg",
+      "Name": "Prep &#038; Landing: Naughty vs. Nice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/80hJrJVv0mClhEAIkGDoziiu67y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/80hJrJVv0mClhEAIkGDoziiu67y.jpg",
+      "Name": "Prep &#038; Landing: Naughty vs. Nice"
+    }
+  ],
+  "Links": [],
+  "Intro": "Lanny and Wayne are at it again! With the Big 2-5 fast approaching, Wayne and Lanny must race to recover classified North Pole technology which has fallen into the hands of a computer-hacking Naughty Kid! Desperate to prevent Christmas from descending into chaos, Wayne seeks out the foremost Naughty Kid expert to aid in the mission: a bombastic member of the Coal Bucket Brigade who also happens to be his estranged brother, Noel.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/5UFtW8yGTLegcUauxw4LnaYb4XL-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/prep-landing-naughty-vs-nice/",
+  "Name": "Prep & Landing: Naughty vs. Nice"
 }

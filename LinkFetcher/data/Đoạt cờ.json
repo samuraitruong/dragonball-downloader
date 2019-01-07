@@ -1,28 +1,56 @@
 {
-  "Id": "movV5Wxmd300602",
-  "Url": "https://fsharephim.com/movies/capture-the-flag/",
-  "Name": "Đoạt cờ",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movv5wxmd300602/",
-      "Name": "Capture.The.Flag.2015.ViE.720p.BluRay.DD5.1.x264-EbP.mkv",
-      "Url": "https://www.fshare.vn/file/XDP9S1FRAVAIE8N",
-      "Size": "4.3 GB",
-      "FileSize": 4614977075
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movv5wxmd300602-2/",
-      "Name": "Capture.The.Flag.2015.720p.BRRip.SUB-FCINE.net.mkv",
-      "Url": "https://www.fshare.vn/file/RKBH7AIHNH8D",
-      "Size": "960.95 MB",
-      "FileSize": 1007624726
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movv5wxmd300602-3/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/capture-the-flag",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/39UqyPSUEzBQMpkkMpu0TDMECEA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/39UqyPSUEzBQMpkkMpu0TDMECEA.jpg",
+      "Name": "Đoạt cờ - Capture the Flag"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lvNZwKr35vDKXgPa3JM2iznbrqh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lvNZwKr35vDKXgPa3JM2iznbrqh.jpg",
+      "Name": "Đoạt cờ - Capture the Flag"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AkRmIiSuw18q6PE6gLCF1DkpXJk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AkRmIiSuw18q6PE6gLCF1DkpXJk.jpg",
+      "Name": "Đoạt cờ - Capture the Flag"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fYKf24F0E3nQ1cYfhD89Zh63Cr3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fYKf24F0E3nQ1cYfhD89Zh63Cr3.jpg",
+      "Name": "Đoạt cờ - Capture the Flag"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9fh9kS2GrJg8YV34nId4MCha5Ye.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9fh9kS2GrJg8YV34nId4MCha5Ye.jpg",
+      "Name": "Đoạt cờ - Capture the Flag"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oith8wcWBTz872ZwPUobaRLCq8g.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oith8wcWBTz872ZwPUobaRLCq8g.jpg",
+      "Name": "Đoạt cờ - Capture the Flag"
+    }
+  ],
+  "Links": [],
+  "Intro": "Mike Goldwing, là một cậu bé can đảm, 12 tuổi , là con trai và cháu trai của phi hành gia NASA. Ông nội của cậu là Frank, là 1 phi hành gia đáng kính, ông đã tách khỏi sống cuộc sống riêng biệt với gia đình mình sau khi bỏ lỡ chuyến phi hành lên mặt trăng cùng Neil Armstrong và Buzz Aldrin trên chiếc Apollo XI.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/vHzwrSVDnu6Uza6GL0WYzkeXHS1-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/9P8FipU-EZY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/capture-the-flag/",
+  "Name": "Đoạt cờ"
 }

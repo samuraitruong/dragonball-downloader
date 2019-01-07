@@ -1,28 +1,101 @@
 {
   "Id": "movDt49NP10010",
-  "Url": "https://fsharephim.com/movies/brother-bear-2/",
-  "Name": "Anh Em Nhà Gấu 2",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zhMiJmPuX2o2bbXWWZNUgVbw3OM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zhMiJmPuX2o2bbXWWZNUgVbw3OM.jpg",
+      "Name": "Anh Em Nhà Gấu 2 - Brother Bear 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qVSYnP2Y8mcazWKjQtNtjckltvo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qVSYnP2Y8mcazWKjQtNtjckltvo.jpg",
+      "Name": "Anh Em Nhà Gấu 2 - Brother Bear 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wYfJPwPlpZb2ujs0qci610vOeLS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wYfJPwPlpZb2ujs0qci610vOeLS.jpg",
+      "Name": "Anh Em Nhà Gấu 2 - Brother Bear 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kCfz2qpcIyzIc0EdC6m2xc10Ma8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kCfz2qpcIyzIc0EdC6m2xc10Ma8.jpg",
+      "Name": "Anh Em Nhà Gấu 2 - Brother Bear 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tWY8BLU8TIAHSCYWGurH8v1mSUf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tWY8BLU8TIAHSCYWGurH8v1mSUf.jpg",
+      "Name": "Anh Em Nhà Gấu 2 - Brother Bear 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zDosZHzJK7asctppsDS7C6WQBDZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zDosZHzJK7asctppsDS7C6WQBDZ.jpg",
+      "Name": "Anh Em Nhà Gấu 2 - Brother Bear 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9mYo31mrJ20DBXisyk8TkQ9AZ24.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9mYo31mrJ20DBXisyk8TkQ9AZ24.jpg",
+      "Name": "Anh Em Nhà Gấu 2 - Brother Bear 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uL9e0vZwnCnGN1AWJXH1GmQg9iM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uL9e0vZwnCnGN1AWJXH1GmQg9iM.jpg",
+      "Name": "Anh Em Nhà Gấu 2 - Brother Bear 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/801d42WRzMIEQ09wGfFfZSG6FTC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/801d42WRzMIEQ09wGfFfZSG6FTC.jpg",
+      "Name": "Anh Em Nhà Gấu 2 - Brother Bear 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uiKYHV5uTD5q2mrt5POVjUEi6xV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uiKYHV5uTD5q2mrt5POVjUEi6xV.jpg",
+      "Name": "Anh Em Nhà Gấu 2 - Brother Bear 2"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movdt49np10010/",
-      "Name": "1080p",
-      "Url": "https://www.fshare.vn/file/RHTE8OFWWLZW",
       "Size": "4.37 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/RHTE8OFWWLZW",
+      "Name": "1080p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movdt49np10010-2/",
-      "Name": "1080p",
-      "Url": "http://4share.vn/f/5164666463646064/Brother.Bear.2.2006.1080p.BluRay.x264-VETO.mkv.file",
       "Size": "4.37 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://4share.vn/f/5164666463646064/Brother.Bear.2.2006.1080p.BluRay.x264-VETO.mkv.file",
+      "Name": "1080p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movdt49np10010-3/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/brother-bear-2/vietnamese/694585",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/brother-bear-2/vietnamese/694585",
+      "Name": "Viet - Subtitle"
     }
-  ]
+  ],
+  "Intro": "Cách đây từ rất lâu, khi Trái Đất vừa mới thoát ra khỏi Kỉ Băng hà, có ba anh em nọ là thợ săn tại vùng đất là châu Mĩ ngày nay. Sau khi người anh cả Sitka (D. B. Sweeney) bị gấu giết chết, ngươi em út tính khí bốc đồng Kenai (Joaquin Phoenix) đã giết những con gấu để trả thù, nhưng cậu đã bị Những Linh Hồn Lớn biến thành một con gấu. Denahi (Jason Raize), người anh thứ hai, đã bắt gặp chú gấu này và với ý nghĩ rằng nó đã giết chết Kenai, anh đã truy đuổi nó để trả thù. Anh em săn đuổi nhau, và cơ hội sống sót duy nhất cho Kenai là phải kết bạn với kẻ thù truyền kiếp của mình là một chú gấu xám Bắc Mĩ con tên là Koda (Jeremy Suarez). Và trong hành trình đó, chính Koda đã cho Kenai thấy ý nghĩ thực sự của tình anh em&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/msZSTfilEF6hw47HTuf5AeXAO8R-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/BHCLOiotTA8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/brother-bear-2/",
+  "Name": "Anh Em Nhà Gấu 2"
 }

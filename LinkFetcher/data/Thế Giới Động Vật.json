@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yxx8sL7RenKr7yf7JqaXa21AenZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yxx8sL7RenKr7yf7JqaXa21AenZ.jpg ",
+      "Name": "Thế Giới Động Vật - Animal World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/x70w8HY7mYiHCL1nYpwdBrxhlZU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/x70w8HY7mYiHCL1nYpwdBrxhlZU.jpg ",
+      "Name": "Thế Giới Động Vật - Animal World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tQahfiUjOFPSDCfJ0vc4apVIQGp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tQahfiUjOFPSDCfJ0vc4apVIQGp.jpg ",
+      "Name": "Thế Giới Động Vật - Animal World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pR9953zPrKQiQajW5bhy7q7D7Y2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pR9953zPrKQiQajW5bhy7q7D7Y2.jpg ",
+      "Name": "Thế Giới Động Vật - Animal World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4Nf9ORn4P9l5mJ3xJt7lPLdcRsG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4Nf9ORn4P9l5mJ3xJt7lPLdcRsG.jpg ",
+      "Name": "Thế Giới Động Vật - Animal World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2j3nmLfPZlciCGFKxPrrwuR9Ta.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2j3nmLfPZlciCGFKxPrrwuR9Ta.jpg ",
+      "Name": "Thế Giới Động Vật - Animal World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eAZi8scGcXSLqF4SkQ0XflXb32c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eAZi8scGcXSLqF4SkQ0XflXb32c.jpg ",
+      "Name": "Thế Giới Động Vật - Animal World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/85b19LAlpm3PiA77jUGPibcrpM8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/85b19LAlpm3PiA77jUGPibcrpM8.jpg ",
+      "Name": "Thế Giới Động Vật - Animal World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tcA5Rnc8GKRKgZXqS6bRLFAfi2T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tcA5Rnc8GKRKgZXqS6bRLFAfi2T.jpg ",
+      "Name": "Thế Giới Động Vật - Animal World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qsimYNbLnak0QAHK3sopWzyW8H7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qsimYNbLnak0QAHK3sopWzyW8H7.jpg ",
+      "Name": "Thế Giới Động Vật - Animal World"
+    }
+  ],
+  "Links": [],
+  "Intro": "Thế Giới Động Vật (Animal World) được cải biên từ tác phẩm truyện tranh Ultimate Survivor Kaiji(Gambling Apocalypse Kaiji) của tác giả Nobuyuki Fukumoto.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/10/kxc25B05Gq4CbCoWbyTFf9iF0wn-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/gLJAQuyuYkw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/animal-world/",
+  "Name": "Thế Giới Động Vật"
+}

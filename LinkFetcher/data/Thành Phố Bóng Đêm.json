@@ -1,0 +1,62 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rIWui0S2ugwTWlhna6CTS3RYW9q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rIWui0S2ugwTWlhna6CTS3RYW9q.jpg",
+      "Name": "Thành Phố Bóng Đêm - Dark City"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fmzrLYMgCXUXqantrCSVrBfewTS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fmzrLYMgCXUXqantrCSVrBfewTS.jpg",
+      "Name": "Thành Phố Bóng Đêm - Dark City"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fO8VBEDR8Evkmh0pxPU7RRzkOaT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fO8VBEDR8Evkmh0pxPU7RRzkOaT.jpg",
+      "Name": "Thành Phố Bóng Đêm - Dark City"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7yYmqjdI5I3bY7wGF0iJ3dsHuoM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7yYmqjdI5I3bY7wGF0iJ3dsHuoM.jpg",
+      "Name": "Thành Phố Bóng Đêm - Dark City"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ej2RMrBhHu98dOKsqECk5MgeWZ8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ej2RMrBhHu98dOKsqECk5MgeWZ8.jpg",
+      "Name": "Thành Phố Bóng Đêm - Dark City"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oOLMi6QLCuCtAwArZI5fjVCoGHt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oOLMi6QLCuCtAwArZI5fjVCoGHt.jpg",
+      "Name": "Thành Phố Bóng Đêm - Dark City"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ww0mhQpsNmLL9SOuSozwxJKtENS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ww0mhQpsNmLL9SOuSozwxJKtENS.jpg",
+      "Name": "Thành Phố Bóng Đêm - Dark City"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hE3Tzaf50FfeyuQ3BDKc4dMq8ev.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hE3Tzaf50FfeyuQ3BDKc4dMq8ev.jpg",
+      "Name": "Thành Phố Bóng Đêm - Dark City"
+    }
+  ],
+  "Links": [],
+  "Intro": "Lúc nửa đêm, một người đàn ông choàng tỉnh giấc. Anh phát hiện mình trần trụi trong một bồn tắm tại phòng trọ. Ngay giữa phòng ngủ, xác một người phụ nữ khoả thân nằm trên vũng máu. Người đàn ông không thốt nên lời, anh gần như quay cuồng trong mớ câu hỏi: Tôi là ai? Tôi từ đâu tới? Tôi đã làm gì thế này? Giữa căn phòng tĩnh lặng, đen kịt, người đàn ông đáng thương không tìm đâu thấy một lời giải đáp. Bất chợt, một hồi chuông điện thoại reo vang, một người tự xưng là tiến sĩ Daniel Poe Schreber cho anh biết: rằng anh đang trong một cuộc thí nghiệm, rằng anh đã hoàn mất mất đi trí nhớ và hãy chạy thật nhanh trước khi những kẻ lạ mặt ngoài kia có thể túm lấy anh. Chỉ đợi có thế, người đàn ông lao vào màn đêm đen để tìm kiếm lời giải đáp cho những ẩn số về cuộc đời mình…",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/yR7rapBFxBoBT0vkZQIXhLBr726-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/QrGSLMl1XFs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/dark-city/",
+  "Name": "Thành Phố Bóng Đêm"
+}

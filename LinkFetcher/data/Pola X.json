@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vDm77VgpiZyYIibit2zkrUEyXLC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vDm77VgpiZyYIibit2zkrUEyXLC.jpg",
+      "Name": "Pola X"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/A9aPrHQbZqOzEraVJDI2rBYGce1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/A9aPrHQbZqOzEraVJDI2rBYGce1.jpg",
+      "Name": "Pola X"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3H40uZHZb75yWYiMSkG85CL9tX1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3H40uZHZb75yWYiMSkG85CL9tX1.jpg",
+      "Name": "Pola X"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qgVVuFtVpOwnVuXO163YJTXX2bP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qgVVuFtVpOwnVuXO163YJTXX2bP.jpg",
+      "Name": "Pola X"
+    }
+  ],
+  "Links": [],
+  "Intro": "A writer leaves his upper-class life and journeys with a woman claiming to be his sister, and her two friends.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/tEn98aBa8q5PQ9fc4appYfvVXqW-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/pola-x/",
+  "Name": "Pola X"
+}

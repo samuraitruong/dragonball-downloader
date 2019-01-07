@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yIZ1xendyqKvY3FGeeUYUd5X9Mm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yIZ1xendyqKvY3FGeeUYUd5X9Mm.jpg ",
+      "Name": "Cuộc Đổ Bộ Bí Ẩn - Arrival"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/x3akjRHhZnIZx0EiQ3eOg66qoS9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/x3akjRHhZnIZx0EiQ3eOg66qoS9.jpg ",
+      "Name": "Cuộc Đổ Bộ Bí Ẩn - Arrival"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z3dFr6KAJt07hxWZ7g8h7i4Dp50.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z3dFr6KAJt07hxWZ7g8h7i4Dp50.jpg ",
+      "Name": "Cuộc Đổ Bộ Bí Ẩn - Arrival"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wFFlaVHmQG4U43m0l3eQqHZluvn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wFFlaVHmQG4U43m0l3eQqHZluvn.jpg ",
+      "Name": "Cuộc Đổ Bộ Bí Ẩn - Arrival"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ibbiGqlbFYgKVGCjXiDNzA0SUXO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ibbiGqlbFYgKVGCjXiDNzA0SUXO.jpg ",
+      "Name": "Cuộc Đổ Bộ Bí Ẩn - Arrival"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gXRtEQCRKbHJlA85kld5eZYpieL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gXRtEQCRKbHJlA85kld5eZYpieL.jpg ",
+      "Name": "Cuộc Đổ Bộ Bí Ẩn - Arrival"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/inK7Ab56Qb2RrATQAdBGpCIW80T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/inK7Ab56Qb2RrATQAdBGpCIW80T.jpg ",
+      "Name": "Cuộc Đổ Bộ Bí Ẩn - Arrival"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vPhpUIwgFNkqn9Y7S1sgOs3pTqv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vPhpUIwgFNkqn9Y7S1sgOs3pTqv.jpg ",
+      "Name": "Cuộc Đổ Bộ Bí Ẩn - Arrival"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kegEME88X1PgFYO0zI1FV8ag5Ah.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kegEME88X1PgFYO0zI1FV8ag5Ah.jpg ",
+      "Name": "Cuộc Đổ Bộ Bí Ẩn - Arrival"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dl9hpjISEsmCKvNaYjg1rWzDM23.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dl9hpjISEsmCKvNaYjg1rWzDM23.jpg ",
+      "Name": "Cuộc Đổ Bộ Bí Ẩn - Arrival"
+    }
+  ],
+  "Links": [],
+  "Intro": "Nhà ngôn ngữ học Louise Banks (Amy Adams) được chính phủ Mỹ mời đến phiên dịch thông điệp của một nhóm người hành tinh mới đến Trái đất. Cùng với nhà vật lý Ian Donnelly (Jeremy Renner), Banks giải mã được nghĩa của chúng là: “Giao vũ khí ra”. Đứng trước mối đe dọa, nhiều quốc gia chuẩn bị phát động một cuộc chiến tranh tổng lực có thể tàn phá cả Trái đất. Tuy nhiên đằng sau mọi chuyện vẫn còn nhiều bí ẩn khó lường, và chìa khóa cho vận mệnh thế giới giờ đây phụ thuộc vào những khám phá của Banks.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/02/hLudzvGfpi6JlwUnsNhXwKKg4j-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/gwqSi_ToNPs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/arrival/",
+  "Name": "Cuộc Đổ Bộ Bí Ẩn"
+}

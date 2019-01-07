@@ -1,0 +1,45 @@
+{
+  "Id": "mova3lqmN340674",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5ghGYxem6GXKEV4c2ccspWMn68U.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5ghGYxem6GXKEV4c2ccspWMn68U.jpg",
+      "Name": "Tội Ác Thực Sự - Dark Crimes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qQKUnCJdMyiVz3SV5dnudrwB89y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qQKUnCJdMyiVz3SV5dnudrwB89y.jpg",
+      "Name": "Tội Ác Thực Sự - Dark Crimes"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/mova3lqmn340674/",
+      "Size": "3.86 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/IFB2ZNYMWE1M",
+      "Name": "WEB-DL-1080p"
+    }
+  ],
+  "Intro": "Phim True Crimes (Tội Ác Thực Sự): thám tử Jim phát hiện ra một vụ án mạng mà cách của sát nhân thực hiện giống hệt trong tiểu thuyết.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/oJSsTFvccBmqp9t9IFauXA3wWK7-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/5TTdcyRi-nw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/dark-crimes/",
+  "Name": "Tội Ác Thực Sự"
+}

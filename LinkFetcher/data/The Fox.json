@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2BMrEJ6BJWAKMifz28L28gOABYb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2BMrEJ6BJWAKMifz28L28gOABYb.jpg ",
+      "Name": "The Fox"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/39iyRWHSrvQP45pEtuXbOpVY0hs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/39iyRWHSrvQP45pEtuXbOpVY0hs.jpg ",
+      "Name": "The Fox"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tv5Ocr5akd9x3EgXLwABHiJtfc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tv5Ocr5akd9x3EgXLwABHiJtfc.jpg ",
+      "Name": "The Fox"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/72UHDLrFdPwHgYq5BpSwSvlXIXO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/72UHDLrFdPwHgYq5BpSwSvlXIXO.jpg ",
+      "Name": "The Fox"
+    }
+  ],
+  "Links": [],
+  "Intro": "The Fox tells the story of The Hague-based Europol agent Simon Fox (Morgan C Jones). He leads a troubled life after he accidentally shot and killed a child. Struggling with this trauma Simon is confronted with a secret post-war resistance organization called ‘Gladio’. The organization is abused by illustrious politicians in their hunger for power, as a result of which The Netherlands is likely to degenerate into a police state. When it becomes clear that Simon’s father established ‘Gladio’ after the war with very different intentions, Simon is determined to turn the tide..",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/uvEteXJoWScLNj9HRmrl50ceYJg-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/HqL2xXXeZpk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-fox/",
+  "Name": "The Fox"
+}

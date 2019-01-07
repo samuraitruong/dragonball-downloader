@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/EaGrw1TSRdYxZADDGjJKB40YKV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/EaGrw1TSRdYxZADDGjJKB40YKV.jpg",
+      "Name": "Super Dark Times"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lARtWPxyfYnh5jel0oe8tfXJhgd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lARtWPxyfYnh5jel0oe8tfXJhgd.jpg",
+      "Name": "Super Dark Times"
+    }
+  ],
+  "Links": [],
+  "Intro": "Teenagers Zach and Josh have been best friends their whole lives, but when a gruesome accident leads to a cover-up, the secret drives a wedge between them and propels them down a rabbit hole of escalating paranoia and violence.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/7sJoNicLJ9EZwetp5ucjS8qQ9g1-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/a-nnMkMnFbI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/super-dark-times/",
+  "Name": "Super Dark Times"
+}

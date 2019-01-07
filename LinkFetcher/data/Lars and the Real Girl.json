@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sGbTY4otwT1FM6bQuYbEbTqy6oq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sGbTY4otwT1FM6bQuYbEbTqy6oq.jpg",
+      "Name": "Lars and the Real Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rvxV5bXhtRpxx51mDiy29b56cb2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rvxV5bXhtRpxx51mDiy29b56cb2.jpg",
+      "Name": "Lars and the Real Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bZGchpmlSYz4Rh5RyYad2es9sGz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bZGchpmlSYz4Rh5RyYad2es9sGz.jpg",
+      "Name": "Lars and the Real Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2j3RepmdiE8X2KJpY1eNe1z8A3B.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2j3RepmdiE8X2KJpY1eNe1z8A3B.jpg",
+      "Name": "Lars and the Real Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rMyhFXpYT6tKvrdKtgC6kjFLKvm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rMyhFXpYT6tKvrdKtgC6kjFLKvm.jpg",
+      "Name": "Lars and the Real Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b6BnxUxxdExOz41dtLg3z6hYMd3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b6BnxUxxdExOz41dtLg3z6hYMd3.jpg",
+      "Name": "Lars and the Real Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nxn6wFxnrlyC7To5KCRqDZ0zLlf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nxn6wFxnrlyC7To5KCRqDZ0zLlf.jpg",
+      "Name": "Lars and the Real Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g3u8v1uupvHZBcR48nlvI3lpQOc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g3u8v1uupvHZBcR48nlvI3lpQOc.jpg",
+      "Name": "Lars and the Real Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1vBfGMEr5eNeAzohFGfJ1kjXIeR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1vBfGMEr5eNeAzohFGfJ1kjXIeR.jpg",
+      "Name": "Lars and the Real Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9pDpcZi8q5uSxPkg9LsE4vKFBGd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9pDpcZi8q5uSxPkg9LsE4vKFBGd.jpg",
+      "Name": "Lars and the Real Girl"
+    }
+  ],
+  "Links": [],
+  "Intro": "Sometimes you find love where you&#8217;d least expect it. Just ask Lars, a sweet but quirky guy who thinks he&#8217;s found the girl of his dreams in a life-sized doll named Bianca. Lars is completely content with his artificial girlfriend, but when he develops feelings for Margo, an attractive co-worker, Lars finds himself lost in a unique love triangle, hoping to somehow discover the real meaning of true love.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/t8CjVSDVT5fy2AMZRwL0l9OCVhG-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/4wsdWuAmLzQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/lars-and-the-real-girl/",
+  "Name": "Lars and the Real Girl"
+}

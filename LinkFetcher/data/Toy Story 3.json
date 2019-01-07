@@ -1,42 +1,76 @@
 {
-  "Id": "movu946N410193",
-  "Url": "https://fsharephim.com/movies/toy-story-3/",
-  "Name": "Toy Story 3",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movu946n410193/",
-      "Name": "Toy.Story.3.2010.720p.BluRay.x264-EbP.mkv",
-      "Url": "https://www.fshare.vn/file/28QP2X95PUTBSR6",
-      "Size": "4.4 GB",
-      "FileSize": 4698264581
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movu946n410193-2/",
-      "Name": "Toy.Story.3.2010.1080p.BluRay.x264-EbP(1).mkv",
-      "Url": "https://www.fshare.vn/file/72B8T8CTSBTWS1E",
-      "Size": "8.3 GB",
-      "FileSize": 8956172805
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movu946n410193-3/",
-      "Name": "Toy.Story.3.2010.1080p.BluRay.3D.Half-OU.DTS.x264-HDC(1).mkv",
-      "Url": "https://www.fshare.vn/file/ADO33X7VILAADO1",
-      "Size": "8.2 GB",
-      "FileSize": 8782568444
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movu946n410193-4/",
-      "Name": "Toy.Story.3.2010.ViE.1080p.3D.REMUX.Blu-ray.MVC.DTS-HD.MA.7.1-UHDBits.iso",
-      "Url": "https://www.fshare.vn/file/8BJL148HGLDQDEI",
-      "Size": "ViE",
-      "FileSize": 31791382528
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movu946n410193-5/",
-      "Name": "Toy.Story.3.2010.1080p.BluRay.x264-EbP.srt",
-      "Url": "https://www.fshare.vn/file/HEAXLU9HBWDUWPH",
-      "Size": "185.8 KB",
-      "FileSize": 190228
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/y2qAjM37QgatWeG84DDtwsZuMW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/y2qAjM37QgatWeG84DDtwsZuMW.jpg",
+      "Name": "Toy Story 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rpvDBeVazJyBV5SxtnQWIgL5SIb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rpvDBeVazJyBV5SxtnQWIgL5SIb.jpg",
+      "Name": "Toy Story 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pwrnxtwmLlFYZCZN4g7xWcV5ERr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pwrnxtwmLlFYZCZN4g7xWcV5ERr.jpg",
+      "Name": "Toy Story 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/85oqnBG50aDN9ONX0Qq516UVa1g.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/85oqnBG50aDN9ONX0Qq516UVa1g.jpg",
+      "Name": "Toy Story 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xbvbtOkyferld5vDIBPD9sh77KZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xbvbtOkyferld5vDIBPD9sh77KZ.jpg",
+      "Name": "Toy Story 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hLHdK5TedPkmRcUYkNrSoSdq91c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hLHdK5TedPkmRcUYkNrSoSdq91c.jpg",
+      "Name": "Toy Story 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vTlwt9BGeuWP7WIlFFuXItjgUVJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vTlwt9BGeuWP7WIlFFuXItjgUVJ.jpg",
+      "Name": "Toy Story 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oyxSBOIOVllVkTg8tFt941TzbwK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oyxSBOIOVllVkTg8tFt941TzbwK.jpg",
+      "Name": "Toy Story 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dZZiUX2qiBXkZ5T2YzFOSqSCps0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dZZiUX2qiBXkZ5T2YzFOSqSCps0.jpg",
+      "Name": "Toy Story 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mThgr4EwEDra9csZQC5ERffCi1d.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mThgr4EwEDra9csZQC5ERffCi1d.jpg",
+      "Name": "Toy Story 3"
+    }
+  ],
+  "Links": [],
+  "Intro": "Woody, Buzz, and the rest of Andy&#8217;s toys haven&#8217;t been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/mMltbSxwEdNE4Cv8QYLpzkHWTDo-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/TNMpa5yBf5o?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/toy-story-3/",
+  "Name": "Toy Story 3"
 }

@@ -1,0 +1,51 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xA959uQHOMCV1as2ZbUfm06dyXw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xA959uQHOMCV1as2ZbUfm06dyXw.jpg",
+      "Name": "Rules Don&#8217;t Apply"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cU68DXLJjQHpkytqljkPoCNz3vz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cU68DXLJjQHpkytqljkPoCNz3vz.jpg",
+      "Name": "Rules Don&#8217;t Apply"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5EUMUnW2SjS3n2KmytMh0Iq66HI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5EUMUnW2SjS3n2KmytMh0Iq66HI.jpg",
+      "Name": "Rules Don&#8217;t Apply"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dLsChGPCTQ5vVJLQcMfkukqf0qg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dLsChGPCTQ5vVJLQcMfkukqf0qg.jpg",
+      "Name": "Rules Don&#8217;t Apply"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3mPgfcyPNtbaSWznP58xy4pCajI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3mPgfcyPNtbaSWznP58xy4pCajI.jpg",
+      "Name": "Rules Don&#8217;t Apply"
+    }
+  ],
+  "Links": [],
+  "Intro": "It&#8217;s Hollywood, 1958. Small town beauty queen and devout Baptist virgin Marla Mabrey, under contract to the infamous Howard Hughes, arrives in Los Angeles. At the airport, she meets her driver Frank Forbes, who is engaged to be married to his seventh grade sweetheart and is a deeply religious Methodist. Their instant attraction not only puts their religious convictions to the test, but also defies Hughes&#8217; number one rule: No employee is allowed to have any relationship whatsoever with a contract actress. Hughes&#8217; behavior intersects with Marla and Frank in very separate and unexpected ways, and as they are drawn deeper into his bizarre world, their values are challenged and their lives are changed.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/tODM3IervLotPDwUFNaJvjTcNpG-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/yW6HIUHkKPk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/rules-dont-apply/",
+  "Name": "Rules Don't Apply"
+}

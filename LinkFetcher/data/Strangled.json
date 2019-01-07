@@ -1,0 +1,44 @@
+{
+  "Id": "mov18mTrU426958",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rSvBYHNtWdvc7LlbZYqFsU09PgE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rSvBYHNtWdvc7LlbZYqFsU09PgE.jpg",
+      "Name": "Strangled"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/mov18mtru426958/",
+      "Size": "5.46 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/ECA246AM1WAE",
+      "Name": "720p"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/mov18mtru426958-2/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/strangled",
+      "Name": "Subtitle"
+    }
+  ],
+  "Intro": "Based on real-life events, this psycho-thriller is set in the provincial Hungary of the 1960s, when a series of atrocious murders shock the small town of Martfü. A psychotic killer is on the prowl, who continues to slaughter young women while an innocent man is wrongly accused and sentenced for crimes he could never have committed. A determined detective arrives on the scene and soon becomes obsessed with the case while under pressure from the prosecutor to see a man hang. Stuck in the suffocating social, political and psychological world of socialist Hungary, we soon find ourselves entangled in a web of intricate conspiracy and disturbing drama.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/mIIZa4VuKUi8rNcH1Gyqg18sG2K-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/SpVUhG-fSxI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/strangled/",
+  "Name": "Strangled"
+}

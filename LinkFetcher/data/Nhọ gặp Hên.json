@@ -1,0 +1,61 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3g5tt7Th2BQpyYhQ87rmlO8hSJ3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3g5tt7Th2BQpyYhQ87rmlO8hSJ3.jpg ",
+      "Name": "Nhọ gặp Hên - Gringo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tXfEasHDOUxzfYyJHBPv1vZXERP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tXfEasHDOUxzfYyJHBPv1vZXERP.jpg ",
+      "Name": "Nhọ gặp Hên - Gringo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u8ICtFZI6pPpzlfCASgIoRMDxVN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u8ICtFZI6pPpzlfCASgIoRMDxVN.jpg ",
+      "Name": "Nhọ gặp Hên - Gringo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tM6UpkSMjqI0vcI6Lulbovui6lD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tM6UpkSMjqI0vcI6Lulbovui6lD.jpg ",
+      "Name": "Nhọ gặp Hên - Gringo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3RGECRrlljo80J0lhFL4Xk1s5jP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3RGECRrlljo80J0lhFL4Xk1s5jP.jpg ",
+      "Name": "Nhọ gặp Hên - Gringo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1u2f04uoVGTjmThK71yDDqeQwK0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1u2f04uoVGTjmThK71yDDqeQwK0.jpg ",
+      "Name": "Nhọ gặp Hên - Gringo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/temL0RABe2vqSMrvAkeDtIAXy4x.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/temL0RABe2vqSMrvAkeDtIAXy4x.jpg ",
+      "Name": "Nhọ gặp Hên - Gringo"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bộ phim Gringo (Nhọ Gặp Hên) là sự kết hợp giữa yếu tố hài hước và những mưu đồ kịch tính khi Gringo (một kiều dân Mỹ) vượt biên từ Mỹ sang Mexico. Vượt qua ranh giới từ một công dân lương thiện trở thành kẻ tội phạm, Harold rơi vào vòng xoáy của các đối tác kinh doanh láng giềng đầy mưu mô, các trùm ma tuý Mexico xảo quyệt và cả lính đánh thuê quốc tế,… Harold sẽ phải vượt qua và sống sót ra sao ở nơi được xem là nguy hiểm nhất hành tinh này?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/dxeVPklFwng2IowqRPNI4od6aXv-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/MnKbM9Zxtn8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/gringo/",
+  "Name": "Nhọ gặp Hên"
+}

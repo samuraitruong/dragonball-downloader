@@ -1,49 +1,84 @@
 {
-  "Id": "mov0jTIIG140300",
-  "Url": "https://fsharephim.com/movies/kung-fu-panda-3/",
-  "Name": "Công Phu Gấu Trúc 3",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov0jtiig140300-4/",
-      "Name": "KungFu Panda 3 (2016) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/Z8XOEOV4LH9M",
-      "Size": "1.81 GB",
-      "FileSize": 1943373323
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov0jtiig140300-5/",
-      "Name": "Kung Fu Panda 3 (2016) ViE 3D1080p HKG Bluray AVC DTS-HD MA 7.1 Longtieng.iso",
-      "Url": "https://www.fshare.vn/file/LBIBSPXBEUQX",
-      "Size": "37.03 GB",
-      "FileSize": 39757479936
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov0jtiig140300-6/",
-      "Name": "Kung Fu Panda 3 (2016) ViE 3D1080p HKG Bluray AVC DTS-HD MA 7.ac3",
-      "Url": "https://www.fshare.vn/file/IYXKRURW29T4",
-      "Size": "304.13 MB",
-      "FileSize": 318904320
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov0jtiig140300-3/",
-      "Name": "KungFu Panda 3 (2016) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/2MPCCEOWBICU",
-      "Size": "1.15 GB",
-      "FileSize": 1231535068
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov0jtiig140300-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/kung-fu-panda-3",
-      "Size": "--",
-      "FileSize": 0
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/mov0jtiig140300/",
-      "Name": "Kung.Fu.Panda.3.2016.LT.mkv",
-      "Url": "https://www.fshare.vn/file/47BQHY26E8OE",
-      "Size": "2.12 GB",
-      "FileSize": 2272967691
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eHWmEUP4fa7h1Fe7TXfTL7ncDl8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eHWmEUP4fa7h1Fe7TXfTL7ncDl8.jpg",
+      "Name": "Công Phu Gấu Trúc 3 - Kung Fu Panda 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7uHuwbu3wYPhf7qUECxGdMsGXUL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7uHuwbu3wYPhf7qUECxGdMsGXUL.jpg",
+      "Name": "Công Phu Gấu Trúc 3 - Kung Fu Panda 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lL9SHNhC22VX7eJ0Qdky6vMTNWa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lL9SHNhC22VX7eJ0Qdky6vMTNWa.jpg",
+      "Name": "Công Phu Gấu Trúc 3 - Kung Fu Panda 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nzpnVDF28EAXPoSs5RdKkuCg7OP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nzpnVDF28EAXPoSs5RdKkuCg7OP.jpg",
+      "Name": "Công Phu Gấu Trúc 3 - Kung Fu Panda 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mzUncyBtsD4h9njLr3hLj7CJuGA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mzUncyBtsD4h9njLr3hLj7CJuGA.jpg",
+      "Name": "Công Phu Gấu Trúc 3 - Kung Fu Panda 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l1Ta4uRUzLzN2n07wRiSt8BcQYT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l1Ta4uRUzLzN2n07wRiSt8BcQYT.jpg",
+      "Name": "Công Phu Gấu Trúc 3 - Kung Fu Panda 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mtxmrXHPj2Y2kGKMc00FFninZTb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mtxmrXHPj2Y2kGKMc00FFninZTb.jpg",
+      "Name": "Công Phu Gấu Trúc 3 - Kung Fu Panda 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tJCLqMDXiQoWk7ZRwKAcZXPKm8t.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tJCLqMDXiQoWk7ZRwKAcZXPKm8t.jpg",
+      "Name": "Công Phu Gấu Trúc 3 - Kung Fu Panda 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oZgbgnhUMomBytINnKMlaZ0Dt9b.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oZgbgnhUMomBytINnKMlaZ0Dt9b.jpg",
+      "Name": "Công Phu Gấu Trúc 3 - Kung Fu Panda 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jq92SRoMlY4t77I7N683GHeYkTj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jq92SRoMlY4t77I7N683GHeYkTj.jpg",
+      "Name": "Công Phu Gấu Trúc 3 - Kung Fu Panda 3"
+    }
+  ],
+  "Links": [],
+  "Intro": "Trong phần 3 này, Po gặp lại người cha của mình. Hai người cùng tới một vùng đất chưa từng ai biết tới. Tại đây, họ gặp rất nhiều đồng loại gấu trúc. Khi đám trâu mắt xanh sở hữu sức mạnh thần bí có ý đồ thôn tính Thần châu, tiêu diệt vô số võ lâm cao thủ, Po buộc phải đối mặt với thử thách mới&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/MZFPacfKzgisnPoJIPEFZUXBBT-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/10r9ozshGVE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/kung-fu-panda-3/",
+  "Name": "Công Phu Gấu Trúc 3"
 }

@@ -1,0 +1,62 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aj0WJXC0Cu172qifgkEpyLXlDEt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aj0WJXC0Cu172qifgkEpyLXlDEt.jpg",
+      "Name": "What We Do in the Shadows"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cQXlDYsxdSJg9quBIM8IgpphAon.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cQXlDYsxdSJg9quBIM8IgpphAon.jpg",
+      "Name": "What We Do in the Shadows"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mE3Mr1rm3GHihXtWKnpLXkXudHl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mE3Mr1rm3GHihXtWKnpLXkXudHl.jpg",
+      "Name": "What We Do in the Shadows"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1YOG6Eo0YVUmbQHI385gv26AOA6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1YOG6Eo0YVUmbQHI385gv26AOA6.jpg",
+      "Name": "What We Do in the Shadows"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sFUJZ9wEM7b4UY44GZs2oG3V6KU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sFUJZ9wEM7b4UY44GZs2oG3V6KU.jpg",
+      "Name": "What We Do in the Shadows"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jrQVD1719M29QCwcpiDq5yRw0qa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jrQVD1719M29QCwcpiDq5yRw0qa.jpg",
+      "Name": "What We Do in the Shadows"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pDuvNePhk4Ts6xhCZKp7XKvMnHo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pDuvNePhk4Ts6xhCZKp7XKvMnHo.jpg",
+      "Name": "What We Do in the Shadows"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1XyYgbBIibr8plOB2BdrXdA0x4S.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1XyYgbBIibr8plOB2BdrXdA0x4S.jpg",
+      "Name": "What We Do in the Shadows"
+    }
+  ],
+  "Links": [],
+  "Intro": "Vampire housemates try to cope with the complexities of modern life and show a newly turned hipster some of the perks of being undead.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/4bqqrtzY9vVQeEcqyqWfTJWmpD9-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Cv568AzZ-i8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/what-we-do-in-the-shadows/",
+  "Name": "What We Do in the Shadows"
+}

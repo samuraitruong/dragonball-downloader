@@ -1,0 +1,53 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yQcyzgQwwyLL625kmVi2do3fKOp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yQcyzgQwwyLL625kmVi2do3fKOp.jpg",
+      "Name": "Cuộc Chiến Của Rồng - Dragon Wars: D-War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nAaY928uxrriho7LJpLfFTLXLp9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nAaY928uxrriho7LJpLfFTLXLp9.jpg",
+      "Name": "Cuộc Chiến Của Rồng - Dragon Wars: D-War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ee6d3TU5WZfP9BsqVvsnwJKo175.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ee6d3TU5WZfP9BsqVvsnwJKo175.jpg",
+      "Name": "Cuộc Chiến Của Rồng - Dragon Wars: D-War"
+    }
+  ],
+  "Links": [],
+  "Intro": "Dragon Wars: D-War( Cuộc Chiến Của Rồng) là bộ phim khoa học viễn tưởng. Lấy bối cảnh là thành phố Los Angeles bỗng nhiên bị rúng động bởi sự tấn công từ một loài quái thú khổng lồ tựa như rồng. Trong cuộc hỗn loạn đó, chàng trai phóng viên truyền hình Ethan chợt nhận ra thân phận kiếp trước mình chính là một chiến binh.Và giờ đây, nhiệm vụ của anh không có gì khác hơn là phải đứng ra bảo vệ mọi người.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/lp6AwCvSOioaGnx0tJZfMgRYDp1-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/LbF4DtgO_yY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/dragon-wars-d-war/",
+  "Name": "Cuộc Chiến Của Rồng"
+}

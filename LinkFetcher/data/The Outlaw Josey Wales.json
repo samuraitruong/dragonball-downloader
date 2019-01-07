@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/mien-tay/",
+      "Name": "Miền Tây"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vkE1ROrP1gA5c1L31XZ8JR9QRMJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vkE1ROrP1gA5c1L31XZ8JR9QRMJ.jpg",
+      "Name": "The Outlaw Josey Wales"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bhWbbMA70zc67Ba0OVLOFz8sRre.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bhWbbMA70zc67Ba0OVLOFz8sRre.jpg",
+      "Name": "The Outlaw Josey Wales"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bvbS9HBxsCkbj3zhwK4yjVrqkGl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bvbS9HBxsCkbj3zhwK4yjVrqkGl.jpg",
+      "Name": "The Outlaw Josey Wales"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lFq3BGSMGLlmJ7YfClbAFQQjzNX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lFq3BGSMGLlmJ7YfClbAFQQjzNX.jpg",
+      "Name": "The Outlaw Josey Wales"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zyriJkLnxnQZDjY5ty9s7kQ05JU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zyriJkLnxnQZDjY5ty9s7kQ05JU.jpg",
+      "Name": "The Outlaw Josey Wales"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/svsAEILtq5qmGwqCECpYi5W7vDK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/svsAEILtq5qmGwqCECpYi5W7vDK.jpg",
+      "Name": "The Outlaw Josey Wales"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/occWqUPPWBi0TC4op4obghYtmel.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/occWqUPPWBi0TC4op4obghYtmel.jpg",
+      "Name": "The Outlaw Josey Wales"
+    }
+  ],
+  "Links": [],
+  "Intro": "After avenging his family&#8217;s brutal murder, Wales is pursued by a pack of soldiers. He prefers to travel alone, but ragtag outcasts are drawn to him &#8211; and Wales can&#8217;t bring himself to leave them unprotected.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/59ywz8rQmXn4bl60WOMJddPc7z-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/en9rfsUGDkc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-outlaw-josey-wales/",
+  "Name": "The Outlaw Josey Wales"
+}

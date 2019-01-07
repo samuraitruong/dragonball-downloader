@@ -1,0 +1,44 @@
+{
+  "Id": "mov1pI3Rv480700",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pSoRh7dqdm1PalPEcNEkTjk9jzV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pSoRh7dqdm1PalPEcNEkTjk9jzV.jpg",
+      "Name": "The 13th Friday"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/mov1pi3rv480700/",
+      "Size": "2.8 GB",
+      "FileSize": 3003842534,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/BBCH4UMBH663MJL",
+      "Name": "The.13th.Friday.2017.720p.WEB-DL.AAC2.0.H264-FGT(2).mkv"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/mov1pi3rv480700-2/",
+      "Size": "0",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/the-13th-friday",
+      "Name": "Subtitle"
+    }
+  ],
+  "Intro": "Thrill seeking friends return to the place of the most terrifying killer.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/9JizR6xY8xi2qSD3NNjkFEwz7I-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/vevpfJIH9Aw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-13th-friday/",
+  "Name": "The 13th Friday"
+}

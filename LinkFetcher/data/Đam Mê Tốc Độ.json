@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kiLEAfRQhs93r3tSsQFpD2EpbyR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kiLEAfRQhs93r3tSsQFpD2EpbyR.jpg ",
+      "Name": "Đam Mê Tốc Độ - Need for Speed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vF0PZIRMufEOizTOaRZIGm7zxHZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vF0PZIRMufEOizTOaRZIGm7zxHZ.jpg ",
+      "Name": "Đam Mê Tốc Độ - Need for Speed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/51wsckOi4dViwlHSF5oWgza5gWx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/51wsckOi4dViwlHSF5oWgza5gWx.jpg ",
+      "Name": "Đam Mê Tốc Độ - Need for Speed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/umVlw455pfDY1cs563FX1OtvI7H.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/umVlw455pfDY1cs563FX1OtvI7H.jpg ",
+      "Name": "Đam Mê Tốc Độ - Need for Speed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sfghaVqC8EyH0HLM0TeN8AHMXeW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sfghaVqC8EyH0HLM0TeN8AHMXeW.jpg ",
+      "Name": "Đam Mê Tốc Độ - Need for Speed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qUzdRutcYuLAF4rUxQ6R3xivdYb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qUzdRutcYuLAF4rUxQ6R3xivdYb.jpg ",
+      "Name": "Đam Mê Tốc Độ - Need for Speed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bvO2kKdSBwzg01wQUTv4icSkI7i.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bvO2kKdSBwzg01wQUTv4icSkI7i.jpg ",
+      "Name": "Đam Mê Tốc Độ - Need for Speed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kLqhVH0eghCNlVlZZcmAAIpDg8C.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kLqhVH0eghCNlVlZZcmAAIpDg8C.jpg ",
+      "Name": "Đam Mê Tốc Độ - Need for Speed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1xsD5F63YjfqlXTXxkNn57DotL1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1xsD5F63YjfqlXTXxkNn57DotL1.jpg ",
+      "Name": "Đam Mê Tốc Độ - Need for Speed"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9Hs7wph4QKFsNKWwPXeQpXRjsgW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9Hs7wph4QKFsNKWwPXeQpXRjsgW.jpg ",
+      "Name": "Đam Mê Tốc Độ - Need for Speed"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim nói về cuộc đời anh chàng Paul (Aaron Paul), một tay đua hạng vip trong thế giới ngầm, anh sở hữu cả một gara chuyên độ những chiếc xế hộp loại xịn. Paul bị gài bẫy và tống vào tù trong khi người bạn thân nhất thì bị ám sát trong một cuộc đua, anh nóng lòng chờ ngày được thả để theo đuổi sự báo thù. Cooper sẽ đóng vai Dino, một cựu tay đua NASCAR chuyên làm ăn những vụ độ xế và mua bán siêu xe.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/lN0mP3BNaKirkKl6FJ0yL0wmjSJ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/e73J71RZRn8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/need-for-speed/",
+  "Name": "Đam Mê Tốc Độ"
+}

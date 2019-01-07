@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u828R2kMoNcXBVPYRiuMyEbgRy0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u828R2kMoNcXBVPYRiuMyEbgRy0.jpg",
+      "Name": "Don&#8217;t Go"
+    }
+  ],
+  "Links": [],
+  "Intro": "Devastated by his daughter&#8217;s death in a terrible accident, Ben becomes convinced that he can bring her back through a recurring dream. But is it just a dream? Or is Ben losing his mind?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/10/K6OGjRF5s12HnZBY2ksvB4itWw-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/FzzAZ6r5ZkU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/dont-go/",
+  "Name": "Don't Go"
+}

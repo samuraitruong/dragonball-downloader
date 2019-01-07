@@ -1,0 +1,50 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2DKpjWI0j6eRhF3lPUE4lc7wqP0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2DKpjWI0j6eRhF3lPUE4lc7wqP0.jpg",
+      "Name": "Lạc Ngoài Không Gian - Zathura: A Space Adventure"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6H10FXQqR2tvX5SerzIogdHH3Yg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6H10FXQqR2tvX5SerzIogdHH3Yg.jpg",
+      "Name": "Lạc Ngoài Không Gian - Zathura: A Space Adventure"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jzcOVeydNYF4hX0OiNftWC8QZJz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jzcOVeydNYF4hX0OiNftWC8QZJz.jpg",
+      "Name": "Lạc Ngoài Không Gian - Zathura: A Space Adventure"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/s9Bn7Mx4U9cWOR1WdFZjU1DTAkh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/s9Bn7Mx4U9cWOR1WdFZjU1DTAkh.jpg",
+      "Name": "Lạc Ngoài Không Gian - Zathura: A Space Adventure"
+    }
+  ],
+  "Links": [],
+  "Intro": "Câu chuyện bắt đầu sau khi ông bố ra ngoài có việc, hai anh em Danny, 6 tuổi, và Walter 10 tuổi tình cờ khám phá một bộ trò chơi cũ nát có tên Zathura. Sau khi dụ dỗ ông anh chơi cùng không được, Danny quyết định chơi một mình. Ngay khi bắt đầu, cậu bé nhận ra đây không phải một trò chơi bình thường. Chiếc phi thuyền có thể tự chuyển động, và khi hoàn thành phần di chuyển, một tấm thẻ bật ra, trên đó ghi: &#8220;Mưa sao băng, hãy tìm chỗ trú ẩn&#8221;. Ngay lập tức, cả căn nhà bị tấn công bởi những ngôi sao băng nóng chảy từ trên trời rơi xuống. Và khi ngước lên nhìn trần nhà qua lỗ thủng, Danny và Walter kinh hãi nhận ra cả căn nhà đã bị dịch chuyển ra ngoài không gian. Liệu họ có đoàn kết được với nhau và giành chiến thắng trong trò chơi nguy hiểm này.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/amqgIuISRBt8tsZM6cTT6gO9WLR-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/hxrF-X1yn6Q?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/zathura-a-space-adventure/",
+  "Name": "Lạc Ngoài Không Gian"
+}

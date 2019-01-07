@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ssoXBG2h5afUGD4NwaeAtpSLjCx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ssoXBG2h5afUGD4NwaeAtpSLjCx.jpg",
+      "Name": "Gold"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cIJ2MkVOZl9Gd4CfIAzutTTo67e.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cIJ2MkVOZl9Gd4CfIAzutTTo67e.jpg",
+      "Name": "Gold"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gC3WcsAEx6O4zlfZ5nuMaQVg6kh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gC3WcsAEx6O4zlfZ5nuMaQVg6kh.jpg",
+      "Name": "Gold"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fSPzvUVCploEzZsVeOJ0Y7v12BT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fSPzvUVCploEzZsVeOJ0Y7v12BT.jpg",
+      "Name": "Gold"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/317yUB05KuruoUVNt9NsUukpwGA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/317yUB05KuruoUVNt9NsUukpwGA.jpg",
+      "Name": "Gold"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/993HcgaM2LcKFn3yWskKVk0B3sh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/993HcgaM2LcKFn3yWskKVk0B3sh.jpg",
+      "Name": "Gold"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5f0pOC9xzY1EKuSfFGNNJWAnBPw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5f0pOC9xzY1EKuSfFGNNJWAnBPw.jpg",
+      "Name": "Gold"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bns0kD6C0CTXEDKlOpbIoSLE9fy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bns0kD6C0CTXEDKlOpbIoSLE9fy.jpg",
+      "Name": "Gold"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dw1tRR2pnF18QwXTG3GrLOYXPhQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dw1tRR2pnF18QwXTG3GrLOYXPhQ.jpg",
+      "Name": "Gold"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dtI76GsfzgNia0yIqnlv9QiFwwr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dtI76GsfzgNia0yIqnlv9QiFwwr.jpg",
+      "Name": "Gold"
+    }
+  ],
+  "Links": [],
+  "Intro": "Kenny Wells, a modern-day prospector, hustler, and dreamer, is desperate for a lucky break. Left with few options, Wells teams up with an equally luckless geologist to execute a grandiose, last-ditch effort: to find gold deep in the uncharted jungle of Indonesia.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/d6AipVF4SDYqxGeivfs3yzsNUs7-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/IhYROWOayLw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/gold/",
+  "Name": "Gold"
+}

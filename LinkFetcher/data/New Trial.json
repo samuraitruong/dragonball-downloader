@@ -1,0 +1,68 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xbuumCxU62pUVHEDplnuxTFkhVr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xbuumCxU62pUVHEDplnuxTFkhVr.jpg",
+      "Name": "New Trial"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mYXDcwWdH7rrcQ04Y1juWAKKRJr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mYXDcwWdH7rrcQ04Y1juWAKKRJr.jpg",
+      "Name": "New Trial"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vpsyNE1N4KCkldzrizyYR2T3H0P.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vpsyNE1N4KCkldzrizyYR2T3H0P.jpg",
+      "Name": "New Trial"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9WBAWVocOfB13FZnueMg9rikC08.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9WBAWVocOfB13FZnueMg9rikC08.jpg",
+      "Name": "New Trial"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/e1PxgUHQ3KRjVM7Dp6TVVfJOaQY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/e1PxgUHQ3KRjVM7Dp6TVVfJOaQY.jpg",
+      "Name": "New Trial"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3YzkTfc8wgACf2Jev0c7wNlk08M.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3YzkTfc8wgACf2Jev0c7wNlk08M.jpg",
+      "Name": "New Trial"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cyb8jyPLqGxItaHN8wxRVx7fEXf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cyb8jyPLqGxItaHN8wxRVx7fEXf.jpg",
+      "Name": "New Trial"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mIZJ9zgyrPEvjKgFX7lhH6wkKQA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mIZJ9zgyrPEvjKgFX7lhH6wkKQA.jpg",
+      "Name": "New Trial"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cZXEx8JOxCJmioE8tuQjfGT34bf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cZXEx8JOxCJmioE8tuQjfGT34bf.jpg",
+      "Name": "New Trial"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AoBhrEXEuxKKtu3790f2Hb2heMO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AoBhrEXEuxKKtu3790f2Hb2heMO.jpg",
+      "Name": "New Trial"
+    }
+  ],
+  "Links": [],
+  "Intro": "A taxi driver is found dead, and Hyun-woo, the only witness, charged with a murder and serves 10 years in prison. While offering pro bono services, a lawyer Junyoung meets Hyun-woo, and they begin their journey to prove his innocence.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/jpOCFWIEu9vsC343JuCQ8TYIbIw-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/trej8YpVLx0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/new-trial/",
+  "Name": "New Trial"
+}

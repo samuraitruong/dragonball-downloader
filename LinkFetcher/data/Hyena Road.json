@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hkiDD71qXOGvwWXBsN8uQLSHAyH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hkiDD71qXOGvwWXBsN8uQLSHAyH.jpg ",
+      "Name": "Hyena Road"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2F120XQRwoaXM7airfslRJtExJP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2F120XQRwoaXM7airfslRJtExJP.jpg ",
+      "Name": "Hyena Road"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u96WwpS66yUG3rmcoNOQNSMLo2g.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u96WwpS66yUG3rmcoNOQNSMLo2g.jpg ",
+      "Name": "Hyena Road"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6rLcoIo0MQZbN7uSWTWbh2ge9Aw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6rLcoIo0MQZbN7uSWTWbh2ge9Aw.jpg ",
+      "Name": "Hyena Road"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/inIAI6TYKIVS7bIani4FlmaLKy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/inIAI6TYKIVS7bIani4FlmaLKy.jpg ",
+      "Name": "Hyena Road"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1wfcJjspye09zd66kwGWtwiQ0De.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1wfcJjspye09zd66kwGWtwiQ0De.jpg ",
+      "Name": "Hyena Road"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/37ARfHE20qX4nNX20opHL13HOa7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/37ARfHE20qX4nNX20opHL13HOa7.jpg ",
+      "Name": "Hyena Road"
+    }
+  ],
+  "Links": [],
+  "Intro": "Three different men, three different worlds, three different wars – all stand at the intersection of modern warfare – a murky world of fluid morality where all is not as it seems.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/m2oi1Tdz3Vpb9XoynU78SSeG4dR-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/168LvOIoUUw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/hyena-road/",
+  "Name": "Hyena Road"
+}

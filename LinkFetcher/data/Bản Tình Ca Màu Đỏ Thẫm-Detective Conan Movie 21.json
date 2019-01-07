@@ -1,21 +1,68 @@
 {
-  "Id": "movSGDFMr438058",
-  "Url": "https://fsharephim.com/movies/detective-conan-crimson-love-letter/",
-  "Name": "Bản Tình Ca Màu Đỏ Thẫm-Detective Conan Movie 21",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movsgdfmr438058-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/detective-conan-movie-21-crimson-love-letter-2017/vietnamese",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movsgdfmr438058/",
-      "Name": "Detective.Conan.Crimson.Love.Letter.2017.KORDUB.720p.HDRip.H264.mkv",
-      "Url": "https://www.fshare.vn/file/9ODI8BKPJBN36AO",
-      "Size": "3.3 GB",
-      "FileSize": 3555006091
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/raqKNnppsAHEhOptz5cQCJ7ktpX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/raqKNnppsAHEhOptz5cQCJ7ktpX.jpg ",
+      "Name": "Bản Tình Ca Màu Đỏ Thẫm-Detective Conan Movie 21 - Detective Conan: Crimson Love Letter"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kOttaFZpx9ACHgs4benVyAGQN2Q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kOttaFZpx9ACHgs4benVyAGQN2Q.jpg ",
+      "Name": "Bản Tình Ca Màu Đỏ Thẫm-Detective Conan Movie 21 - Detective Conan: Crimson Love Letter"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eOS2uSHqg6H99n9UIUvbKsTl1wL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eOS2uSHqg6H99n9UIUvbKsTl1wL.jpg ",
+      "Name": "Bản Tình Ca Màu Đỏ Thẫm-Detective Conan Movie 21 - Detective Conan: Crimson Love Letter"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cFfHhBvrLWuxb7M43sKWtqfB80H.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cFfHhBvrLWuxb7M43sKWtqfB80H.jpg ",
+      "Name": "Bản Tình Ca Màu Đỏ Thẫm-Detective Conan Movie 21 - Detective Conan: Crimson Love Letter"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eosgaTd4lmZ5omhiFEJ7noOGntf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eosgaTd4lmZ5omhiFEJ7noOGntf.jpg ",
+      "Name": "Bản Tình Ca Màu Đỏ Thẫm-Detective Conan Movie 21 - Detective Conan: Crimson Love Letter"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oqTBDu1X0ZI26J9skeUq5DbHary.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oqTBDu1X0ZI26J9skeUq5DbHary.jpg ",
+      "Name": "Bản Tình Ca Màu Đỏ Thẫm-Detective Conan Movie 21 - Detective Conan: Crimson Love Letter"
+    }
+  ],
+  "Links": [],
+  "Intro": "Detective Conan Movie 21 lấy bối cảnh tại Osaka, tựa phim lần này sẽ tập trung kể về cậu đại thám tử miền Tây Hattori Heiji và cô bạn Toyama Kazuha. Mối quan hệ của cả hai dần rơi vào căng thẳng khi có sự xuất hiện của Ouoka Momiji – cô nàng mong muốn được kết hôn cùng Hattori và là “tình địch” của Kazuha.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/shpjDVjugLMoc4Wt1eRdueH5IOf-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/bXkzfhqEKa8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/detective-conan-crimson-love-letter/",
+  "Name": "Bản Tình Ca Màu Đỏ Thẫm-Detective Conan Movie 21"
 }

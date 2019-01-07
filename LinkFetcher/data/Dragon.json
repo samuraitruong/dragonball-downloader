@@ -1,0 +1,66 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uERR7SXiL3Qafuitf3levxXxf7I.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uERR7SXiL3Qafuitf3levxXxf7I.jpg",
+      "Name": "Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9P6gNXel4fFSAY4nrObt6lOCyF6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9P6gNXel4fFSAY4nrObt6lOCyF6.jpg",
+      "Name": "Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uoiBRe147sVmEYnb2E15hgeH524.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uoiBRe147sVmEYnb2E15hgeH524.jpg",
+      "Name": "Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v4eVUC7K4vVVYQJJI5MFTHLe42g.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v4eVUC7K4vVVYQJJI5MFTHLe42g.jpg",
+      "Name": "Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cpokFRF0qBnkrKMT6xtaMMAkwFD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cpokFRF0qBnkrKMT6xtaMMAkwFD.jpg",
+      "Name": "Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cFJMQ1AgckIZmA1E4epvYz7fvH5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cFJMQ1AgckIZmA1E4epvYz7fvH5.jpg",
+      "Name": "Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f7zXuPVLmuKkXuoKV46Ni6V3EJb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f7zXuPVLmuKkXuoKV46Ni6V3EJb.jpg",
+      "Name": "Dragon"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rdk2tI71sWnrJY9xHvP5wMuAG5n.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rdk2tI71sWnrJY9xHvP5wMuAG5n.jpg",
+      "Name": "Dragon"
+    }
+  ],
+  "Links": [],
+  "Intro": "A sinful martial arts expert wants to start a new tranquil life, only to be hunted by a determined detective and his former master.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/8Ef1HBcvguFFDobgxMs8V0ISbBl-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/fe6xIOCbcR8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/dragon/",
+  "Name": "Dragon"
+}

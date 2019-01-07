@@ -1,21 +1,46 @@
 {
-  "Id": "movv9cEIc149871",
-  "Url": "https://fsharephim.com/movies/the-tale-of-the-princess-kaguya/",
-  "Name": "The Tale of the Princess Kaguya",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movv9ceic149871/",
-      "Name": "The.Tale.of.The.Princess.Kaguya.2013.1080p.BluRay.DTS.x264-NTb.mkv",
-      "Url": "https://www.fshare.vn/file/X159M4GKAG4Y",
-      "Size": "6.77 GB",
-      "FileSize": 7266746910
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movv9ceic149871-2/",
-      "Name": "The.Tale.of.The.Princess.Kaguya.2013.1080p.BluRay.DTS.x264-NTb.srt",
-      "Url": "https://www.fshare.vn/file/A132RGMKNDI8",
-      "Size": "165.54 KB",
-      "FileSize": 169510
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/upGM9LaHQGM2nc4RWWn4YJ7bYcz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/upGM9LaHQGM2nc4RWWn4YJ7bYcz.jpg",
+      "Name": "The Tale of the Princess Kaguya"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uIhEU2VUVgez3tKyPmMG9pf1q0g.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uIhEU2VUVgez3tKyPmMG9pf1q0g.jpg",
+      "Name": "The Tale of the Princess Kaguya"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/biaKCrjsx0e9mPJv1xK6sZZwOWQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/biaKCrjsx0e9mPJv1xK6sZZwOWQ.jpg",
+      "Name": "The Tale of the Princess Kaguya"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2sQ9FYvkIS8TYSvD3tUJahI5OQ4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2sQ9FYvkIS8TYSvD3tUJahI5OQ4.jpg",
+      "Name": "The Tale of the Princess Kaguya"
+    }
+  ],
+  "Links": [],
+  "Intro": "Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady. The mysterious young princess enthralls all who encounter her &#8211; but ultimately she must confront her fate, the punishment for her crime.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/11Az4sMt1C9sm8atgB199Z0BsIQ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/tM6hcHp0_kU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-tale-of-the-princess-kaguya/",
+  "Name": "The Tale of the Princess Kaguya"
 }

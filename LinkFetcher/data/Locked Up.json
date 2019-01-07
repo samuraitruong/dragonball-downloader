@@ -1,0 +1,31 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cdHLTOvEhM7S9p3I4thHt4Fdfrn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cdHLTOvEhM7S9p3I4thHt4Fdfrn.jpg",
+      "Name": "Locked Up"
+    }
+  ],
+  "Links": [],
+  "Intro": "When an American teenager gets bullied at her school in Southeast Asia, she fights back&#8211;and gets sent to a reform school. But the &#8220;school&#8221; is more like a prison, and the young teenager must fend off predatory guards and menacing gangs to survive",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/tzYJ9X9oVybCIVAaTOUFHVwcjXo-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/1Wnap8ICi2g?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/locked-up/",
+  "Name": "Locked Up"
+}

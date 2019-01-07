@@ -1,0 +1,75 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/prGcR88VZWi7HsRyTdIJRjmHSgC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/prGcR88VZWi7HsRyTdIJRjmHSgC.jpg ",
+      "Name": "Tàu Ngầm U-571 - U-571"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/as18FNIAjERV0aZtEafOMwaRd29.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/as18FNIAjERV0aZtEafOMwaRd29.jpg ",
+      "Name": "Tàu Ngầm U-571 - U-571"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f09GQOegzyjRUhngL4T6niaWlLX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f09GQOegzyjRUhngL4T6niaWlLX.jpg ",
+      "Name": "Tàu Ngầm U-571 - U-571"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dBi0LWi2Z6q0grQKPjyh79Hb9MW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dBi0LWi2Z6q0grQKPjyh79Hb9MW.jpg ",
+      "Name": "Tàu Ngầm U-571 - U-571"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1aBayYB1PeZtWSbOknXNaiu47qG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1aBayYB1PeZtWSbOknXNaiu47qG.jpg ",
+      "Name": "Tàu Ngầm U-571 - U-571"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bIbgTBap4Z4DuZDpzNZAoru8UWu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bIbgTBap4Z4DuZDpzNZAoru8UWu.jpg ",
+      "Name": "Tàu Ngầm U-571 - U-571"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tm2yquUFGoWR4bfktXeNZtW1yFd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tm2yquUFGoWR4bfktXeNZtW1yFd.jpg ",
+      "Name": "Tàu Ngầm U-571 - U-571"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cdNNm9sUjwWSsa0Ob9WLdmU3NIi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cdNNm9sUjwWSsa0Ob9WLdmU3NIi.jpg ",
+      "Name": "Tàu Ngầm U-571 - U-571"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1qXwHQNmdTBVspSoSE4QBimjg50.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1qXwHQNmdTBVspSoSE4QBimjg50.jpg ",
+      "Name": "Tàu Ngầm U-571 - U-571"
+    }
+  ],
+  "Links": [],
+  "Intro": "Adrew Tyler là một sĩ quan hải quân trẻ tuổi, đẹp trai và nhiều tham vọng, luôn mơ ước được chỉ huy S-33, một chiếc tàu ngầm WWI cũ kỹ của Mỹ. Và mơ ước ấy đã được thực hiện khi chiến tranh thế giới hai bùng nổ và các trận thủy chiến trở nên khốc liệt và tàn bạo nhất. Lúc này, quân Đức đang có nhiều lợi thế vì đối thủ của họ không có khả năng bẻ các mã bảo vệ Enigma, một thiết bị có giá trị tuyệt đối trong việc giúp họ chống lại những cuộc tấn công trên biển.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/6zdPIbSF9vxCBZpntNvishPo5ol-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/2imOf6-H3tI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/u-571/",
+  "Name": "Tàu Ngầm U-571"
+}

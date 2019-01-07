@@ -1,0 +1,63 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8EYj7lENYgLab54yuGP7X4EWOA9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8EYj7lENYgLab54yuGP7X4EWOA9.jpg",
+      "Name": "Sling Blade"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mrCNNMHsH4OcPCvXgP9HrhiZFVu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mrCNNMHsH4OcPCvXgP9HrhiZFVu.jpg",
+      "Name": "Sling Blade"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sVrf4X4918rYDEfApDtf2qNfwY5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sVrf4X4918rYDEfApDtf2qNfwY5.jpg",
+      "Name": "Sling Blade"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gPRcSGq5TRmNUSUJFS8naR1bf4d.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gPRcSGq5TRmNUSUJFS8naR1bf4d.jpg",
+      "Name": "Sling Blade"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/x8UTkysNkMvZ4FYCUn5bWK6iTDi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/x8UTkysNkMvZ4FYCUn5bWK6iTDi.jpg",
+      "Name": "Sling Blade"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ad2IeXZBeAviHi9wPk9AXuwPPEe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ad2IeXZBeAviHi9wPk9AXuwPPEe.jpg",
+      "Name": "Sling Blade"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/475TSL5QiSitkkEHFuiaY3VOFxn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/475TSL5QiSitkkEHFuiaY3VOFxn.jpg",
+      "Name": "Sling Blade"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zqR8bH9As45bC9GV1tEsSy7lpLS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zqR8bH9As45bC9GV1tEsSy7lpLS.jpg",
+      "Name": "Sling Blade"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/clQd9ZPrjeMYDM8u4OtdRGWQnBh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/clQd9ZPrjeMYDM8u4OtdRGWQnBh.jpg",
+      "Name": "Sling Blade"
+    }
+  ],
+  "Links": [],
+  "Intro": "Karl Childers is a mentally disabled man who has been in the custody of the state mental hospital since the age of 12 for killing his mother and her lover. Although thoroughly institutionalized, Karl is deemed fit to be released into the outside world.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/tUQRe2VQWdiIdSjpD28w7Rm8Ccb-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/-RLVfo4SZfg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/sling-blade/",
+  "Name": "Sling Blade"
+}

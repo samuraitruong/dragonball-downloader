@@ -1,0 +1,41 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zXhIuHvcQHcZiSZrrgKSH82iIkb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zXhIuHvcQHcZiSZrrgKSH82iIkb.jpg",
+      "Name": "Cú Lừa Ngoạn Mục - Beyond the Edge"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1btUYcOIfh5JrKPhLh2HlbzsgCa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1btUYcOIfh5JrKPhLh2HlbzsgCa.jpg",
+      "Name": "Cú Lừa Ngoạn Mục - Beyond the Edge"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dsZQDb76SK2dL0JXShxZ48z3sIq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dsZQDb76SK2dL0JXShxZ48z3sIq.jpg",
+      "Name": "Cú Lừa Ngoạn Mục - Beyond the Edge"
+    }
+  ],
+  "Links": [],
+  "Intro": "Tay cờ bạc nhiều mánh khóe Michael tập hợp một biêt đội với siêu năng lực khác nhau để đánh cược một ván bài để đời ở casino nhưng lại chạm trán phải Gordon – một bậc thầy siêu năng lực vô cùng đáng gờm. Liệu họ có thành công trong canh bạc này? Và sự thật đằng sau đó là gì? Hãy cùng theo dõi những pha lừa đảo vô cùng gay cấn trong cuộc so tài này.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/5Z2dd7od8UW6fhak25AWdRNbHx3-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/beyond-the-edge/",
+  "Name": "Cú Lừa Ngoạn Mục"
+}

@@ -1,0 +1,66 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zda3EYoToeF0We2UhxxPF9NenVd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zda3EYoToeF0We2UhxxPF9NenVd.jpg",
+      "Name": "Crazy Heart"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gN0YZOzBX7eWDPx7UaiCjgohEYQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gN0YZOzBX7eWDPx7UaiCjgohEYQ.jpg",
+      "Name": "Crazy Heart"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lin7ugblmPrEOsQn64vsR8dzyHy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lin7ugblmPrEOsQn64vsR8dzyHy.jpg",
+      "Name": "Crazy Heart"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9atfEOhhjXKGackeA5ryupgUJ8U.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9atfEOhhjXKGackeA5ryupgUJ8U.jpg",
+      "Name": "Crazy Heart"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a1mmbW5rC1BgnEtH2J7hkdczT0K.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a1mmbW5rC1BgnEtH2J7hkdczT0K.jpg",
+      "Name": "Crazy Heart"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wx9ba0GjYCM6NFVzTEBUegZcjoo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wx9ba0GjYCM6NFVzTEBUegZcjoo.jpg",
+      "Name": "Crazy Heart"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zoFGdMbMTF19YGaWnZCHOa21HYi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zoFGdMbMTF19YGaWnZCHOa21HYi.jpg",
+      "Name": "Crazy Heart"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/j0kSN629L9hvtgAxmVGvM7CK198.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/j0kSN629L9hvtgAxmVGvM7CK198.jpg",
+      "Name": "Crazy Heart"
+    }
+  ],
+  "Links": [],
+  "Intro": "When reporter Jean Craddock interviews Bad Blake &#8212; an alcoholic, seen-better-days country music legend &#8212; they connect, and the hard-living crooner sees a possible saving grace in a life with Jean and her young son. But can he leave behind an existence playing in the shadow of Tommy, the upstart kid he once mentored?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/tUyhwp36YykNKpqpEfauCavuDbK-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Y0349E7kFEM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/crazy-heart/",
+  "Name": "Crazy Heart"
+}

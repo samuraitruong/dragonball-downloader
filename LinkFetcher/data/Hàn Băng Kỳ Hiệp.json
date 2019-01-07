@@ -1,0 +1,35 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ngoai-quoc/",
+      "Name": "Ngoại Quốc"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xOHFzkMfNI7s5uqBnIT4bI6yCGW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xOHFzkMfNI7s5uqBnIT4bI6yCGW.jpg ",
+      "Name": "Hàn Băng Kỳ Hiệp - The Iceman Cometh"
+    }
+  ],
+  "Links": [],
+  "Intro": "Một người bảo vệ hoàng gia đóng băng của nhà Minh và tên sát thủ lạnh lùng lạnh lùng của anh ta đang theo dõi được giải tán trong Hồng Kông hiện đại.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/sR8e4h9C3H3ayyJgEGpNIVrC5Jl-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/aEAJC5JoXP0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-iceman-cometh/",
+  "Name": "Hàn Băng Kỳ Hiệp"
+}

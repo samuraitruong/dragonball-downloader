@@ -1,0 +1,53 @@
+{
+  "Id": "movBt4k28360924",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vjLeUoKO3k6auFQMaFgrzt8fmQA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vjLeUoKO3k6auFQMaFgrzt8fmQA.jpg",
+      "Name": "Red Billabong - Red Billabong"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/Ae34zPOciR9H0Q6biOHjtbpnlUl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/Ae34zPOciR9H0Q6biOHjtbpnlUl.jpg",
+      "Name": "Red Billabong - Red Billabong"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movbt4k28360924/",
+      "Size": "4.4 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/WIJVJRY816FGMKP",
+      "Name": "720p"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movbt4k28360924-2/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/red-billabong",
+      "Name": "Subtitle"
+    }
+  ],
+  "Intro": null,
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/fG9MgBi7qPqAGsZlNAhDE0C0XuV-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/5dEg-OCslC8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/red-billabong/",
+  "Name": "Red Billabong"
+}

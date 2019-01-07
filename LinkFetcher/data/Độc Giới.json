@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4O3TaqxNUYgTpuRqbHhs9YDo9xn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4O3TaqxNUYgTpuRqbHhs9YDo9xn.jpg ",
+      "Name": "Độc Giới - Dealer/Healer"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AvTm7UMYgozsz6haA2EVevKDh3s.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AvTm7UMYgozsz6haA2EVevKDh3s.jpg ",
+      "Name": "Độc Giới - Dealer/Healer"
+    }
+  ],
+  "Links": [],
+  "Intro": "Chen Hua, lãnh đạo của một băng đảng khét tiếng, đã mất gia đình và người yêu của mình. Anh ta cũng bị kết án tù vì lạm dụng ma túy và buôn người. Khi mãn hạn tù, anh ra tù và giúp đỡ những con người lạc lối. Vì những cống hiến của mình, anh được đặt biệt danh là The Fixer. Thế nhưng, dù giỏi giải quyết vấn đề của người khác, Chen rất chật vật khi giải quyết những vấn đề của chính mình.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/g70mZhcWEfIuAKONcfgjRN92ma1-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Ar5yFvft2G0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/dealerhealer/",
+  "Name": "Độc Giới"
+}

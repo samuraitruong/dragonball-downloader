@@ -1,21 +1,31 @@
 {
-  "Id": "movzthAP926945",
-  "Url": "https://fsharephim.com/movies/cardcaptor-sakura-the-movie/",
-  "Name": "Thủ Lĩnh Thẻ Bài",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movzthap926945/",
-      "Name": "WEB-DL - 1080p - Vie",
-      "Url": "https://www.fshare.vn/file/YPGVQQAVCPB7",
-      "Size": "4.41 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movzthap926945-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/cardcaptor-sakura-the-movie-gekijban-kdokyaput-sakura",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/p64r80baB2Jz3F9HQSqfMUdkZlA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/p64r80baB2Jz3F9HQSqfMUdkZlA.jpg",
+      "Name": "Thủ Lĩnh Thẻ Bài - Cardcaptor Sakura: The Movie"
+    }
+  ],
+  "Links": [],
+  "Intro": "Câu chuyện xoay quanh Kinomoto Sakura, một học sinh tiểu học tình cờ phát hiện ra mình đang nắm giữ một sức mạnh kì diệu sau khi vô tình giải phóng một bộ thẻ bài ma thuật đã được niêm phong nhiều năm trong một quyển sách. Sau đó cô được giao nhiệm vụ phải thu phục lại tất cả các thẻ bài đã chạy thoát nhằm ngăn chặn chúng phá hủy thế giới.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/JtbSzDF3XVWp3eoMVckmwqZFye-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/8tEW5hqcpSc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/cardcaptor-sakura-the-movie/",
+  "Name": "Thủ Lĩnh Thẻ Bài"
 }

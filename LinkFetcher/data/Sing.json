@@ -1,77 +1,84 @@
 {
-  "Id": "movFVohhx335797",
-  "Url": "https://fsharephim.com/movies/sing/",
-  "Name": "Sing",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movfvohhx335797-10/",
-      "Name": "Sing 2016 2160p UltraHD Blu-ray HDR HEVC Atmos 7.1-TERMiNAL.iso",
-      "Url": "https://www.fshare.vn/file/9ADREGUK2AYOCB8",
-      "Size": "51.3 GB",
-      "FileSize": 55045914624
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movfvohhx335797-9/",
-      "Name": "Sing.2016.1080p.3D.ViE.BluRay.Half-OU.x264.TrueHD.7.1.Atmos-FGT.srt",
-      "Url": "https://www.fshare.vn/file/P9T3NRMIFC4D5C1",
-      "Size": "125.6 KB",
-      "FileSize": 128638
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movfvohhx335797-8/",
-      "Name": "Sing.2016.1080p.3D.ViE.BluRay.Half-OU.x264.TrueHD.7.1.Atmos-FGT.mkv",
-      "Url": "https://www.fshare.vn/file/8AHAN8UALWJL6R3",
-      "Size": "17.6 GB",
-      "FileSize": 18900729451
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movfvohhx335797-7/",
-      "Name": "Sing.2016.HSBS.3D.1080p.BluRay.DD5.1.2Audio.x264-HDS3D.mkv",
-      "Url": "https://www.fshare.vn/file/M4D8SZDKHHOMU5U",
-      "Size": "10.4 GB",
-      "FileSize": 11119552702
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movfvohhx335797-6/",
-      "Name": "Sing.2016.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT.mkv",
-      "Url": "https://www.fshare.vn/file/P47BN5FHTGHR69J",
-      "Size": "32.0 GB",
-      "FileSize": 34359355034
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movfvohhx335797-5/",
-      "Name": "Sing.2016.BluRay.1080p.AVC.Atmos.TrueHD7.1-CHDBits.iso",
-      "Url": "https://www.fshare.vn/file/YKM5K4MKM5K82DF",
-      "Size": "43.3 GB",
-      "FileSize": 46473740288
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movfvohhx335797-4/",
-      "Name": "Sing.2016.BluRay.1080p.DD5.1.2Audio.x264-CHD.mkv",
-      "Url": "https://www.fshare.vn/file/DV17OLLVF8LZZN3",
-      "Size": "10.8 GB",
-      "FileSize": 11640529267
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movfvohhx335797-3/",
-      "Name": "Sing.2016.BluRay.1080p.TrueHD7.1.x264-MTeam.mkv",
-      "Url": "https://www.fshare.vn/file/1BBCH65XXM1XEW1",
-      "Size": "12.8 GB",
-      "FileSize": 13722925885
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movfvohhx335797-2/",
-      "Name": "Sing.2016.720p.BluRay.DTS-ES.6.1.x264-HDChina.mkv",
-      "Url": "https://www.fshare.vn/file/ZZNYPA3AXJK132S",
-      "Size": "6.9 GB",
-      "FileSize": 7397620810
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movfvohhx335797/",
-      "Name": "Sing.2016.720-SPARKS.mkv",
-      "Url": "https://www.fshare.vn/file/PQAYQGTITDZP",
-      "Size": "2.6 GB",
-      "FileSize": 2841231647
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/usJKCEMXV3tECgIJj8ZTEndmY2E.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/usJKCEMXV3tECgIJj8ZTEndmY2E.jpg ",
+      "Name": "Sing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qZg9UC3DF7iN2THd3DCO6fCUIsN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qZg9UC3DF7iN2THd3DCO6fCUIsN.jpg ",
+      "Name": "Sing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nVqaCT65zKYZL1EqcOwrZikCXMP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nVqaCT65zKYZL1EqcOwrZikCXMP.jpg ",
+      "Name": "Sing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fxDXp8un4qNY9b1dLd7SH6CKzC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fxDXp8un4qNY9b1dLd7SH6CKzC.jpg ",
+      "Name": "Sing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/s81LxtnpgEc2xWh4DWe3u0uRcpc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/s81LxtnpgEc2xWh4DWe3u0uRcpc.jpg ",
+      "Name": "Sing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zyCIbMZR9LfHwPyisg5dH1Zs5hJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zyCIbMZR9LfHwPyisg5dH1Zs5hJ.jpg ",
+      "Name": "Sing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wN3lOTBX6IvD29R6cX1a38NKjvr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wN3lOTBX6IvD29R6cX1a38NKjvr.jpg ",
+      "Name": "Sing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/unTdRPiLGCHj8cd1dLxE3tTNJIt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/unTdRPiLGCHj8cd1dLxE3tTNJIt.jpg ",
+      "Name": "Sing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lChpl17cnyyuwZYFrWqyMn30ahN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lChpl17cnyyuwZYFrWqyMn30ahN.jpg ",
+      "Name": "Sing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/srpt7oa3AmmJXd2K5x9ZVzmV0I3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/srpt7oa3AmmJXd2K5x9ZVzmV0I3.jpg ",
+      "Name": "Sing"
+    }
+  ],
+  "Links": [],
+  "Intro": "A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/03/s9ye87pvq2IaDvjv9x4IOXVjvA7-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Zvjmt4pwtdg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/sing/",
+  "Name": "Sing"
 }

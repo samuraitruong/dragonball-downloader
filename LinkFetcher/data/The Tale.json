@@ -1,0 +1,41 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5jG68mfRxeOeA2Kqwh8QRan2v8C.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5jG68mfRxeOeA2Kqwh8QRan2v8C.jpg",
+      "Name": "The Tale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kLIn55qJLJFGW7qBMlX2vBHJhH3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kLIn55qJLJFGW7qBMlX2vBHJhH3.jpg",
+      "Name": "The Tale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bMJ0h7EiLxtUq8Bd6KeZeQkV9Dn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bMJ0h7EiLxtUq8Bd6KeZeQkV9Dn.jpg",
+      "Name": "The Tale"
+    }
+  ],
+  "Links": [],
+  "Intro": "An investigation into one woman’s memory as she‘s forced to re-examine her first sexual relationship and the stories we tell ourselves in order to survive.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/aguq47xq3qhN807rSyz4lJyhAkX-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Af6VbPT5O4k?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-tale/",
+  "Name": "The Tale"
+}

@@ -1,0 +1,53 @@
+{
+  "Id": "movthJkJB39751",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1G1GKTyC7lKy25PXJfZ8SLs7Hsa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1G1GKTyC7lKy25PXJfZ8SLs7Hsa.jpg",
+      "Name": "Hầu Tửu Quyền - Drunken Monkey"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nSKxelCWvOfzeYBWNeQFVm67wvH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nSKxelCWvOfzeYBWNeQFVm67wvH.jpg",
+      "Name": "Hầu Tửu Quyền - Drunken Monkey"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movthjkjb39751/",
+      "Size": "2 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://beta.fshare.vn/file/PGUNGZFUPO3Z",
+      "Name": "HD"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movthjkjb39751-2/",
+      "Size": "2.32 GB",
+      "FileSize": 2488597225,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/WYV9CP8SY5MD",
+      "Name": "Drunken.Monkey.2003.VIE.DVDRip.AC3.x264.mkv"
+    }
+  ],
+  "Intro": "Ca Thủ là công tử của thương gia họ Trần chốn kinh thành. Y không ham chữ nghĩa, chỉ yêu thích hội họa, đặc biệt là khát khao xuất bản cuốn sách vẽ thế võ hầu quyền lưu danh trong thiên hạ. Tuấn là một thanh niên có thân thể dẻo dai, cường tráng, đam mê luyện võ.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/bYzOMdPckWSUgjNrqgAvoUEBduj-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/drunken-monkey/",
+  "Name": "Hầu Tửu Quyền"
+}

@@ -1,0 +1,520 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z4XqAuOsokSUfEN3aPQs5pmuGDw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z4XqAuOsokSUfEN3aPQs5pmuGDw.jpg",
+      "Name": "Weightlifting Fairy Kim Bok-Joo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2PNahk4ZSdqac4URhR4qv0dHD0u.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2PNahk4ZSdqac4URhR4qv0dHD0u.jpg",
+      "Name": "Weightlifting Fairy Kim Bok-Joo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/s6k1teuMVH01038PhjpvgX4dmht.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/s6k1teuMVH01038PhjpvgX4dmht.jpg",
+      "Name": "Weightlifting Fairy Kim Bok-Joo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nzOTUs02sTkCHr1Vk59OilfMi6m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nzOTUs02sTkCHr1Vk59OilfMi6m.jpg",
+      "Name": "Weightlifting Fairy Kim Bok-Joo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iiNGdhIgbpWWJEE8woiCIsNY48Z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iiNGdhIgbpWWJEE8woiCIsNY48Z.jpg",
+      "Name": "Weightlifting Fairy Kim Bok-Joo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sFaencxeTjKu5lE3ms4Anc20sHV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sFaencxeTjKu5lE3ms4Anc20sHV.jpg",
+      "Name": "Weightlifting Fairy Kim Bok-Joo"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x16/",
+      "Name": "Episode 16"
+    }
+  ],
+  "Intro": "What else could there be to life than barbells and heavy weights? Kim Bok Joo is a weightlifting phenom who has only focused on barbells her entire life while growing up with her father, Kim Chang Gul, is a former weightlifter. She attends Hanwool College of Physical Education, a university full of top-notch athletes who are driven to succeed in the hopes of representing their country in national and international competitions. Her best friend is Jang Joon Hyung, a competitive swimmer who is having trouble recovering from the trauma of being disqualified for a false start in his first international swim competition. Song Shi Ho is a fiercely competitive rhythmic gymnast who won a silver medal at the Asian Games when she was 18, but the pressures of her sport drive her to break up with Joon Hyung. Bok Joo’s tunnel-vision life starts to change when she falls in love with Joon Hyung’s older cousin, Jung Jae Yi, a former athlete who became an obesity doctor after suffering a career-ending injury. Will Bok Joo learn that there is more to life than weightlifting?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/4CrTjZ5MYdF5dtSockIStCkiX5C-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/FKpPKqEg2Pc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": "tvozCxJV1232974",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvozcxjv1232974/",
+              "Size": "11.3 KB",
+              "FileSize": 11575,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/59KSY7TAPFNR",
+              "Name": "[K-Zone].Weightlifting.Fairy.Kim.Bok.Joo.E01.HD.KITES.VN.mkv.torrent"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x1/",
+          "Name": "Weightlifting Fairy Kim Bok-Joo 1x1"
+        },
+        {
+          "Id": "tvozCxJV1247917",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvozcxjv1247917/",
+              "Size": "11.2 KB",
+              "FileSize": 11475,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/MPCDKGASSFDD",
+              "Name": "[K-Zone].Weightlifting.Fairy.Kim.Bok.Joo.E10.HD.KITES.VN.mkv.torrent"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x10/",
+          "Name": "Weightlifting Fairy Kim Bok-Joo 1x10"
+        },
+        {
+          "Id": "tvozCxJV1247918",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvozcxjv1247918/",
+              "Size": "21.0 KB",
+              "FileSize": 21455,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/9WLZV4MLT1FR",
+              "Name": "[K-Zone].Weightlifting.Fairy.Kim.Bok.Joo.E11.HD.KITES.VN.mkv.torrent"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x11/",
+          "Name": "Weightlifting Fairy Kim Bok-Joo 1x11"
+        },
+        {
+          "Id": "tvozCxJV1247919",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvozcxjv1247919/",
+              "Size": "21.0 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/YO7QTNJF8KWJ",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x12/",
+          "Name": "Weightlifting Fairy Kim Bok-Joo 1x12"
+        },
+        {
+          "Id": "tvozCxJV1247920",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvozcxjv1247920/",
+              "Size": "21.0 KB",
+              "FileSize": 21455,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/CTR55ZB8ZZPA",
+              "Name": "[K-Zone].Weightlifting.Fairy.Kim.Bok.Joo.E13.HD.KITES.VN.mkv.torrent"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x13/",
+          "Name": "Weightlifting Fairy Kim Bok-Joo 1x13"
+        },
+        {
+          "Id": "tvozCxJV1247921",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvozcxjv1247921/",
+              "Size": "11.5 KB",
+              "FileSize": 11795,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/3Y96TD3YESGP",
+              "Name": "[K-Zone].Weightlifting.Fairy.Kim.Bok.Joo.E14.HD.KITES.VN.mkv.torrent"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x14/",
+          "Name": "Weightlifting Fairy Kim Bok-Joo 1x14"
+        },
+        {
+          "Id": "tvozCxJV1250730",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvozcxjv1250730/",
+              "Size": "11.5 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/W5NN1W6UJT9K",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x15/",
+          "Name": "Weightlifting Fairy Kim Bok-Joo 1x15"
+        },
+        {
+          "Id": "tvozCxJV1255330",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvozcxjv1255330/",
+              "Size": "11.2 KB",
+              "FileSize": 11499,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/SY6QVWLZZN23",
+              "Name": "[K-Zone].Weightlifting.Fairy.Kim.Bok.Joo.E16.END.HD.KITES.VN.mkv.torrent"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x16/",
+          "Name": "Weightlifting Fairy Kim Bok-Joo 1x16"
+        },
+        {
+          "Id": "tvozCxJV1240408",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvozcxjv1240408/",
+              "Size": "11.2 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/MQLF41H2KF7E",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x2/",
+          "Name": "Weightlifting Fairy Kim Bok-Joo 1x2"
+        },
+        {
+          "Id": "tvozCxJV1240409",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvozcxjv1240409/",
+              "Size": "21.0 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/IGHQYDO3ZJHH",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x3/",
+          "Name": "Weightlifting Fairy Kim Bok-Joo 1x3"
+        },
+        {
+          "Id": "tvozCxJV1240410",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvozcxjv1240410/",
+              "Size": "21.0 KB",
+              "FileSize": 21555,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/6R1I774OSNMX",
+              "Name": "[K-Zone].Weightlifting.Fairy.Kim.Bok.Joo.E04.HD.KITES.VN.mkv.torrent"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x4/",
+          "Name": "Weightlifting Fairy Kim Bok-Joo 1x4"
+        },
+        {
+          "Id": "tvozCxJV1240411",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvozcxjv1240411/",
+              "Size": "21.0 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/MH9KS1H3NPFM",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x5/",
+          "Name": "Weightlifting Fairy Kim Bok-Joo 1x5"
+        },
+        {
+          "Id": "tvozCxJV1240412",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvozcxjv1240412/",
+              "Size": "11.7 KB",
+              "FileSize": 11995,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/BMWG8JOLODH3",
+              "Name": "[K-Zone].Weightlifting.Fairy.Kim.Bok.Joo.E06.HD.KITES.VN.mkv.torrent"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x6/",
+          "Name": "Weightlifting Fairy Kim Bok-Joo 1x6"
+        },
+        {
+          "Id": "tvozCxJV1240413",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvozcxjv1240413/",
+              "Size": "11.2 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/V4KAHAPEMLVB",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x7/",
+          "Name": "Weightlifting Fairy Kim Bok-Joo 1x7"
+        },
+        {
+          "Id": "tvozCxJV1240414",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvozcxjv1240414/",
+              "Size": "11.4 KB",
+              "FileSize": 11655,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/PJBN21O357BM",
+              "Name": "[K-Zone].Weightlifting.Fairy.Kim.Bok.Joo.E08.HD.KITES.VN.mkv.torrent"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x8/",
+          "Name": "Weightlifting Fairy Kim Bok-Joo 1x8"
+        },
+        {
+          "Id": "tvozCxJV1247544",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvozcxjv1247544/",
+              "Size": "11.2 KB",
+              "FileSize": 11475,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/I5WSY93DDEMO",
+              "Name": "[K-Zone].Weightlifting.Fairy.Kim.Bok.Joo.E09.HD.KITES.VN.mkv.torrent"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/weightlifting-fairy-kim-bok-joo-1x9/",
+          "Name": "Weightlifting Fairy Kim Bok-Joo 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Nov. 16, 2016"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/weightlifting-fairy-kim-bok-joo/",
+  "Name": "Weightlifting Fairy Kim Bok-Joo"
+}

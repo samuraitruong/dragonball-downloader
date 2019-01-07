@@ -1,21 +1,84 @@
 {
-  "Id": "movTiKWXC137106",
-  "Url": "https://fsharephim.com/movies/the-lego-movie/",
-  "Name": "Câu Chuyện Lego",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movtikwxc137106/",
-      "Name": "The.Lego.Movie.2014.mkv",
-      "Url": "https://www.fshare.vn/file/TZ99F795RT",
-      "Size": "2.25 GB",
-      "FileSize": 2412851329
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movtikwxc137106-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/the-lego-movie",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wPRiV4TVpRCV2es81q0S1eRaUbm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wPRiV4TVpRCV2es81q0S1eRaUbm.jpg",
+      "Name": "Câu Chuyện Lego - The Lego Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pRzRLs9U7il4ZXMR03GQKQ8Jz3h.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pRzRLs9U7il4ZXMR03GQKQ8Jz3h.jpg",
+      "Name": "Câu Chuyện Lego - The Lego Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ef7HMjpN36vrgwrkTmtVasbU3Xo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ef7HMjpN36vrgwrkTmtVasbU3Xo.jpg",
+      "Name": "Câu Chuyện Lego - The Lego Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6zlChPjzUuEUW5x5sR2MNnDxH39.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6zlChPjzUuEUW5x5sR2MNnDxH39.jpg",
+      "Name": "Câu Chuyện Lego - The Lego Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zQmW1VNDnbdpHfRIYk7CGHuB3vK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zQmW1VNDnbdpHfRIYk7CGHuB3vK.jpg",
+      "Name": "Câu Chuyện Lego - The Lego Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xpVGJE8wlfkYN4vIHkzeHY8GCx9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xpVGJE8wlfkYN4vIHkzeHY8GCx9.jpg",
+      "Name": "Câu Chuyện Lego - The Lego Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5o7KgoemPjLwMBvlOoo1KQoPcR5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5o7KgoemPjLwMBvlOoo1KQoPcR5.jpg",
+      "Name": "Câu Chuyện Lego - The Lego Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bUZZJLSuQnyrYxppMoI4OGwYzQW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bUZZJLSuQnyrYxppMoI4OGwYzQW.jpg",
+      "Name": "Câu Chuyện Lego - The Lego Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qTr4iO0mfpVYs8pZiQuiWcYvU0O.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qTr4iO0mfpVYs8pZiQuiWcYvU0O.jpg",
+      "Name": "Câu Chuyện Lego - The Lego Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7Pbg2LfHXhoZaU5uTGkrJ77QHHG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7Pbg2LfHXhoZaU5uTGkrJ77QHHG.jpg",
+      "Name": "Câu Chuyện Lego - The Lego Movie"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim sẽ theo chân Emmet – một nhân vật LEGO tí hon bình thường bất ngờ bị ngộ nhận là một trong những siêu nhân phi thường đang nắm giữ chìa khóa vận mệnh của cả thế giới. Emmet sẽ bị cuốn vào một đoàn người kỳ lạ trong một chuyến phiêu lưu huyền thoại nhằm ngăn chặn một tên độc tài xấu xa, chuyến đi dở khóc dở cười với vô vàn những tình huống bi hài ngoài dự liệu&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/lMHbadNmznKs5vgBAkHxKGHulOa-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/VQA8kJLTJHs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-lego-movie/",
+  "Name": "Câu Chuyện Lego"
 }

@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5JTDqoWfxwVu3wuTIlUqxmSu0uM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5JTDqoWfxwVu3wuTIlUqxmSu0uM.jpg ",
+      "Name": "The Kissing Booth"
+    }
+  ],
+  "Links": [],
+  "Intro": "When teenager Elle&#8217;s first kiss leads to a forbidden romance with the hottest boy in high school, she risks her relationship with her best friend.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/67loVKGh0DrW5HLwv9ZZ0VTytNA-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/xf_RtB6oBvA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-kissing-booth/",
+  "Name": "The Kissing Booth"
+}

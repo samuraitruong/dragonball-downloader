@@ -1,14 +1,42 @@
 {
   "Id": "mov2VhBT7303903",
-  "Url": "https://fsharephim.com/movies/pokemon-the-movie-diancie-and-the-cocoon-of-destruction/",
-  "Name": "Pokémon the Movie: Diancie and the Cocoon of Destruction",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AfaIZxKXk4z33PcHEq2PAngxk3d.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AfaIZxKXk4z33PcHEq2PAngxk3d.jpg",
+      "Name": "Pokémon the Movie: Diancie and the Cocoon of Destruction"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mAq66sNa6AWjWxPtLYiYrR1NVut.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mAq66sNa6AWjWxPtLYiYrR1NVut.jpg",
+      "Name": "Pokémon the Movie: Diancie and the Cocoon of Destruction"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sHZJQ7IAIPbreAMw3LWiIo9JKtm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sHZJQ7IAIPbreAMw3LWiIo9JKtm.jpg",
+      "Name": "Pokémon the Movie: Diancie and the Cocoon of Destruction"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/mov2vhbt7303903/",
-      "Name": "2014.Pokemon.Diancie.and.the.Cocoon.of.Destruction.Bluray.VIE.1080p.AVC.DD.2.0.mkv",
-      "Url": "https://www.fshare.vn/file/MCICXBICU2EL",
       "Size": "14.46 GB",
-      "FileSize": 15523211652
+      "FileSize": 15523211652,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/MCICXBICU2EL",
+      "Name": "2014.Pokemon.Diancie.and.the.Cocoon.of.Destruction.Bluray.VIE.1080p.AVC.DD.2.0.mkv"
     }
-  ]
+  ],
+  "Intro": "In a country called &#8220;Diamond Domain&#8221; lies the powerful Heart Diamond, which has served as the kingdom&#8217;s source of energy and maintained the Ore Country for centuries. Many Carbink live in Diamond Domain, including their princess &#8211; the Jewel Pokémon, Diancie, who created the Heart Diamond. Diancie no longer has the power to control the Heart Diamond and her country is falling into chaos as a result. One day, Diancie meets with Ash and his friends and asks them to go on a journey to find the Life Pokémon, Xerneas, in order to restore the Heart Diamond. Standing in their way is the Pokémon of Destruction, Yveltal, who once stole all of the life in the Kalos Region. During their journey they are attacked by Team Rocket, as well as the jewel thieves Marilyn Flame and Ninja Riot. They are aided by Millis Steel and her father Argus, travelers who also encounter the Cocoon of Destruction.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/cvr9vbO8ISDKi8VCUMrpUuEfZjs-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/v7SS33mFv5M?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/pokemon-the-movie-diancie-and-the-cocoon-of-destruction/",
+  "Name": "Pokémon the Movie: Diancie and the Cocoon of Destruction"
 }

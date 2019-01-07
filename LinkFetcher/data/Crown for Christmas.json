@@ -1,0 +1,31 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/tv-movie/",
+      "Name": "TV Movie"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gqeVOcOEiqxYOIkLe6hMzF9nH75.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gqeVOcOEiqxYOIkLe6hMzF9nH75.jpg",
+      "Name": "Crown for Christmas"
+    }
+  ],
+  "Links": [],
+  "Intro": "After getting fired from her job as a maid at a ritzy New York City hotel, Allie reluctantly accepts a temp gig as the governess to a young girl who is part of a powerful family in Europe that lives in an actual castle. After arriving, Allie learns the girl is named Princess Theodora and her father is Maximillion, the King of Winshire. The King informs Allie that the Princess has a tendency to terrorize authority figures, a predilection that has grown worse since her mother’s death. Yet governess and Princess wind up hitting it off while at the same time a spark forms between Allie and Max. However, Countess Celia is expecting to wed the King. Will Max take a stand for his feelings for Allie and make it truly a merry Christmas for all (or at least, most)?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/d5v34mY5G4TYQnDHfPC5r7TAWPq-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/crown-for-christmas/",
+  "Name": "Crown for Christmas"
+}

@@ -1,0 +1,531 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao-khoa-hoc/",
+      "Name": "Kỳ Ảo Khoa Học"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mefIyujW7BtBd0r1uuFvKkFQsoI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mefIyujW7BtBd0r1uuFvKkFQsoI.jpg",
+      "Name": "I Hear Your Voice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uiZqKIftJ2dz6H5KvBjjuoR0JQS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uiZqKIftJ2dz6H5KvBjjuoR0JQS.jpg",
+      "Name": "I Hear Your Voice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pyyMYy8EUK1Nqv8BWgXZngcGvK6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pyyMYy8EUK1Nqv8BWgXZngcGvK6.jpg",
+      "Name": "I Hear Your Voice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/q1RYEw8hRVco1o9NpInxZQvzPPy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/q1RYEw8hRVco1o9NpInxZQvzPPy.jpg",
+      "Name": "I Hear Your Voice"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lFxGtd3bMNuvQiu7cwa5v6h4xgf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lFxGtd3bMNuvQiu7cwa5v6h4xgf.jpg",
+      "Name": "I Hear Your Voice"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x1/",
+      "Name": "I hear your voice"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x2/",
+      "Name": "Bad Girl, Good Girl"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x3/",
+      "Name": "I'll Be There"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x4/",
+      "Name": "Remember Me In The Dark"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x5/",
+      "Name": "Words that shouldn't be trusted"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x6/",
+      "Name": "Abandoned Alone By The Whole World"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x7/",
+      "Name": "Why an unhappy premonition is never wrong"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x8/",
+      "Name": "For whom am I living?"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x9/",
+      "Name": "If Even You Leave In Difficult Days"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x10/",
+      "Name": "What's the purpose of searching everywhere for a painful memory?"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x11/",
+      "Name": "I'm Sorry, I Hate You"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x12/",
+      "Name": "Memory's surprise attack"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x13/",
+      "Name": "One Word in My Heart That I Just Can't Say"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x14/",
+      "Name": "Needing Always to Remain Silent In Memory"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x15/",
+      "Name": "I'm not going to ruin anything"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x16/",
+      "Name": "The Thieving Magpie Overture"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x17/",
+      "Name": "Without Your Eyes, I Can't Even See in Front of Myself"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x18/",
+      "Name": "Through The Light in The Darkness, You Remain With Me"
+    }
+  ],
+  "Intro": "I Can Hear Your Voice is a 2013 South Korean television series starring Lee Bo-young, Lee Jong-suk, and Yoon Sang-hyun. It aired on SBS from June 5 to August 1, 2013, on Wednesdays and Thursdays at 21:55 for 18 episodes.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/6GDBPHkvUEbYO4HqPbWmwLVTvPl-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1tLSR36Qp2m2Cf3sKaeC3HoMblm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1tLSR36Qp2m2Cf3sKaeC3HoMblm.jpg",
+              "Name": "I Hear Your Voice 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": "Park Soo Ha met Jang Hye Sung when he was a child of eight when she stood witness to his father murder. He has been looking for her ever since then.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x1/",
+          "Name": "I Hear Your Voice 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/eNnLghE2YqJkO22ejYByqMrp0lU.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/eNnLghE2YqJkO22ejYByqMrp0lU.jpg",
+              "Name": "I Hear Your Voice 1&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": "Hye Sung finally reunites with Soo Ha after a year of no contact, only to find him suspect to a murder and a with serious case of amnesia.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x10/",
+          "Name": "I Hear Your Voice 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xsLjk7W1domAyZpaAIrGldh69dN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xsLjk7W1domAyZpaAIrGldh69dN.jpg",
+              "Name": "I Hear Your Voice 1&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": "Hye Sung and Gwan Woo work together again to help with Park Soo Ha&#8217;s case.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x11/",
+          "Name": "I Hear Your Voice 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/Ad4vX07Jd9vrt8BG9rX1YEFnmgV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/Ad4vX07Jd9vrt8BG9rX1YEFnmgV.jpg",
+              "Name": "I Hear Your Voice 1&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": "Do Hyun and Gwan Woo both find evidence that Min Joon Gook may still alive.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x12/",
+          "Name": "I Hear Your Voice 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oP7c7UWAEbplJ04f1Vk3b5voPO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oP7c7UWAEbplJ04f1Vk3b5voPO.jpg",
+              "Name": "I Hear Your Voice 1&#215;13"
+            }
+          ],
+          "Links": [],
+          "Intro": "Soo Ha hides the fact that he remembers everything. Min Joon-gook appears to call Hye-sung&#8217;s home phone to check if she still lives there.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x13/",
+          "Name": "I Hear Your Voice 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/o1Vk5EOFH6kEEq7kfIPUrYwyKXT.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/o1Vk5EOFH6kEEq7kfIPUrYwyKXT.jpg",
+              "Name": "I Hear Your Voice 1&#215;14"
+            }
+          ],
+          "Links": [],
+          "Intro": "Hye Sung debates on whether to tell Do Hyun about her birth parents.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x14/",
+          "Name": "I Hear Your Voice 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ltoc8lRkOSDopG6pEaxgwWYse2d.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ltoc8lRkOSDopG6pEaxgwWYse2d.jpg",
+              "Name": "I Hear Your Voice 1&#215;15"
+            }
+          ],
+          "Links": [],
+          "Intro": "Do Yeon got confused about her real identity and in turns trying to find out the truth by herself.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x15/",
+          "Name": "I Hear Your Voice 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/q82rdIwQvuIktoFFeLYaEGex46B.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/q82rdIwQvuIktoFFeLYaEGex46B.jpg",
+              "Name": "I Hear Your Voice 1&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": "Case of Hwang Dal Joong takes turn in this episode where the decision whether he is guilty or not regarding the case of stabbing a ghost (his wife that was presumed dead).",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x16/",
+          "Name": "I Hear Your Voice 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tODNiGBQtN4XnCZ0BbeuUITv9Wf.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tODNiGBQtN4XnCZ0BbeuUITv9Wf.jpg",
+              "Name": "I Hear Your Voice 1&#215;17"
+            }
+          ],
+          "Links": [],
+          "Intro": "Min Joon Gook lures Hye Sung into his trap by lying that he kidnapped Soo Ha.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x17/",
+          "Name": "I Hear Your Voice 1x17"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jeKLLBVDNsDEF0SOn5UNAAGWEEO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jeKLLBVDNsDEF0SOn5UNAAGWEEO.jpg",
+              "Name": "I Hear Your Voice 1&#215;18"
+            }
+          ],
+          "Links": [],
+          "Intro": "Min Joon Gook promises to tell his whole story if Gwan Woo agrees to become his defense attorney again.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x18/",
+          "Name": "I Hear Your Voice 1x18"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wOcnpAo6qbUlD7ACbyP7kLTRoGB.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wOcnpAo6qbUlD7ACbyP7kLTRoGB.jpg",
+              "Name": "I Hear Your Voice 1&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": "Jang Hye Sung gets hired as a public defender. Her first case involves Park Soo Ha&#8217;s classmate, Go Sung Bin.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x2/",
+          "Name": "I Hear Your Voice 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/cio6OjD76H9nPKLhUru7TAVTs6k.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/cio6OjD76H9nPKLhUru7TAVTs6k.jpg",
+              "Name": "I Hear Your Voice 1&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": "To find evidences of Sung Bin&#8217;s innocence, Hye Sung and Gwan Woo visit Sung Bin&#8217;s school dressed as high school students.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x3/",
+          "Name": "I Hear Your Voice 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tbcX88pbkZJO8VaxV1D8BZlNBbd.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tbcX88pbkZJO8VaxV1D8BZlNBbd.jpg",
+              "Name": "I Hear Your Voice 1&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": "Min Joon Gook is planning his revenge on Hye Sung. Meanwhile, Hye Sung and Gwan Woo both receive a case involving twin brothers.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x4/",
+          "Name": "I Hear Your Voice 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kMa72eQTzvi1qezEVfbSQoFkBrt.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kMa72eQTzvi1qezEVfbSQoFkBrt.jpg",
+              "Name": "I Hear Your Voice 1&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": "Hye Sung and Gwan Woo work together on the case involving the twins. Meanwhile, Min Joon Gook moves away.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x5/",
+          "Name": "I Hear Your Voice 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/e4efGS51oyaYXxMEYAloSKyBXMy.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/e4efGS51oyaYXxMEYAloSKyBXMy.jpg",
+              "Name": "I Hear Your Voice 1&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": "Soo Ha tells Hye Sung that the twins planned the murder, therefore Hye Sung agrees to help Do Hyun prove the twins are guilty.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x6/",
+          "Name": "I Hear Your Voice 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/sjLk8FvB9A7jJ0oG6JBspGb6l42.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/sjLk8FvB9A7jJ0oG6JBspGb6l42.jpg",
+              "Name": "I Hear Your Voice 1&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": "Cha Gwan Woo tells Hye Sung that he likes her and that they should date.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x7/",
+          "Name": "I Hear Your Voice 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/pLO2OvZk8Xx0IpK9yHJV1r9BOer.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/pLO2OvZk8Xx0IpK9yHJV1r9BOer.jpg",
+              "Name": "I Hear Your Voice 1&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": "Hye Sung&#8217;s mother is murdered and Gwan Woo is assigned to Min Joon Gook&#8217;s case.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x8/",
+          "Name": "I Hear Your Voice 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/psbUp4dz4shzaPYjFm6ENPS4ZTV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/psbUp4dz4shzaPYjFm6ENPS4ZTV.jpg",
+              "Name": "I Hear Your Voice 1&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": "Unable to accept the verdict for Min Joon Gook&#8217;s case, Soo Ha takes the matter into his own hands, but the consequences are far more severe than he or Hye Sung could have imagined.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/i-hear-your-voice-1x9/",
+          "Name": "I Hear Your Voice 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Jun. 05, 2013"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/i-hear-your-voice/",
+  "Name": "I Hear Your Voice"
+}

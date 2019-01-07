@@ -1,0 +1,51 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fSyNyntZmtNb1Bn5NNbvqR7DRsx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fSyNyntZmtNb1Bn5NNbvqR7DRsx.jpg ",
+      "Name": "Thelma"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wjXQkBMyxWFp5Bxq81ST4Rdpz5p.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wjXQkBMyxWFp5Bxq81ST4Rdpz5p.jpg ",
+      "Name": "Thelma"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1mWSLRJ1xQgzIkxSqIWPakQqvAa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1mWSLRJ1xQgzIkxSqIWPakQqvAa.jpg ",
+      "Name": "Thelma"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5hUs9S32uF24jnCfaMm6gWzEbxH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5hUs9S32uF24jnCfaMm6gWzEbxH.jpg ",
+      "Name": "Thelma"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k91hSUVVZx0UBKNSNHigGry1eXa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k91hSUVVZx0UBKNSNHigGry1eXa.jpg ",
+      "Name": "Thelma"
+    }
+  ],
+  "Links": [],
+  "Intro": "A college student starts to experience extreme seizures while studying at a university in Oslo, Norway. She soon learns that the violent episodes are a symptom of inexplicable, and often dangerous, supernatural abilities.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/k0CDG9qtnI2EamhFcwgik7s6FRe-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/vgQMHG9SGlU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/thelma/",
+  "Name": "Thelma"
+}

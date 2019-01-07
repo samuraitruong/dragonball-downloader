@@ -1,0 +1,67 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v9hgIxg7r0QwB0gN8JFBsp3tgNi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v9hgIxg7r0QwB0gN8JFBsp3tgNi.jpg ",
+      "Name": "The Truman Show"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jMCno3bvbGLkac0ijtgBc47siec.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jMCno3bvbGLkac0ijtgBc47siec.jpg ",
+      "Name": "The Truman Show"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6AWa1L3QdLH3SldM5V8MJLW4h2v.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6AWa1L3QdLH3SldM5V8MJLW4h2v.jpg ",
+      "Name": "The Truman Show"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mAdcY0KSG8knwocUUa7rkxnRISP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mAdcY0KSG8knwocUUa7rkxnRISP.jpg ",
+      "Name": "The Truman Show"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pqa9BJiSlrrBRa0gOLgcIEyZ3Y9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pqa9BJiSlrrBRa0gOLgcIEyZ3Y9.jpg ",
+      "Name": "The Truman Show"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hV78Y47WhB1kJv88ODisPtGr285.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hV78Y47WhB1kJv88ODisPtGr285.jpg ",
+      "Name": "The Truman Show"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yMw0Wt63jTz24WIOn4e2UeZWwzI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yMw0Wt63jTz24WIOn4e2UeZWwzI.jpg ",
+      "Name": "The Truman Show"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yw93TFk5L6jZ43yMGitll8CHa6m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yw93TFk5L6jZ43yMGitll8CHa6m.jpg ",
+      "Name": "The Truman Show"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jA4qJO3YQcfhUsgyrQWmqi4uSwR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jA4qJO3YQcfhUsgyrQWmqi4uSwR.jpg ",
+      "Name": "The Truman Show"
+    }
+  ],
+  "Links": [],
+  "Intro": "Truman Burbank is the star of &#8220;The Truman Show&#8221;, a 24-hour-a-day &#8220;reality&#8221; TV show that broadcasts every aspect of his life &#8212; live and in color &#8212; without his knowledge. His entire life has been an unending soap opera for consumption by the rest of the world. And everyone he knows &#8212; including his wife and his best friend &#8212; is really an actor, paid to be part of his life.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/EelZzudHRvJmjWccWscN1S5vmI-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/c3gI9ms8Fdc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-truman-show/",
+  "Name": "The Truman Show"
+}

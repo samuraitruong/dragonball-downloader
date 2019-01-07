@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sQAKvy8xgeyZX4KoWxH737PKA10.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sQAKvy8xgeyZX4KoWxH737PKA10.jpg ",
+      "Name": "Cuộc Chiến Á Phiện - Drug War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3i1yOwu6cd3BoetL9Ac6DrwlJR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3i1yOwu6cd3BoetL9Ac6DrwlJR.jpg ",
+      "Name": "Cuộc Chiến Á Phiện - Drug War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qe92Y411WAxrNrGb2voq7P45T8G.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qe92Y411WAxrNrGb2voq7P45T8G.jpg ",
+      "Name": "Cuộc Chiến Á Phiện - Drug War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tgPlyey5lR9RkJhzt5tKzQSSVOh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tgPlyey5lR9RkJhzt5tKzQSSVOh.jpg ",
+      "Name": "Cuộc Chiến Á Phiện - Drug War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pwFJ56KKk7LWEmrdpH9F0HP680M.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pwFJ56KKk7LWEmrdpH9F0HP680M.jpg ",
+      "Name": "Cuộc Chiến Á Phiện - Drug War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/A75qIMLCxxz4AVuhVoek78EDl55.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/A75qIMLCxxz4AVuhVoek78EDl55.jpg ",
+      "Name": "Cuộc Chiến Á Phiện - Drug War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4ktQvXsXt0HQWU6WJHnJdCSdSd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4ktQvXsXt0HQWU6WJHnJdCSdSd.jpg ",
+      "Name": "Cuộc Chiến Á Phiện - Drug War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3lZmvSanaZa11d2L7PhnnrArfnS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3lZmvSanaZa11d2L7PhnnrArfnS.jpg ",
+      "Name": "Cuộc Chiến Á Phiện - Drug War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/suj6nu0TS6EvoihmMheNBPjJvdS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/suj6nu0TS6EvoihmMheNBPjJvdS.jpg ",
+      "Name": "Cuộc Chiến Á Phiện - Drug War"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lsxwefRtjGPp6euqxhfzko3r8sz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lsxwefRtjGPp6euqxhfzko3r8sz.jpg ",
+      "Name": "Cuộc Chiến Á Phiện - Drug War"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bộ phim Drug War ( Cuộc Chiến Á Phiện) nói về một vụ tai nạn lạ thường, từ đó phơi bày một vụ trọng án về ma túy. Chuyện bắt đầu khi một tài xế lạc tay lái, đụng vào một tiệm tạp hóa sau đó bất tỉnh. Đội trưởng đội chống ma túy Trương Lôi trong lúc chấp hành nhiệm vụ đã gặp được người tài xế này, sau khi điều tra mới biết đây chính là ổ ma túy bị truy nã suốt 16 năm &#8211; Lý Thiêm Lạc&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/vp5kWGCoMDP5vlNJvA4gC7FjlbW-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/yVRd40bOPpk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/drug-war/",
+  "Name": "Cuộc Chiến Á Phiện"
+}

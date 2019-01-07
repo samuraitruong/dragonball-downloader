@@ -1,49 +1,59 @@
 {
-  "Id": "movex25e5333667",
-  "Url": "https://fsharephim.com/movies/rock-dog/",
-  "Name": "Rock Dog",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movex25e5333667-3/",
-      "Name": "Rock.Dog.2016.720p.BluRay.x264-GECKOS.mkv",
-      "Url": "https://www.fshare.vn/file/X7XVCQDEJBPB4ED",
-      "Size": "2.6 GB",
-      "FileSize": 2839764936
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movex25e5333667-4/",
-      "Name": "k_Rock.Dog.2016.1080p.BluRay.x264-GECKOS.mkv",
-      "Url": "https://www.fshare.vn/file/XU9EXACIAM23YCH",
-      "Size": "4.4 GB",
-      "FileSize": 4691756368
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movex25e5333667-5/",
-      "Name": "Rock Dog 2016 ViE 1080p Blu-ray AVC DTS-HD MA 5.1-NetBD.ISO",
-      "Url": "https://www.fshare.vn/file/JKVGEB3AVAF4X6R",
-      "Size": "19.5 GB",
-      "FileSize": 20949368832
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movex25e5333667-6/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/rock-dog/vietnamese/",
-      "Size": "0",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movex25e5333667/",
-      "Name": "Rock.Dog.2016.ViE.720p.BluRay.DD5.1.x264-VietHD.mkv",
-      "Url": "https://www.fshare.vn/file/ZSQ4ZDKIL8Z48KW",
-      "Size": "4.2 GB",
-      "FileSize": 4562967400
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movex25e5333667-2/",
-      "Name": "Rock.Dog.2016.720p.BRRip.AAC.x264-SUB-FCINE.mkv",
-      "Url": "https://www.fshare.vn/file/FHWSZA7UE4679F2",
-      "Size": "891.1 MB",
-      "FileSize": 934351957
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lsNSEfp4RVE0Rxc9HeyOHcGActm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lsNSEfp4RVE0Rxc9HeyOHcGActm.jpg",
+      "Name": "Rock Dog"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a9hOV3Pwoo77dt9xPShWnuxWEUN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a9hOV3Pwoo77dt9xPShWnuxWEUN.jpg",
+      "Name": "Rock Dog"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cSmR0PzHkZuBC8t34otISDF2Vah.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cSmR0PzHkZuBC8t34otISDF2Vah.jpg",
+      "Name": "Rock Dog"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xZxlAKkyV5uMI58AkjoAuFTQTbl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xZxlAKkyV5uMI58AkjoAuFTQTbl.jpg",
+      "Name": "Rock Dog"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5NyupLgEWXM6XNsycFbZ5DInjVV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5NyupLgEWXM6XNsycFbZ5DInjVV.jpg",
+      "Name": "Rock Dog"
+    }
+  ],
+  "Links": [],
+  "Intro": "When a radio falls from the sky into the hands of a wide-eyed Tibetan Mastiff, he leaves home to fulfill his dream of becoming a musician, setting into motion a series of completely unexpected events.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/7RXi2afiNJGU8EB79SD8HYoSz4O-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/bpaVY8Zq9LQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/rock-dog/",
+  "Name": "Rock Dog"
 }

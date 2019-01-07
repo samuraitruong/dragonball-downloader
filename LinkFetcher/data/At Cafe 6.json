@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9oNmSBh4np6Hg5qvCOZHp5xgHjk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9oNmSBh4np6Hg5qvCOZHp5xgHjk.jpg",
+      "Name": "At Cafe 6"
+    }
+  ],
+  "Links": [],
+  "Intro": "After her car breaks down on a rainy night, Miss Liang enters a nearby coffee shop called Cafe 6. The owner of the shop finds out that Miss Liang has just gotten into a fight with her boyfriend who is currently overseas, so to kill time, he shares a story of his time back in 1996. During that year, Guan Min-lu and his good friend Xiao Bo-zhi always hang out together. Min-lu is secretly in love with Li Xin-rui while Bo-zhi is attracted to Xin-rui&#8217;s best friend, Cai Xin-yi. The four young teenagers share a good relationship with each other and spend their days happily every day. But as their graduation day draws near, they wonder if they can still stay committed with each other after going their separate ways.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/tcmjs5zSTgezVGtlKguKwHXAQLz-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/nQSsVShory4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/at-cafe-6/",
+  "Name": "At Cafe 6"
+}

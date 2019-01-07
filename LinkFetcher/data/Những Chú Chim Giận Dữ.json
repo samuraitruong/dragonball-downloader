@@ -1,28 +1,80 @@
 {
-  "Id": "153518",
-  "Url": "https://fsharephim.com/movies/the-angry-birds-movie/",
-  "Name": "Những Chú Chim Giận Dữ",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/153518/",
-      "Name": "Angry.Birds.2016.720p.BluRay.x264-GECKOS.mkv",
-      "Url": "https://www.fshare.vn/file/5SC1SOPA2454",
-      "Size": "3.3 GB",
-      "FileSize": 3519254091
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/153518-2/",
-      "Name": "Angry.Birds.2016.ViE.mHD.BluRay.DD5.1.x264-TRiM.mkv",
-      "Url": "https://www.fshare.vn/file/9KT64R6DZKOD",
-      "Size": "2.7 GB",
-      "FileSize": 2908655301
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/153518-3/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/angry-birds",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k15COpeexV5Ad0tuLjBW2jQFoOz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k15COpeexV5Ad0tuLjBW2jQFoOz.jpg",
+      "Name": "Những Chú Chim Giận Dữ - The Angry Birds Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4mgLGtKQQ0uRisxKNncUAsxHKYJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4mgLGtKQQ0uRisxKNncUAsxHKYJ.jpg",
+      "Name": "Những Chú Chim Giận Dữ - The Angry Birds Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3mJcfL2lPfRky16EPi95d2YrKqu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3mJcfL2lPfRky16EPi95d2YrKqu.jpg",
+      "Name": "Những Chú Chim Giận Dữ - The Angry Birds Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rJNewldOD70NQMXCttApB70wLqY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rJNewldOD70NQMXCttApB70wLqY.jpg",
+      "Name": "Những Chú Chim Giận Dữ - The Angry Birds Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5rBj7CXeXbs9bRmpeVTFhhMVbCT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5rBj7CXeXbs9bRmpeVTFhhMVbCT.jpg",
+      "Name": "Những Chú Chim Giận Dữ - The Angry Birds Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8jE5QVfMIDUASIjGqb6M53RMzTS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8jE5QVfMIDUASIjGqb6M53RMzTS.jpg",
+      "Name": "Những Chú Chim Giận Dữ - The Angry Birds Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/s8nvhJ1xra4nGbo9uhxPSuEHGuw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/s8nvhJ1xra4nGbo9uhxPSuEHGuw.jpg",
+      "Name": "Những Chú Chim Giận Dữ - The Angry Birds Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rxfaPX3BT4VPDCMnkmpYXPb6Tes.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rxfaPX3BT4VPDCMnkmpYXPb6Tes.jpg",
+      "Name": "Những Chú Chim Giận Dữ - The Angry Birds Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3Ft8sFBIwyRtnfUXQajDhprBJbw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3Ft8sFBIwyRtnfUXQajDhprBJbw.jpg",
+      "Name": "Những Chú Chim Giận Dữ - The Angry Birds Movie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jRvhODYwh5QX0VyqpJqh1WwmSWh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jRvhODYwh5QX0VyqpJqh1WwmSWh.jpg",
+      "Name": "Những Chú Chim Giận Dữ - The Angry Birds Movie"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim Những Chú Chim Giận Dữ bắt đầu bằng cuộc sống yên bình và vui vẻ của những chú chim trong một hòn đảo. Ngay từ đầu trailer vang lên ca khúc Close To You của nhóm Carpenters với câu hát &#8220;Why do birds suddenly appear&#8230;&#8221; như vô cùng thích hợp cho bộ phim này, mang hàm ý cho câu hỏi &#8220;tụi chim này ở đâu chui ra vậy?&#8221;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2016/05/t2mZzQXjpQxmqtJOPpe8Dr2YpMl-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/0qJzWrq7les?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-angry-birds-movie/",
+  "Name": "Những Chú Chim Giận Dữ"
 }

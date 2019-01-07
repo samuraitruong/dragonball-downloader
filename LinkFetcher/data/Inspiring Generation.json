@@ -1,0 +1,509 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong-va-phieu-luu/",
+      "Name": "Hành Động và Phiêu Lưu"
+    }
+  ],
+  "Images": [],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x16/",
+      "Name": "Episode 16"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x17/",
+      "Name": "Episode 17"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x18/",
+      "Name": "Episode 18"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x19/",
+      "Name": "Episode 19"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x20/",
+      "Name": "Episode 20"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x21/",
+      "Name": "Episode 21"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x22/",
+      "Name": "Episode 22"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x23/",
+      "Name": "Episode 23"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/inspiring-generation-1x24/",
+      "Name": "Episode 24"
+    }
+  ],
+  "Intro": "Based in the 1930&#8217;s of Shanghai, China, this drama is a story about love, friendship, patriotism and desire. Shin Jung Tae (Kim Hyun Joong) is an outrageous and clumsy man, but has an unconditional love for his country and family. He was known as the best fighter in the alleys of Shanghai.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/9hh0OSheG8YX0VkxddfHDla6tEC-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/oGJykvgous4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Young Jung Tae struggles to earn money for his sister, Chung Ah, who needs to have a surgery in Japan to live.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x1/",
+          "Name": "Inspiring Generation 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Jung Tae visits the spectacular but dangerous city, Shanghai, to visit his father’s shrine, where Hwangbang’s leader in Shanghai, Seol Doo Sung, shows him his father, Shin Young Chool’s great achievements in Bangsamtong.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x10/",
+          "Name": "Inspiring Generation 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "As Jung Tae refuses to pay respects for his father, Shin Young Chool, Shanghai&#8217;s Leader Seol Doo Sung convinces him to hold his funeral and succeed the position of Club Shanghai&#8217;s leader.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x11/",
+          "Name": "Inspiring Generation 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Jung Tae decides to stay in Shanghai and take revenge for the murder of his father, when Jung Jae Hwa successfully defends his position as the owner of Club Shanghai.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x12/",
+          "Name": "Inspiring Generation 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Jung Tae is severely injured from fighting the unidentifiable samurai, yet Ok Ryeon, still resentful about his absence during the flee from Shineuiju, refuses to help his treatment.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x13/",
+          "Name": "Inspiring Generation 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Jung Tae is arrested and sent to an interrogation prison, when he fights the police force to protect Ok Ryeon and Joseon refugees from the unfair enforcement of inspection.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x14/",
+          "Name": "Inspiring Generation 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Having witnessed the unique fighting technique of Wang Baek San, which is most likely to have murdered his father, Jung Tae determines to become stronger and outgrow Hwangbang.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x15/",
+          "Name": "Inspiring Generation 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Club Shanghai prepares its grand opening. While all of Shanghai’s public figures are invited and the top celebrities performing, the opening night of Club Shanghai will be magnificent and glamorous.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x16/",
+          "Name": "Inspiring Generation 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Fireworks in the dark sky of Shanghai declare the opening of Club Shanghai&#8217;s night. As fabulous as it might seem, this party comes with sacrifice of those who risk their lives; some to protect and others to survive.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x17/",
+          "Name": "Inspiring Generation 1x17"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "While Ok Ryeon is held captive with a false title of murder suspect, Jung Tae requests Aoki for a duel to demand Ok Ryeon&#8217;s release, which displays a fierce match between a trained hawk and a wild hawk.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x18/",
+          "Name": "Inspiring Generation 1x18"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Jung Tae tries to convince Jung Jae Hwa to strike Hwangbang. Knowing how strong Hwangbang is, Jae Hwa responses that their outbreak will only put the whole Bangsamtong in danger.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x19/",
+          "Name": "Inspiring Generation 1x19"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Jung Tae fights Dobinori to get their money back. Although Dobinori cannot return his money, they recognize his potential as a fighter and ask him to join them instead.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x2/",
+          "Name": "Inspiring Generation 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Jung Tae and Jae Hwa are to have a match that will decide the owner of Club Shanghai and Bangsamtong.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x20/",
+          "Name": "Inspiring Generation 1x20"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Jung Tae plans to attack Hwangbang and Ill Gook Hwae at the same time, believing that it is the only way to achieve true independence. angsamtong is the last resort of the Joseon (Korean) refugees who fled from Japanese occupation in Korea.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x21/",
+          "Name": "Inspiring Generation 1x21"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Jung Tae and Leader Mo carry out the carefully schemed plan to attack Ill Gook Hwae with the help of Hwangbang&#8217;s army.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x22/",
+          "Name": "Inspiring Generation 1x22"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Jung Tae and Ok Ryeon&#8217;s wedding is held while Leader Seol of Hwangbang, the elders of Seven Members and many powerful figures of Shanghai are invited to celebrate.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x23/",
+          "Name": "Inspiring Generation 1x23"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Jung Tae tries to secure the safety zone in Shanghai to protect the people living in Bangsamtong from upcoming China and Japan war.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x24/",
+          "Name": "Inspiring Generation 1x24"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Gaya kisses Jung Tae and it breaks Ok Ryeon’s heart. While Ok Ryeon tries to win him back, the spark between Jung Tae and Gaya grows stronger.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x3/",
+          "Name": "Inspiring Generation 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Gaya screams to Shinyichi to tell her the secret behind her parents&#8217; death, but she must find it out herself.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x4/",
+          "Name": "Inspiring Generation 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Ok Ryeon treats Jung Tae’s wounds, pleading him to stop chasing bad guys. She offers him delicious dishes and tries to cheer him up, yet Jung Tae doesn’t seem to get excited by any of her efforts.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x5/",
+          "Name": "Inspiring Generation 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Shortly after Gaya’s visit to Leader Mo Il Hwa of Dandong to declare a war, Jung Tae also arrives in the city.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x6/",
+          "Name": "Inspiring Generation 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Dobinori Gang tries to find out who tried to kill Jung Tae. Reluctant to make a trouble for the gang, Jung Tae finds Shin I Chi by himself, who was the loyal guardian who must kill him to protect his princess.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x7/",
+          "Name": "Inspiring Generation 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "While both Dobinorie and Jung Tae refuse to submit to Il Guk Hwae, Dobinorie’s boss takes Jung Tae to Po Soo who can teach him fight against a swordsman.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x8/",
+          "Name": "Inspiring Generation 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": "Ill Gook Hwae overtakes Dandong and Shineuijoo, and Leader Mo flees with Jung Tae to Daeryeon, where Jung Tae lives as a fighter on gambling arena.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/inspiring-generation-1x9/",
+          "Name": "Inspiring Generation 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Jan. 15, 2014"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/inspiring-generation/",
+  "Name": "Inspiring Generation"
+}

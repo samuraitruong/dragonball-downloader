@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5Qw13Z8tjQ5adEjfFaMv7DLU24U.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5Qw13Z8tjQ5adEjfFaMv7DLU24U.jpg",
+      "Name": "Truy Lùng Quái Yêu 2 - Monster Hunt 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wqdpvEu3rAsHyciLirRyPbqBWfJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wqdpvEu3rAsHyciLirRyPbqBWfJ.jpg",
+      "Name": "Truy Lùng Quái Yêu 2 - Monster Hunt 2"
+    }
+  ],
+  "Links": [],
+  "Intro": "Monster Hunt 2 (Truy Lùng Quái Yêu 2) Tống Thiên Âm (Tỉnh Bách Nhiên) và Hoắc Tiểu Lam (Bạch Bách Hà) đã trở thành một đôi Thiên sư. Hai người cùng nhau chu du hành hiệp, đồng thời tìm kiếm thông tin về thân thế người cha bí ẩn của Thiên Âm. Còn tại thôn Vĩnh Ninh mới, tiểu yêu Hồ Ba thêm một lần nữa phải chạy trốn khỏi sự truy sát của bọn yêu quái đến từ Yêu giới. Lần này, cậu tình cờ gặp gỡ Đồ Tứ Cốc (Lương Triều Vĩ) &#8211; một kẻ đam mê cờ bạc, thường xuyên nợ nần chồng chất. Cùng họ Đồ và yêu mập Bổn Bổn, Hồ Ba tiếp tục trải qua chuyến phiêu lưu mới, mà ở đó, cậu có cơ hội tái ngộ Thiên Âm và Tiểu Lam.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/eUTbNCxYH5L4AddZ67O0O1jk16n-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/5L5yMXAeEVg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/monster-hunt-2/",
+  "Name": "Truy Lùng Quái Yêu 2"
+}

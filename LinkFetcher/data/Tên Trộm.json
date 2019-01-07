@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7l8ynuiZxnobSTIlNNaDG1C2f6W.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7l8ynuiZxnobSTIlNNaDG1C2f6W.jpg ",
+      "Name": "Tên Trộm - Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3pYudqkEC8rkjqpBw8pqoLUtGHe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3pYudqkEC8rkjqpBw8pqoLUtGHe.jpg ",
+      "Name": "Tên Trộm - Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cmBe1cCg0VsepeRKWWyzTIKJmoM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cmBe1cCg0VsepeRKWWyzTIKJmoM.jpg ",
+      "Name": "Tên Trộm - Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fWO8HdUk7mlLbZDdqYCmB9EiFMv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fWO8HdUk7mlLbZDdqYCmB9EiFMv.jpg ",
+      "Name": "Tên Trộm - Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8qQxvqew2F9ydytctCFmdyQvaVQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8qQxvqew2F9ydytctCFmdyQvaVQ.jpg ",
+      "Name": "Tên Trộm - Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eg4UlPnOmoMXIC6dyYY0cXhDlWu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eg4UlPnOmoMXIC6dyYY0cXhDlWu.jpg ",
+      "Name": "Tên Trộm - Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qpKzXaVAEZNDVwASaf1EuXxs8Pi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qpKzXaVAEZNDVwASaf1EuXxs8Pi.jpg ",
+      "Name": "Tên Trộm - Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gDuGWKmiWIQgsl7U0sUSMLJFyi9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gDuGWKmiWIQgsl7U0sUSMLJFyi9.jpg ",
+      "Name": "Tên Trộm - Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iPS6pSyk5CS5zeOFAo3xP4P9D3o.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iPS6pSyk5CS5zeOFAo3xP4P9D3o.jpg ",
+      "Name": "Tên Trộm - Thief"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xDCjGhISMS8speqMRtNPbwM1Pvb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xDCjGhISMS8speqMRtNPbwM1Pvb.jpg ",
+      "Name": "Tên Trộm - Thief"
+    }
+  ],
+  "Links": [],
+  "Intro": null,
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/d7Hr3bL54fQWHivuOpbRP8FWaft-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/keET6waBJHk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/thief/",
+  "Name": "Tên Trộm"
+}

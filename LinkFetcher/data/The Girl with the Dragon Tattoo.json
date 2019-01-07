@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7ajX2OJsBecgDDOYfk9VXYfhMIy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7ajX2OJsBecgDDOYfk9VXYfhMIy.jpg",
+      "Name": "The Girl with the Dragon Tattoo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bNRae5HRLc6WDpBnT3MAzT6V3DW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bNRae5HRLc6WDpBnT3MAzT6V3DW.jpg",
+      "Name": "The Girl with the Dragon Tattoo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/naSr1HoUrQpVnoLoC5ZSxsN2ZWt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/naSr1HoUrQpVnoLoC5ZSxsN2ZWt.jpg",
+      "Name": "The Girl with the Dragon Tattoo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bVnlarhIXHNyXtI1t6eyESPrbyh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bVnlarhIXHNyXtI1t6eyESPrbyh.jpg",
+      "Name": "The Girl with the Dragon Tattoo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sJdKljvW2jHOcIGbG2svg9EEbgD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sJdKljvW2jHOcIGbG2svg9EEbgD.jpg",
+      "Name": "The Girl with the Dragon Tattoo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iJHZvpa0MmmvEacZOPQlFQpkeE8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iJHZvpa0MmmvEacZOPQlFQpkeE8.jpg",
+      "Name": "The Girl with the Dragon Tattoo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/te1tRGKhUfRYetb8ZSg9vnWeiN8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/te1tRGKhUfRYetb8ZSg9vnWeiN8.jpg",
+      "Name": "The Girl with the Dragon Tattoo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uqEMzMGRcx1kOwsOjrtKlymBgkd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uqEMzMGRcx1kOwsOjrtKlymBgkd.jpg",
+      "Name": "The Girl with the Dragon Tattoo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f4HDbz38Vpm5N71LSuTakNY1F2T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f4HDbz38Vpm5N71LSuTakNY1F2T.jpg",
+      "Name": "The Girl with the Dragon Tattoo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jQcPCk4Nw55NQaMAxCamWEmT9jK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jQcPCk4Nw55NQaMAxCamWEmT9jK.jpg",
+      "Name": "The Girl with the Dragon Tattoo"
+    }
+  ],
+  "Links": [],
+  "Intro": "Swedish thriller based on Stieg Larsson&#8217;s novel about a male journalist and a young female hacker. In the opening of the movie, Mikael Blomkvist, a middle-aged publisher for the magazine Millennium, loses a libel case brought by corrupt Swedish industrialist Hans-Erik Wennerström. Nevertheless, he is hired by Henrik Vanger in order to solve a cold case, the disappearance of Vanger&#8217;s niece",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/9pRod9YBfBwC0tPfMijhYSdSlwU-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/JlF-hk3IJQE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-girl-with-the-dragon-tattoo/",
+  "Name": "The Girl with the Dragon Tattoo"
+}

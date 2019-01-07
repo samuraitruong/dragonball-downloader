@@ -1,0 +1,566 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mRe5qNHMEALDahc8HqjtQ35yeZF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mRe5qNHMEALDahc8HqjtQ35yeZF.jpg",
+      "Name": "Heartstrings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pmlJWbAbNxZg5u2FrOEDuYUKJ2J.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pmlJWbAbNxZg5u2FrOEDuYUKJ2J.jpg",
+      "Name": "Heartstrings"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hwjiA5cGqyxAj9dGqTKzxekl44i.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hwjiA5cGqyxAj9dGqTKzxekl44i.jpg",
+      "Name": "Heartstrings"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/heartstrings-1x1/",
+      "Name": "Encountering You By Accident"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/heartstrings-1x2/",
+      "Name": "That is My World"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/heartstrings-1x3/",
+      "Name": "Champion"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/heartstrings-1x4/",
+      "Name": "Towards Tomorrow"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/heartstrings-1x5/",
+      "Name": "Confession"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/heartstrings-1x6/",
+      "Name": "With The Thought That It Must Be Forgotten"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/heartstrings-1x7/",
+      "Name": "Like This... Will Be Forgotten"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/heartstrings-1x8/",
+      "Name": "My Love, Cry Baby"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/heartstrings-1x9/",
+      "Name": "High Speed Romance"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/heartstrings-1x10/",
+      "Name": "Little by Little, Slowly Stepping Towards You"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/heartstrings-1x11/",
+      "Name": "That Place, That Time"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/heartstrings-1x12/",
+      "Name": "Don't Cry"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/heartstrings-1x13/",
+      "Name": "Fly High"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/heartstrings-1x14/",
+      "Name": "Smile, You"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/heartstrings-1x15/",
+      "Name": "Let Your Dreams Soar"
+    }
+  ],
+  "Intro": "Heartstrings is a South Korean youthful melodrama about the main characters&#8217; love, friendship and dreams, set against the backdrop of a university. Prior to its television premier in South Korea the rights to the series were sold to eight countries including Japan, China, and North America.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/jzoLRvfMbTDHYQXnwfy8wiNzXrs-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": "tvu71fQy865897",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8iLuEyzw9EfRVIg1vDOlHdOW8V.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8iLuEyzw9EfRVIg1vDOlHdOW8V.jpg",
+              "Name": "Heartstrings 1&#215;1"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvu71fqy865897/",
+              "Size": "52.4 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/TF8A80Q5HT",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/heartstrings-1x1/",
+          "Name": "Heartstrings 1x1"
+        },
+        {
+          "Id": "tvu71fQy865907",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/narenNETLYM0rsscAuyIZKTGFMZ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/narenNETLYM0rsscAuyIZKTGFMZ.jpg",
+              "Name": "Heartstrings 1&#215;10"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvu71fqy865907/",
+              "Size": "74.1 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/TH5JX4C4DT",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/heartstrings-1x10/",
+          "Name": "Heartstrings 1x10"
+        },
+        {
+          "Id": "tvu71fQy865908",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/48x8A4HvVxymdTMyrDcgJEKNlWF.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/48x8A4HvVxymdTMyrDcgJEKNlWF.jpg",
+              "Name": "Heartstrings 1&#215;11"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvu71fqy865908/",
+              "Size": "78.3 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/TKVNPJP6RT",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/heartstrings-1x11/",
+          "Name": "Heartstrings 1x11"
+        },
+        {
+          "Id": "tvu71fQy865909",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nxP87Eo4uwDJne6VdyGmW6zFJ5t.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nxP87Eo4uwDJne6VdyGmW6zFJ5t.jpg",
+              "Name": "Heartstrings 1&#215;12"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvu71fqy865909/",
+              "Size": "76.7 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/T8BD9QM22T",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/heartstrings-1x12/",
+          "Name": "Heartstrings 1x12"
+        },
+        {
+          "Id": "tvu71fQy865910",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oijQxsNwty4WSwy0ysRwXwpczHm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oijQxsNwty4WSwy0ysRwXwpczHm.jpg",
+              "Name": "Heartstrings 1&#215;13"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvu71fqy865910/",
+              "Size": "68.7 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/T1DQVASP5T",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/heartstrings-1x13/",
+          "Name": "Heartstrings 1x13"
+        },
+        {
+          "Id": "tvu71fQy865912",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/iszbJvehKUB8asAyVsGF6d2sIBc.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/iszbJvehKUB8asAyVsGF6d2sIBc.jpg",
+              "Name": "Heartstrings 1&#215;14"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvu71fqy865912/",
+              "Size": "74.9 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/TJ5ZAK696T",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/heartstrings-1x14/",
+          "Name": "Heartstrings 1x14"
+        },
+        {
+          "Id": "tvu71fQy865911",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qKM0tLqkRarurDOXcbr27WNbKpS.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qKM0tLqkRarurDOXcbr27WNbKpS.jpg",
+              "Name": "Heartstrings 1&#215;15"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvu71fqy865911/",
+              "Size": "75.6 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/TD06C67VBT",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/heartstrings-1x15/",
+          "Name": "Heartstrings 1x15"
+        },
+        {
+          "Id": "tvu71fQy865898",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/seJyIfyEnprppvKAn2idInt5NGo.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/seJyIfyEnprppvKAn2idInt5NGo.jpg",
+              "Name": "Heartstrings 1&#215;2"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvu71fqy865898/",
+              "Size": "1.5 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/T5SZHWJBWT",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/heartstrings-1x2/",
+          "Name": "Heartstrings 1x2"
+        },
+        {
+          "Id": "tvu71fQy865900",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/h0U9JxJJnYGINRu3tMcEj71Xchu.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/h0U9JxJJnYGINRu3tMcEj71Xchu.jpg",
+              "Name": "Heartstrings 1&#215;3"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvu71fqy865900/",
+              "Size": "1.5 GB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/TTYDKBP7AT",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/heartstrings-1x3/",
+          "Name": "Heartstrings 1x3"
+        },
+        {
+          "Id": "tvu71fQy865899",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wGnFuA5vxltZZWur1iZmSN2HMPQ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wGnFuA5vxltZZWur1iZmSN2HMPQ.jpg",
+              "Name": "Heartstrings 1&#215;4"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvu71fqy865899/",
+              "Size": "52.7 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/TA3P7S588T",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/heartstrings-1x4/",
+          "Name": "Heartstrings 1x4"
+        },
+        {
+          "Id": "tvu71fQy865902",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8CDF3l7mEMcdNc4HxelzoLjH4E8.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8CDF3l7mEMcdNc4HxelzoLjH4E8.jpg",
+              "Name": "Heartstrings 1&#215;5"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvu71fqy865902/",
+              "Size": "46.5 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/TMTRPRV2NT",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/heartstrings-1x5/",
+          "Name": "Heartstrings 1x5"
+        },
+        {
+          "Id": "tvu71fQy865901",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/uzYyecFw2DDmBd3hJjDskQimOho.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/uzYyecFw2DDmBd3hJjDskQimOho.jpg",
+              "Name": "Heartstrings 1&#215;6"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvu71fqy865901/",
+              "Size": "44.9 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/TANJ02BZCT",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/heartstrings-1x6/",
+          "Name": "Heartstrings 1x6"
+        },
+        {
+          "Id": "tvu71fQy865903",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3aKvTy1dkcUxCXWk2IstorzSKiy.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3aKvTy1dkcUxCXWk2IstorzSKiy.jpg",
+              "Name": "Heartstrings 1&#215;7"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvu71fqy865903/",
+              "Size": "60.6 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/TKK3N91TDT",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/heartstrings-1x7/",
+          "Name": "Heartstrings 1x7"
+        },
+        {
+          "Id": "tvu71fQy865906",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hoft1SQUAURV5xaDH1uYxXXBDhy.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hoft1SQUAURV5xaDH1uYxXXBDhy.jpg",
+              "Name": "Heartstrings 1&#215;8"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvu71fqy865906/",
+              "Size": "77.4 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/TM7GS48YDT",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/heartstrings-1x8/",
+          "Name": "Heartstrings 1x8"
+        },
+        {
+          "Id": "tvu71fQy865905",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/q24IEjcSUDdc8Y8cSc60Roz1rVJ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/q24IEjcSUDdc8Y8cSc60Roz1rVJ.jpg",
+              "Name": "Heartstrings 1&#215;9"
+            }
+          ],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvu71fqy865905/",
+              "Size": "77.5 KB",
+              "FileSize": 0,
+              "IsAlive": false,
+              "Url": "https://www.fshare.vn/file/TY9XB26QJT",
+              "Name": "WEB-DL - 720p - Vietsub"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/heartstrings-1x9/",
+          "Name": "Heartstrings 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Jun. 29, 2011"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/heartstrings/",
+  "Name": "Heartstrings"
+}

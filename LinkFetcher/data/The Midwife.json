@@ -1,0 +1,46 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4KeMYVwSfvGZlyfFRz2Vq9zIcJd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4KeMYVwSfvGZlyfFRz2Vq9zIcJd.jpg",
+      "Name": "The Midwife"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hYAs7NZoW5gxgTOJTKbfAHefVSD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hYAs7NZoW5gxgTOJTKbfAHefVSD.jpg",
+      "Name": "The Midwife"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/e7lHcxtmDED1hRd8k8cAmsSHeNi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/e7lHcxtmDED1hRd8k8cAmsSHeNi.jpg",
+      "Name": "The Midwife"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5cOySLRAfasFgXUVcXnToEfFBeJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5cOySLRAfasFgXUVcXnToEfFBeJ.jpg",
+      "Name": "The Midwife"
+    }
+  ],
+  "Links": [],
+  "Intro": "&#8216;The Midwife&#8217; (fin.&#8217;Kätilö&#8217;) is a romance-drama set during WWII in Finland’s Lapland province, a major European battle ground of the war. Based on Katja Kettu’s bestselling novel, &#8216;The Midwife&#8217; turns on the love affair between a Lapp midwife and a Nazi SS officer set against the backdrop of the Lapland War, which opposed Finnish and Germany armies in 1944-45. The themes in the story are international. It’s about conquering love and war, and class boundaries that are broken down.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/u0hQWrYvE3sGUcnA77iZoRBO2DM-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/UossBRe7_eA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-midwife/",
+  "Name": "The Midwife"
+}

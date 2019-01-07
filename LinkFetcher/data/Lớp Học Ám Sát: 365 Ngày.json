@@ -1,21 +1,42 @@
 {
   "Id": "movRkle89431808",
-  "Url": "https://fsharephim.com/movies/assassination-classroom-the-movie-365-days/",
-  "Name": "Lớp Học Ám Sát: 365 Ngày",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movrkle89431808/",
-      "Name": "Lớp Học Ám Sát- 365 Ngày-Assassination Classroom The Movie- 365 Days (2017) [HD-Vietsub].mp4",
-      "Url": "https://www.fshare.vn/file/RD8T62GX25BSVOI",
       "Size": "396.2 MB",
-      "FileSize": 415446398
+      "FileSize": 415446398,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/RD8T62GX25BSVOI",
+      "Name": "Lớp Học Ám Sát- 365 Ngày-Assassination Classroom The Movie- 365 Days (2017) [HD-Vietsub].mp4"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movrkle89431808-2/",
-      "Name": "Assassination.Classroom The.Movie.365.Days.2016.720p.x264.mkv",
-      "Url": "https://www.fshare.vn/file/8QOZLRQ6AN7QSIY",
       "Size": "1.5 GB",
-      "FileSize": 1633347250
+      "FileSize": 1633347250,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/8QOZLRQ6AN7QSIY",
+      "Name": "Assassination.Classroom The.Movie.365.Days.2016.720p.x264.mkv"
     }
-  ]
+  ],
+  "Intro": "Assassination Classroom The Movie: 365 Days 2016: bộ phim sẽ diễn ra vào ngày trước ngày họp lớp sau 7 năm tốt nghiệp của các học sinh lớp E. Yusei Matsui sẽ tham gia vào dự án phim. Nhà sản xuất cũng đã hé lộ tạo hình của hai nhân vật chính là Nagisa và Karma sau 7 năm.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/hRXkJBndHWjcqE4zmLV87pium78-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/assassination-classroom-the-movie-365-days/",
+  "Name": "Lớp Học Ám Sát: 365 Ngày"
 }

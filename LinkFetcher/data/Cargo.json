@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kegRj8Zc6NJeD7VdtaGMEwmTmRW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kegRj8Zc6NJeD7VdtaGMEwmTmRW.jpg ",
+      "Name": "Cargo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cmgcqy89rB2wWnAmgC79LviSzoI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cmgcqy89rB2wWnAmgC79LviSzoI.jpg ",
+      "Name": "Cargo"
+    }
+  ],
+  "Links": [],
+  "Intro": "After being infected in the wake of a violent pandemic and with only 48 hours to live, a father struggles to find a new home for his baby daughter.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/q85QmUW1O4rGWNo3ObCGhrJ2b4R-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/u5qZOqrPr_A?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/cargo/",
+  "Name": "Cargo"
+}

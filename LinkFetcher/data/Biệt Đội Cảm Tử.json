@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/34dxtTxMHGKw1njHpTjDqR8UBHd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/34dxtTxMHGKw1njHpTjDqR8UBHd.jpg",
+      "Name": "Biệt Đội Cảm Tử - Suicide Squad"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ndlQ2Cuc3cjTL7lTynw6I4boP4S.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ndlQ2Cuc3cjTL7lTynw6I4boP4S.jpg",
+      "Name": "Biệt Đội Cảm Tử - Suicide Squad"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5wD7Z5xqbXvWzM9odFYQsAnNTqM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5wD7Z5xqbXvWzM9odFYQsAnNTqM.jpg",
+      "Name": "Biệt Đội Cảm Tử - Suicide Squad"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pe3Y7SlcVFMWtirJNz0MAd4RNvu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pe3Y7SlcVFMWtirJNz0MAd4RNvu.jpg",
+      "Name": "Biệt Đội Cảm Tử - Suicide Squad"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3wIn53fLeP09RyRosAk9Luq7U6q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3wIn53fLeP09RyRosAk9Luq7U6q.jpg",
+      "Name": "Biệt Đội Cảm Tử - Suicide Squad"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eeYQ3PP2tvRDyp8NjbrU2fNFOAY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eeYQ3PP2tvRDyp8NjbrU2fNFOAY.jpg",
+      "Name": "Biệt Đội Cảm Tử - Suicide Squad"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1de0TDycWUIXqfLTM6Rl4copImY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1de0TDycWUIXqfLTM6Rl4copImY.jpg",
+      "Name": "Biệt Đội Cảm Tử - Suicide Squad"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ybvE82vjPq30yoZQlFqiF8vPHdy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ybvE82vjPq30yoZQlFqiF8vPHdy.jpg",
+      "Name": "Biệt Đội Cảm Tử - Suicide Squad"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/98Q2RYII31SGuo4B0FXviZ1KuSP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/98Q2RYII31SGuo4B0FXviZ1KuSP.jpg",
+      "Name": "Biệt Đội Cảm Tử - Suicide Squad"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9qWsX44lRCbszv1TEwdidH5z7Mk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9qWsX44lRCbszv1TEwdidH5z7Mk.jpg",
+      "Name": "Biệt Đội Cảm Tử - Suicide Squad"
+    }
+  ],
+  "Links": [],
+  "Intro": "Suicide Squad xoay quanh nhóm ác nhân mang tên Biệt đội Cảm tử. Đây là tổ chức đánh thuê gồm toàn những kẻ thù của Batman, được chính phủ tập hợp lại để chuyên thực hiện các nhiệm vụ tối mật. Điều gây tò mò nhất cho công chúng về Suicide Squad hẳn là nhân vật Joker.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/02/e1mjopzAS2KNsvpbpahQ1a6SkSn-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/CmRih_VtVAs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/suicide-squad/",
+  "Name": "Biệt Đội Cảm Tử"
+}

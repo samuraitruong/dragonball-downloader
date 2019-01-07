@@ -1,0 +1,43 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AdZP8yhFm3qMF3FUWk46Zhdm4YT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AdZP8yhFm3qMF3FUWk46Zhdm4YT.jpg",
+      "Name": "The Gendarme in New York"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ukG42Nq0Wl2KQICFWGFqmasLDqo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ukG42Nq0Wl2KQICFWGFqmasLDqo.jpg",
+      "Name": "The Gendarme in New York"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b8yX9F3DPVxjuVMSRF7iVYYpDpI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b8yX9F3DPVxjuVMSRF7iVYYpDpI.jpg",
+      "Name": "The Gendarme in New York"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bgZFhwqoQZYQkzQ2dWvFsiu8sDW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bgZFhwqoQZYQkzQ2dWvFsiu8sDW.jpg",
+      "Name": "The Gendarme in New York"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eMmQl8zzedMO3zh1Kn526awQrUn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eMmQl8zzedMO3zh1Kn526awQrUn.jpg",
+      "Name": "The Gendarme in New York"
+    }
+  ],
+  "Links": [],
+  "Intro": "The second installment of Gendarmes series, tells the story of Sergeant Cruchot (Louis De Funes), who, together with his faithful comrades, has been sent to the International Congress of Gendarmerie in N.Y.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/qpEHQqBRcWGz72AoTSf9Ut2EI4Y-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-gendarme-in-new-york/",
+  "Name": "The Gendarme in New York"
+}

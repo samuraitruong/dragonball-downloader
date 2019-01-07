@@ -1,21 +1,80 @@
 {
-  "Id": "movp8zpdQ141614",
-  "Url": "https://fsharephim.com/movies/niko-2-little-brother-big-trouble/",
-  "Name": "Hai Chú Hươu Con",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movp8zpdq141614/",
-      "Name": "Niko 2 - Little Brother Big Trouble 2012.mkv",
-      "Url": "https://www.fshare.vn/file/TFXQK1NZFT",
-      "Size": "1.49 GB",
-      "FileSize": 1601366891
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movp8zpdq141614-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/little-brother-big-trouble-a-christmas-adventure-niko-2-lentjveljekset",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jMElmC9I51Vjic8xOyJr2T6Dqh0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jMElmC9I51Vjic8xOyJr2T6Dqh0.jpg",
+      "Name": "Hai Chú Hươu Con - Niko 2 &#8211; Little Brother, Big Trouble"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9fRFAehMYtWTwYnR6bqDgwvDs2q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9fRFAehMYtWTwYnR6bqDgwvDs2q.jpg",
+      "Name": "Hai Chú Hươu Con - Niko 2 &#8211; Little Brother, Big Trouble"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h9uZrG8ul5t4ef6veN09UQeJ02V.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h9uZrG8ul5t4ef6veN09UQeJ02V.jpg",
+      "Name": "Hai Chú Hươu Con - Niko 2 &#8211; Little Brother, Big Trouble"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tyo6Ml30yUONKQp4UNOOaKcQor9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tyo6Ml30yUONKQp4UNOOaKcQor9.jpg",
+      "Name": "Hai Chú Hươu Con - Niko 2 &#8211; Little Brother, Big Trouble"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xprrWVnDqFXb86WZarebiVmfb2q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xprrWVnDqFXb86WZarebiVmfb2q.jpg",
+      "Name": "Hai Chú Hươu Con - Niko 2 &#8211; Little Brother, Big Trouble"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bSEcvPJvys2FlFQjnEadHNm9ODP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bSEcvPJvys2FlFQjnEadHNm9ODP.jpg",
+      "Name": "Hai Chú Hươu Con - Niko 2 &#8211; Little Brother, Big Trouble"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bNOuxNNpEz5IJYD8qXFYzq1cOE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bNOuxNNpEz5IJYD8qXFYzq1cOE.jpg",
+      "Name": "Hai Chú Hươu Con - Niko 2 &#8211; Little Brother, Big Trouble"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iae5WT8qKaBr4X5HSREiR4pOorY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iae5WT8qKaBr4X5HSREiR4pOorY.jpg",
+      "Name": "Hai Chú Hươu Con - Niko 2 &#8211; Little Brother, Big Trouble"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zuCqZ6XSIVq9f3623d9VosWChtY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zuCqZ6XSIVq9f3623d9VosWChtY.jpg",
+      "Name": "Hai Chú Hươu Con - Niko 2 &#8211; Little Brother, Big Trouble"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sC5H8FTgRySNu7JrpvBJ5TzwA58.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sC5H8FTgRySNu7JrpvBJ5TzwA58.jpg",
+      "Name": "Hai Chú Hươu Con - Niko 2 &#8211; Little Brother, Big Trouble"
+    }
+  ],
+  "Links": [],
+  "Intro": "&#8221; Little Brother, Big Trouble” là một bộ phim hoạt hình thám hiểm hấp dẫn về chú huơu con Niko luôn muốn cứu em trai Johnny đã bị bắt cóc bởi Sói Trắng. Chú sóc bay Julius sẽ đồng hành cùng Niko trong chuyến hành trình của mình",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/sWf16fYahpLA44cKKwsAWeGK2nB-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/zD5cwS7fbh8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/niko-2-little-brother-big-trouble/",
+  "Name": "Hai Chú Hươu Con"
 }

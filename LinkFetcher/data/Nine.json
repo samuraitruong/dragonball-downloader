@@ -1,0 +1,66 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1gdJ8XQU38mDlRXrKM0NGeqkIVD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1gdJ8XQU38mDlRXrKM0NGeqkIVD.jpg",
+      "Name": "Nine"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mhxZe7oVwhwWTT8TZ9hGgqaWkpD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mhxZe7oVwhwWTT8TZ9hGgqaWkpD.jpg",
+      "Name": "Nine"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wHg3lXM4TpzPUHvuizqmvKKnLdt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wHg3lXM4TpzPUHvuizqmvKKnLdt.jpg",
+      "Name": "Nine"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uHTTnojtz0j4wifdduVXBuidIyK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uHTTnojtz0j4wifdduVXBuidIyK.jpg",
+      "Name": "Nine"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aodvbX635ayytCgIY2ugYJZuAAZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aodvbX635ayytCgIY2ugYJZuAAZ.jpg",
+      "Name": "Nine"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/i1NUy09NNcH01vxT1WPMmORVRTB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/i1NUy09NNcH01vxT1WPMmORVRTB.jpg",
+      "Name": "Nine"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vhVM8kVvyQAeNGL6Vks7JGWmIzP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vhVM8kVvyQAeNGL6Vks7JGWmIzP.jpg",
+      "Name": "Nine"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/p0QzLr8zz2an7FxiP7WyjO01RU2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/p0QzLr8zz2an7FxiP7WyjO01RU2.jpg",
+      "Name": "Nine"
+    }
+  ],
+  "Links": [],
+  "Intro": "Arrogant, self-centered movie director Guido Contini finds himself struggling to find meaning, purpose, and a script for his latest film endeavor. With only a week left before shooting begins, he desperately searches for answers and inspiration from his wife, his mistress, his muse, and his mother.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/2PSmbXIUWgUVsXq2U1MoVj3f38g-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/cSAmAP_yWpY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/nine/",
+  "Name": "Nine"
+}

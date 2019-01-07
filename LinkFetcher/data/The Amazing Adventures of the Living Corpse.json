@@ -1,21 +1,64 @@
 {
   "Id": "movmqrpCl198757",
-  "Url": "https://fsharephim.com/movies/the-amazing-adventures-of-the-living-corpse/",
-  "Name": "The Amazing Adventures of the Living Corpse",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cML6NbTssu961VdsYzGNWATmC3o.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cML6NbTssu961VdsYzGNWATmC3o.jpg",
+      "Name": "The Amazing Adventures of the Living Corpse"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g0P8KSy3VDNPpQlxTk4GTYKJsjU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g0P8KSy3VDNPpQlxTk4GTYKJsjU.jpg",
+      "Name": "The Amazing Adventures of the Living Corpse"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ptb0XB7qFPP17TwswqARbpnyWyl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ptb0XB7qFPP17TwswqARbpnyWyl.jpg",
+      "Name": "The Amazing Adventures of the Living Corpse"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/w4g1NJXUyBjOyZm5KkCkTbR2G8E.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/w4g1NJXUyBjOyZm5KkCkTbR2G8E.jpg",
+      "Name": "The Amazing Adventures of the Living Corpse"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/efbWTqICL0fpeKATKrdXi5KEOIe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/efbWTqICL0fpeKATKrdXi5KEOIe.jpg",
+      "Name": "The Amazing Adventures of the Living Corpse"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movmqrpcl198757/",
-      "Name": "1080p",
-      "Url": "https://www.fshare.vn/file/XOCCH1H2LJK2",
       "Size": "5.46 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/XOCCH1H2LJK2",
+      "Name": "1080p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movmqrpcl198757-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/the-amazing-adventures-of-the-living-corpse",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/the-amazing-adventures-of-the-living-corpse",
+      "Name": "Subtitle"
     }
-  ]
+  ],
+  "Intro": "A somewhat self-aware zombie takes it upon himself to keep the rest of the walking dead at bay.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/z2hOVqLIPsOEAxf59wJKgXsAhXD-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/65P6DaOG8Yo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-amazing-adventures-of-the-living-corpse/",
+  "Name": "The Amazing Adventures of the Living Corpse"
 }

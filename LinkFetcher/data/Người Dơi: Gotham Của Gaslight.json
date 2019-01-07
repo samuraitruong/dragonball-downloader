@@ -1,28 +1,70 @@
 {
   "Id": "movCfrjKB471474",
-  "Url": "https://fsharephim.com/movies/batman-gotham-by-gaslight/",
-  "Name": "Người Dơi: Gotham Của Gaslight",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9ojJB7vZR2uDqXdxOzYaADthEBT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9ojJB7vZR2uDqXdxOzYaADthEBT.jpg",
+      "Name": "Người Dơi: Gotham Của Gaslight - Batman: Gotham by Gaslight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fsbUPwfwg3Mj6gh21bTUjO1A0Tb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fsbUPwfwg3Mj6gh21bTUjO1A0Tb.jpg",
+      "Name": "Người Dơi: Gotham Của Gaslight - Batman: Gotham by Gaslight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/27mGrV7fcCfAQqIzjaxNx06mHV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/27mGrV7fcCfAQqIzjaxNx06mHV.jpg",
+      "Name": "Người Dơi: Gotham Của Gaslight - Batman: Gotham by Gaslight"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movcfrjkb471474-2/",
-      "Name": "Batman Gotham by Gaslight (2018) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/F1LN8UALXJOG",
       "Size": "954.35 MB",
-      "FileSize": 1000707091
+      "FileSize": 1000707091,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/F1LN8UALXJOG",
+      "Name": "Batman Gotham by Gaslight (2018) 720p BrRip x264.mp4"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movcfrjkb471474-3/",
-      "Name": "Batman Gotham by Gaslight (2018) 2160p UltraHD Blu-ray HDR HEVC DTS-HD MA 5.1.iso",
-      "Url": "https://www.fshare.vn/file/IL5NMU3LGAQKEZH",
       "Size": "52.37 GB",
-      "FileSize": 56227004416
+      "FileSize": 56227004416,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/IL5NMU3LGAQKEZH",
+      "Name": "Batman Gotham by Gaslight (2018) 2160p UltraHD Blu-ray HDR HEVC DTS-HD MA 5.1.iso"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movcfrjkb471474/",
-      "Name": "WEB-DL-1080p",
-      "Url": "http://www.fshare.vn/file/8BLRQ6BTXVDY",
       "Size": "2.9 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/8BLRQ6BTXVDY",
+      "Name": "WEB-DL-1080p"
     }
-  ]
+  ],
+  "Intro": "Phim Người Dơi: Gotham Của Gaslight Cùng đến với Gotham trong những năm cuối của thế kỉ 19, khi mà nhân loại chỉ mới làm quen với động cơ hơi nước và thuốc nổ, chiếc điện thoại đầu tiên cũng chỉ vừa được phát minh, và cuộc Nội chiến Hoa Kì mới kết thúc; thời đại của những truyền thuyết lưu truyền tới ngày nay như “Jack the Ripper”, hay huyền thoại về vị thám tử tài ba phố Baker; thì ở đó tồn tại một Bruce Wayne, vẫn là một đại gia nhà Wayne, và hơn hết, vẫn khoác trên mình bộ áo dơi để gieo rắc nỗi khiếp sợ lên tội phạm. Trong thế giới này, Bruce Wayne là con trai của vị bác sĩ đáng kính Thomas Wayne – người đã từng có thời gian phục vụ quân đội trong thời kì Nội chiến, và là chồng của người vợ xinh đẹp Martha Wayne. Sẽ không có gì đáng nói nếu như vào một đêm sáng trăng, cả hai bị giết một cách thảm khốc bởi một gã cướp đường có vũ khí. Cậu bé Bruce khi đó đáng ra đã có thể là nạn nhân nếu như đàn dơi không đột nhiên bay ra làm gã cướp hoảng sợ.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/7souLi5zqQCnpZVghaXv0Wowi0y-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/TJ6EX6zX4FU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/batman-gotham-by-gaslight/",
+  "Name": "Người Dơi: Gotham Của Gaslight"
 }

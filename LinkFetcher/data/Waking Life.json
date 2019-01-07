@@ -1,21 +1,37 @@
 {
-  "Id": "moveoqucy9081",
-  "Url": "https://fsharephim.com/movies/waking-life/",
-  "Name": "Waking Life",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/moveoqucy9081/",
-      "Name": "1080p",
-      "Url": "https://www.fshare.vn/file/6WT2KGCYJL2A",
-      "Size": "5.46 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/moveoqucy9081-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/waking-life",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qJOMs0TouqK01HThBmFv0gL1Ib5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qJOMs0TouqK01HThBmFv0gL1Ib5.jpg",
+      "Name": "Waking Life"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lyaJA1w5RXFo7S7Yy34t40d6wTu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lyaJA1w5RXFo7S7Yy34t40d6wTu.jpg",
+      "Name": "Waking Life"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nKmzGg23QNmfDmqNjvA1DZX8HYI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nKmzGg23QNmfDmqNjvA1DZX8HYI.jpg",
+      "Name": "Waking Life"
+    }
+  ],
+  "Links": [],
+  "Intro": "Waking Life is about a young man in a persistent lucid dream-like state. The film follows its protagonist as he initially observes and later participates in philosophical discussions that weave together issues like reality, free will, our relationships with others, and the meaning of life.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/dHQDhjt84ViDH0DhFm5PSyIo1J-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/uecHd_qW1es?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/waking-life/",
+  "Name": "Waking Life"
 }

@@ -1,35 +1,79 @@
 {
   "Id": "movs13WeD169934",
-  "Url": "https://fsharephim.com/movies/iron-man-rise-of-technovore/",
-  "Name": "Người Sắt: Sự Nổi Giận Của Technovore",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1kXtLaTyuUT0zNZyglhNJBTC5mM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1kXtLaTyuUT0zNZyglhNJBTC5mM.jpg",
+      "Name": "Người Sắt: Sự Nổi Giận Của Technovore - Iron Man: Rise of Technovore"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tfAlo7GHk7y9zcE9RROAnUTrHg4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tfAlo7GHk7y9zcE9RROAnUTrHg4.jpg",
+      "Name": "Người Sắt: Sự Nổi Giận Của Technovore - Iron Man: Rise of Technovore"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3a0nUiepEDB24xcdfj4Ki755Er2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3a0nUiepEDB24xcdfj4Ki755Er2.jpg",
+      "Name": "Người Sắt: Sự Nổi Giận Của Technovore - Iron Man: Rise of Technovore"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9pFurkXH3UcLjhsfJWlygfeOqrf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9pFurkXH3UcLjhsfJWlygfeOqrf.jpg",
+      "Name": "Người Sắt: Sự Nổi Giận Của Technovore - Iron Man: Rise of Technovore"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movs13wed169934-4/",
-      "Name": "Viet - Subtitle",
-      "Url": "http://www.fshare.vn/file/ZDMQMKOGY94F",
       "Size": "86.0 KB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/ZDMQMKOGY94F",
+      "Name": "Viet - Subtitle"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movs13wed169934-3/",
-      "Name": "Iron.Man.Rise.of.Technovore.2013.ViE.720p.BluRay.DTS.x264-EbP.VAV.mkv",
-      "Url": "https://www.fshare.vn/file/CNXJL5NJF8ODLM1",
       "Size": "4.6 GB",
-      "FileSize": 4967431299
+      "FileSize": 4967431299,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/CNXJL5NJF8ODLM1",
+      "Name": "Iron.Man.Rise.of.Technovore.2013.ViE.720p.BluRay.DTS.x264-EbP.VAV.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movs13wed169934-2/",
-      "Name": "1080p",
-      "Url": "http://www.fshare.vn/file/OHMA00FMBC",
       "Size": "4.4 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/OHMA00FMBC",
+      "Name": "1080p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movs13wed169934/",
-      "Name": "720p",
-      "Url": "http://www.fshare.vn/file/KA74KSUY5O",
       "Size": "2.2 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/KA74KSUY5O",
+      "Name": "720p"
     }
-  ]
+  ],
+  "Intro": "Iron Man: Rise of Technovore(Người Sắt: Sự Nổi Giận Của Technovore) là một trong nhưng bộ phim hoạt hình về người sắt được chuyển thể từ comic. Lần này, thiên tài công nghệ trẻ và điên Ezekiel Stane đã phát triển một bộ áo giáp kỹ thuật hữu cơ mới mà dường như vượt trội hơn hẳn Iron Man. Khi Stane giải phóng một cuộc tấn công khủng bố trong thời gian ra mắt của Tony. Lần này Iron Man sẽ phải chống lại Ezekiel Stane, kẻ có bộ giáp công nghệ sinh học vượt trội so với công nghệ của Iron Man. Kẻ đã gài bẫy làm cho Iron Man phải chịu trách nhiệm về một vụ khủng bố và bị S.H.I.E.L.D. truy đuổi.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/jHo43hitRyIMPC5y3tCxmZow0uN-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/qFzrTBCzsFY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/iron-man-rise-of-technovore/",
+  "Name": "Người Sắt: Sự Nổi Giận Của Technovore"
 }

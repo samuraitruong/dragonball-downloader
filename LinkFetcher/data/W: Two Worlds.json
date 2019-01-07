@@ -1,0 +1,547 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rIvTZldqhZCK0LvQstNr45ZrpNk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rIvTZldqhZCK0LvQstNr45ZrpNk.jpg",
+      "Name": "W: Two Worlds"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8GHNEzxGZliEAJia4WasDRp3qPg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8GHNEzxGZliEAJia4WasDRp3qPg.jpg",
+      "Name": "W: Two Worlds"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/n2ynNXBUvWjb6K5AIfogDMhOfZk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/n2ynNXBUvWjb6K5AIfogDMhOfZk.jpg",
+      "Name": "W: Two Worlds"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k6Y2a4xclqC6NnKp34Nv2FAH93b.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k6Y2a4xclqC6NnKp34Nv2FAH93b.jpg",
+      "Name": "W: Two Worlds"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jIp97rv2HGeKLGejXcbzzgSlaQ6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jIp97rv2HGeKLGejXcbzzgSlaQ6.jpg",
+      "Name": "W: Two Worlds"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dJ04jLNEi8T4B2v6nnVtMKajmLx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dJ04jLNEi8T4B2v6nnVtMKajmLx.jpg",
+      "Name": "W: Two Worlds"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mpshgGHGOuP79vXitrdNUonH089.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mpshgGHGOuP79vXitrdNUonH089.jpg",
+      "Name": "W: Two Worlds"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ibAZFb3XBBHuoWgPLw3eYqStyOy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ibAZFb3XBBHuoWgPLw3eYqStyOy.jpg",
+      "Name": "W: Two Worlds"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kc5Klhgf4eACKiIjJbOcIGlKYB9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kc5Klhgf4eACKiIjJbOcIGlKYB9.jpg",
+      "Name": "W: Two Worlds"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/c4Piyuh6OyzLQTnfQT46dKwkjGO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/c4Piyuh6OyzLQTnfQT46dKwkjGO.jpg",
+      "Name": "W: Two Worlds"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/w-two-worlds-1x1/",
+      "Name": "Oh Sung Moo Has Disappeared!"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/w-two-worlds-1x2/",
+      "Name": "Find Her, the Key to My Life"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/w-two-worlds-1x3/",
+      "Name": "Answer My Questions"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/w-two-worlds-1x4/",
+      "Name": "A World in the Webtoon"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/w-two-worlds-1x5/",
+      "Name": "It Is Your Set-up"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/w-two-worlds-1x6/",
+      "Name": "The End"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/w-two-worlds-1x7/",
+      "Name": "Chul and Yeon Joo Get Married"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/w-two-worlds-1x8/",
+      "Name": "The Killer Is After You"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/w-two-worlds-1x9/",
+      "Name": "Make It a Happy Ending"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/w-two-worlds-1x10/",
+      "Name": "The World Controlled By The Killer"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/w-two-worlds-1x11/",
+      "Name": "What Happens Next?"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/w-two-worlds-1x12/",
+      "Name": "Chul's Second Awakening"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/w-two-worlds-1x13/",
+      "Name": "For the Last Episode of W"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/w-two-worlds-1x14/",
+      "Name": "Secret of the Tablet"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/w-two-worlds-1x15/",
+      "Name": "Which Kind of Ending Will It Be?"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/w-two-worlds-1x16/",
+      "Name": "After W Ends"
+    }
+  ],
+  "Intro": "Han Hyo-joo plays a surgeon whose father is a famous comic book creator. One day Dad goes missing and she rushes to his workshop to look for him, and instead finds a strange man bathed in blood. She gets kidnapped by the bloody man, which is where their story begins. The drama takes place in 2016 Seoul, but in different dimensions that exist in parallel with one another. It’s described as a suspense romance melodrama about “a man and a woman who are living in the same time, but different worlds.”",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/iTkJdHeIJJLf24XgtTg3XnW4SN8-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4YlqunMQPNSjERGTcJpHm6shXNt.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4YlqunMQPNSjERGTcJpHm6shXNt.jpg",
+              "Name": "W: Two Worlds 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nMkmted269qCeIRzrHKxPFkdEDI.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nMkmted269qCeIRzrHKxPFkdEDI.jpg",
+              "Name": "W: Two Worlds 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": "Yeon Joo’s professor urgently calls Yeon Joo and asks her to get a spoiler about a popular graphic novel series, W, from her father. He promises that he will give her the opportunity to perform a surgery ifshe does, so she visits her father.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/w-two-worlds-1x1/",
+          "Name": "W: Two Worlds 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1aFfTL1vGUQeNSpyEzvgE1IZ1xa.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1aFfTL1vGUQeNSpyEzvgE1IZ1xa.jpg",
+              "Name": "W: Two Worlds 1&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bi1fQcLiPxAYnnCRXURRs2hY5OH.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bi1fQcLiPxAYnnCRXURRs2hY5OH.jpg",
+              "Name": "W: Two Worlds 1&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": "The killer takes Seong Moo’s face and demands that he follows his orders. He becomes invincible and almighty in the W world and starts committing a massacre. The killer even fabricates a piece of evidence that makes Chul the killer of his own parents 10 years ago. Chul has now become the suspect of the massacre on top of his own disaster, and ends up being chased by the police with Yeon Joo.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/w-two-worlds-1x10/",
+          "Name": "W: Two Worlds 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/z7qDES52FDYz6Y3gHCy6YXWW5s0.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/z7qDES52FDYz6Y3gHCy6YXWW5s0.jpg",
+              "Name": "W: Two Worlds 1&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/s611XH4y9aOifIpNHTkLnMwMWwN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/s611XH4y9aOifIpNHTkLnMwMWwN.jpg",
+              "Name": "W: Two Worlds 1&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": "Leaving injured Chul alone in a motel, Yeon Joo goes back to the real world to fetch more medicine and to find a way to help him. However, Yeon Joo discovers what has happened to her father and that it’s not just Chul who can summon her into the W world. When she is summoned again for an unknown reason, she reunites with Chul and sees that he has read the story of W so far.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/w-two-worlds-1x11/",
+          "Name": "W: Two Worlds 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qSHJ1zL5eQt9BkrVNuoksPANzeP.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qSHJ1zL5eQt9BkrVNuoksPANzeP.jpg",
+              "Name": "W: Two Worlds 1&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/w-two-worlds-1x12/",
+          "Name": "W: Two Worlds 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/cr1a7zcUQVf2hNXuDfOBBYfHy7U.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/cr1a7zcUQVf2hNXuDfOBBYfHy7U.jpg",
+              "Name": "W: Two Worlds 1&#215;13"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/w-two-worlds-1x13/",
+          "Name": "W: Two Worlds 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jFfWe98oJg5Svf6n8svLMstkpP1.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jFfWe98oJg5Svf6n8svLMstkpP1.jpg",
+              "Name": "W: Two Worlds 1&#215;14"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/w-two-worlds-1x14/",
+          "Name": "W: Two Worlds 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4M6uM8lEMDtMvQ80InIBoHZ80HX.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4M6uM8lEMDtMvQ80InIBoHZ80HX.jpg",
+              "Name": "W: Two Worlds 1&#215;15"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/w-two-worlds-1x15/",
+          "Name": "W: Two Worlds 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/aX40PdsyP5c8kSWE30fXtkJZDSO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/aX40PdsyP5c8kSWE30fXtkJZDSO.jpg",
+              "Name": "W: Two Worlds 1&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/w-two-worlds-1x16/",
+          "Name": "W: Two Worlds 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nQ7ca36ecjOFZoaH7oJKMohIy9c.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nQ7ca36ecjOFZoaH7oJKMohIy9c.jpg",
+              "Name": "W: Two Worlds 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/81qVjIXPhLwL40i8bn96KAD45GS.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/81qVjIXPhLwL40i8bn96KAD45GS.jpg",
+              "Name": "W: Two Worlds 1&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": "Sung Moo, who has disappeared for a while, is back. Yeon Joo tries to figure out what has happened to her last night, but Sung Moo doesn’t tell her anything. Meanwhile, Sung Moo starts drawing again to kill Kang Chul.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/w-two-worlds-1x2/",
+          "Name": "W: Two Worlds 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/uuqvYTR6hr3d79cqKI1q0SICJDL.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/uuqvYTR6hr3d79cqKI1q0SICJDL.jpg",
+              "Name": "W: Two Worlds 1&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oQ7WBFxnsx2M1KaDGAnmxuuDFHy.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oQ7WBFxnsx2M1KaDGAnmxuuDFHy.jpg",
+              "Name": "W: Two Worlds 1&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": "Yeon Joo is dragged into W again, and So Hee finds her unconscious in the fitting room where she disappeared the last time. When she wakes up, Chul shoots her with a gun to prove that she&#8217;s invincible in his world. He assumes that Yeon Joo is from another world that he doesn&#8217;t know, and he won&#8217;t let her disappear again until she answers his questions.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/w-two-worlds-1x3/",
+          "Name": "W: Two Worlds 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ab9F6ebkC77dy2tPUYL1MVNRUe9.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ab9F6ebkC77dy2tPUYL1MVNRUe9.jpg",
+              "Name": "W: Two Worlds 1&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3NfhYjpEfwOJ62wcu9i4XDRq2UD.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3NfhYjpEfwOJ62wcu9i4XDRq2UD.jpg",
+              "Name": "W: Two Worlds 1&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": "Because of So Hee, Yeon Joo is caught by the police and is put in prison to be investigated whether she&#8217;s the real suspect. To escape from her situation, she tells Chul the truth about him actually being the main character of a webtoon. When he realises that his entire world is fabricated, everything except him stops.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/w-two-worlds-1x4/",
+          "Name": "W: Two Worlds 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ws2oDNSHkXV26ZgFGjJifkQcoOV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ws2oDNSHkXV26ZgFGjJifkQcoOV.jpg",
+              "Name": "W: Two Worlds 1&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wqNcgK0EiUpzNKOSoh4ReDZJyV5.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wqNcgK0EiUpzNKOSoh4ReDZJyV5.jpg",
+              "Name": "W: Two Worlds 1&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": "After saying goodbye to Yeon Joo, Chul goes to Seong Moo and threatens him to draw the real criminal and make everything go back to normal. However, he tells Chul that there isn&#8217;t a criminal to his family&#8217;s murder case and everything including his personality is set up for the story to continue on.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/w-two-worlds-1x5/",
+          "Name": "W: Two Worlds 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4CTKKpk6EWjhTEfJZk6fCVTnejB.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4CTKKpk6EWjhTEfJZk6fCVTnejB.jpg",
+              "Name": "W: Two Worlds 1&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/mI0gaZ25MM48Nj1tkKCxSmtKpuw.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/mI0gaZ25MM48Nj1tkKCxSmtKpuw.jpg",
+              "Name": "W: Two Worlds 1&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": "After shooting Seong Moo, Chul throws himself into the river from the bridge, and the story ends there just like that. Two months have passed, and Yeon Joo gets dragged into the webtoon again and see Chul drowning in the water. She realises that there&#8217;s still a chance to save him from dying.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/w-two-worlds-1x6/",
+          "Name": "W: Two Worlds 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/585s2xBYfQ6fXPnnjwYB19UHyZU.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/585s2xBYfQ6fXPnnjwYB19UHyZU.jpg",
+              "Name": "W: Two Worlds 1&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nA2952CCr6LgAq8zBfFvEKJXZaR.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nA2952CCr6LgAq8zBfFvEKJXZaR.jpg",
+              "Name": "W: Two Worlds 1&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": "Yeon Joo succeeds in bringing Chul back to life. She also goes into his world to be found and caught by the police. To get her out of prison, Chul fakes their marriage. While he’s having happy moments with Yeon Joo, an unknown caller rings Chul and threatens that he will also kill her.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/w-two-worlds-1x7/",
+          "Name": "W: Two Worlds 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8Mtn0dZDijtKfKpEjXq43qIFU9x.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8Mtn0dZDijtKfKpEjXq43qIFU9x.jpg",
+              "Name": "W: Two Worlds 1&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4ySK5KGdBpD3gDL9rrDeKzxAtKO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4ySK5KGdBpD3gDL9rrDeKzxAtKO.jpg",
+              "Name": "W: Two Worlds 1&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": "The killer follows Chul to the real world and finds out about the truth about him and his existence. He wonders around reality and is now after Yeon Joo. Chul asks Yeon Joo to draw him waking up from a dream when she returns to her world because it is the only way to keep everyone safe and to bring everything back to normal.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/w-two-worlds-1x8/",
+          "Name": "W: Two Worlds 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4pYy0BcghBhMaoizgZ1QlXIVNKz.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4pYy0BcghBhMaoizgZ1QlXIVNKz.jpg",
+              "Name": "W: Two Worlds 1&#215;9"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/br78AhqqNlhxaMxtn6jkVd9a6P6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/br78AhqqNlhxaMxtn6jkVd9a6P6.jpg",
+              "Name": "W: Two Worlds 1&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": "Yeon Joo draws Chul waking up from a dream, and he completely forgets what has happened, including her. Seong Moo tries to finish the webtoon by making it a happy ending and decides that the killer&#8217;s face will be his. However, the story doesn&#8217;t go as planned when the killer takes over his physical existence.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/w-two-worlds-1x9/",
+          "Name": "W: Two Worlds 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Jul. 20, 2016"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/w-two-worlds/",
+  "Name": "W: Two Worlds"
+}

@@ -1,14 +1,35 @@
 {
-  "Id": "movv9x3Xf374252",
-  "Url": "https://fsharephim.com/movies/shaun-the-sheep-the-farmers-llamas/",
-  "Name": "Shaun the Sheep: The Farmer's Llamas",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movv9x3xf374252/",
-      "Name": "2015.The.Farmers.Llamas.Bluray.1080p.AVC.DTS-HD.MA.5.1.mkv",
-      "Url": "https://www.fshare.vn/file/BDLLZU2FQ2VYWDVY",
-      "Size": "8.57 GB",
-      "FileSize": 9199872764
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/tv-movie/",
+      "Name": "TV Movie"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jez6raHNb4CwieMDTGT7q9j3UHO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jez6raHNb4CwieMDTGT7q9j3UHO.jpg",
+      "Name": "Shaun the Sheep: The Farmer&#8217;s Llamas"
+    }
+  ],
+  "Links": [],
+  "Intro": "In The Farmer&#8217;s Llamas the wily sheep bluffs his dim-witted farmer master into bidding for three llamas at a county fair. Once they show up at the farm, however, they cause such chaotic destructive mayhem that Shaun has to carefully remove them – high speed chases, careful rooftop scrambles and dangerous falls ensue.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/tSHySFtRNslF6U9mn377uDhasIS-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/xaDme8lu_eQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/shaun-the-sheep-the-farmers-llamas/",
+  "Name": "Shaun the Sheep: The Farmer's Llamas"
 }

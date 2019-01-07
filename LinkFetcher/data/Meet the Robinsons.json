@@ -1,35 +1,76 @@
 {
-  "Id": "mov5UnH9G1267",
-  "Url": "https://fsharephim.com/movies/meet-the-robinsons/",
-  "Name": "Meet the Robinsons",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov5unh9g1267-4/",
-      "Name": "Meet The Robinsons 2007 ViE 1080p 2D3D Blu-ray Remux AVC  DTS-HD MA 5.1.iso",
-      "Url": "https://www.fshare.vn/file/CV5PYDNYLQOWBIB",
-      "Size": "33.66 GB",
-      "FileSize": 36143759360
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov5unh9g1267/",
-      "Name": "1080p",
-      "Url": "https://www.fshare.vn/file/3B1V6VL4IZ5F",
-      "Size": "6.56 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov5unh9g1267-2/",
-      "Name": "1080p",
-      "Url": "http://4share.vn/f/3104060403040305/Meet.The.Robinsons.2007.1080p.BluRay.DTS.x264-hV.mkv.file",
-      "Size": "6.56 GB",
-      "FileSize": 0
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/mov5unh9g1267-3/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/meet-the-robinsons",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jxWA2lDLidicmmDymnxlz53zAb9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jxWA2lDLidicmmDymnxlz53zAb9.jpg",
+      "Name": "Meet the Robinsons"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/42IrpRJmSItvT0vD4RhRGkHb1ce.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/42IrpRJmSItvT0vD4RhRGkHb1ce.jpg",
+      "Name": "Meet the Robinsons"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yd1iMDBi1w5KBBY722LHgnxBTeK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yd1iMDBi1w5KBBY722LHgnxBTeK.jpg",
+      "Name": "Meet the Robinsons"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lZr7dpXyVEDgGaQKzEYTxKlr2kB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lZr7dpXyVEDgGaQKzEYTxKlr2kB.jpg",
+      "Name": "Meet the Robinsons"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fnB6AmmEQsxfqd2oFjA2TzfgTMG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fnB6AmmEQsxfqd2oFjA2TzfgTMG.jpg",
+      "Name": "Meet the Robinsons"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dchX8KBEVdyXKc17cRK9TSxtcMf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dchX8KBEVdyXKc17cRK9TSxtcMf.jpg",
+      "Name": "Meet the Robinsons"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9G6V7kp0uUIkbmxOUiKV0sSlIpN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9G6V7kp0uUIkbmxOUiKV0sSlIpN.jpg",
+      "Name": "Meet the Robinsons"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l2cr2dU28r9zU1h2Knc3a6Sp1o5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l2cr2dU28r9zU1h2Knc3a6Sp1o5.jpg",
+      "Name": "Meet the Robinsons"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tNE6q8nc6KRDppmCrKosXc9ME0l.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tNE6q8nc6KRDppmCrKosXc9ME0l.jpg",
+      "Name": "Meet the Robinsons"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dRP3kKR9IjgJlgpLnux4P3PuR3m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dRP3kKR9IjgJlgpLnux4P3PuR3m.jpg",
+      "Name": "Meet the Robinsons"
+    }
+  ],
+  "Links": [],
+  "Intro": "In this animated adventure, brilliant preteen inventor Lewis creates a memory scanner to retrieve his earliest recollections and find out why his mother gave him up for adoption. But when the villainous Bowler Hat Guy steals the machine, Lewis is ready to give up on his quest until the mysterious Wilbur Robinson shows up on the scene, whisking Lewis to the future to find the scanner and his mom.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/oe7w9SxGmpSW1dlz5QaVVKWBEVz-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/S396-fnLldk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/meet-the-robinsons/",
+  "Name": "Meet the Robinsons"
 }

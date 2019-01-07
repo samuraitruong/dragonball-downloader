@@ -1,21 +1,56 @@
 {
-  "Id": "movhGLJlk21057",
-  "Url": "https://fsharephim.com/movies/ocean-waves/",
-  "Name": "Ocean Waves",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movhgljlk21057/",
-      "Name": "The Ocean Waves 1993 NTSC DVD.ISO",
-      "Url": "https://www.fshare.vn/file/T2QB0XZDST",
-      "Size": "2.24 GB",
-      "FileSize": 2406871040
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movhgljlk21057-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/ocean-waves-umi-ga-kikoeru/vietnamese/896917",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iK56aX8x2zp2krOC7Ojj4ocfMqq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iK56aX8x2zp2krOC7Ojj4ocfMqq.jpg",
+      "Name": "Ocean Waves"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1y5nd9YGa9z94CYSuvn5axlCnAi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1y5nd9YGa9z94CYSuvn5axlCnAi.jpg",
+      "Name": "Ocean Waves"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/utOQ19PqJCTHG1VEuekgo53P7VT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/utOQ19PqJCTHG1VEuekgo53P7VT.jpg",
+      "Name": "Ocean Waves"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vYeEcvDil4brXHBQCIyPvlCAWwZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vYeEcvDil4brXHBQCIyPvlCAWwZ.jpg",
+      "Name": "Ocean Waves"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/plx3wTQzM60H3fkoAq78pdtBFDw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/plx3wTQzM60H3fkoAq78pdtBFDw.jpg",
+      "Name": "Ocean Waves"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5MBl8dDa1e6sE3vbhf8LjiPnGXL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5MBl8dDa1e6sE3vbhf8LjiPnGXL.jpg",
+      "Name": "Ocean Waves"
+    }
+  ],
+  "Links": [],
+  "Intro": "At Kichijōji Station, Tokyo, Taku Morisaki glimpses a familiar woman on the platform opposite boarding a train. Later, her photo falls from a shelf as he exits his apartment before flying to Kōchi Prefecture. Picking it up, he looks at it briefly before leaving. As the aeroplane takes off he narrates the events that brought her into his life&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/ojabW60WYv2fUrZVC93ScwZcHY2-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/VciuDweg61c?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ocean-waves/",
+  "Name": "Ocean Waves"
 }

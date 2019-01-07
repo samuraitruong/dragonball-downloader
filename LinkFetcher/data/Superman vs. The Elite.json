@@ -1,21 +1,64 @@
 {
   "Id": "movNN8KqN103269",
-  "Url": "https://fsharephim.com/movies/superman-vs-the-elite/",
-  "Name": "Superman vs. The Elite",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9fRNgX2bI6f27sxFEFuCPNYY4Lv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9fRNgX2bI6f27sxFEFuCPNYY4Lv.jpg",
+      "Name": "Superman vs. The Elite - Superman vs. The Elite"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qOv5tK3D9hF89DSoIO3irNaf2SY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qOv5tK3D9hF89DSoIO3irNaf2SY.jpg",
+      "Name": "Superman vs. The Elite - Superman vs. The Elite"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/geq3rx470OE3cffliEQeQFotpqK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/geq3rx470OE3cffliEQeQFotpqK.jpg",
+      "Name": "Superman vs. The Elite - Superman vs. The Elite"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xQULfHyzBOXVu1Qr9fr4iqjsgVk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xQULfHyzBOXVu1Qr9fr4iqjsgVk.jpg",
+      "Name": "Superman vs. The Elite - Superman vs. The Elite"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/21FbB5gcWGRa05FipR694HbW3aH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/21FbB5gcWGRa05FipR694HbW3aH.jpg",
+      "Name": "Superman vs. The Elite - Superman vs. The Elite"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movnn8kqn103269/",
-      "Name": "720p",
-      "Url": "https://www.fshare.vn/file/ZFSGLEX97VM7",
       "Size": "2.45 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/ZFSGLEX97VM7",
+      "Name": "720p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movnn8kqn103269-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/superman-vs-the-elite/vietnamese/592818",
       "Size": "0",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/superman-vs-the-elite/vietnamese/592818",
+      "Name": "Viet - Subtitle"
     }
-  ]
+  ],
+  "Intro": "Phim dựa trên cốt truyện What*s So Funny About Truth, Justice &amp; the American Way? của Joe Kelly, nói về cuốc chiến giữa Superman và The Elite &#8211; 1 nhóm người có siêu năng lực, sẵn sàng giết các supervillain khác chứ không chịu những ràng buộc về đạo đức và không được giết người như Superman",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/cilpU63HE0nsbqMytvO3Mlltotw-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/hXUu91JrpzA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/superman-vs-the-elite/",
+  "Name": "Superman vs. The Elite"
 }

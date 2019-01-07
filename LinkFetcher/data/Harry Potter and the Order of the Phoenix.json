@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gGt4ePOhD8ilxd3FYhKB06L2CyG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gGt4ePOhD8ilxd3FYhKB06L2CyG.jpg",
+      "Name": "Harry Potter and the Order of the Phoenix"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vp4XCAMTtZqTPyF9LpNslZ1uLxQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vp4XCAMTtZqTPyF9LpNslZ1uLxQ.jpg",
+      "Name": "Harry Potter and the Order of the Phoenix"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zL5foltXzXtXI3Rk6b9cv9udIMi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zL5foltXzXtXI3Rk6b9cv9udIMi.jpg",
+      "Name": "Harry Potter and the Order of the Phoenix"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2epdJ8tkUfxz9TS2uW9M0KLH3NU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2epdJ8tkUfxz9TS2uW9M0KLH3NU.jpg",
+      "Name": "Harry Potter and the Order of the Phoenix"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g2LrwZRGmQ9OjSXVs6R03qdrXgH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g2LrwZRGmQ9OjSXVs6R03qdrXgH.jpg",
+      "Name": "Harry Potter and the Order of the Phoenix"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wy3F7IhP9h0odjGYelTD62RaM5u.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wy3F7IhP9h0odjGYelTD62RaM5u.jpg",
+      "Name": "Harry Potter and the Order of the Phoenix"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oexfk3RUAzqvV6oO3LMnTARtvh3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oexfk3RUAzqvV6oO3LMnTARtvh3.jpg",
+      "Name": "Harry Potter and the Order of the Phoenix"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yIfKdOQCnn7lkzwF7yGTBdmuYir.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yIfKdOQCnn7lkzwF7yGTBdmuYir.jpg",
+      "Name": "Harry Potter and the Order of the Phoenix"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/motALlrkuTDHuqqy5Hz2uvWkQrY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/motALlrkuTDHuqqy5Hz2uvWkQrY.jpg",
+      "Name": "Harry Potter and the Order of the Phoenix"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2wsJFSzxyif5ph6aRg9JfbqFoOG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2wsJFSzxyif5ph6aRg9JfbqFoOG.jpg",
+      "Name": "Harry Potter and the Order of the Phoenix"
+    }
+  ],
+  "Links": [],
+  "Intro": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students – dubbed &#8216;Dumbledore&#8217;s Army&#8217; – to defend themselves against the dark arts.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/4YnLxYLHhT4UQ8i9jxAXWy46Xuw-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/WIj9DYJ5EKk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/harry-potter-and-the-order-of-the-phoenix/",
+  "Name": "Harry Potter and the Order of the Phoenix"
+}

@@ -1,0 +1,33 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cBlKxl2YSRVTLb1szSur8H3BNdZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cBlKxl2YSRVTLb1szSur8H3BNdZ.jpg ",
+      "Name": "A United Kingdom"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mpBnIn8z9BeivOWxunK8EJLTtUm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mpBnIn8z9BeivOWxunK8EJLTtUm.jpg ",
+      "Name": "A United Kingdom"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8ZZ1mcVHHmL2QKo1qALhb6ARQAd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8ZZ1mcVHHmL2QKo1qALhb6ARQAd.jpg ",
+      "Name": "A United Kingdom"
+    }
+  ],
+  "Links": [],
+  "Intro": "Prince Seretse Khama of Botswana causes an international stir when he marries a white woman from London in the late 1940s.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/03/wZNZIM3v6qlaIoKHIEtRdP9Ipx9-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/dlgwjo9YvtQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/a-united-kingdom/",
+  "Name": "A United Kingdom"
+}

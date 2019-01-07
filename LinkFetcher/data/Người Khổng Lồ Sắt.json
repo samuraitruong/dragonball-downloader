@@ -1,21 +1,84 @@
 {
-  "Id": "moviyD8Ln10386",
-  "Url": "https://fsharephim.com/movies/the-iron-giant/",
-  "Name": "Người Khổng Lồ Sắt",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/moviyd8ln10386-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "http://www.fshare.vn/file/J9DUXSXZV6VO",
-      "Size": "0",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/moviyd8ln10386/",
-      "Name": "The Iron Giant 1999 1080p BluRay DTS x264-VietHD.mkv",
-      "Url": "https://www.fshare.vn/file/JXRSEC6NFY92",
-      "Size": "7.44 GB",
-      "FileSize": 7986676571
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/11XLucJQvdgtchSfO0ZTbo966pp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/11XLucJQvdgtchSfO0ZTbo966pp.jpg ",
+      "Name": "Người Khổng Lồ Sắt - The Iron Giant"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7FE4OF0nNGL3BFS7NygJzTSLy91.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7FE4OF0nNGL3BFS7NygJzTSLy91.jpg ",
+      "Name": "Người Khổng Lồ Sắt - The Iron Giant"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/SHjSrVygUc4iLy1GnsK89tL138.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/SHjSrVygUc4iLy1GnsK89tL138.jpg ",
+      "Name": "Người Khổng Lồ Sắt - The Iron Giant"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sOJtv65Fs3chGN4M7PA0g5vRGDw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sOJtv65Fs3chGN4M7PA0g5vRGDw.jpg ",
+      "Name": "Người Khổng Lồ Sắt - The Iron Giant"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bkZx4HpAsapXKtZxt01YdmiIkaC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bkZx4HpAsapXKtZxt01YdmiIkaC.jpg ",
+      "Name": "Người Khổng Lồ Sắt - The Iron Giant"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/urk17LqoG5QNEDFWN3UlVq9AbRT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/urk17LqoG5QNEDFWN3UlVq9AbRT.jpg ",
+      "Name": "Người Khổng Lồ Sắt - The Iron Giant"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xkekxIfe1bmJrec1F903u8Ux2pk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xkekxIfe1bmJrec1F903u8Ux2pk.jpg ",
+      "Name": "Người Khổng Lồ Sắt - The Iron Giant"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/34Rveh52JTUKJbuuoPx9RJjlR2p.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/34Rveh52JTUKJbuuoPx9RJjlR2p.jpg ",
+      "Name": "Người Khổng Lồ Sắt - The Iron Giant"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5ALNJrh6ClIg9b4lY6ObEY6Z7CI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5ALNJrh6ClIg9b4lY6ObEY6Z7CI.jpg ",
+      "Name": "Người Khổng Lồ Sắt - The Iron Giant"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/XoOPhzXJVvuUf6nfBy73xY7fN8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/XoOPhzXJVvuUf6nfBy73xY7fN8.jpg ",
+      "Name": "Người Khổng Lồ Sắt - The Iron Giant"
+    }
+  ],
+  "Links": [],
+  "Intro": "Cậu bé mơ mộng Hogarth bất ngờ phát hiện ra một chú robot khổng lồ rơi từ trên trời xuống hồ nước gần nhà. Cậu được Dean, tay buôn phế thải hàng xóm, giúp giấu con robot trong rừng.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/rdN6IjV4xlDDhrT8ewkkJfPvp2e-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/fq2FZdvQXXg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-iron-giant/",
+  "Name": "Người Khổng Lồ Sắt"
 }

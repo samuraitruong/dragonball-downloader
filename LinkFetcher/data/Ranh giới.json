@@ -1,0 +1,84 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kG5Zn9z20L2O7Jo2Y2jykOMh60v.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kG5Zn9z20L2O7Jo2Y2jykOMh60v.jpg ",
+      "Name": "Ranh giới - Sicario"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zAHozevwbbsB2epEVpCkzqVccWW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zAHozevwbbsB2epEVpCkzqVccWW.jpg ",
+      "Name": "Ranh giới - Sicario"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jmBSTLQz24GAG31QOVqBL5tgmc1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jmBSTLQz24GAG31QOVqBL5tgmc1.jpg ",
+      "Name": "Ranh giới - Sicario"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bnCIf8TNN8X2d5UTLV1HkkBkBvF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bnCIf8TNN8X2d5UTLV1HkkBkBvF.jpg ",
+      "Name": "Ranh giới - Sicario"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nkSW9TqN9PHOkiej1D3SnmOhmCl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nkSW9TqN9PHOkiej1D3SnmOhmCl.jpg ",
+      "Name": "Ranh giới - Sicario"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3knz6KeIWF5ZASOjiR6vymkNEho.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3knz6KeIWF5ZASOjiR6vymkNEho.jpg ",
+      "Name": "Ranh giới - Sicario"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ylI00B0wJu0ABVjxE2fz41jwGdI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ylI00B0wJu0ABVjxE2fz41jwGdI.jpg ",
+      "Name": "Ranh giới - Sicario"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lc6O5aZxX9hmK7xfmz2qLna12WP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lc6O5aZxX9hmK7xfmz2qLna12WP.jpg ",
+      "Name": "Ranh giới - Sicario"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/A5h7Vy96TfgIBV1Taxj54ThiN3k.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/A5h7Vy96TfgIBV1Taxj54ThiN3k.jpg ",
+      "Name": "Ranh giới - Sicario"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nq1LPPNxCV5g8gtferlG0rEVyxq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nq1LPPNxCV5g8gtferlG0rEVyxq.jpg ",
+      "Name": "Ranh giới - Sicario"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bộ phim lấy bối cảnh tại Mexico, nơi mà tệ nạn ma túy đang hoành hành và ngay cả cảnh sát cũng vô cùng khó khăn để truy lùng được tội phạm. Nội dung chính của phim là cuộc đối đầu giữa Kate Macer &#8211; một nữ nhân viên FBI mẫn cán và một tên trùm ma túy nguy hiểm ở vùng biên giới giữa Mỹ và Mexico.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/p2SdfGmQRaw8xhFbexlHL7srMM8-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ymx2jrknr3I?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/sicario/",
+  "Name": "Ranh giới"
+}

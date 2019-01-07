@@ -1,0 +1,33 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mLNn3ajWEk1RQGXVD4YfbySCf1T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mLNn3ajWEk1RQGXVD4YfbySCf1T.jpg",
+      "Name": "Shine"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/glCdlYKnoNF58BPbU7odYqmPrB9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/glCdlYKnoNF58BPbU7odYqmPrB9.jpg",
+      "Name": "Shine"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/abgJfOrejbqz222907Bq4FSdNwa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/abgJfOrejbqz222907Bq4FSdNwa.jpg",
+      "Name": "Shine"
+    }
+  ],
+  "Links": [],
+  "Intro": "Pianist David Helfgott, driven by his father and teachers, has a breakdown. Years later he returns to the piano, to popular if not critical acclaim.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/49mQw8exEyuDrEweh7E1AByu37T-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/vTt4Ar6pzO4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/shine/",
+  "Name": "Shine"
+}

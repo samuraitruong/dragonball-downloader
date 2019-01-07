@@ -1,0 +1,54 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5dA7rqQRiToQZO6GmDN0fy1V37f.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5dA7rqQRiToQZO6GmDN0fy1V37f.jpg",
+      "Name": "Prevenge"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tmzlRELwQaARwQnZTYo07bupQ1E.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tmzlRELwQaARwQnZTYo07bupQ1E.jpg",
+      "Name": "Prevenge"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wQB7jz9e8tiKhhU1fCWm2TpnHR1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wQB7jz9e8tiKhhU1fCWm2TpnHR1.jpg",
+      "Name": "Prevenge"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eAkFE0mxNaeb4rPNi8Or6AChBsI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eAkFE0mxNaeb4rPNi8Or6AChBsI.jpg",
+      "Name": "Prevenge"
+    }
+  ],
+  "Links": [],
+  "Intro": "A pregnant widow, believing herself to be guided by her unborn child, embarks on a homicidal rampage.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/5OWrwvKscVc7Md0IvtTLZmjXbKt-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/tuTWNSynxzE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/prevenge/",
+  "Name": "Prevenge"
+}

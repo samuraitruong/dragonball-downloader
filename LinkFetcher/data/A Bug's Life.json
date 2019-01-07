@@ -1,28 +1,80 @@
 {
-  "Id": "movbe0hzY9487",
-  "Url": "https://fsharephim.com/movies/a-bugs-life/",
-  "Name": "A Bug's Life",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movbe0hzy9487-3/",
-      "Name": "Bluray",
-      "Url": "https://www.fshare.vn/file/MROSR3VUE58H",
-      "Size": "23.12 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movbe0hzy9487/",
-      "Name": "A.Bugs.Life.1998.720p.BluRay.DTS.x264-ESiR (tm).mkv",
-      "Url": "https://www.fshare.vn/file/TMAD1ZNDDT",
-      "Size": "4.15 GB",
-      "FileSize": 4451106253
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movbe0hzy9487-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/a-bugs-life-a-bugs-life",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gOvW00ZMoEiyRwXVkHPfBictPAl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gOvW00ZMoEiyRwXVkHPfBictPAl.jpg",
+      "Name": "A Bug&#8217;s Life"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7DvW2QLf4eG1d4WMBrlzTvXQDk3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7DvW2QLf4eG1d4WMBrlzTvXQDk3.jpg",
+      "Name": "A Bug&#8217;s Life"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bHMHpXNjeKRxcjWcpbIAD5f0aIK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bHMHpXNjeKRxcjWcpbIAD5f0aIK.jpg",
+      "Name": "A Bug&#8217;s Life"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7iFpilhYQI4y3Eae4jwo8GvrEiv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7iFpilhYQI4y3Eae4jwo8GvrEiv.jpg",
+      "Name": "A Bug&#8217;s Life"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5MFw5omKi8Lg78XkHke8eWuHiwm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5MFw5omKi8Lg78XkHke8eWuHiwm.jpg",
+      "Name": "A Bug&#8217;s Life"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rrAdTMAH41reM6HKJDdu3HpW2Lf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rrAdTMAH41reM6HKJDdu3HpW2Lf.jpg",
+      "Name": "A Bug&#8217;s Life"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aYKiOIczFuz3MAFk8OF7bOrR7Nm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aYKiOIczFuz3MAFk8OF7bOrR7Nm.jpg",
+      "Name": "A Bug&#8217;s Life"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/z55AGkTEAtiflyq65imTNIH0ukd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/z55AGkTEAtiflyq65imTNIH0ukd.jpg",
+      "Name": "A Bug&#8217;s Life"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dfneBYtOgqwFB3gq0mTV7uV0DYO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dfneBYtOgqwFB3gq0mTV7uV0DYO.jpg",
+      "Name": "A Bug&#8217;s Life"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sJs78eL5r8O7qXtifEltcUhGPhE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sJs78eL5r8O7qXtifEltcUhGPhE.jpg",
+      "Name": "A Bug&#8217;s Life"
+    }
+  ],
+  "Links": [],
+  "Intro": "On behalf of &#8220;oppressed bugs everywhere,&#8221; an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/u9qGMRwcPwP0WETxulS5hKUsEum-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Ljk2YJ53_WI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/a-bugs-life/",
+  "Name": "A Bug's Life"
 }

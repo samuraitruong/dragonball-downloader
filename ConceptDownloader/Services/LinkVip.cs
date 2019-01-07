@@ -9,6 +9,7 @@ using RestSharp;
 namespace ConceptDownloader.Services
 {
     //https://linkvip.info
+    [Service("linkvip.info")]
     public class LinkVip : ILinkFetcherService
     {
         public LinkVip()

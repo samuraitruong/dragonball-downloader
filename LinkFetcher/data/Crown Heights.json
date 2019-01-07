@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8kT4NFQfNZ2ig6Nj7FVeACTH9v1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8kT4NFQfNZ2ig6Nj7FVeACTH9v1.jpg",
+      "Name": "Crown Heights"
+    }
+  ],
+  "Links": [],
+  "Intro": "When Colin Warner was wrongfully convicted of murder, his best friend Carl King devoted his life to proving his innocence.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/ksTHqOb8bPPdbIsZXHnWX3NrgfH-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/P2sLyAAfQ2g?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/crown-heights/",
+  "Name": "Crown Heights"
+}

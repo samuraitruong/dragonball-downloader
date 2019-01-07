@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u4s4b3xRz5gOHwzO2KneDqIl7Bf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u4s4b3xRz5gOHwzO2KneDqIl7Bf.jpg ",
+      "Name": "Hành Tinh Khỉ - Planet of the Apes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/amP22ypHdn5imukRBiK3caAzTrE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/amP22ypHdn5imukRBiK3caAzTrE.jpg ",
+      "Name": "Hành Tinh Khỉ - Planet of the Apes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fRWXvva07M2n6ZBMKDAd6dBA7ZO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fRWXvva07M2n6ZBMKDAd6dBA7ZO.jpg ",
+      "Name": "Hành Tinh Khỉ - Planet of the Apes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/IChaFbgBNmt7E0vZbfvpyQEUkq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/IChaFbgBNmt7E0vZbfvpyQEUkq.jpg ",
+      "Name": "Hành Tinh Khỉ - Planet of the Apes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mYLBgHNxqD2m0FvMg1EtpJrh6kn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mYLBgHNxqD2m0FvMg1EtpJrh6kn.jpg ",
+      "Name": "Hành Tinh Khỉ - Planet of the Apes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jWb0TtTvoOActvSIToIYvsg1ChP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jWb0TtTvoOActvSIToIYvsg1ChP.jpg ",
+      "Name": "Hành Tinh Khỉ - Planet of the Apes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/20jhzMDn4sQShpYFPG3USqn5tYg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/20jhzMDn4sQShpYFPG3USqn5tYg.jpg ",
+      "Name": "Hành Tinh Khỉ - Planet of the Apes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5eqzFWbycAt0IJhm9xHYRGkZb40.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5eqzFWbycAt0IJhm9xHYRGkZb40.jpg ",
+      "Name": "Hành Tinh Khỉ - Planet of the Apes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6Kw68U4EdPquhKdfsF3vm0Y9wcW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6Kw68U4EdPquhKdfsF3vm0Y9wcW.jpg ",
+      "Name": "Hành Tinh Khỉ - Planet of the Apes"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5T2E7FUHypxMTo2dKcZrDKwH9dt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5T2E7FUHypxMTo2dKcZrDKwH9dt.jpg ",
+      "Name": "Hành Tinh Khỉ - Planet of the Apes"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bốn phi hành gia tỉnh dậy sau giấc ngủ đông (bằng kỹ thuật điện tử) trong chuyến hành trình với vận tốc gần bằng vận tốc ánh sáng của mình và phát hiện họ đã đặt chân đến một hành tinh lạ và đã là năm 3978. Tại hành tinh này họ phát hiện ra các loài linh trưởng, có trí tuệ cao, biết nói là những kẻ thống trị, còn loài người, không có khả năng giao tiếp bằng tiếng nói, lại bị coi là &#8220;động vật&#8221; có thể bị săn bắn, bắt làm nô lệ, hay thậm chí là để nghiên cứu.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/fiWii3OCJhoSld3U3tUUr1AB6d7-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/VjcpRHuPjOI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/planet-of-the-apes/",
+  "Name": "Hành Tinh Khỉ"
+}

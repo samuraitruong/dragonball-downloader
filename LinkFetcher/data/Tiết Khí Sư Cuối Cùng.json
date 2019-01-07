@@ -1,0 +1,60 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fuINagU2N0RxoQWenf00txtXfV5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fuINagU2N0RxoQWenf00txtXfV5.jpg",
+      "Name": "Tiết Khí Sư Cuối Cùng - The Last Airbender"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8XiorcL8CKjUyuBosC1pS3kgNWM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8XiorcL8CKjUyuBosC1pS3kgNWM.jpg",
+      "Name": "Tiết Khí Sư Cuối Cùng - The Last Airbender"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hzPK7B5iyQTAfG7X92uKpAwLGZC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hzPK7B5iyQTAfG7X92uKpAwLGZC.jpg",
+      "Name": "Tiết Khí Sư Cuối Cùng - The Last Airbender"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pKf721WaYpxEdISJ9LYg23fd3wM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pKf721WaYpxEdISJ9LYg23fd3wM.jpg",
+      "Name": "Tiết Khí Sư Cuối Cùng - The Last Airbender"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mCmPXqzKZ51m3tEvqdqxNCrKFiA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mCmPXqzKZ51m3tEvqdqxNCrKFiA.jpg",
+      "Name": "Tiết Khí Sư Cuối Cùng - The Last Airbender"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uTxgbcjUZHOEtkPgTSyTZKeBDXo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uTxgbcjUZHOEtkPgTSyTZKeBDXo.jpg",
+      "Name": "Tiết Khí Sư Cuối Cùng - The Last Airbender"
+    }
+  ],
+  "Links": [],
+  "Intro": "Thế giới được phân chia thành bốn vương quốc, đại diện cho bốn nguyên tố trên trái đất là: Lửa, Khí, Nước, Thổ. Avatar, người có thể điều khiển được cả bốn nguyên tố trên, có nhiệm vụ giữ thế cân bằng cho thế giới. Nhưng khi vị Avatar cuối cùng biến mất, cả nhân loại lập tức chìm trong chết chóc. Trong suốt 100 năm, Hỏa quốc tiến hành âm mưu bá chủ thế giới. Với đạo quân hùng mạnh, Hỏa quốc nhanh chóng đè bẹp những bộ tộc khác dưới ngọn lửa chiến tranh tàn khốc.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/zgwRTYWEEPivTwjB9S03HtmMcbM-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/-egQ79OrYCs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-last-airbender/",
+  "Name": "Tiết Khí Sư Cuối Cùng"
+}

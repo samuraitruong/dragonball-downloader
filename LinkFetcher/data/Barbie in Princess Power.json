@@ -1,14 +1,37 @@
 {
-  "Id": "mov9ElU4g316322",
-  "Url": "https://fsharephim.com/movies/barbie-in-princess-power/",
-  "Name": "Barbie in Princess Power",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov9elu4g316322/",
-      "Name": "Barbie.in.Princess.Power.2015.mkv",
-      "Url": "https://www.fshare.vn/file/IJTCUY4AT1DJ",
-      "Size": "1.69 GB",
-      "FileSize": 1814900581
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eNNQo0CSJpN7KYrQB6lKFqcNE4W.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eNNQo0CSJpN7KYrQB6lKFqcNE4W.jpg",
+      "Name": "Barbie in Princess Power"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f0aZqjDopX6hQZOLghTMULaYokD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f0aZqjDopX6hQZOLghTMULaYokD.jpg",
+      "Name": "Barbie in Princess Power"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3muK5arEjBiSdzanEAR2kOhcttt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3muK5arEjBiSdzanEAR2kOhcttt.jpg",
+      "Name": "Barbie in Princess Power"
+    }
+  ],
+  "Links": [],
+  "Intro": "Barbie is Kara &#8211; a modern-day princess with a normal life. Kissed by a butterfly which gives her superpowers and allows her to become a Super Sparkle, she is ready to save the kingdom from evil &#8211; were it not for her jealous cousin who is also kissed by the butterfly and becomes her rival and nemesis. Watch as Super Sparkle and Dark Sparkle learn that together they can become a great team for good once they learn the power of friendship.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/nCviAdChxibrKRZfvG7MZ2wsqdR-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/barbie-in-princess-power/",
+  "Name": "Barbie in Princess Power"
 }

@@ -1,21 +1,36 @@
 {
-  "Id": "mov3HDmtp430214",
-  "Url": "https://fsharephim.com/movies/night-is-short-walk-on-girl/",
-  "Name": "Night is Short, Walk on Girl",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov3hdmtp430214/",
-      "Name": "Night.Is.Short.Walk.on.Girl.2017.JPN.BluRay.1080p.DTS.x264-CHD.mkv",
-      "Url": "https://www.fshare.vn/file/CO36AO9WKT4UNES",
-      "Size": "6.37 GB",
-      "FileSize": 6837892978
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov3hdmtp430214-2/",
-      "Name": "The Night Is Short Walk on Girl 2017 1080p BluRay(1).mp4",
-      "Url": "https://www.fshare.vn/file/N5GK8718T7886WR",
-      "Size": "1.81 GB",
-      "FileSize": 1945820188
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qvNdkRTYEypSXKijxz6rsbq4Gin.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qvNdkRTYEypSXKijxz6rsbq4Gin.jpg ",
+      "Name": "Night is Short, Walk on Girl"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iBl3hhtHC7qQX7jGphIAYLpmpPC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iBl3hhtHC7qQX7jGphIAYLpmpPC.jpg ",
+      "Name": "Night is Short, Walk on Girl"
+    }
+  ],
+  "Links": [],
+  "Intro": "The protagonist falls in love with his junior in a college club, and struggles daily to be noticed by her. However, she is naïve and unsophisticated and is completely indifferent to him. This comical love fantasy depicts absurd and interesting daily happenings in the city of Kyoto.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/3reCs2whQK8aPrv29QmqGFtmA63-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/tmr6VSOW4zU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/night-is-short-walk-on-girl/",
+  "Name": "Night is Short, Walk on Girl"
 }

@@ -1,21 +1,72 @@
 {
-  "Id": "movZEk2tP12",
-  "Url": "https://fsharephim.com/movies/finding-nemo/",
-  "Name": "Finding Nemo",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movzek2tp12/",
-      "Name": "Finding.Nemo.2003.1080p.BluRay.DTS-ES.Hi10Px264-ESiR.mkv",
-      "Url": "https://www.fshare.vn/file/HY4FGR9NA5MG",
-      "Size": "10.68 GB",
-      "FileSize": 11463801696
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movzek2tp12-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "http://www.fshare.vn/file/ZU1B7QTNLN91",
-      "Size": "252.67 KB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/n2vIGWw4ezslXjlP0VNxkp9wqwU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/n2vIGWw4ezslXjlP0VNxkp9wqwU.jpg",
+      "Name": "Finding Nemo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2Xh7cVe9beCn04ouN9IGfK8WTok.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2Xh7cVe9beCn04ouN9IGfK8WTok.jpg",
+      "Name": "Finding Nemo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yHYl1lYhm4B1QFnLjHy6RnoryOP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yHYl1lYhm4B1QFnLjHy6RnoryOP.jpg",
+      "Name": "Finding Nemo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6AASwDhTzI0V0JWZS8hVu6b9086.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6AASwDhTzI0V0JWZS8hVu6b9086.jpg",
+      "Name": "Finding Nemo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jpnwNUmph2nFzLYXhD91Xe8DYhd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jpnwNUmph2nFzLYXhD91Xe8DYhd.jpg",
+      "Name": "Finding Nemo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/n3pzA8cV6iTMTmq5Ep7o0djOf57.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/n3pzA8cV6iTMTmq5Ep7o0djOf57.jpg",
+      "Name": "Finding Nemo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uv5BRIaJKfcPBPEBV8qfTjD6PuY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uv5BRIaJKfcPBPEBV8qfTjD6PuY.jpg",
+      "Name": "Finding Nemo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3xMOfKkLLPyGbCdK84jV8H9V52f.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3xMOfKkLLPyGbCdK84jV8H9V52f.jpg",
+      "Name": "Finding Nemo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8JrmQioqDTELLFgrHe9JEH7kc0p.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8JrmQioqDTELLFgrHe9JEH7kc0p.jpg",
+      "Name": "Finding Nemo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/llFCjeoO3Xg68vgc7YndxMGJEse.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/llFCjeoO3Xg68vgc7YndxMGJEse.jpg",
+      "Name": "Finding Nemo"
+    }
+  ],
+  "Links": [],
+  "Intro": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist&#8217;s office aquarium. It&#8217;s up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home &#8212; meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/syPWyeeqzTQIxjIUaIFI7d0TyEY-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/SPHfeNgogVs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/finding-nemo/",
+  "Name": "Finding Nemo"
 }

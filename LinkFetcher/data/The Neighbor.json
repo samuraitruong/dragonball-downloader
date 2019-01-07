@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u0kJRUth9q5XjX9QfHz0ihlSeZq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u0kJRUth9q5XjX9QfHz0ihlSeZq.jpg ",
+      "Name": "The Neighbor"
+    }
+  ],
+  "Links": [],
+  "Intro": "A middle-aged man in a stagnant marriage, finds his life upended when an attractive young woman and her seemingly abusive husband move in next door.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/7LjdlWEEnJ4djK3lQBgu2fcvsuJ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/MuKlhpkWOtw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-neighbor/",
+  "Name": "The Neighbor"
+}

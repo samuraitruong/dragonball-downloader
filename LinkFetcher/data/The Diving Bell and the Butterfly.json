@@ -1,0 +1,63 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AsCyxEogqOHKEb79G5lwjfx8uSa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AsCyxEogqOHKEb79G5lwjfx8uSa.jpg",
+      "Name": "The Diving Bell and the Butterfly"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ffxDIQqNIy7jlB7Z2pnycyXZwJV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ffxDIQqNIy7jlB7Z2pnycyXZwJV.jpg",
+      "Name": "The Diving Bell and the Butterfly"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3yPZu7Lto4Zh5YzRoIL2XIhlJ16.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3yPZu7Lto4Zh5YzRoIL2XIhlJ16.jpg",
+      "Name": "The Diving Bell and the Butterfly"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3tgfvkoipIVkBNT8n73dNkgYq58.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3tgfvkoipIVkBNT8n73dNkgYq58.jpg",
+      "Name": "The Diving Bell and the Butterfly"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/72z4myVdnjyi5Bc2ncDLlLEULOW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/72z4myVdnjyi5Bc2ncDLlLEULOW.jpg",
+      "Name": "The Diving Bell and the Butterfly"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iOGMWtDX8MFOGd4VxGhOSZdT4ym.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iOGMWtDX8MFOGd4VxGhOSZdT4ym.jpg",
+      "Name": "The Diving Bell and the Butterfly"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vluxGcyI2zy7TgAkwO4CkLipfAY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vluxGcyI2zy7TgAkwO4CkLipfAY.jpg",
+      "Name": "The Diving Bell and the Butterfly"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/c4iH4tOwrm5qbqaLww5mD9OPjv0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/c4iH4tOwrm5qbqaLww5mD9OPjv0.jpg",
+      "Name": "The Diving Bell and the Butterfly"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rwdRJdhxBj2YpFTFlmUTvda0iXj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rwdRJdhxBj2YpFTFlmUTvda0iXj.jpg",
+      "Name": "The Diving Bell and the Butterfly"
+    }
+  ],
+  "Links": [],
+  "Intro": "Elle France editor Jean-Dominique Bauby, who, in 1995 at the age of 43, suffered a stroke that paralyzed his entire body, except his left eye. Using that eye to blink out his memoir, Bauby eloquently described the aspects of his interior world, from the psychological torment of being trapped inside his body to his imagined stories from lands he&#8217;d only visited in his mind.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/j9xijFBmOSitYXAMnO9X9QXZogD-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/eawGsbRLzHQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-diving-bell-and-the-butterfly/",
+  "Name": "The Diving Bell and the Butterfly"
+}

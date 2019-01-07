@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/action/",
+      "Name": "Action"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8yqLPNwNCtpOPc3XkOlkSMnghzw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8yqLPNwNCtpOPc3XkOlkSMnghzw.jpg",
+      "Name": "Creed II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6JHYYbvoSuQ95ceGx8Oeg8zzAjg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6JHYYbvoSuQ95ceGx8Oeg8zzAjg.jpg",
+      "Name": "Creed II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/A2TKoEDrogEI8yZ9m0zVjTqH6Lf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/A2TKoEDrogEI8yZ9m0zVjTqH6Lf.jpg",
+      "Name": "Creed II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/feKtXi2515gb5RTPh6grnIxmxnt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/feKtXi2515gb5RTPh6grnIxmxnt.jpg",
+      "Name": "Creed II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hZqx2JcZVjHSY2lMEMDC0XlObiw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hZqx2JcZVjHSY2lMEMDC0XlObiw.jpg",
+      "Name": "Creed II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5CrBjTvLaltAKBxgOaXuzHaefLA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5CrBjTvLaltAKBxgOaXuzHaefLA.jpg",
+      "Name": "Creed II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2F8TSauydhPlIYsiy1SEvrXhq6U.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2F8TSauydhPlIYsiy1SEvrXhq6U.jpg",
+      "Name": "Creed II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pzSmNY0vk3DMOlAEXRsPozYCOPx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pzSmNY0vk3DMOlAEXRsPozYCOPx.jpg",
+      "Name": "Creed II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/al2C3tpQyG1EMIUfVGVTrZw4fw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/al2C3tpQyG1EMIUfVGVTrZw4fw.jpg",
+      "Name": "Creed II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aInZavThmdAutyRA0AkGVphkwTP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aInZavThmdAutyRA0AkGVphkwTP.jpg",
+      "Name": "Creed II"
+    }
+  ],
+  "Links": [],
+  "Intro": "Follows Adonis Creed&#8217;s life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/12/v3QyboWRoA4O9RbcsqH8tJMe8EB-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/pNjk91ATS-Y?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/creed-ii/",
+  "Name": "Creed II"
+}

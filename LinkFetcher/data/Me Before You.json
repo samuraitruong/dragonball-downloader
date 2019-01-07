@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o4lxNwKJz8oq3R0kLOIsDlHbDhZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o4lxNwKJz8oq3R0kLOIsDlHbDhZ.jpg ",
+      "Name": "Me Before You"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jiL6UvMZ9OiJro0YyHbt0zw87MM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jiL6UvMZ9OiJro0YyHbt0zw87MM.jpg ",
+      "Name": "Me Before You"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l73ImQH8SN0Ny05qJXLacvRSqtF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l73ImQH8SN0Ny05qJXLacvRSqtF.jpg ",
+      "Name": "Me Before You"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jxmvHo19P7PRWlPz9D0NLeDgMT9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jxmvHo19P7PRWlPz9D0NLeDgMT9.jpg ",
+      "Name": "Me Before You"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qMfL13csFDp5Bs45pBrJn1Tg8DW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qMfL13csFDp5Bs45pBrJn1Tg8DW.jpg ",
+      "Name": "Me Before You"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AddJLE6eterbLp1qJH8dmdR0WcN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AddJLE6eterbLp1qJH8dmdR0WcN.jpg ",
+      "Name": "Me Before You"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qrSrJVrEuiSrGyghRthcvzTdZ6G.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qrSrJVrEuiSrGyghRthcvzTdZ6G.jpg ",
+      "Name": "Me Before You"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aiQJoXNwzpgrpwjKVPdgdm0t7le.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aiQJoXNwzpgrpwjKVPdgdm0t7le.jpg ",
+      "Name": "Me Before You"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pma8Il67wKSJuc16V3Rg78xKRnQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pma8Il67wKSJuc16V3Rg78xKRnQ.jpg ",
+      "Name": "Me Before You"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/VgWFCchUhxqT3kap1Fr9U0pcVy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/VgWFCchUhxqT3kap1Fr9U0pcVy.jpg ",
+      "Name": "Me Before You"
+    }
+  ],
+  "Links": [],
+  "Intro": "A small town girl is caught between dead-end jobs. A high-profile, successful man becomes wheelchair bound following an accident. The man decides his life is not worth living until the girl is hired for six months to be his new caretaker. Worlds apart and trapped together by circumstance, the two get off to a rocky start. But the girl becomes determined to prove to the man that life is worth living and as they embark on a series of adventures together, each finds their world changing in ways neither of them could begin to imagine.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/oN5lELHH5Xheiy0YdhnY3JB4hx2-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/T0MmkG_nG1U?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/me-before-you/",
+  "Name": "Me Before You"
+}

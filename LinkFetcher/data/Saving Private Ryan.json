@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gRtLcCQOpYUI9ThdVzi4VUP8QO3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gRtLcCQOpYUI9ThdVzi4VUP8QO3.jpg",
+      "Name": "Saving Private Ryan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bKr1rP61O9apNUhnL2smw3qSPck.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bKr1rP61O9apNUhnL2smw3qSPck.jpg",
+      "Name": "Saving Private Ryan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/abbPyVwDO4r6ryfCdo6qjvh8wIa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/abbPyVwDO4r6ryfCdo6qjvh8wIa.jpg",
+      "Name": "Saving Private Ryan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pVLHMzGhOtsMN9pIp0TvUGylCSf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pVLHMzGhOtsMN9pIp0TvUGylCSf.jpg",
+      "Name": "Saving Private Ryan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hjiMyEF38oplzFrRMASNQlimHVJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hjiMyEF38oplzFrRMASNQlimHVJ.jpg",
+      "Name": "Saving Private Ryan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cfhO5WfLzcdvLyiqSN5Xmi8hT83.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cfhO5WfLzcdvLyiqSN5Xmi8hT83.jpg",
+      "Name": "Saving Private Ryan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h7TpINCBCvkdoWNXXuZQdSl9qM4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h7TpINCBCvkdoWNXXuZQdSl9qM4.jpg",
+      "Name": "Saving Private Ryan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ooqPNPS2WdBH7DgIF4em9e0nEld.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ooqPNPS2WdBH7DgIF4em9e0nEld.jpg",
+      "Name": "Saving Private Ryan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gr5YD5dnF0QbIF00ovdb9AtXa7g.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gr5YD5dnF0QbIF00ovdb9AtXa7g.jpg",
+      "Name": "Saving Private Ryan"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8kjBbkUHjfD7lAzImBEnCJXRz3z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8kjBbkUHjfD7lAzImBEnCJXRz3z.jpg",
+      "Name": "Saving Private Ryan"
+    }
+  ],
+  "Links": [],
+  "Intro": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/miDoEMlYDJhOCvxlzI0wZqBs9Yt-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/RYExstiQlLc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/saving-private-ryan/",
+  "Name": "Saving Private Ryan"
+}

@@ -1,0 +1,321 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/tai-lieu/",
+      "Name": "Tài Liệu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xIt4DDYipMPNu2HDBrhUS4ndSYb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xIt4DDYipMPNu2HDBrhUS4ndSYb.jpg",
+      "Name": "Planet Earth II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lDqMOIP4RJGsycYQbmDEMcjITAN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lDqMOIP4RJGsycYQbmDEMcjITAN.jpg",
+      "Name": "Planet Earth II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v1mPkZhEcJnEavuxCpk2LnbdP46.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v1mPkZhEcJnEavuxCpk2LnbdP46.jpg",
+      "Name": "Planet Earth II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4sCGzCklgamYGDKXImwuR7Hvhh4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4sCGzCklgamYGDKXImwuR7Hvhh4.jpg",
+      "Name": "Planet Earth II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4t3Qe7444XiCZlMHDN0bdtDmP3O.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4t3Qe7444XiCZlMHDN0bdtDmP3O.jpg",
+      "Name": "Planet Earth II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rcrshuCK9Yga4phha00W9gECDQi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rcrshuCK9Yga4phha00W9gECDQi.jpg",
+      "Name": "Planet Earth II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pzkuv68GcI2PIYLLdPuKxFbT81H.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pzkuv68GcI2PIYLLdPuKxFbT81H.jpg",
+      "Name": "Planet Earth II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1DYpBOVdb7Mzc9DgMCdIBTN1JEC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1DYpBOVdb7Mzc9DgMCdIBTN1JEC.jpg",
+      "Name": "Planet Earth II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fvrhxAd2wE698VMoAR9MfsbBJda.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fvrhxAd2wE698VMoAR9MfsbBJda.jpg",
+      "Name": "Planet Earth II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jSw00oDc9AZUQrTtj3drItmKP4N.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jSw00oDc9AZUQrTtj3drItmKP4N.jpg",
+      "Name": "Planet Earth II"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/planet-earth-ii-1x1/",
+      "Name": "Islands"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/planet-earth-ii-1x2/",
+      "Name": "Mountains"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/planet-earth-ii-1x3/",
+      "Name": "Jungles"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/planet-earth-ii-1x4/",
+      "Name": "Deserts"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/planet-earth-ii-1x5/",
+      "Name": "Grasslands"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/planet-earth-ii-1x6/",
+      "Name": "Cities"
+    }
+  ],
+  "Intro": "David Attenborough presents a documentary series exploring how animals meet the challenges of surviving in the most iconic habitats on earth.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/uy5QoTu8fc6fGXMCTMbpQJFUEB0-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/c8aFcHFu8QM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fvrhxAd2wE698VMoAR9MfsbBJda.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fvrhxAd2wE698VMoAR9MfsbBJda.jpg",
+              "Name": "Planet Earth II 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/mzhYHfM1TT3G1g5y2cp31pqS0A3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/mzhYHfM1TT3G1g5y2cp31pqS0A3.jpg",
+              "Name": "Planet Earth II 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wGh1WwKHOt1Ogxa8hRc51s0O40R.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wGh1WwKHOt1Ogxa8hRc51s0O40R.jpg",
+              "Name": "Planet Earth II 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ovNVhshWKA7Z6cLsS08wKBvqV8L.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ovNVhshWKA7Z6cLsS08wKBvqV8L.jpg",
+              "Name": "Planet Earth II 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/l0cvsnq76o7QHq5TMVZYI36zSte.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/l0cvsnq76o7QHq5TMVZYI36zSte.jpg",
+              "Name": "Planet Earth II 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6pEl01S4Fc9B5uGbvoEW829zXcw.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6pEl01S4Fc9B5uGbvoEW829zXcw.jpg",
+              "Name": "Planet Earth II 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": "Islands are wildlife sanctuaries, but surviving in isolation comes with extreme challenges.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/planet-earth-ii-1x1/",
+          "Name": "Planet Earth II 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/z1VetJpna9PCjSYO1qC8kwbANUl.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/z1VetJpna9PCjSYO1qC8kwbANUl.jpg",
+              "Name": "Planet Earth II 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/eDLRHpwttdAMtj7p91kU07oSa4J.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/eDLRHpwttdAMtj7p91kU07oSa4J.jpg",
+              "Name": "Planet Earth II 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/e2cE6cqjr2jpCeBmHowLgifq1Z5.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/e2cE6cqjr2jpCeBmHowLgifq1Z5.jpg",
+              "Name": "Planet Earth II 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jWazL7ZYBIfwKPiWuDO36iaTWrh.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jWazL7ZYBIfwKPiWuDO36iaTWrh.jpg",
+              "Name": "Planet Earth II 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7IBSe8xhOOBz7d3Z4sAPSXxyQZF.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7IBSe8xhOOBz7d3Z4sAPSXxyQZF.jpg",
+              "Name": "Planet Earth II 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rcrshuCK9Yga4phha00W9gECDQi.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rcrshuCK9Yga4phha00W9gECDQi.jpg",
+              "Name": "Planet Earth II 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qV4dFpfF6Ry4ur1B9CdtJCDXXVY.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qV4dFpfF6Ry4ur1B9CdtJCDXXVY.jpg",
+              "Name": "Planet Earth II 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/24L2HyazDSHL5tl9IVsr7Tn0dDy.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/24L2HyazDSHL5tl9IVsr7Tn0dDy.jpg",
+              "Name": "Planet Earth II 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qoLBx3Sedx2eoyv9YZq3qvZslzn.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qoLBx3Sedx2eoyv9YZq3qvZslzn.jpg",
+              "Name": "Planet Earth II 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rsOe9NMwCdN8IFBh99MyL6xLXth.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rsOe9NMwCdN8IFBh99MyL6xLXth.jpg",
+              "Name": "Planet Earth II 1&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": "The great mountain ranges are some of the planet&#8217;s most spectacular landscapes, but they are unforgiving places to live in, and only a few animals have what it takes to live at extreme altitude. Mountain animals are amongst the most elusive in the world, and this film provides unique and intimate glimpses into their secretive lives. Witness the moment four snow leopards come together when a mother and cub become trapped between two rival males. Join grizzly bears as they dance against trees to rub off their winter fur and soar with golden eagles hunting amongst Europe&#8217;s snow-capped peaks.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/planet-earth-ii-1x2/",
+          "Name": "Planet Earth II 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3PoeHd0mFx0IFUm4OppODPzfoxh.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3PoeHd0mFx0IFUm4OppODPzfoxh.jpg",
+              "Name": "Planet Earth II 1&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4t3Qe7444XiCZlMHDN0bdtDmP3O.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4t3Qe7444XiCZlMHDN0bdtDmP3O.jpg",
+              "Name": "Planet Earth II 1&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": "A look at the animals competing to survive in the rich habitats of the planet&#8217;s jungles.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/planet-earth-ii-1x3/",
+          "Name": "Planet Earth II 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/5hytPmGKekErtB9RBzmaQ5ddBck.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/5hytPmGKekErtB9RBzmaQ5ddBck.jpg",
+              "Name": "Planet Earth II 1&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": "The world’s deserts force animals to come up with ingenious ways of coping with hostile conditions, giving rise to the most incredible survival stories on earth.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/planet-earth-ii-1x4/",
+          "Name": "Planet Earth II 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/v1mPkZhEcJnEavuxCpk2LnbdP46.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/v1mPkZhEcJnEavuxCpk2LnbdP46.jpg",
+              "Name": "Planet Earth II 1&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": "Grasslands cover one quarter of all land and support the greatest gatherings of wildlife on Earth. The extraordinary creatures that live here must survive the most hostile seasons on the planet. From bizarre looking Saiga antelope in Asia, rarely seen by humans, to the giant ant-eaters of Brazil, grassland animals show remarkable survival techniques. In the flooded Okavango, lions take on formidable buffalo in epic battles, stunning bee-eaters ride on the back of ostriches like miniature jockeys, while caribou embark on great migrations, where they must cross paths with their nemesis, Arctic wolves.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/planet-earth-ii-1x5/",
+          "Name": "Planet Earth II 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bRSMnw90kTJrozic94wug2VklvJ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bRSMnw90kTJrozic94wug2VklvJ.jpg",
+              "Name": "Planet Earth II 1&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4sCGzCklgamYGDKXImwuR7Hvhh4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4sCGzCklgamYGDKXImwuR7Hvhh4.jpg",
+              "Name": "Planet Earth II 1&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/mUWn60d1FzoA1V49RhfHkIAxZEP.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/mUWn60d1FzoA1V49RhfHkIAxZEP.jpg",
+              "Name": "Planet Earth II 1&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": "Cities are growing at a faster rate than any other habitat on Earth. They may seem an unlikely place for animals to thrive, but for the bold this is a world of surprising opportunity. Leopards prowl the streets of Mumbai, peregrine falcons hunt amongst New York’s skyscrapers and a million starlings perform spectacular aerial dances over Rome. We welcome some creatures into our cities; in Jodhpur langurs are revered as religious deities and in Harar locals live in harmony with wild hyenas. Many animals, however, are struggling to cope in the urban jungle. As the architects of this environment will we choose to build cities that create a home for both us and for wildlife?",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/planet-earth-ii-1x6/",
+          "Name": "Planet Earth II 1x6"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Nov. 06, 2016"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/planet-earth-ii/",
+  "Name": "Planet Earth II"
+}

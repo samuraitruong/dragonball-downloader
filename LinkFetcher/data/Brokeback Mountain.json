@@ -1,0 +1,57 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4BMel8xxSed1pCkPSGc9R3jsUtC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4BMel8xxSed1pCkPSGc9R3jsUtC.jpg",
+      "Name": "Brokeback Mountain"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1fuUoZfDVHTFIDTl1cJKDKwRlzM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1fuUoZfDVHTFIDTl1cJKDKwRlzM.jpg",
+      "Name": "Brokeback Mountain"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jM5PjfszkoaZpiMhnv3q0y3GsZa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jM5PjfszkoaZpiMhnv3q0y3GsZa.jpg",
+      "Name": "Brokeback Mountain"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gmlhhFVIZ141cXyTydt6USnPobn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gmlhhFVIZ141cXyTydt6USnPobn.jpg",
+      "Name": "Brokeback Mountain"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sJMeML6ZzZAtrFUsK0aAM29qd4Z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sJMeML6ZzZAtrFUsK0aAM29qd4Z.jpg",
+      "Name": "Brokeback Mountain"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3n4BnvwHOItRVkOKeySMXXs5qLB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3n4BnvwHOItRVkOKeySMXXs5qLB.jpg",
+      "Name": "Brokeback Mountain"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hpjNOYmnGwgM7lJTyVkRAFuumhO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hpjNOYmnGwgM7lJTyVkRAFuumhO.jpg",
+      "Name": "Brokeback Mountain"
+    }
+  ],
+  "Links": [],
+  "Intro": "Brokeback Mountain is an Ang Lee film about two modern day cowboys who meet on a shepherding job in the summer of ’63. The two share a raw and powerful summer together that turns into a life long relationship conflicting with the lives they are supposed to live.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/z2DqVxj17aW6xpimRlCLfhKSfUm-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/sCytaMge7bY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/brokeback-mountain/",
+  "Name": "Brokeback Mountain"
+}

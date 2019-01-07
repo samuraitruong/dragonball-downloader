@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8o58ZFCcdz1XVZTaPXVFDqYOTeh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8o58ZFCcdz1XVZTaPXVFDqYOTeh.jpg",
+      "Name": "Ghostbusters II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tDlsTDtC15kJd4vrkQkxqoW4Pse.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tDlsTDtC15kJd4vrkQkxqoW4Pse.jpg",
+      "Name": "Ghostbusters II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cLYUfMXctGLKMc4sLTP0Wvus4bn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cLYUfMXctGLKMc4sLTP0Wvus4bn.jpg",
+      "Name": "Ghostbusters II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7EHYnYCN5xpXBya1JpSsEQWSgJa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7EHYnYCN5xpXBya1JpSsEQWSgJa.jpg",
+      "Name": "Ghostbusters II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7N2iJOtJ3TTK2NsjcQ83c3KNluH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7N2iJOtJ3TTK2NsjcQ83c3KNluH.jpg",
+      "Name": "Ghostbusters II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oydmM3Zm33zXcDAhq37E8OAbqUA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oydmM3Zm33zXcDAhq37E8OAbqUA.jpg",
+      "Name": "Ghostbusters II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2wDCbmDk5MgMYid4lmRkQmWDFii.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2wDCbmDk5MgMYid4lmRkQmWDFii.jpg",
+      "Name": "Ghostbusters II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jhl00VhLdmXi4tWukEWgaiZWWgI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jhl00VhLdmXi4tWukEWgaiZWWgI.jpg",
+      "Name": "Ghostbusters II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rer7FpnUviu4BBfsQA6uLvB3lBc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rer7FpnUviu4BBfsQA6uLvB3lBc.jpg",
+      "Name": "Ghostbusters II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nEf2n82LlWTBdGW7qOuXiYSVw2x.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nEf2n82LlWTBdGW7qOuXiYSVw2x.jpg",
+      "Name": "Ghostbusters II"
+    }
+  ],
+  "Links": [],
+  "Intro": "Five years after they defeated Gozer, the Ghostbusters are out of business. When Dana begins to have ghost problems again, the boys come out of retirement to aid her and hopefully save New York City from a new paranormal threat.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/4nN0EYNbOWHJ9UO39maO5Kvcdfa-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/cL1CwqSrLP0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ghostbusters-ii/",
+  "Name": "Ghostbusters II"
+}

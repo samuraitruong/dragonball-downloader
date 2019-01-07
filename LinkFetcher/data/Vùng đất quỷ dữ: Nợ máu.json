@@ -1,35 +1,68 @@
 {
-  "Id": "movKX71V0400136",
-  "Url": "https://fsharephim.com/movies/resident-evil-vendetta/",
-  "Name": "Vùng đất quỷ dữ: Nợ máu",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movkx71v0400136-4/",
-      "Name": "Resident.Evil.Vendetta.2017.720.WEB-DL.AC3-EVO_encoded.mp4",
-      "Url": "https://www.fshare.vn/file/JCTSBUZ9XPFR",
-      "Size": "1.6 GB",
-      "FileSize": 1700890661
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movkx71v0400136-3/",
-      "Name": "Resident.Evil.Vendetta.2017.720.WEB-DL.AC3-EVO.mkv",
-      "Url": "https://www.fshare.vn/file/8L131NYJKWM3",
-      "Size": "2.5 GB",
-      "FileSize": 2631148929
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movkx71v0400136-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/resident-evil-vendetta",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movkx71v0400136/",
-      "Name": "Resident.Evil.Vendetta.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv",
-      "Url": "https://www.fshare.vn/file/97XV9DSNMWEXBH4",
-      "Size": "3.8 GB",
-      "FileSize": 4075220553
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bgtlK6qnCet3Zx6Rt2wT5PLEp7C.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bgtlK6qnCet3Zx6Rt2wT5PLEp7C.jpg",
+      "Name": "Vùng đất quỷ dữ: Nợ máu - Resident Evil: Vendetta"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lj38ePUscZITNmYM7CH7PAHxzXg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lj38ePUscZITNmYM7CH7PAHxzXg.jpg",
+      "Name": "Vùng đất quỷ dữ: Nợ máu - Resident Evil: Vendetta"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lAC9VhlVph6I0Xpm9OuSVwl8KqI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lAC9VhlVph6I0Xpm9OuSVwl8KqI.jpg",
+      "Name": "Vùng đất quỷ dữ: Nợ máu - Resident Evil: Vendetta"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/x17pPRxUU2s1GH6gpfuXeieC7Gx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/x17pPRxUU2s1GH6gpfuXeieC7Gx.jpg",
+      "Name": "Vùng đất quỷ dữ: Nợ máu - Resident Evil: Vendetta"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/BW8ksQEUQcbQ6gZO0L62yGrwut.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/BW8ksQEUQcbQ6gZO0L62yGrwut.jpg",
+      "Name": "Vùng đất quỷ dữ: Nợ máu - Resident Evil: Vendetta"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1jH7NtKeoxoYFmhW97CzHjtmtiW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1jH7NtKeoxoYFmhW97CzHjtmtiW.jpg",
+      "Name": "Vùng đất quỷ dữ: Nợ máu - Resident Evil: Vendetta"
+    }
+  ],
+  "Links": [],
+  "Intro": "Resident Evil: Vendetta xoay quanh bộ ba Chris Redfield, Leon Scoot Kennedy và Rebecca Chambers có mặt ở thành phố New York để ngăn cản cuộc tấn công khủng bố sinh học đang bùng phát với zombie cũng như nhiều sinh vật đột biến quái dị hơn. Âm mưu phá hoại thành phố được thực hiện bởi nhân vật phản diện mang tên Glenn Arias.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/06/88qfHWhlOBYXp69277QFhdPYnWf-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Uw2Styd2RAU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/resident-evil-vendetta/",
+  "Name": "Vùng đất quỷ dữ: Nợ máu"
 }

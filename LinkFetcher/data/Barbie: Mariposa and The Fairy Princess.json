@@ -1,14 +1,31 @@
 {
-  "Id": "movrqjMfX196254",
-  "Url": "https://fsharephim.com/movies/barbie-mariposa-and-the-fairy-princess/",
-  "Name": "Barbie: Mariposa and The Fairy Princess",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movrqjmfx196254/",
-      "Name": "Barbie.Mariposa.And.The.Fairy.Princess.2013.mkv",
-      "Url": "https://www.fshare.vn/file/TMH5D651DT",
-      "Size": "1.66 GB",
-      "FileSize": 1787624810
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zBDr2t9wNzfs5FWBvZ9hB27ZN7L.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zBDr2t9wNzfs5FWBvZ9hB27ZN7L.jpg",
+      "Name": "Barbie: Mariposa and The Fairy Princess"
+    }
+  ],
+  "Links": [],
+  "Intro": "Mariposa and her furry friend Zee returns in Barbie: Mariposa &#038; the Fairy Princess. In this magical adventure, Mariposa becomes the Royal Ambassador of Flutterfield, and is sent to bring peace between her fairy land and their rivals, the Crystal Fairies of Shimmervale. While Mariposa doesn&#8217;t make a great first impression on the King, she becomes fast friends with his shy daughter, Princess Catania. However, a misunderstanding causes Mariposa to be banished from their fairy land. As Mariposa and Zee returns to Flutterfield, they encounter a dark fairy on her way to destroy Shimmervale. Mariposa rushes back and helps Princess Catania to save their fairy land and together, the two girls prove that the best way to make a friend, is to be a friend.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/twxU1AxLsWphM9RIYJgy8PZ32ye-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/BZAHcUXZF48?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/barbie-mariposa-and-the-fairy-princess/",
+  "Name": "Barbie: Mariposa and The Fairy Princess"
 }

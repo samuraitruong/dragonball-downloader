@@ -1,14 +1,36 @@
 {
-  "Id": "movRYoat69907",
-  "Url": "https://fsharephim.com/movies/barnyard/",
-  "Name": "Barnyard",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movryoat69907/",
-      "Name": "Barnyard.2006.mkv",
-      "Url": "https://www.fshare.vn/file/TH3G2XDJBT",
-      "Size": "1.93 GB",
-      "FileSize": 2068192260
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dJLXWSB6EzxkVLJ4skzXw28DSEj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dJLXWSB6EzxkVLJ4skzXw28DSEj.jpg",
+      "Name": "Barnyard"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8fSSi5vJH6sk7rotqpHyesVPzzJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8fSSi5vJH6sk7rotqpHyesVPzzJ.jpg",
+      "Name": "Barnyard"
+    }
+  ],
+  "Links": [],
+  "Intro": "When things get crazy at the farm, it&#8217;s up to a boisterous bovine named Otis (voiced by Kevin James) to save the day in this computer-animated tale. The animals in this barnyard sing, dance and party, but Otis&#8217;s stern dad (Sam Elliott) warns the crew to keep their cool around humans. Troublemaker Otis rarely listens to his pop, but when the farmer disappears and the animals go nutty, the young cow realizes he must stop the madness.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/5Oooyxd5B9JKl8o4iyOwwUf7JHk-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/FqP9s-XSzd4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/barnyard/",
+  "Name": "Barnyard"
 }

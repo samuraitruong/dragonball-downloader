@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mYle76KdC8vaMJz6r73S0nKmnk2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mYle76KdC8vaMJz6r73S0nKmnk2.jpg",
+      "Name": "Spotlight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gpaOYwHCF2O5PM5sqFpfzKWuQvb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gpaOYwHCF2O5PM5sqFpfzKWuQvb.jpg",
+      "Name": "Spotlight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t3Oea7KbSpOvuqddMnlFtZ4WHn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t3Oea7KbSpOvuqddMnlFtZ4WHn.jpg",
+      "Name": "Spotlight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6PFlUEBxGWl7F5ohOmj1P2D6ARo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6PFlUEBxGWl7F5ohOmj1P2D6ARo.jpg",
+      "Name": "Spotlight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/Y1aQvEZIXcNFDNpAQgTdneQH2r.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/Y1aQvEZIXcNFDNpAQgTdneQH2r.jpg",
+      "Name": "Spotlight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vNwFYVbWW9uRB4voqX1dzu7d03N.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vNwFYVbWW9uRB4voqX1dzu7d03N.jpg",
+      "Name": "Spotlight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a8FpwzuPjDRUSBaMaxRJCXQebqc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a8FpwzuPjDRUSBaMaxRJCXQebqc.jpg",
+      "Name": "Spotlight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/34veQDSBAeAhYY4B1QPjgg6W9vK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/34veQDSBAeAhYY4B1QPjgg6W9vK.jpg",
+      "Name": "Spotlight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7d8Suf6qlm8Q8XMEM7EhXLFQXh3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7d8Suf6qlm8Q8XMEM7EhXLFQXh3.jpg",
+      "Name": "Spotlight"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bwihHlczesF0fl4GP4QtJObCxFU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bwihHlczesF0fl4GP4QtJObCxFU.jpg",
+      "Name": "Spotlight"
+    }
+  ],
+  "Links": [],
+  "Intro": "The true story of how The Boston Globe uncovered the massive scandal of child abuse and the cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/ngKxbvsn9Si5TYVJfi1EGAGwThU-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/yXymzwz0V2g?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/spotlight/",
+  "Name": "Spotlight"
+}

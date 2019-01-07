@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jbdQ0PDyrWqz5HfzKmparE93ky9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jbdQ0PDyrWqz5HfzKmparE93ky9.jpg",
+      "Name": "You&#8217;ve Got Mail"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/efUc7qAooNA73tDwSM8jhasFtLi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/efUc7qAooNA73tDwSM8jhasFtLi.jpg",
+      "Name": "You&#8217;ve Got Mail"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kubrNK7G7y86fWCbZbUpW4ZQ8a8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kubrNK7G7y86fWCbZbUpW4ZQ8a8.jpg",
+      "Name": "You&#8217;ve Got Mail"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eVVcNcL8qGK2ys7Sw1B4OhR0sSW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eVVcNcL8qGK2ys7Sw1B4OhR0sSW.jpg",
+      "Name": "You&#8217;ve Got Mail"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vWODRq6NL3kQyYbXG8h8n0yyzoU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vWODRq6NL3kQyYbXG8h8n0yyzoU.jpg",
+      "Name": "You&#8217;ve Got Mail"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/odwHTSkifWZyTRQrvd3FsO4vTWr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/odwHTSkifWZyTRQrvd3FsO4vTWr.jpg",
+      "Name": "You&#8217;ve Got Mail"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sCpyhAOzmzbS4EF3cSmsdgggtUH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sCpyhAOzmzbS4EF3cSmsdgggtUH.jpg",
+      "Name": "You&#8217;ve Got Mail"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zTOQg4Qvd30s9BS9zkA0mv9AsgS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zTOQg4Qvd30s9BS9zkA0mv9AsgS.jpg",
+      "Name": "You&#8217;ve Got Mail"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xXhYQRNPcvtNvNwY5sXH7kQD5KU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xXhYQRNPcvtNvNwY5sXH7kQD5KU.jpg",
+      "Name": "You&#8217;ve Got Mail"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/j7SAmhkUFcGVgutwhR9aMa9dLXg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/j7SAmhkUFcGVgutwhR9aMa9dLXg.jpg",
+      "Name": "You&#8217;ve Got Mail"
+    }
+  ],
+  "Links": [],
+  "Intro": "Book superstore magnate, Joe Fox and independent book shop owner, Kathleen Kelly fall in love in the anonymity of the Internet – both blissfully unaware that he&#8217;s putting her out of business.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/2XIsqnCwEE3Uf5TlP9H68STgtk6-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/znESQTt3L80?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/youve-got-mail/",
+  "Name": "You've Got Mail"
+}

@@ -1,0 +1,32 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/tai-lieu/",
+      "Name": "Tài Liệu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7yr5GrK59SuHUmUjddJR5vSG8sS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7yr5GrK59SuHUmUjddJR5vSG8sS.jpg",
+      "Name": "Avicii: True Stories"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eiBXqcjxrw9osXatNfqTGmibhTC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eiBXqcjxrw9osXatNfqTGmibhTC.jpg",
+      "Name": "Avicii: True Stories"
+    }
+  ],
+  "Links": [],
+  "Intro": "Documentary about the arena-packing Swedish DJ, chronicling his explosive rise to fame and surprising decision to retire from live performances in 2016.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/obVlatSLP94kmml5UaCjLsdWPWG-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/1ZFK3VKzQIs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/avicii-true-stories/",
+  "Name": "Avicii: True Stories"
+}

@@ -1,0 +1,35 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ngoai-quoc/",
+      "Name": "Ngoại Quốc"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kUgRycrjtpCY8DFY7ipCP0lVcL6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kUgRycrjtpCY8DFY7ipCP0lVcL6.jpg ",
+      "Name": "Bạch Phát Ma Nữ 2 - The Bride with White Hair 2"
+    }
+  ],
+  "Links": [],
+  "Intro": "The Bride with White Hair 2: Yêu nhiều tất sinh hận nhiều. Có nỗi hận nào như nỗi hận một đêm bạc trắng tóc. Có tình yêu như tình yêu của Bạch Phát Ma Nữ… yêu hận triền miên. Đại đệ tử Võ Đang &#8211; Trác Nhất Hàng trên đường đi cứu cha đã gặp thành chủ Minh Nguyệt Hiệp &#8211; Luyện Nghê Thường. Từ chỗ hiểu lầm nhau, Nhất Hàng và Nghê Thường bắt đầu cảm mến và yêu thương nhau. Ông trời muốn thử thách lòng người, tình yêu của họ gặp phải muôn vàn trắc trở.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/2snBREO2U32rOYu45qE9wp4bC5-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-bride-with-white-hair-2/",
+  "Name": "Bạch Phát Ma Nữ 2"
+}

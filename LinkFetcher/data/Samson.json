@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yR6952VuJ2OchliEj0vyRxFZiBT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yR6952VuJ2OchliEj0vyRxFZiBT.jpg ",
+      "Name": "Samson - Samson"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pp3EEUpuXEi3WcBPS6gIiTDiWY2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pp3EEUpuXEi3WcBPS6gIiTDiWY2.jpg ",
+      "Name": "Samson - Samson"
+    }
+  ],
+  "Links": [],
+  "Intro": "Samson: SAMSON được dựa trên sử thi mạnh mẽ, kinh thánh của một nhà vô địch do Thiên Chúa chọn để cung cấp cho Israel. Sức mạnh siêu nhiên và những quyết định bốc đồng của anh nhanh chóng khiến anh chống lại đế chế Philistine ngột ngạt. Sau khi bị phản bội bởi một hoàng tử độc ác và một kẻ quyến rũ xinh đẹp, Samson bị kẻ thù bắt và bị mù. Samson kêu gọi Thiên Chúa của mình một lần nữa cho sức mạnh siêu nhiên và biến tù và mù lòa vào chiến thắng cuối cùng.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/v7Zaj1IEzMMB7KzfglpxdXWB66u-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/O0cgxsZp26M?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/samson/",
+  "Name": "Samson"
+}

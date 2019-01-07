@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bTtcJW5QY2LMVKBdj4cztN1QOeY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bTtcJW5QY2LMVKBdj4cztN1QOeY.jpg ",
+      "Name": "Blame"
+    }
+  ],
+  "Links": [],
+  "Intro": "A drama teacher&#8217;s taboo relationship with an unstable student strikes a nerve in her jealous classmate, sparking a vengeful chain of events within their suburban high school that draws parallels to &#8216;The Crucible&#8217;.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/eZxDTk0Ln696XV4GY2wDdrf9pc5-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/6cz8fZkZm1Q?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/blame/",
+  "Name": "Blame"
+}

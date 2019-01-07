@@ -1,0 +1,61 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xji4jDRASuAUsJCPk70yotMFcfo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xji4jDRASuAUsJCPk70yotMFcfo.jpg ",
+      "Name": "Cẩm Y Vệ - 14 Blades"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cJkNe7sqbaWuBfMgmbKHivODzf2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cJkNe7sqbaWuBfMgmbKHivODzf2.jpg ",
+      "Name": "Cẩm Y Vệ - 14 Blades"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1rc7KL6c7nwtyVZzsmsKXxp4iI6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1rc7KL6c7nwtyVZzsmsKXxp4iI6.jpg ",
+      "Name": "Cẩm Y Vệ - 14 Blades"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qtfETOEgFXlpwMtm6fH25qKhVYL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qtfETOEgFXlpwMtm6fH25qKhVYL.jpg ",
+      "Name": "Cẩm Y Vệ - 14 Blades"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f6tVuvIwijXUwaQzgu0QXsJMmRB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f6tVuvIwijXUwaQzgu0QXsJMmRB.jpg ",
+      "Name": "Cẩm Y Vệ - 14 Blades"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/71bXxflhG9EItbidTYMBKUFfZDx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/71bXxflhG9EItbidTYMBKUFfZDx.jpg ",
+      "Name": "Cẩm Y Vệ - 14 Blades"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qMcSEl7GkooNFZHYK4D3dtbC4oT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qMcSEl7GkooNFZHYK4D3dtbC4oT.jpg ",
+      "Name": "Cẩm Y Vệ - 14 Blades"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim Cẩm Y Vệ là câu chuyện về lực lượng sát thủ bí mật của triều Minh. Cẩm Y Vệ là nơi quy tụ những cao thủ xuất sắc nhất của triều đình. Thanh Long là cao thủ hàng đầu của Cẩm Y Vệ được giao nhiệm đi cướp binh phù từ tay đại thần Triệu Phẩm Ngôn nhưng anh phát hiện đây chỉ là cái cớ cấu kết với ngoại bang để tạo phản của các hoạn quan. Câu chuyện về đội Cẩm Y Vệ sẽ tiếp tục như thế nào?&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/dAMh7PtMRpjLLiwdWyzOAwZucPI-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/14-blades/",
+  "Name": "Cẩm Y Vệ"
+}

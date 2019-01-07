@@ -1,56 +1,69 @@
 {
-  "Id": "mov0NYInb324852",
-  "Url": "https://fsharephim.com/movies/despicable-me-3/",
-  "Name": "Kẻ Trộm Mặt Trăng 3",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov0nyinb324852-7/",
-      "Name": "Despicable.Me.3.2017.ViE.1080p.BluRay.DTS.x264-AMIABLE.mkv",
-      "Url": "https://www.fshare.vn/file/GMHBU1B93EGR8JS",
-      "Size": "8.6 GB",
-      "FileSize": 9229108713
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov0nyinb324852-6/",
-      "Name": "Despicable.Me.3.2017.ViE.720p.BluRay.DTS.x264-AMIABLE-EditStudio.mkv",
-      "Url": "https://www.fshare.vn/file/OA4GORJ2HX23YFV",
-      "Size": "5.3 GB",
-      "FileSize": 5707875635
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov0nyinb324852-5/",
-      "Name": "Despicable.Me.3.2017.1080p.BluRay.x264-AMIABLE(91).mkv",
-      "Url": "https://www.fshare.vn/file/CB916GJZ6IUE8L2",
-      "Size": "7.6 GB",
-      "FileSize": 8213682399
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov0nyinb324852-4/",
-      "Name": "Despicable.Me.3.2017.720p.BluRay.X264-AMIABLE.mkv",
-      "Url": "https://www.fshare.vn/file/RJ1A25ARPZMSVQS",
-      "Size": "4.4 GB",
-      "FileSize": 4692456829
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov0nyinb324852-3/",
-      "Name": "Despicable.Me.3.2017.1080.HDRip.AC3-EVO.mkv",
-      "Url": "https://www.fshare.vn/file/XPGTJWNA6R2O",
-      "Size": "3.8 GB",
-      "FileSize": 4091442317
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/mov0nyinb324852-2/",
-      "Name": "Despicable.Me.3.2017.720.HDRip.AC3-EVO.mkv",
-      "Url": "https://www.fshare.vn/file/M8WODKF43Q7H",
-      "Size": "2.5 GB",
-      "FileSize": 2668837531
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/mov0nyinb324852/",
-      "Name": "Despicable Me 3 2017 NEW HD-TS x264-CPG.mkv.mp4",
-      "Url": "https://www.fshare.vn/file/9LXLYPFR8KXO",
-      "Size": "346.6 MB",
-      "FileSize": 363387718
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ftRkFtAGuHngHnLiOxktq0aCVMF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ftRkFtAGuHngHnLiOxktq0aCVMF.jpg",
+      "Name": "Kẻ Trộm Mặt Trăng 3 - Despicable Me 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/puV2PFq42VQPItaygizgag8jrXa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/puV2PFq42VQPItaygizgag8jrXa.jpg",
+      "Name": "Kẻ Trộm Mặt Trăng 3 - Despicable Me 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7JGfZGooHS4uHRHuYpfWLAcCNsE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7JGfZGooHS4uHRHuYpfWLAcCNsE.jpg",
+      "Name": "Kẻ Trộm Mặt Trăng 3 - Despicable Me 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tO6Wrp6JRZFwBxdAGQNxZ8hPVX7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tO6Wrp6JRZFwBxdAGQNxZ8hPVX7.jpg",
+      "Name": "Kẻ Trộm Mặt Trăng 3 - Despicable Me 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qslbZBJHUis8PL97Dy2Fsbq8QsA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qslbZBJHUis8PL97Dy2Fsbq8QsA.jpg",
+      "Name": "Kẻ Trộm Mặt Trăng 3 - Despicable Me 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7YoKt3hzTg38iPlpCumqcriaNTV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7YoKt3hzTg38iPlpCumqcriaNTV.jpg",
+      "Name": "Kẻ Trộm Mặt Trăng 3 - Despicable Me 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pAGzhp4Yx1ROw9gTy2T5c5uloSn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pAGzhp4Yx1ROw9gTy2T5c5uloSn.jpg",
+      "Name": "Kẻ Trộm Mặt Trăng 3 - Despicable Me 3"
+    }
+  ],
+  "Links": [],
+  "Intro": "Chọn trở lại con đường lương thiện, Gru trở thành một cựu ác nhân nghèo khổ. Họ khốn khó đến mức cô bé Agnes quyết định bán đi chú ngựa nhồi bông mình quý nhất để giúp đỡ gia đình. Lũ Minions cũng không chịu yên khi suốt ngày khó chịu về ngài chủ nhân đã không còn ác. Chúng muốn Gru trở lại như ngày xưa.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/5qcUGqWoWhEsoQwNUrtf3y3fcWn-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/euz-KBBfAAo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/despicable-me-3/",
+  "Name": "Kẻ Trộm Mặt Trăng 3"
 }

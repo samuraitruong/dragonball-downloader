@@ -1,0 +1,37 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/x4H0GxRKcmLcGXfwEtAQpoINQvk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/x4H0GxRKcmLcGXfwEtAQpoINQvk.jpg",
+      "Name": "Cats &#038; Dogs 2 : The Revenge of Kitty Galore"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/60tuaQJqZjlrK5ljiCeYsR03SJV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/60tuaQJqZjlrK5ljiCeYsR03SJV.jpg",
+      "Name": "Cats &#038; Dogs 2 : The Revenge of Kitty Galore"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ksXEoFdTuohc4I5mlvfvsDzFLZC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ksXEoFdTuohc4I5mlvfvsDzFLZC.jpg",
+      "Name": "Cats &#038; Dogs 2 : The Revenge of Kitty Galore"
+    }
+  ],
+  "Links": [],
+  "Intro": "The ongoing war between the canine and feline species is put on hold when they join forces to thwart a rogue cat spy with her own sinister plans for conquest.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/6V1TFvZsbQi2fpxIZtseqBCvuRM-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/jK6suPB_vTk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/cats-dogs-2-the-revenge-of-kitty-galore/",
+  "Name": "Cats & Dogs 2 : The Revenge of Kitty Galore"
+}

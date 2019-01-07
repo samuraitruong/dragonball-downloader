@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hUDEHvhNJLNcb83Pp7xnFn0Wj09.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hUDEHvhNJLNcb83Pp7xnFn0Wj09.jpg",
+      "Name": "Birdman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pLMRBAKD9Nc9zjWRpqLXasNcf4F.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pLMRBAKD9Nc9zjWRpqLXasNcf4F.jpg",
+      "Name": "Birdman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AsJVim0Hk3KbQPbfjyijfjqmaoZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AsJVim0Hk3KbQPbfjyijfjqmaoZ.jpg",
+      "Name": "Birdman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ApZaVAyNjNrbVhUuWFe36BK8SrS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ApZaVAyNjNrbVhUuWFe36BK8SrS.jpg",
+      "Name": "Birdman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4mH02qUxsyiEHVf0K46wHM15xgR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4mH02qUxsyiEHVf0K46wHM15xgR.jpg",
+      "Name": "Birdman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5ipBFF7vmQkPSWlors9fmsVBwfm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5ipBFF7vmQkPSWlors9fmsVBwfm.jpg",
+      "Name": "Birdman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uAhc8kcfUK5n0xrrlIGoz9fb2s6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uAhc8kcfUK5n0xrrlIGoz9fb2s6.jpg",
+      "Name": "Birdman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9mlpDsiKWq9sm5eVr3hlk3dCe0W.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9mlpDsiKWq9sm5eVr3hlk3dCe0W.jpg",
+      "Name": "Birdman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yQSTi6A2xmglokbsB3LmPNwQe25.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yQSTi6A2xmglokbsB3LmPNwQe25.jpg",
+      "Name": "Birdman"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9bZ53ugPmDgd39eHE2EYR0YaDws.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9bZ53ugPmDgd39eHE2EYR0YaDws.jpg",
+      "Name": "Birdman"
+    }
+  ],
+  "Links": [],
+  "Intro": "A fading actor best known for his portrayal of a popular superhero attempts to mount a comeback by appearing in a Broadway play. As opening night approaches, his attempts to become more altruistic, rebuild his career, and reconnect with friends and family prove more difficult than expected.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/rSZs93P0LLxqlVEbI001UKoeCQC-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/xIxMMv_LD5Q?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/birdman/",
+  "Name": "Birdman"
+}

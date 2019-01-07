@@ -1,0 +1,39 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hE0TRHPNVaaZLVvIcobgfbTmlsN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hE0TRHPNVaaZLVvIcobgfbTmlsN.jpg ",
+      "Name": "Siêu Mèo - Meow"
+    }
+  ],
+  "Links": [],
+  "Intro": "“Siêu Mèo” kể về chú mèo tên Tây Lợi ngoài hành tinh đến trái đất với mưu đồ xâm chiếm. Khi đến trái đất, Tây Lợi rơi vào gia đình kỳ quái (Cổ Thiên Lạc). Mọi chuyện bắt đầu từ đây? Liệu loài mèo có xâm chiếm được trái đất?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/qZdBCQ73Vz2PQ5bm20HfwlbNyfX-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/meow/",
+  "Name": "Siêu Mèo"
+}

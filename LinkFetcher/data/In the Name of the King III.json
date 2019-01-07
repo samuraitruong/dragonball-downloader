@@ -1,0 +1,45 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mvPeIWXsB5Y7X1H4piLoJZoBdKS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mvPeIWXsB5Y7X1H4piLoJZoBdKS.jpg",
+      "Name": "In the Name of the King III"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vzbVc6IstqMWdcFozVjer5itoiC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vzbVc6IstqMWdcFozVjer5itoiC.jpg",
+      "Name": "In the Name of the King III"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qYODCJn4nvPAOmuZdu3qSurV5aO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qYODCJn4nvPAOmuZdu3qSurV5aO.jpg",
+      "Name": "In the Name of the King III"
+    }
+  ],
+  "Links": [],
+  "Intro": "Hazen Kaine, an American contract killer living in Sofia, Bulgaria, gets more than he bargains for when he enters into a contract with the mob. One last job before he gets out and starts a new life for himself. The targets: the three children of royal billionaire Andon Dupont. Seems simple enough, or so he thought. Hazen apprehends the children, and before he can blink an eye, a simple necklace worn by one of the children sends his life spiraling back to medieval times. Now completely out of his element, Hazen fights for his life as he tries to escape a medieval army and a fierce fire-breathing dragon.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/7MzoR1KibSeIa3XKkREoKGpE7Ca-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/CFZ0YAqjQh4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/in-the-name-of-the-king-iii/",
+  "Name": "In the Name of the King III"
+}

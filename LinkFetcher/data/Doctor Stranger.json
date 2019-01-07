@@ -1,0 +1,551 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mTb5sBKD5GkAE6vHyjZH3kR3v1T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mTb5sBKD5GkAE6vHyjZH3kR3v1T.jpg",
+      "Name": "Doctor Stranger"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x16/",
+      "Name": "Episode 16"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x17/",
+      "Name": "Episode 17"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x18/",
+      "Name": "Episode 18"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x19/",
+      "Name": "Episode 19"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/doctor-stranger-1x20/",
+      "Name": "Episode 20"
+    }
+  ],
+  "Intro": "As a child, Park Hoon and his dad were kidnapped and taken to North Korea. He grew up there, learning to be a doctor just like his father. When Park Hoon escapes back to South Korea and begins work at a prestigious hospital, he makes it his goal to earn enough money to go back to North Korea to rescue his true love. He&#8217;ll do anything to find her, but then he meets and falls for a mysterious woman who looks exactly like her.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/6tP4Kbap5qMfDyxd4bRTrlf50jD-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oIKAVPeCBqkuPINM9M2ar6KfAIL.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oIKAVPeCBqkuPINM9M2ar6KfAIL.jpg",
+              "Name": "Doctor Stranger 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x1/",
+          "Name": "Doctor Stranger 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/a1FpeQ85ddfQX0AmljLR1uUWJVT.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/a1FpeQ85ddfQX0AmljLR1uUWJVT.jpg",
+              "Name": "Doctor Stranger 1&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x10/",
+          "Name": "Doctor Stranger 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tJa4a3SWxiEac74PqxIrMaFpGEN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tJa4a3SWxiEac74PqxIrMaFpGEN.jpg",
+              "Name": "Doctor Stranger 1&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x11/",
+          "Name": "Doctor Stranger 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8M4polvkPVb5EVvtzB7roN15jeY.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8M4polvkPVb5EVvtzB7roN15jeY.jpg",
+              "Name": "Doctor Stranger 1&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x12/",
+          "Name": "Doctor Stranger 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jyMjd3ApfUNaKttDCnrclKcBBvv.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jyMjd3ApfUNaKttDCnrclKcBBvv.jpg",
+              "Name": "Doctor Stranger 1&#215;13"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x13/",
+          "Name": "Doctor Stranger 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zDT41Qzi4IfEi5FgAgufA8azvBc.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zDT41Qzi4IfEi5FgAgufA8azvBc.jpg",
+              "Name": "Doctor Stranger 1&#215;14"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x14/",
+          "Name": "Doctor Stranger 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qgbYjy0G3XYmUK7s2zrBumX7FCp.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qgbYjy0G3XYmUK7s2zrBumX7FCp.jpg",
+              "Name": "Doctor Stranger 1&#215;15"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x15/",
+          "Name": "Doctor Stranger 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/iZI7us1b9QBML8i1rqzKut8Hb3J.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/iZI7us1b9QBML8i1rqzKut8Hb3J.jpg",
+              "Name": "Doctor Stranger 1&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x16/",
+          "Name": "Doctor Stranger 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6ZPXY1NJCxR0ZWaseG57aFJbFL2.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6ZPXY1NJCxR0ZWaseG57aFJbFL2.jpg",
+              "Name": "Doctor Stranger 1&#215;17"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x17/",
+          "Name": "Doctor Stranger 1x17"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6OAsDmXxVffbbdMUu1X0fEj6BTm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6OAsDmXxVffbbdMUu1X0fEj6BTm.jpg",
+              "Name": "Doctor Stranger 1&#215;18"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x18/",
+          "Name": "Doctor Stranger 1x18"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/idarIfDnyV6bLg5jJKUygQa0ajW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/idarIfDnyV6bLg5jJKUygQa0ajW.jpg",
+              "Name": "Doctor Stranger 1&#215;19"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x19/",
+          "Name": "Doctor Stranger 1x19"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/vpbO28i11HJPdpzvnK930ISdLXR.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/vpbO28i11HJPdpzvnK930ISdLXR.jpg",
+              "Name": "Doctor Stranger 1&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x2/",
+          "Name": "Doctor Stranger 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/dcyI1akz24EK3GDgqiMYQ7Y7VcL.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/dcyI1akz24EK3GDgqiMYQ7Y7VcL.jpg",
+              "Name": "Doctor Stranger 1&#215;20"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x20/",
+          "Name": "Doctor Stranger 1x20"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/byv8yQgm5mBukFlh3pOJlKcOSPZ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/byv8yQgm5mBukFlh3pOJlKcOSPZ.jpg",
+              "Name": "Doctor Stranger 1&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x3/",
+          "Name": "Doctor Stranger 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/raMmK8OXzHMeFtGXGWORl4f2md0.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/raMmK8OXzHMeFtGXGWORl4f2md0.jpg",
+              "Name": "Doctor Stranger 1&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x4/",
+          "Name": "Doctor Stranger 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tZErRhhjc03slMKFHh1nvRb75TK.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tZErRhhjc03slMKFHh1nvRb75TK.jpg",
+              "Name": "Doctor Stranger 1&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x5/",
+          "Name": "Doctor Stranger 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/94wuOEf12vlAtpub90qswMPy2jy.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/94wuOEf12vlAtpub90qswMPy2jy.jpg",
+              "Name": "Doctor Stranger 1&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x6/",
+          "Name": "Doctor Stranger 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wiCzn3PLppFysPHzeNhwGu1HTXp.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wiCzn3PLppFysPHzeNhwGu1HTXp.jpg",
+              "Name": "Doctor Stranger 1&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x7/",
+          "Name": "Doctor Stranger 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/dIs5TYgloN11ijkDdIa5MFwQKTb.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/dIs5TYgloN11ijkDdIa5MFwQKTb.jpg",
+              "Name": "Doctor Stranger 1&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x8/",
+          "Name": "Doctor Stranger 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/v9Ty5uG9tuSoQIcr6SnBxRHlTyV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/v9Ty5uG9tuSoQIcr6SnBxRHlTyV.jpg",
+              "Name": "Doctor Stranger 1&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/doctor-stranger-1x9/",
+          "Name": "Doctor Stranger 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 May. 05, 2014"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/doctor-stranger/",
+  "Name": "Doctor Stranger"
+}

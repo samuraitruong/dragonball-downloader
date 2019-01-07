@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4GTEsN3mlF5Ak4ZWFUxxxnd6G1Y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4GTEsN3mlF5Ak4ZWFUxxxnd6G1Y.jpg ",
+      "Name": "Eighth Grade"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7cDZkagW1YTnT4nP1BYrLPSd04B.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7cDZkagW1YTnT4nP1BYrLPSd04B.jpg ",
+      "Name": "Eighth Grade"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nWYtXcwB6ZjucKP8u0BDYjPOssj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nWYtXcwB6ZjucKP8u0BDYjPOssj.jpg ",
+      "Name": "Eighth Grade"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8krAMIpcmQPyOQKfs8hjwGP6Y4m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8krAMIpcmQPyOQKfs8hjwGP6Y4m.jpg ",
+      "Name": "Eighth Grade"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qyb7Cp8G3Oa4fhPZ5cibG2dlhte.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qyb7Cp8G3Oa4fhPZ5cibG2dlhte.jpg ",
+      "Name": "Eighth Grade"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mBThamxnhR10fF5XV40zs8nFmSR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mBThamxnhR10fF5XV40zs8nFmSR.jpg ",
+      "Name": "Eighth Grade"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/enrdrBqL9oNqTLMVlJkvwYPKqH2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/enrdrBqL9oNqTLMVlJkvwYPKqH2.jpg ",
+      "Name": "Eighth Grade"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dzDMgoNSoLf546YgDmxSu4Isy85.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dzDMgoNSoLf546YgDmxSu4Isy85.jpg ",
+      "Name": "Eighth Grade"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/YfPgZoitzva62dIzTt3HkOdG16.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/YfPgZoitzva62dIzTt3HkOdG16.jpg ",
+      "Name": "Eighth Grade"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nDfZN2q1IPGaLiwAgr9sU209MU5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nDfZN2q1IPGaLiwAgr9sU209MU5.jpg ",
+      "Name": "Eighth Grade"
+    }
+  ],
+  "Links": [],
+  "Intro": "Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school — the end of her thus far disastrous eighth grade year — before she begins high school.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/09/xTa9cLhGHfQ7084UvoPQ2bBXKqd-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/y8lFgF_IjPw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/eighth-grade/",
+  "Name": "Eighth Grade"
+}

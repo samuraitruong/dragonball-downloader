@@ -1,0 +1,70 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oSEq6TrGiGHo1p0gsY1rox2MTSg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oSEq6TrGiGHo1p0gsY1rox2MTSg.jpg ",
+      "Name": "Thần Tốc - Faster"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v1ajWq5IQOrlmSTGXmtEeHFIwdh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v1ajWq5IQOrlmSTGXmtEeHFIwdh.jpg ",
+      "Name": "Thần Tốc - Faster"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vg2VYTvBPQwvR6T7qrp8ZeuM0Uh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vg2VYTvBPQwvR6T7qrp8ZeuM0Uh.jpg ",
+      "Name": "Thần Tốc - Faster"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sfTORkUVWHrsqUc3rCWmb1IUhbs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sfTORkUVWHrsqUc3rCWmb1IUhbs.jpg ",
+      "Name": "Thần Tốc - Faster"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nvJx7HV8fniFNH4JNcobiMp3GbM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nvJx7HV8fniFNH4JNcobiMp3GbM.jpg ",
+      "Name": "Thần Tốc - Faster"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/w6NZg0esv8Dm7eRDksWj070LdoJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/w6NZg0esv8Dm7eRDksWj070LdoJ.jpg ",
+      "Name": "Thần Tốc - Faster"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1anRTXQpow0xRXzyB6kAFmnXgaE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1anRTXQpow0xRXzyB6kAFmnXgaE.jpg ",
+      "Name": "Thần Tốc - Faster"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7tqJvineCH2GmPhNRIANuVrzapQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7tqJvineCH2GmPhNRIANuVrzapQ.jpg ",
+      "Name": "Thần Tốc - Faster"
+    }
+  ],
+  "Links": [],
+  "Intro": "Sau khi ở tù mười năm, người đàn ông biệt danh Driver được trả tự do, vừa ra tù thì anh ta liền lấy xe chạy đến một công ty rồi dùng súng bắn chết ông nhân viên trong công ty này. Trước đây, hai anh em Driver từng bị một băng cướp xông vào nhà sát hại, anh trai Driver là Gary bị cắt cổ, còn Driver bị tên trùm bắn. May mắn là Driver còn sống, nhưng anh ta phải ở tù vì trước đó anh và Gary có đi cướp ngân hàng, Driver luôn nuôi ý chí trả thù cho anh mình khi anh ta ở trong tù.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/xaHojTGfidOUfON6DGY14qUqATj-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Buf4_Crt27c?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/faster/",
+  "Name": "Thần Tốc"
+}

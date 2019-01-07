@@ -1,0 +1,61 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1ovpL0Oc1mqy8fllLR511UJkKsj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1ovpL0Oc1mqy8fllLR511UJkKsj.jpg",
+      "Name": "The Girl with All the Gifts"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/i0FrVg1GiQhrt95HEpH9MVYJHJ5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/i0FrVg1GiQhrt95HEpH9MVYJHJ5.jpg",
+      "Name": "The Girl with All the Gifts"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fUR4LVLFEpNXwKszzmZIClvfElD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fUR4LVLFEpNXwKszzmZIClvfElD.jpg",
+      "Name": "The Girl with All the Gifts"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/j7ulsKbMQKTULxpRHA9B9DhKVtq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/j7ulsKbMQKTULxpRHA9B9DhKVtq.jpg",
+      "Name": "The Girl with All the Gifts"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zG5uiajLzIloqm2wGmgRpQ4B2Ly.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zG5uiajLzIloqm2wGmgRpQ4B2Ly.jpg",
+      "Name": "The Girl with All the Gifts"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k4pe70sGVvHlCwXH6td8Z3ZIRJf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k4pe70sGVvHlCwXH6td8Z3ZIRJf.jpg",
+      "Name": "The Girl with All the Gifts"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gscvbfbSp8OWpngT6vi27cWqeOy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gscvbfbSp8OWpngT6vi27cWqeOy.jpg",
+      "Name": "The Girl with All the Gifts"
+    }
+  ],
+  "Links": [],
+  "Intro": "A scientist and a teacher living in a dystopian future embark on a journey of survival with a special young girl.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/33IDooA29ctGHNE7gQW6cwbmRP3-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/HjGkB_oWTe0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-girl-with-all-the-gifts/",
+  "Name": "The Girl with All the Gifts"
+}

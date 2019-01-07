@@ -1,0 +1,2561 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/tre-em/",
+      "Name": "Trẻ Em"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gV2FiYtScFdixj4FtmMjtm02i1y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gV2FiYtScFdixj4FtmMjtm02i1y.jpg",
+      "Name": "Paw Patrol"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/izI6whBDRHRo8tyBuW9hpqE8e0X.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/izI6whBDRHRo8tyBuW9hpqE8e0X.jpg",
+      "Name": "Paw Patrol"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/paw-patrol-5x1/",
+      "Name": "Pups Save the Kitty Rescue Crew / Pups Save an Ostrich"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/paw-patrol-5x2/",
+      "Name": "Pups Save Big Paw / Pups Save the Hum-Mover"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/paw-patrol-5x3/",
+      "Name": "Sea Patrol: Pups Save the Sunken Sloop / Sea Patrol: Pups Save a Wiggly Whale"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/paw-patrol-5x4/",
+      "Name": "Pups Save a High-Flying Skye / Pups Go for the Gold"
+    }
+  ],
+  "Intro": "A group of six rescue dogs, led by a tech-savvy boy named Ryder, has adventures in &#8220;PAW Patrol.&#8221; The heroic pups, who believe &#8220;no job is too big, no pup is too small,&#8221; work together to protect the community. Among the members of the group are firedog Marshall, police pup Chase, and fearless Skye. All of the animals have special skills, gadgets and vehicles that help them on their rescue missions. Whether rescuing a kitten or saving a train from a rockslide, the PAW Patrol is always up for the challenge while also making sure there&#8217;s time for a game or a laugh.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/vN9BE385YKPgumoyrOd8Z8yh6Nn-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hpEKz8Fjm808jGcm56jLnBMo5yu.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hpEKz8Fjm808jGcm56jLnBMo5yu.jpg",
+              "Name": "Paw Patrol 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/uT92P9bLbWdznhNGjyjATpMbDba.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/uT92P9bLbWdznhNGjyjATpMbDba.jpg",
+              "Name": "Paw Patrol 1&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/x9i824287zy16q2nt4vbN4dcHnd.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/x9i824287zy16q2nt4vbN4dcHnd.jpg",
+              "Name": "Paw Patrol 1&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": "A kitten named Precious is floating out to sea, and the PAW Patrol must rescue her, but that&#8217;s not all. The PAW Patrol must also act fast to find her owner before the mischievous kitten gets into big trouble.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x1/",
+          "Name": "Paw Patrol 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ilkwC6EUVFesjnPWUAAofCSFD7C.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ilkwC6EUVFesjnPWUAAofCSFD7C.jpg",
+              "Name": "Paw Patrol 1&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hgwayCPTokogkuxG9V6zItgtSss.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hgwayCPTokogkuxG9V6zItgtSss.jpg",
+              "Name": "Paw Patrol 1&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jbCLQHLXN9ZwZby0mJrjy3kOPCn.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jbCLQHLXN9ZwZby0mJrjy3kOPCn.jpg",
+              "Name": "Paw Patrol 1&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1Qff439t9Y5WckMGGwVor6scacO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1Qff439t9Y5WckMGGwVor6scacO.jpg",
+              "Name": "Paw Patrol 1&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": "On a snow and icy day, Mr. Porter&#8217;s van ends up sliding on ice. If the ice cracks, it will fall into the bottom of the bay, and inside of the truck has all the pups&#8217; treats and food in it!",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x10/",
+          "Name": "Paw Patrol 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/54OdA53sy3GrmnCe9bNGX33l12A.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/54OdA53sy3GrmnCe9bNGX33l12A.jpg",
+              "Name": "Paw Patrol 1&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/owtY0SCocrVwVCWkPa421VbtW2Q.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/owtY0SCocrVwVCWkPa421VbtW2Q.jpg",
+              "Name": "Paw Patrol 1&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hABkyMELY6SEfAWcWHgPQOEIZwk.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hABkyMELY6SEfAWcWHgPQOEIZwk.jpg",
+              "Name": "Paw Patrol 1&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/h6MdBxvuj9RMQd4SNpnOop8f2yb.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/h6MdBxvuj9RMQd4SNpnOop8f2yb.jpg",
+              "Name": "Paw Patrol 1&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": "The PAW Patrol are having a great time at the Adventure Bay Hoedown, but trouble starts to brew when Farmer Al&#8217;s cows get spooked out and are on the loose in Adventure Bay.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x11/",
+          "Name": "Paw Patrol 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/f3O7vp6IFwNuNt5CYaTZZm3QAyN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/f3O7vp6IFwNuNt5CYaTZZm3QAyN.jpg",
+              "Name": "Paw Patrol 1&#215;12"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/e2D647kiOk4zjJpLykwMe7PUb46.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/e2D647kiOk4zjJpLykwMe7PUb46.jpg",
+              "Name": "Paw Patrol 1&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": "A Halloween party turns into a spooky time when there&#8217;s a ghostly figure roaming around on a ship. Can the PAW Patrol solve the paranormal mystery and save the Halloween party?",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x12/",
+          "Name": "Paw Patrol 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fJT7PObqb2Z6C5DVSjsy451v724.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fJT7PObqb2Z6C5DVSjsy451v724.jpg",
+              "Name": "Paw Patrol 1&#215;13"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/emIkzx7lTxebMY3vsrinbdD0N1i.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/emIkzx7lTxebMY3vsrinbdD0N1i.jpg",
+              "Name": "Paw Patrol 1&#215;13"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/dCQnm0MJBdUEmjc0AL4bJS5VYbr.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/dCQnm0MJBdUEmjc0AL4bJS5VYbr.jpg",
+              "Name": "Paw Patrol 1&#215;13"
+            }
+          ],
+          "Links": [],
+          "Intro": "It&#8217;s Alex&#8217;s first day of school, but he has lost his backpack! So the PAW Patrol agrees to help him find it.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x13/",
+          "Name": "Paw Patrol 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/scj102lM7vDA0OlkGmIwjxv6ivD.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/scj102lM7vDA0OlkGmIwjxv6ivD.jpg",
+              "Name": "Paw Patrol 1&#215;14"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/AtIeN0Eq5nm1An5ReUWI5f3HFri.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/AtIeN0Eq5nm1An5ReUWI5f3HFri.jpg",
+              "Name": "Paw Patrol 1&#215;14"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/mbW8UKd9ZAfMztok9b8k8IGG6pe.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/mbW8UKd9ZAfMztok9b8k8IGG6pe.jpg",
+              "Name": "Paw Patrol 1&#215;14"
+            }
+          ],
+          "Links": [],
+          "Intro": "It&#8217;s a hot day and the pups head for the water park, but the pool is empty! The water tower that pumps water into the pool is tilted and has a bent pipe.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x14/",
+          "Name": "Paw Patrol 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/a4hsRG5Yonl2ZgTwMioTlHxWY6p.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/a4hsRG5Yonl2ZgTwMioTlHxWY6p.jpg",
+              "Name": "Paw Patrol 1&#215;15"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qOsONpzcX64WPBiFGq3W4gkGGU3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qOsONpzcX64WPBiFGq3W4gkGGU3.jpg",
+              "Name": "Paw Patrol 1&#215;15"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xox9Di6Y4YoSVfBxDabdFcCCEcg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xox9Di6Y4YoSVfBxDabdFcCCEcg.jpg",
+              "Name": "Paw Patrol 1&#215;15"
+            }
+          ],
+          "Links": [],
+          "Intro": "Cap&#8217;n Turbot got The Flounder stuck on some rocks. If the PAW Patrol doesn&#8217;t save him, The Flounder will sink to the bottom of the bay!",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x15/",
+          "Name": "Paw Patrol 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3xUcdBhPRIpxZGJDM9y1MR6wDty.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3xUcdBhPRIpxZGJDM9y1MR6wDty.jpg",
+              "Name": "Paw Patrol 1&#215;16"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xhUVgyle0E8YOtJklWmaF2nw9kq.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xhUVgyle0E8YOtJklWmaF2nw9kq.jpg",
+              "Name": "Paw Patrol 1&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": "Santa&#8217;s sleigh crashes and breaks in a snowstorm on Christmas Eve, and all of the presents are scattered across Adventure Bay. It&#8217;s up to the PAW Patrol to fix the sleigh, round up the reindeer, find the presents, find the magic star, and most of all, save Christmas for Adventure Bay.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x16/",
+          "Name": "Paw Patrol 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/e022mZaufT86tpY9mPDZeEGa6ON.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/e022mZaufT86tpY9mPDZeEGa6ON.jpg",
+              "Name": "Paw Patrol 1&#215;17"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/gqhjExvis2dSpwd4fI7nNZnwqhx.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/gqhjExvis2dSpwd4fI7nNZnwqhx.jpg",
+              "Name": "Paw Patrol 1&#215;17"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/b684htmFBNmTOJUebAgw96E0cFu.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/b684htmFBNmTOJUebAgw96E0cFu.jpg",
+              "Name": "Paw Patrol 1&#215;17"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ryder and the PAW Patrol need to rescue Alex on Jakes mountain./The pups find strange footprints in the snow on the mountain outside Adventure Bay. Everyone thinks it&#8217;s a &#8220;snow monster&#8221; and it&#8217;s scaring the skiers away.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x17/",
+          "Name": "Paw Patrol 1x17"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9JpYDyrjhrBN7pmtOVUSsHBPmRV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9JpYDyrjhrBN7pmtOVUSsHBPmRV.jpg",
+              "Name": "Paw Patrol 1&#215;18"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8RwPhxjE7KOcNXomAFC7aZiFjtM.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8RwPhxjE7KOcNXomAFC7aZiFjtM.jpg",
+              "Name": "Paw Patrol 1&#215;18"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2wF5zmbCcIlLeM4o8dCuVzJ0QRA.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2wF5zmbCcIlLeM4o8dCuVzJ0QRA.jpg",
+              "Name": "Paw Patrol 1&#215;18"
+            }
+          ],
+          "Links": [],
+          "Intro": "When Ryder&#8217;s Robot Pup breaks and starts going wild around Adventure Bay, it takes the whole Paw Patrol to help Ryder find it.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x18/",
+          "Name": "Paw Patrol 1x18"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/z2KI131XyVJFzRlh24RenzSCR5l.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/z2KI131XyVJFzRlh24RenzSCR5l.jpg",
+              "Name": "Paw Patrol 1&#215;19"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4dn8KmdEKYXoxK0SkHdyI8zYsuF.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4dn8KmdEKYXoxK0SkHdyI8zYsuF.jpg",
+              "Name": "Paw Patrol 1&#215;19"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fgdaE43dtCxPKqzkRNYYbIcGcsk.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fgdaE43dtCxPKqzkRNYYbIcGcsk.jpg",
+              "Name": "Paw Patrol 1&#215;19"
+            }
+          ],
+          "Links": [],
+          "Intro": "An escaped baby monkey named Mandy leads the PAW Patrol on a chase through Adventure Bay, when she steals Mr. Porter van full of bananas.Chase befriends a baby owl and with the PAW Patrol helps rescue its mother who is trapped in the knothole of a fallen tree.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x19/",
+          "Name": "Paw Patrol 1x19"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4bVBy1usJ4ixxQ42FSndW7KvEk1.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4bVBy1usJ4ixxQ42FSndW7KvEk1.jpg",
+              "Name": "Paw Patrol 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kfcMmbh9GmVVfRXmAcnhM0lkyNj.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kfcMmbh9GmVVfRXmAcnhM0lkyNj.jpg",
+              "Name": "Paw Patrol 1&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/pcbOI0sSo3igq68Vc5kjR7gqneM.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/pcbOI0sSo3igq68Vc5kjR7gqneM.jpg",
+              "Name": "Paw Patrol 1&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": "A train car falls off the tracks and also breaks some rails. A train is coming later with important packages in it, with the all new Pup Pup Boogie 2.0 dance game. The PAW Patrol tries to fix the tracks, but how will they fix the tracks when Rubble sprains his paw and can&#8217;t work? Can Chase save the day?",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x2/",
+          "Name": "Paw Patrol 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3SFfgkSG9BpfuIM1FgOVBwnTUba.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3SFfgkSG9BpfuIM1FgOVBwnTUba.jpg",
+              "Name": "Paw Patrol 1&#215;20"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ys9YF1BTRlaPV7rMHith8fyh2HL.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ys9YF1BTRlaPV7rMHith8fyh2HL.jpg",
+              "Name": "Paw Patrol 1&#215;20"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/cQGIGiXlGQ9vIrcVwDFXrduibjK.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/cQGIGiXlGQ9vIrcVwDFXrduibjK.jpg",
+              "Name": "Paw Patrol 1&#215;20"
+            }
+          ],
+          "Links": [],
+          "Intro": "A baby Bat decides to take a nap hanging from the Town Hall&#8217;s bell and Mayor Goodway can&#8217;t ring it. Ryder and the Pups attempt to rescue the bat quietly so it doesn&#8217;t wake up, but it does and causes trouble around town. It&#8217;s up to Ryder and the Pups to get the Bat and return her to her Bat cave. Alex is afraid to go to the dentist, so Chase and the PAW Patrol work together to show Alex that fears can be overcome.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x20/",
+          "Name": "Paw Patrol 1x20"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6mBHcq8l76zscQZXiBpWbphUm0I.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6mBHcq8l76zscQZXiBpWbphUm0I.jpg",
+              "Name": "Paw Patrol 1&#215;21"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7rHxCRL4CI1nuOjx0hP9hh5lrtt.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7rHxCRL4CI1nuOjx0hP9hh5lrtt.jpg",
+              "Name": "Paw Patrol 1&#215;21"
+            }
+          ],
+          "Links": [],
+          "Intro": "It’s Adventure Bay’s annual Easter Egg Hunt and the pups are helping Mayor Goodway with the egg decorating. The hunt for a very special egg leads Ryder and the PAW Patrol on an exciting adventure.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x21/",
+          "Name": "Paw Patrol 1x21"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/uiinBzebqKp8qNReV6iMSnyIemx.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/uiinBzebqKp8qNReV6iMSnyIemx.jpg",
+              "Name": "Paw Patrol 1&#215;22"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/y3n1ja1QtreSxwQ4EuVwrQB7hF6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/y3n1ja1QtreSxwQ4EuVwrQB7hF6.jpg",
+              "Name": "Paw Patrol 1&#215;22"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/azRyQskfJ1nflwfj5wscFhoZONP.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/azRyQskfJ1nflwfj5wscFhoZONP.jpg",
+              "Name": "Paw Patrol 1&#215;22"
+            }
+          ],
+          "Links": [],
+          "Intro": "Cap&#8217;n Turbot has accidentally locked himself inside the lighthouse, so it is up to the pups to rescue a rowboat drifting out to sea.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x22/",
+          "Name": "Paw Patrol 1x22"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hxSsL1dR5d06cxq0H507XapCV4y.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hxSsL1dR5d06cxq0H507XapCV4y.jpg",
+              "Name": "Paw Patrol 1&#215;23"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hC9cK3QUzA5crLmEaqNZIs79BoB.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hC9cK3QUzA5crLmEaqNZIs79BoB.jpg",
+              "Name": "Paw Patrol 1&#215;23"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7zd2orFjoT7xEJWn86Rgriqlc5Z.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7zd2orFjoT7xEJWn86Rgriqlc5Z.jpg",
+              "Name": "Paw Patrol 1&#215;23"
+            }
+          ],
+          "Links": [],
+          "Intro": "It&#8217;s Adventure Bay Race Day and the pups are about to race each other all across the town to see who is the fastest pup. One other competitor unexpectedly shows up though, Alex in his super trike! Mr.Porter enters a cake competition and needs Ryder and the pups to help him bake the biggest and tastiest cake. The race is on to get their cake baked and to the competition on time!",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x23/",
+          "Name": "Paw Patrol 1x23"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/em8PilImtUxgsUbxF7TzHqRaPE4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/em8PilImtUxgsUbxF7TzHqRaPE4.jpg",
+              "Name": "Paw Patrol 1&#215;24"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/dMvCa1ZdAesAsbJaedO8EfRctfL.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/dMvCa1ZdAesAsbJaedO8EfRctfL.jpg",
+              "Name": "Paw Patrol 1&#215;24"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9JjvEXf7wIyA39EiCAsnjSVGWCK.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9JjvEXf7wIyA39EiCAsnjSVGWCK.jpg",
+              "Name": "Paw Patrol 1&#215;24"
+            }
+          ],
+          "Links": [],
+          "Intro": "Rubble has a wondrous dream, similar to Jack and the Beanstalk, where Marshall grows a giant beanstalk and Alex is a giant. However, when giant Alex starts to cause havoc, Ryder and the PAW Patrol must keep him occupied. When Cap&#8217;n Turbot needs to get a picture of the rare Blue Footed Booby Bird when his French cousin, Francois Turbot, decides to help but gets caught on a cliff! It&#8217;s up to the PAW Patrol to rescue him and bring the two cousins together again.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x24/",
+          "Name": "Paw Patrol 1x24"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2ZjOoaPXbvFZLDXEIRsYg5PsUwD.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2ZjOoaPXbvFZLDXEIRsYg5PsUwD.jpg",
+              "Name": "Paw Patrol 1&#215;25"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/n0dHq6CpJx2lILakTAXgJXpefPP.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/n0dHq6CpJx2lILakTAXgJXpefPP.jpg",
+              "Name": "Paw Patrol 1&#215;25"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/mCfRMhV3tEEUhDwrJg7Cb9Pezyp.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/mCfRMhV3tEEUhDwrJg7Cb9Pezyp.jpg",
+              "Name": "Paw Patrol 1&#215;25"
+            }
+          ],
+          "Links": [],
+          "Intro": "When Chickaletta falls in a cave in the ground it&#8217;s up to the PAW Patrol to save her! Tons of baby turtles are popping up all over the town. Can the PAW Patrol help get them back to their homes before they get hurt?",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x25/",
+          "Name": "Paw Patrol 1x25"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oQaaya7t0gvgw6nY0QFK1xH4srT.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oQaaya7t0gvgw6nY0QFK1xH4srT.jpg",
+              "Name": "Paw Patrol 1&#215;26"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/n7LZoysu1dY65cVc7ZsrgA61ju7.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/n7LZoysu1dY65cVc7ZsrgA61ju7.jpg",
+              "Name": "Paw Patrol 1&#215;26"
+            }
+          ],
+          "Links": [],
+          "Intro": "Cap&#8217;n Turbot accidentally stumbles into a secret cavern that was once a pirate&#8217;s hideout. When the PAW Patrol rescues him, they find an incomplete treasure map. The adventure is on as the pups follow clues to find the missing map pieces, and eventually to an amazing sunken pirate treasure!",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x26/",
+          "Name": "Paw Patrol 1x26"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lgc36HJ3XfvbAnS0471t3hfbkjo.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lgc36HJ3XfvbAnS0471t3hfbkjo.jpg",
+              "Name": "Paw Patrol 1&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3Ld8LrzYdaoddqQYMj3RHobc1XS.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3Ld8LrzYdaoddqQYMj3RHobc1XS.jpg",
+              "Name": "Paw Patrol 1&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fMceuaAjv2hSqgulSIytkdT7aWK.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fMceuaAjv2hSqgulSIytkdT7aWK.jpg",
+              "Name": "Paw Patrol 1&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": "Baby sea turtles were hatching at the other side of the road near the beach. They can&#8217;t get to the beach without crossing the street, there are cars, skateboarders, scooters and all the hungry naughty seagulls around, not to mention Alex&#8217;s rambunctious antics.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x3/",
+          "Name": "Paw Patrol 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/t7KGtscm9nkmQQn3lxZgZC5dRa8.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/t7KGtscm9nkmQQn3lxZgZC5dRa8.jpg",
+              "Name": "Paw Patrol 1&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/iKEVdjQnxmLTr3vrgRR8107RAf1.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/iKEVdjQnxmLTr3vrgRR8107RAf1.jpg",
+              "Name": "Paw Patrol 1&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/b3CW051SQbsB6v7kCvvUMty1g3O.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/b3CW051SQbsB6v7kCvvUMty1g3O.jpg",
+              "Name": "Paw Patrol 1&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ellie, the baby elephant from the Circus train, has escaped and is loose in Adventure Bay!",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x4/",
+          "Name": "Paw Patrol 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7z5hq9lVsglQ1PXQcWUnKvSqn7c.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7z5hq9lVsglQ1PXQcWUnKvSqn7c.jpg",
+              "Name": "Paw Patrol 1&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/pAFQxT8fLFLU8xim43GlwLN8ZGW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/pAFQxT8fLFLU8xim43GlwLN8ZGW.jpg",
+              "Name": "Paw Patrol 1&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7p6nX3ZavJYp32StqXxnX6rjCyq.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7p6nX3ZavJYp32StqXxnX6rjCyq.jpg",
+              "Name": "Paw Patrol 1&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": "When a flock of migrating geese stops in Adventure Bay, Marshall bonds with Fuzzy, the gosling of the flock.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x5/",
+          "Name": "Paw Patrol 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zFk8Y6J1dmNmOjLyc5plbsNO3sE.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zFk8Y6J1dmNmOjLyc5plbsNO3sE.jpg",
+              "Name": "Paw Patrol 1&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2JkNRfXe6295ju7kTV1w93x9zM4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2JkNRfXe6295ju7kTV1w93x9zM4.jpg",
+              "Name": "Paw Patrol 1&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rTgwKOFd1iUeZKxAe7q3OUKcHI6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rTgwKOFd1iUeZKxAe7q3OUKcHI6.jpg",
+              "Name": "Paw Patrol 1&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": "The pups help a young boy named Alex fix his broken tricycle and teach him a valuable lesson of taking new things slow.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x6/",
+          "Name": "Paw Patrol 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6cUrjV2bDd1ahuEnlW5Fi2NwBX6.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6cUrjV2bDd1ahuEnlW5Fi2NwBX6.jpg",
+              "Name": "Paw Patrol 1&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/uMsgBhTNZm61NhSoOS01ssvJYea.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/uMsgBhTNZm61NhSoOS01ssvJYea.jpg",
+              "Name": "Paw Patrol 1&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xFFXqu4oAZzqVuz7Pa3mYquG6oP.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xFFXqu4oAZzqVuz7Pa3mYquG6oP.jpg",
+              "Name": "Paw Patrol 1&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/263fnfNi6l05AkO36TAxBwz4YSQ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/263fnfNi6l05AkO36TAxBwz4YSQ.jpg",
+              "Name": "Paw Patrol 1&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": "A bunch of adorable bunnies have come to Farmer Yumi&#8217;s carrot patch. The PAW Patrol must catch them all and relocate them to a perfect new home.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x7/",
+          "Name": "Paw Patrol 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/etNEYrN54BHY7aE6AP3WVwI7CrN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/etNEYrN54BHY7aE6AP3WVwI7CrN.jpg",
+              "Name": "Paw Patrol 1&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/cx5luIX1GFDpuWldAHUxyhrtfCY.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/cx5luIX1GFDpuWldAHUxyhrtfCY.jpg",
+              "Name": "Paw Patrol 1&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oJg3n67Zm32yAIjFPqdHtx2pcdO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oJg3n67Zm32yAIjFPqdHtx2pcdO.jpg",
+              "Name": "Paw Patrol 1&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": "There&#8217;s an oil spill in the bay, and a Baby Whale swam into the oil. The PAW Patrol must clean up the Baby Whale and the oil spill before more animals living in Adventure Bay are harmed by it.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x8/",
+          "Name": "Paw Patrol 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9TtnBM8YFvI3oNYDJr1WBhjP2Og.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9TtnBM8YFvI3oNYDJr1WBhjP2Og.jpg",
+              "Name": "Paw Patrol 1&#215;9"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/63VBYTmtzOkD5BYWt2AOZTkv9jR.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/63VBYTmtzOkD5BYWt2AOZTkv9jR.jpg",
+              "Name": "Paw Patrol 1&#215;9"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/c3XI1q5oIUeaVXL5OY83NGHH6oR.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/c3XI1q5oIUeaVXL5OY83NGHH6oR.jpg",
+              "Name": "Paw Patrol 1&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": "This episode is a flashback story of how Rubble joined the PAW Patrol. Rubble must help Jake when he gets trapped in an Avalanche.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-1x9/",
+          "Name": "Paw Patrol 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Nov. 14, 2013"
+    },
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oZKdXgXB7KwlcCyYC9SaimS3Cew.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oZKdXgXB7KwlcCyYC9SaimS3Cew.jpg",
+              "Name": "Paw Patrol 2&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jcAGvQ5XJYtS0DfUorloGXYRluI.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jcAGvQ5XJYtS0DfUorloGXYRluI.jpg",
+              "Name": "Paw Patrol 2&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tlQ7GkTIYsknnkqpa4gZjN64ItB.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tlQ7GkTIYsknnkqpa4gZjN64ItB.jpg",
+              "Name": "Paw Patrol 2&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": "The pups must find a way to get a group of penguins back to the South Pole.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x1/",
+          "Name": "Paw Patrol 2x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7XZRTtOJCajGzOXmf1Ac2dgdr01.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7XZRTtOJCajGzOXmf1Ac2dgdr01.jpg",
+              "Name": "Paw Patrol 2&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/g9YxEP4osqVIXcFT2Vbs7Azz89H.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/g9YxEP4osqVIXcFT2Vbs7Azz89H.jpg",
+              "Name": "Paw Patrol 2&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/iw34mJw0IJZDjV5C13IVk0dSCpV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/iw34mJw0IJZDjV5C13IVk0dSCpV.jpg",
+              "Name": "Paw Patrol 2&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": "It&#8217;s Adventure Bay Talent Show Day! Mayor Goodway is excited but afraid there won&#8217;t be enough acts! Ryder&#8217;s super talented pups can definitely help out.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x10/",
+          "Name": "Paw Patrol 2x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wOLJhsVbzPp4leQaiJ7ZTwHrsF3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wOLJhsVbzPp4leQaiJ7ZTwHrsF3.jpg",
+              "Name": "Paw Patrol 2&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rQMZDhJ77WDk4k9CGQ4aaO84Avm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rQMZDhJ77WDk4k9CGQ4aaO84Avm.jpg",
+              "Name": "Paw Patrol 2&#215;11"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/A8NMFLW6rkAcG0BagexGbhwWgQS.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/A8NMFLW6rkAcG0BagexGbhwWgQS.jpg",
+              "Name": "Paw Patrol 2&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ryder and the Pups head out for a day of Parachute training, but Marshall decides to stay back because of his fear of heights.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x11/",
+          "Name": "Paw Patrol 2x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jF3M2N08fYZUGT0yvFXPOA6YVNW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jF3M2N08fYZUGT0yvFXPOA6YVNW.jpg",
+              "Name": "Paw Patrol 2&#215;12"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8taCpmwPax6X1AhPXLXLQ3GrRm0.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8taCpmwPax6X1AhPXLXLQ3GrRm0.jpg",
+              "Name": "Paw Patrol 2&#215;12"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qPQXcdwf7QU86GszmaoOk3X8M3A.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qPQXcdwf7QU86GszmaoOk3X8M3A.jpg",
+              "Name": "Paw Patrol 2&#215;12"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/tPCyNp2YjEynZBw50FOCw95DfwJ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/tPCyNp2YjEynZBw50FOCw95DfwJ.jpg",
+              "Name": "Paw Patrol 2&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": "Feeling like his clumsy ways are constantly messing up his friends&#8217; fun, Marshall decides to take a break from the PAW Patrol and goes off into the woods. Once the pups notice Marshall is gone, they jump to action to find him and bring him back to the Lookout.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x12/",
+          "Name": "Paw Patrol 2x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/575I2q4ZO7kzzHoihOvicWazMFz.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/575I2q4ZO7kzzHoihOvicWazMFz.jpg",
+              "Name": "Paw Patrol 2&#215;13"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/g4PovGmOUKUPGJ47m0d6xluoh05.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/g4PovGmOUKUPGJ47m0d6xluoh05.jpg",
+              "Name": "Paw Patrol 2&#215;13"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/l9BrOyAX6bEw7kpu2N4hYAmHJk3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/l9BrOyAX6bEw7kpu2N4hYAmHJk3.jpg",
+              "Name": "Paw Patrol 2&#215;13"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ryder and the PAW Patrol head to the Jungle in the PAW PATROLLER to help their good friend CARLOS find his lost Parrot, Matea!",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x13/",
+          "Name": "Paw Patrol 2x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hd3NYUzUw58jjqIBV3aYcSYU0oq.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hd3NYUzUw58jjqIBV3aYcSYU0oq.jpg",
+              "Name": "Paw Patrol 2&#215;14"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/aRfgeybpEkMuCri06rQDANL5eeT.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/aRfgeybpEkMuCri06rQDANL5eeT.jpg",
+              "Name": "Paw Patrol 2&#215;14"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/38bSKnNct5ckLbXNIpQxx1Decg2.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/38bSKnNct5ckLbXNIpQxx1Decg2.jpg",
+              "Name": "Paw Patrol 2&#215;14"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/jzsUWIqDYzmgeULOzAzifrsg4Tg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/jzsUWIqDYzmgeULOzAzifrsg4Tg.jpg",
+              "Name": "Paw Patrol 2&#215;14"
+            }
+          ],
+          "Links": [],
+          "Intro": "Mayor Goodway has her hands full with her twin niece and nephew Julia and Julius. She calls on the PAW Patrol to rescue them from a tree, and then twin sit for the day!",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x14/",
+          "Name": "Paw Patrol 2x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/sbsEEf6Prp3iDsylrg5wocOmTrR.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/sbsEEf6Prp3iDsylrg5wocOmTrR.jpg",
+              "Name": "Paw Patrol 2&#215;15"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8sselDUYuJ4p3YmgAqZLBOw6b9P.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8sselDUYuJ4p3YmgAqZLBOw6b9P.jpg",
+              "Name": "Paw Patrol 2&#215;15"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fLFc97owQyTb0KUpkFlqsP6VlvG.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fLFc97owQyTb0KUpkFlqsP6VlvG.jpg",
+              "Name": "Paw Patrol 2&#215;15"
+            }
+          ],
+          "Links": [],
+          "Intro": "The Pups are on a PAW Patroller road trip to the Savana where they meet up with Photo Safari fans Cap&#8217;n Turbot and his cousin François Turbot. In the middle of the night the campers are awakened by an intruder who turns out to be a lost baby elephant &#8211; Gilda.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x15/",
+          "Name": "Paw Patrol 2x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/pYxCndP3hIE14SExhamKNeVjHFA.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/pYxCndP3hIE14SExhamKNeVjHFA.jpg",
+              "Name": "Paw Patrol 2&#215;16"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/uUpputGhns0NPMpCpoGJsRp2rLg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/uUpputGhns0NPMpCpoGJsRp2rLg.jpg",
+              "Name": "Paw Patrol 2&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": "When the Pups and Cap&#8217;n Turbot camp out under the very rare Magical Mer Moon, magical things begin to happen. Lured by the mystical Mer pup song and then transformed into Mer pups themselves, Skye and Zuma and even water resistant Rocky perform an underwater rescue in a sunken old ship. Cap&#8217;n Turbot and Ryder help out by diving deep to bottom of the Bay in their Diving Bell to help a Mer Mom and pup.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x16/",
+          "Name": "Paw Patrol 2x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/mNWk7KskBh584fIErEi12vcALR8.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/mNWk7KskBh584fIErEi12vcALR8.jpg",
+              "Name": "Paw Patrol 2&#215;17"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/sd1dLGMh5Q7GOCmZ28kbAarjLtk.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/sd1dLGMh5Q7GOCmZ28kbAarjLtk.jpg",
+              "Name": "Paw Patrol 2&#215;17"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/agG4J2sJYrCL9CtWETBMkwocpfW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/agG4J2sJYrCL9CtWETBMkwocpfW.jpg",
+              "Name": "Paw Patrol 2&#215;17"
+            }
+          ],
+          "Links": [],
+          "Intro": "The PAW Patrol is just about to zoom off on their latest rescue to help Farmer Al capture his run-a-way pigs, Emma and Corny, when Chase sneezes, then Zuma sneezes and in a blink of an eye, Skye joins the group of sick puppies.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x17/",
+          "Name": "Paw Patrol 2x17"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6Aza5WVvJyG82dGyPFX9xifb9bN.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6Aza5WVvJyG82dGyPFX9xifb9bN.jpg",
+              "Name": "Paw Patrol 2&#215;18"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/u5lR53lMq3t9AXDZQulxsVzGDC3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/u5lR53lMq3t9AXDZQulxsVzGDC3.jpg",
+              "Name": "Paw Patrol 2&#215;18"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/u0cwcsG5RbOyw3MrD3BpWzshc7M.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/u0cwcsG5RbOyw3MrD3BpWzshc7M.jpg",
+              "Name": "Paw Patrol 2&#215;18"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/l5XECSXCc5HO2Lf8XAUL59L7dig.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/l5XECSXCc5HO2Lf8XAUL59L7dig.jpg",
+              "Name": "Paw Patrol 2&#215;18"
+            }
+          ],
+          "Links": [],
+          "Intro": "Alex is working towards getting his Action Scouts Fire Safety Badge, and who better to help him learn all about Fire Safety than Marshall and the PAW Patrol!",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x18/",
+          "Name": "Paw Patrol 2x18"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lGt4H08WBxUptVM8MZvd9mqwRVL.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lGt4H08WBxUptVM8MZvd9mqwRVL.jpg",
+              "Name": "Paw Patrol 2&#215;19"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/s1If4qlw7SCxesc0UynxLoDVbE0.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/s1If4qlw7SCxesc0UynxLoDVbE0.jpg",
+              "Name": "Paw Patrol 2&#215;19"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/ipWBr4VmvafCYfUJfuAZOyReFpS.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/ipWBr4VmvafCYfUJfuAZOyReFpS.jpg",
+              "Name": "Paw Patrol 2&#215;19"
+            }
+          ],
+          "Links": [],
+          "Intro": "It&#8217;s the annual Mayor&#8217;s Race and Mayor Goodway is determined to give it her best.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x19/",
+          "Name": "Paw Patrol 2x19"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/yH0546vrCW3Q1gYSOOGuw53q2YI.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/yH0546vrCW3Q1gYSOOGuw53q2YI.jpg",
+              "Name": "Paw Patrol 2&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kN3otNWdXAUZOqslv4QpljWg1Nk.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kN3otNWdXAUZOqslv4QpljWg1Nk.jpg",
+              "Name": "Paw Patrol 2&#215;2"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kmlfypkdBFsIBxBM20e3YTErsD3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kmlfypkdBFsIBxBM20e3YTErsD3.jpg",
+              "Name": "Paw Patrol 2&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": "An alien lands on Earth at Farmer Yumi&#8217;s place, and the gang try to repair his spaceship so he can return home.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x2/",
+          "Name": "Paw Patrol 2x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/w24s0NzBhbYGP2UvUjS7iJx8J6O.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/w24s0NzBhbYGP2UvUjS7iJx8J6O.jpg",
+              "Name": "Paw Patrol 2&#215;20"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1VRUuPRUPuxk2Lf3Q1GMbvWB38G.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1VRUuPRUPuxk2Lf3Q1GMbvWB38G.jpg",
+              "Name": "Paw Patrol 2&#215;20"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fNuM5mV1hF3X1mQyWRruJc6S8g.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fNuM5mV1hF3X1mQyWRruJc6S8g.jpg",
+              "Name": "Paw Patrol 2&#215;20"
+            }
+          ],
+          "Links": [],
+          "Intro": "The PAW Patrol must come to the rescue when Wally&#8217;s special friend, Walinda, gets tangled in an anchor chain; Cap&#8217;n Turbot and his cousin are in the middle of an archaeological dig when the cliff they are on collapses all around them.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x20/",
+          "Name": "Paw Patrol 2x20"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8EVzIJxL3DNY5g42juHJbc0ArXQ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8EVzIJxL3DNY5g42juHJbc0ArXQ.jpg",
+              "Name": "Paw Patrol 2&#215;21"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/txA5PyBwtsWZq8WNyAKDwq8JFfv.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/txA5PyBwtsWZq8WNyAKDwq8JFfv.jpg",
+              "Name": "Paw Patrol 2&#215;21"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/i7yvHSkWjLIxOPdLuQEhkWxvwwS.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/i7yvHSkWjLIxOPdLuQEhkWxvwwS.jpg",
+              "Name": "Paw Patrol 2&#215;21"
+            }
+          ],
+          "Links": [],
+          "Intro": "Cap&#8217;n Turbot and his cousin Francois are watching white whales in Adventure Bay when their boat hits a rock and starts to sink; the PAW Patrol must track down some loose penguins and help them return to the land of ice and snow.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x21/",
+          "Name": "Paw Patrol 2x21"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3aCL8HyhtuBPwgNY8AMke35Etdw.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3aCL8HyhtuBPwgNY8AMke35Etdw.jpg",
+              "Name": "Paw Patrol 2&#215;22"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/xLGiRHldRl9RNEQ4vMIPuB9w7Mv.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/xLGiRHldRl9RNEQ4vMIPuB9w7Mv.jpg",
+              "Name": "Paw Patrol 2&#215;22"
+            }
+          ],
+          "Links": [],
+          "Intro": "While Sensei Yumi teaches all the Pups the ancient art of Pup-Fu, Mayor Humdinger steals an ancient scroll that holds all the secrets of the art.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x22/",
+          "Name": "Paw Patrol 2x22"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9DCZmleWkhXGiMlEd3BuJq3w8PA.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9DCZmleWkhXGiMlEd3BuJq3w8PA.jpg",
+              "Name": "Paw Patrol 2&#215;23"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/mpuzKkV92q9ik9FXWQzbL6FE7nn.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/mpuzKkV92q9ik9FXWQzbL6FE7nn.jpg",
+              "Name": "Paw Patrol 2&#215;23"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fgRCeO9QIUlgtpxQWRiyIwWB3x4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fgRCeO9QIUlgtpxQWRiyIwWB3x4.jpg",
+              "Name": "Paw Patrol 2&#215;23"
+            }
+          ],
+          "Links": [],
+          "Intro": "Jake and Everest are excited today&#8217;s the day of the big Snowboard Competition, until they look outside and see the course is completely buried under blanket of snow; The Cap&#8217;n is about to test it out in an underwater adventure when Chickaletta, Cali and a seagull beat him to it. All the animal activity on the control panel drives the diving bell to the bottom of the bay.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x23/",
+          "Name": "Paw Patrol 2x23"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/yjhp2pCUDV6SK15D9suhQTDLR00.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/yjhp2pCUDV6SK15D9suhQTDLR00.jpg",
+              "Name": "Paw Patrol 2&#215;24"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2TBKsE9u1GBIBwAKvbuw9CdGCgK.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2TBKsE9u1GBIBwAKvbuw9CdGCgK.jpg",
+              "Name": "Paw Patrol 2&#215;24"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/HF9RwhzEBsAYJMcpsVomMtprRZ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/HF9RwhzEBsAYJMcpsVomMtprRZ.jpg",
+              "Name": "Paw Patrol 2&#215;24"
+            }
+          ],
+          "Links": [],
+          "Intro": "While delivering special pizza dough for a party, Alex and Mr. Porter get into an accident; a storm causes Skye to crash land in the snow while on her way to Jake&#8217;s Mountain.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x24/",
+          "Name": "Paw Patrol 2x24"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/klo0GnPqHPnEy9MT2dt4bnYnILu.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/klo0GnPqHPnEy9MT2dt4bnYnILu.jpg",
+              "Name": "Paw Patrol 2&#215;25"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/awZ1goulGscxHUqciwy3qXsB8BB.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/awZ1goulGscxHUqciwy3qXsB8BB.jpg",
+              "Name": "Paw Patrol 2&#215;25"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/5KvmML30NEiuYMXLqT5zejWyT62.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/5KvmML30NEiuYMXLqT5zejWyT62.jpg",
+              "Name": "Paw Patrol 2&#215;25"
+            }
+          ],
+          "Links": [],
+          "Intro": "When a storm blows through the town right before a concert, the pups must work together to clean up the mess; Mayor Goodway&#8217;s backpack slips down the side of a cliff with Chickaletta in it.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x25/",
+          "Name": "Paw Patrol 2x25"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/4MsiTM7cS9dfFTlYaYHTDMJvl6F.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/4MsiTM7cS9dfFTlYaYHTDMJvl6F.jpg",
+              "Name": "Paw Patrol 2&#215;26"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/5HU0XjP4WH2we08qOLwXfpIwtpl.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/5HU0XjP4WH2we08qOLwXfpIwtpl.jpg",
+              "Name": "Paw Patrol 2&#215;26"
+            }
+          ],
+          "Links": [],
+          "Intro": "The PAW Patrol is on a big excavation dig in the jungle with Cap&#8217;n Turbot looking for dinosaur fossils when they unearth 3 fossilized eggs. Before they know what&#8217;s happening the eggs start to hatch and there are three baby pterodactyls running around Adventure Bay!",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x26/",
+          "Name": "Paw Patrol 2x26"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fkZuXkuSzqGlF5lD4Iz0JWqik30.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fkZuXkuSzqGlF5lD4Iz0JWqik30.jpg",
+              "Name": "Paw Patrol 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/vIq0XgJJgMxvtATgrGU1FYgEgGw.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/vIq0XgJJgMxvtATgrGU1FYgEgGw.jpg",
+              "Name": "Paw Patrol 2&#215;3"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7skQfjGwz4QOKTvJcnLWIfN5x71.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7skQfjGwz4QOKTvJcnLWIfN5x71.jpg",
+              "Name": "Paw Patrol 2&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": "The PAW Patrol must rescue Jake when his ankle gets stuck between some fallen rocks.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x3/",
+          "Name": "Paw Patrol 2x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/5ic796FESrVAv0OtQKX9dkKDu3h.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/5ic796FESrVAv0OtQKX9dkKDu3h.jpg",
+              "Name": "Paw Patrol 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/iTudSznIRigN2ocsxoKY0CCGmzd.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/iTudSznIRigN2ocsxoKY0CCGmzd.jpg",
+              "Name": "Paw Patrol 2&#215;4"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/r60rEmcWUPkJc6djLNh8RATwcBI.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/r60rEmcWUPkJc6djLNh8RATwcBI.jpg",
+              "Name": "Paw Patrol 2&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": "The PAW Patrol uses Zuma&#8217;s new submarine to help Cap&#8217;n Turbot.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x4/",
+          "Name": "Paw Patrol 2x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6RcmsBInKFVUYIqDs8HDdqUm1p7.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6RcmsBInKFVUYIqDs8HDdqUm1p7.jpg",
+              "Name": "Paw Patrol 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7dG902v1TB2gQPXRjJlG0YAwzOe.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7dG902v1TB2gQPXRjJlG0YAwzOe.jpg",
+              "Name": "Paw Patrol 2&#215;5"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/5A80rtghOPUOTKAWaOGkwKMfH5R.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/5A80rtghOPUOTKAWaOGkwKMfH5R.jpg",
+              "Name": "Paw Patrol 2&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": "A mysterious Ghost is causing havoc around the Lookout at night. The Pups and Chase in his new SPY GEAR set up a stakeout to bust it.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x5/",
+          "Name": "Paw Patrol 2x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qCZP3m09BKIOY6Zr5o49Jfsm49q.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qCZP3m09BKIOY6Zr5o49Jfsm49q.jpg",
+              "Name": "Paw Patrol 2&#215;6"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/t3cDyTFF3dzMzCrsILaz9ZlXCaV.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/t3cDyTFF3dzMzCrsILaz9ZlXCaV.jpg",
+              "Name": "Paw Patrol 2&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": "An Arctic storm picks up, but Jake finds help from a brave mountain ranger pup named Everest!",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x6/",
+          "Name": "Paw Patrol 2x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/hmbORcvHFIv8m63b8PsxXfSvKiu.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/hmbORcvHFIv8m63b8PsxXfSvKiu.jpg",
+              "Name": "Paw Patrol 2&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/kZxfmHyPU9a5VmPF7aa1Tl5rEtj.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/kZxfmHyPU9a5VmPF7aa1Tl5rEtj.jpg",
+              "Name": "Paw Patrol 2&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/t46Lys0Foy5SG51QfgpIc0IMeAU.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/t46Lys0Foy5SG51QfgpIc0IMeAU.jpg",
+              "Name": "Paw Patrol 2&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": "The PAW Patrol heads to the Jungle in the PAW Patroller to meet Ryder&#8217;s 10 year old pen-pal, Carlos.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x7/",
+          "Name": "Paw Patrol 2x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rutFNTlgrXAL3uJUlNpyRclLPLO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rutFNTlgrXAL3uJUlNpyRclLPLO.jpg",
+              "Name": "Paw Patrol 2&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rJ9EtY1U7IEqsSNwgt8ybR0gQ1B.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rJ9EtY1U7IEqsSNwgt8ybR0gQ1B.jpg",
+              "Name": "Paw Patrol 2&#215;8"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7NgjkA5zC6i29kWbh14Hw0yAmzR.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7NgjkA5zC6i29kWbh14Hw0yAmzR.jpg",
+              "Name": "Paw Patrol 2&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": "A wintertime storm causes trouble all over Adventure Bay.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x8/",
+          "Name": "Paw Patrol 2x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/etOmVOS90Tb8i8krlCPkTvaE8t9.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/etOmVOS90Tb8i8krlCPkTvaE8t9.jpg",
+              "Name": "Paw Patrol 2&#215;9"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/5HVRcSfPc7dZxEN4sme5jebhZw3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/5HVRcSfPc7dZxEN4sme5jebhZw3.jpg",
+              "Name": "Paw Patrol 2&#215;9"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2QrACS8sHQFrLGS7y4B6G9XCWbP.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2QrACS8sHQFrLGS7y4B6G9XCWbP.jpg",
+              "Name": "Paw Patrol 2&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": "Skye&#8217;s favorite stunt pilot, Ace Sorensen, is heading to Adventure Bay to put on a fantastic air show. Just before arrival she runs into engine trouble!",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-2x9/",
+          "Name": "Paw Patrol 2x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 2 Aug. 22, 2014"
+    },
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/swZjrvmYwbhvxOLxbOHPcsQEYlX.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/swZjrvmYwbhvxOLxbOHPcsQEYlX.jpg",
+              "Name": "Paw Patrol 3&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": "Rubble Finds an old brass Jack-in-the-box with a Genie inside who grants him 3 wishes.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x1/",
+          "Name": "Paw Patrol 3x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/qalqpDRfo17ux4aEO7GfLv2wgO0.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/qalqpDRfo17ux4aEO7GfLv2wgO0.jpg",
+              "Name": "Paw Patrol 3&#215;10"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3RUyhcmYdxZtp0cQs7CBoG6pedk.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3RUyhcmYdxZtp0cQs7CBoG6pedk.jpg",
+              "Name": "Paw Patrol 3&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": "Rocky turns his recycling truck into a boat so that he can bring a foul-smelling plant across the bay. A monkey&#8217;s space mission turns into a rescue after Cap&#8217;n Turbot finds out that the spaceship&#8217;s hatch is broken.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x10/",
+          "Name": "Paw Patrol 3x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lrdwkfLYEZl3JpYfdVz3SrqcqEM.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lrdwkfLYEZl3JpYfdVz3SrqcqEM.jpg",
+              "Name": "Paw Patrol 3&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": "While on a trip to the Arctic, Cap&#8217;n Turbot needs the pups&#8217; help to get a family of polar bears back together. Marshall puts on a sheep costume to find missing lambs on a farm.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x11/",
+          "Name": "Paw Patrol 3x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/bNN3lrQkMqQwIfeKlMm5FnHUkRX.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/bNN3lrQkMqQwIfeKlMm5FnHUkRX.jpg",
+              "Name": "Paw Patrol 3&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": "Rocky uses his tools to repair the tires on a school bus. Rocky uses his tools to repair the tires on a school bus.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x12/",
+          "Name": "Paw Patrol 3x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/vfiIy9ywiX0dBSLTeYK8aP27JyM.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/vfiIy9ywiX0dBSLTeYK8aP27JyM.jpg",
+              "Name": "Paw Patrol 3&#215;13"
+            }
+          ],
+          "Links": [],
+          "Intro": "The pups discover that Adventure Bay&#8217;s geyser, Old Trusty, has been plugged up by a boulder. The PAW Patroller gets stuck while the pups try to find a lost horse.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x13/",
+          "Name": "Paw Patrol 3x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/u889ntlLUQ8m4s6DZB41A57CQJd.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/u889ntlLUQ8m4s6DZB41A57CQJd.jpg",
+              "Name": "Paw Patrol 3&#215;14"
+            }
+          ],
+          "Links": [],
+          "Intro": "The pups set out to recover a missing robotic dinosaur. The pups have trouble filming their entry for a film festival.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x14/",
+          "Name": "Paw Patrol 3x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/wEb7TC8nQ2dzL3dBuVAdRqGLOkd.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/wEb7TC8nQ2dzL3dBuVAdRqGLOkd.jpg",
+              "Name": "Paw Patrol 3&#215;15"
+            }
+          ],
+          "Links": [],
+          "Intro": "The PAW Patrol&#8217;s newest member, Tracker, helps find an ancient crown.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x15/",
+          "Name": "Paw Patrol 3x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/x0UkEq76G1YpIOIRLC2eJJCnjgH.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/x0UkEq76G1YpIOIRLC2eJJCnjgH.jpg",
+              "Name": "Paw Patrol 3&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": "The boy from &#8220;Pups Save Daring Danny X&#8221; returns and tries to outperform Everest at snowboarding. Chase and Rocky are left in charge of guarding Mayor Goodway&#8217;s tulips.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x16/",
+          "Name": "Paw Patrol 3x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/havF0rhTHjQYhAgY31bRYKrAb6m.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/havF0rhTHjQYhAgY31bRYKrAb6m.jpg",
+              "Name": "Paw Patrol 3&#215;17"
+            }
+          ],
+          "Links": [],
+          "Intro": "The pups compete against a team of monkeys as part of a charity kickball game.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x17/",
+          "Name": "Paw Patrol 3x17"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oO4XgwS1nlQaXyWSSUUX0Ac0NRU.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oO4XgwS1nlQaXyWSSUUX0Ac0NRU.jpg",
+              "Name": "Paw Patrol 3&#215;18"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/v5gkaeOgCwidm44OCFvy2qMhfwG.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/v5gkaeOgCwidm44OCFvy2qMhfwG.jpg",
+              "Name": "Paw Patrol 3&#215;18"
+            }
+          ],
+          "Links": [],
+          "Intro": "The pups take care of an ant infestation on the day of Adventure Bay&#8217;s jam festival. Zuma tracks down a pig on a windsurfing board.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x18/",
+          "Name": "Paw Patrol 3x18"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/yueR5ImV5VwwUT7LdNHXsICnVK.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/yueR5ImV5VwwUT7LdNHXsICnVK.jpg",
+              "Name": "Paw Patrol 3&#215;19"
+            }
+          ],
+          "Links": [],
+          "Intro": "The pups must stop overgrown tomatoes from rolling around Adventure Bay. Marshall is beamed into the sky by space aliens.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x19/",
+          "Name": "Paw Patrol 3x19"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/uqiCElSSCT81m4VfvlPx7SQRDuP.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/uqiCElSSCT81m4VfvlPx7SQRDuP.jpg",
+              "Name": "Paw Patrol 3&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": "The pups search for gold using Rocky&#8217;s makeshift sifting tools. The pups take a break from washing the PAW Patroller. When they return, the PAW Patroller is missing.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x2/",
+          "Name": "Paw Patrol 3x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zFSsjir1TqNPNmezX4b977JNoUw.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zFSsjir1TqNPNmezX4b977JNoUw.jpg",
+              "Name": "Paw Patrol 3&#215;20"
+            }
+          ],
+          "Links": [],
+          "Intro": "The pups&#8217; hunt for berries is cut short when Everest is sprayed by a skunk. During a whale watching trip, Cap&#8217;n Turbot finds a baby whale trapped under an ice sheet.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x20/",
+          "Name": "Paw Patrol 3x20"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/m0M2hpMe98BlMFHXgrKJDAZNdQS.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/m0M2hpMe98BlMFHXgrKJDAZNdQS.jpg",
+              "Name": "Paw Patrol 3&#215;21"
+            }
+          ],
+          "Links": [],
+          "Intro": "Rocky loses his voice while visiting Tracker in the jungle, so a talkative parrot helps him fulfill his PAW Patrol duties. Cap&#8217;n Turbot and Francois try to catch magical mer-pups on film. When they accidentally lure a giant sea slug on top of their diving bell in the process, the mer-pups must rescue them.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x21/",
+          "Name": "Paw Patrol 3x21"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7uddKxUTKOSsi57L8xfIuurClJr.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7uddKxUTKOSsi57L8xfIuurClJr.jpg",
+              "Name": "Paw Patrol 3&#215;22"
+            }
+          ],
+          "Links": [],
+          "Intro": "Tracker helps out when the pups need to find Cap&#8217;n Turbot&#8217;s skating penguins, who have gone missing during a blizzard.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x22/",
+          "Name": "Paw Patrol 3x22"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/f65BCJ8GmpLXYBzbeU8TQvWQ60I.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/f65BCJ8GmpLXYBzbeU8TQvWQ60I.jpg",
+              "Name": "Paw Patrol 3&#215;23"
+            }
+          ],
+          "Links": [],
+          "Intro": "Cap&#8217;n Turbot and Francois break their hang glider while doing research on albino monkeys.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x23/",
+          "Name": "Paw Patrol 3x23"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rDOwjBpzNoNFI1Vo8IQZ2Xan4hR.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rDOwjBpzNoNFI1Vo8IQZ2Xan4hR.jpg",
+              "Name": "Paw Patrol 3&#215;24"
+            }
+          ],
+          "Links": [],
+          "Intro": "Tracker&#8217;s new Venus flytrap grows at an unexpected rate after being planted in an unsuitable area.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x24/",
+          "Name": "Paw Patrol 3x24"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/dPk7sMGTPMs652T6tcoANlRcchO.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/dPk7sMGTPMs652T6tcoANlRcchO.jpg",
+              "Name": "Paw Patrol 3&#215;25"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/it9eqYrZQZH1FTnGltOHANtBgS7.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/it9eqYrZQZH1FTnGltOHANtBgS7.jpg",
+              "Name": "Paw Patrol 3&#215;25"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/yBvjqATWEsLRivzKIOquG7kTQGt.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/yBvjqATWEsLRivzKIOquG7kTQGt.jpg",
+              "Name": "Paw Patrol 3&#215;25"
+            }
+          ],
+          "Links": [],
+          "Intro": "The PAW Patrol must find a way to save their waterlogged 18-wheeler after it sinks to the bottom of Adventure Bay.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x25/",
+          "Name": "Paw Patrol 3x25"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/dSlVOLOvfeaQwJ3cj0GvW87SNmx.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/dSlVOLOvfeaQwJ3cj0GvW87SNmx.jpg",
+              "Name": "Paw Patrol 3&#215;26"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/6cWwtzblHa2Khdu6wLNDk0NVVkd.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/6cWwtzblHa2Khdu6wLNDk0NVVkd.jpg",
+              "Name": "Paw Patrol 3&#215;26"
+            }
+          ],
+          "Links": [],
+          "Intro": "A &#8220;floating ray&#8221; from outer space causes the people of Adventure Bay to float in mid-air.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x26/",
+          "Name": "Paw Patrol 3x26"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/7TTNzrbeNqZIR9r3dSJtWOiWAAz.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/7TTNzrbeNqZIR9r3dSJtWOiWAAz.jpg",
+              "Name": "Paw Patrol 3&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": "The pups discover that their opponents in a soccer match are cheating. Marshall wins a supposedly lucky collar, leading him to take unnecessary risks while helping Cap&#8217;n Turbot save an owl.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x3/",
+          "Name": "Paw Patrol 3x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/x0DkvKCw4bk74qahoJF8CxTZgWX.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/x0DkvKCw4bk74qahoJF8CxTZgWX.jpg",
+              "Name": "Paw Patrol 3&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": "The pups prepare for Adventure Bay&#8217;s Tree Dedication Ceremony and end up receiving help from Alex Porter&#8217;s newly-formed &#8220;mini-patrol.&#8221; The pups&#8217; boat ride with Cap&#8217;n Turbot is postponed when they must track down a lost tooth.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x4/",
+          "Name": "Paw Patrol 3x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oGhQ3MO5FYKv3C3IW1vlQ9OJFF5.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oGhQ3MO5FYKv3C3IW1vlQ9OJFF5.jpg",
+              "Name": "Paw Patrol 3&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": "Cap&#8217;n Turbot and Francois go on a monkey communication expedition, but are put in danger when the volcano on the island erupts. The PAW Patrol uses their new Air Patroller to rescue the two, along with a family of monkeys.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x5/",
+          "Name": "Paw Patrol 3x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nL9hoOkbPRyxfz7OCPjWdEUb8uI.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nL9hoOkbPRyxfz7OCPjWdEUb8uI.jpg",
+              "Name": "Paw Patrol 3&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x6/",
+          "Name": "Paw Patrol 3x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/m3wZr04MVcmwh5DXoG7MiMpp9Dn.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/m3wZr04MVcmwh5DXoG7MiMpp9Dn.jpg",
+              "Name": "Paw Patrol 3&#215;7"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/shTSCOCVNfGqvL2kYjfpgpEFwye.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/shTSCOCVNfGqvL2kYjfpgpEFwye.jpg",
+              "Name": "Paw Patrol 3&#215;7"
+            }
+          ],
+          "Links": [],
+          "Intro": "Rubble dreams about saving his idol, Apollo the Super-Pup, from an evil Spider King.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x7/",
+          "Name": "Paw Patrol 3x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/d9JjuM1yMdNx0dEfTF7hWM6O1mv.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/d9JjuM1yMdNx0dEfTF7hWM6O1mv.jpg",
+              "Name": "Paw Patrol 3&#215;8"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ryder uses the Air Patroller to save a wannabe daredevil. Cap&#8217;n Turbot&#8217;s boat, the Flounder, is tuned up by Ryder&#8217;s robotic pup.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x8/",
+          "Name": "Paw Patrol 3x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fECDRPpP7WaJM6t413Uu5MHDOto.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fECDRPpP7WaJM6t413Uu5MHDOto.jpg",
+              "Name": "Paw Patrol 3&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": "The PAW Patrol performs a play in which Katie is a princess in a tower.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-3x9/",
+          "Name": "Paw Patrol 3x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 3 Nov. 20, 2015"
+    },
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x19/",
+          "Name": "Error\n520\nRay ID: 492bccdaa91a341b &bull; 2019-01-02 08:19:46 UTC"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x7/",
+          "Name": "Error\n520\nRay ID: 492bccdafdfc3427 &bull; 2019-01-02 08:19:46 UTC"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x2/",
+          "Name": "Error\n520\nRay ID: 492bccdb0c87882d &bull; 2019-01-02 08:19:46 UTC"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x17/",
+          "Name": "Error\n520\nRay ID: 492bccdd49593421 &bull; 2019-01-02 08:19:46 UTC"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x23/",
+          "Name": "Error\n520\nRay ID: 492bcce12d6433e5 &bull; 2019-01-02 08:19:46 UTC"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x8/",
+          "Name": "Error\n520\nRay ID: 492bccea58b933eb &bull; 2019-01-02 08:19:46 UTC"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x18/",
+          "Name": "Error\n520\nRay ID: 492bccebcdea8839 &bull; 2019-01-02 08:19:46 UTC"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x24/",
+          "Name": "Error\n520\nRay ID: 492bccedb86b33a9 &bull; 2019-01-02 08:19:46 UTC"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/3kl6HtOvhdqzzIFtoJYpGz7lC4k.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/3kl6HtOvhdqzzIFtoJYpGz7lC4k.jpg",
+              "Name": "Paw Patrol 4&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/y2W5sjCQ8q2U4nQQw4AV7dlgP73.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/y2W5sjCQ8q2U4nQQw4AV7dlgP73.jpg",
+              "Name": "Paw Patrol 4&#215;1"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/j2slhJF9asKVe0gQm2ued0GxyaA.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/j2slhJF9asKVe0gQm2ued0GxyaA.jpg",
+              "Name": "Paw Patrol 4&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": "Capn&#8217; Turbot&#8217;s weather blimp is taken by Mayor Humdinger, who plans to use it to change the weather in Foggy Bottom.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x1/",
+          "Name": "Paw Patrol 4x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/yZSCEbjgCCjKtOX98njg3jn6bp2.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/yZSCEbjgCCjKtOX98njg3jn6bp2.jpg",
+              "Name": "Paw Patrol 4&#215;10"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x10/",
+          "Name": "Paw Patrol 4x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/nX94IxzSZlGYHuLkPM6DSGeh1ng.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/nX94IxzSZlGYHuLkPM6DSGeh1ng.jpg",
+              "Name": "Paw Patrol 4&#215;11"
+            }
+          ],
+          "Links": [],
+          "Intro": "Cap&#8217;n Turbot&#8217;s boat, the Flounder, is sunk by a large pink octopus.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x11/",
+          "Name": "Paw Patrol 4x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1Ox49Zf95Zh5AHDVFU87eYUvQmR.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1Ox49Zf95Zh5AHDVFU87eYUvQmR.jpg",
+              "Name": "Paw Patrol 4&#215;12"
+            }
+          ],
+          "Links": [],
+          "Intro": "A giant monkey follows the PAW Patrol home after a trip to the jungle.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x12/",
+          "Name": "Paw Patrol 4x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zY3dp5hSDn3hPS4S3NFFpelE45C.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zY3dp5hSDn3hPS4S3NFFpelE45C.jpg",
+              "Name": "Paw Patrol 4&#215;13"
+            }
+          ],
+          "Links": [],
+          "Intro": "Rubble prepares to be a disc jockey at an Adventure Bay dance party.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x13/",
+          "Name": "Paw Patrol 4x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/aGsc4K24sbfSfHbTtji3hj1InAg.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/aGsc4K24sbfSfHbTtji3hj1InAg.jpg",
+              "Name": "Paw Patrol 4&#215;14"
+            }
+          ],
+          "Links": [],
+          "Intro": "The Kit-trastrophe crew gets into the poufy shampoo, and they are blown away.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x14/",
+          "Name": "Paw Patrol 4x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/rYUYlvim2BB8URMEtan8n2JsizM.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/rYUYlvim2BB8URMEtan8n2JsizM.jpg",
+              "Name": "Paw Patrol 4&#215;15"
+            }
+          ],
+          "Links": [],
+          "Intro": "Pups Chill Out",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x15/",
+          "Name": "Paw Patrol 4x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/fP8TrLz2nNfR6U9k9cRdYbXKYaq.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/fP8TrLz2nNfR6U9k9cRdYbXKYaq.jpg",
+              "Name": "Paw Patrol 4&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": "Sea Patrol: Pups Save a Shark:",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x16/",
+          "Name": "Paw Patrol 4x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/2t5AQqZ6fgHBRrHVC2LR9C8wkWl.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/2t5AQqZ6fgHBRrHVC2LR9C8wkWl.jpg",
+              "Name": "Paw Patrol 4&#215;20"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/t3XEVM0SVy4ksoSAyLeOnXNHbaE.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/t3XEVM0SVy4ksoSAyLeOnXNHbaE.jpg",
+              "Name": "Paw Patrol 4&#215;20"
+            }
+          ],
+          "Links": [],
+          "Intro": "Pups Save the Mail",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x20/",
+          "Name": "Paw Patrol 4x20"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/vFAZn2zgClAISeA96ZzzE2hTVdc.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/vFAZn2zgClAISeA96ZzzE2hTVdc.jpg",
+              "Name": "Paw Patrol 4&#215;21"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8sVcYx7bOHsSXg3Unie88GNOZD4.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8sVcYx7bOHsSXg3Unie88GNOZD4.jpg",
+              "Name": "Paw Patrol 4&#215;21"
+            }
+          ],
+          "Links": [],
+          "Intro": "Pups Save the Runaway Turtles",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x21/",
+          "Name": "Paw Patrol 4x21"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9YvjBxPf1oSHYN0qqRQR6fhJYG.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9YvjBxPf1oSHYN0qqRQR6fhJYG.jpg",
+              "Name": "Paw Patrol 4&#215;22"
+            },
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/579wlDtevWZHeCUtWEo1yiBtGXf.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/579wlDtevWZHeCUtWEo1yiBtGXf.jpg",
+              "Name": "Paw Patrol 4&#215;22"
+            }
+          ],
+          "Links": [],
+          "Intro": "Sea Patrol: Pups Save a Frozen Flounder",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x22/",
+          "Name": "Paw Patrol 4x22"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/89ay8ymTCHUYSmvmoFzbuMNoNxY.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/89ay8ymTCHUYSmvmoFzbuMNoNxY.jpg",
+              "Name": "Paw Patrol 4&#215;25"
+            }
+          ],
+          "Links": [],
+          "Intro": "During a trip to Adventure Bay, Tracker takes a nap and dreams that Mayor Humdinger has become a baby.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x25/",
+          "Name": "Paw Patrol 4x25"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/oGYWaziemHi6yK2QJc1U4jrXsIl.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/oGYWaziemHi6yK2QJc1U4jrXsIl.jpg",
+              "Name": "Paw Patrol 4&#215;26"
+            }
+          ],
+          "Links": [],
+          "Intro": "Cap&#8217;n Turbot, Ryder, and the pups visit the merpups&#8217; undersea kingdom.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x26/",
+          "Name": "Paw Patrol 4x26"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/9vn2j7IQ1nIONE4auY9gc6KzgUe.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/9vn2j7IQ1nIONE4auY9gc6KzgUe.jpg",
+              "Name": "Paw Patrol 4&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": "After reading a fantasy book, Rubble dreams that the dragon from the story comes to life.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x3/",
+          "Name": "Paw Patrol 4x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/b8W4iS9ZM0py22nJa8DaxkwMadr.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/b8W4iS9ZM0py22nJa8DaxkwMadr.jpg",
+              "Name": "Paw Patrol 4&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": "Ryder launches a rescue mission after Chase is locked in a dungeon.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x4/",
+          "Name": "Paw Patrol 4x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/8iSfXMThCN3Ympzh8LhSmbIC99S.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/8iSfXMThCN3Ympzh8LhSmbIC99S.jpg",
+              "Name": "Paw Patrol 4&#215;5"
+            }
+          ],
+          "Links": [],
+          "Intro": "Farmer Al&#8217;s animals go missing during a sleepover.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x5/",
+          "Name": "Paw Patrol 4x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/s05KZcJz03n693avaXNb3u96mRt.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/s05KZcJz03n693avaXNb3u96mRt.jpg",
+              "Name": "Paw Patrol 4&#215;6"
+            }
+          ],
+          "Links": [],
+          "Intro": "The PAW Patrol must bring an enormous ice cream cake to the top of a mountain.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x6/",
+          "Name": "Paw Patrol 4x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/lEaQEC1pQJohOb7Db2gR7Ivt6eQ.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/lEaQEC1pQJohOb7Db2gR7Ivt6eQ.jpg",
+              "Name": "Paw Patrol 4&#215;9"
+            }
+          ],
+          "Links": [],
+          "Intro": "The pups must come to the rescue when Sweetie plans to steal the royal throne so that she can rule.",
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-4x9/",
+          "Name": "Paw Patrol 4x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 4 Feb. 06, 2017"
+    },
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/dqZsLKqEvXBhGY3kNcamUx4QecT.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/dqZsLKqEvXBhGY3kNcamUx4QecT.jpg",
+              "Name": "Paw Patrol 5&#215;1"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-5x1/",
+          "Name": "Paw Patrol 5x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/giQlhZcdMV0g9THeST4Nepj5rkM.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/giQlhZcdMV0g9THeST4Nepj5rkM.jpg",
+              "Name": "Paw Patrol 5&#215;2"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-5x2/",
+          "Name": "Paw Patrol 5x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/zgqlbj80urWYaJm4gzL3KSUUScW.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/zgqlbj80urWYaJm4gzL3KSUUScW.jpg",
+              "Name": "Paw Patrol 5&#215;3"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-5x3/",
+          "Name": "Paw Patrol 5x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/1fs7F4Pe9XHk6767hWmjWe7pQCm.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/1fs7F4Pe9XHk6767hWmjWe7pQCm.jpg",
+              "Name": "Paw Patrol 5&#215;4"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/paw-patrol-5x4/",
+          "Name": "Paw Patrol 5x4"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 5 Feb. 06, 2018"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/paw-patrol/",
+  "Name": "Paw Patrol"
+}

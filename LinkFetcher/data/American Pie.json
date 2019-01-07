@@ -1,0 +1,52 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jlU4FvYxUXaxyYM0worlD7wHdQj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jlU4FvYxUXaxyYM0worlD7wHdQj.jpg",
+      "Name": "American Pie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/udTWgfwAzUxdztoyKSReoSrjBU7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/udTWgfwAzUxdztoyKSReoSrjBU7.jpg",
+      "Name": "American Pie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cvH1gNIMRITdLzoWv1HNAbRyH3n.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cvH1gNIMRITdLzoWv1HNAbRyH3n.jpg",
+      "Name": "American Pie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bI35dcjfTIdnv6miuBAMFukTkbK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bI35dcjfTIdnv6miuBAMFukTkbK.jpg",
+      "Name": "American Pie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2J3CzpvEz3PPv7Y7M3TNXwFshe2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2J3CzpvEz3PPv7Y7M3TNXwFshe2.jpg",
+      "Name": "American Pie"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3xNjl3m6Sc0qKI0huGCbXYBK6p1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3xNjl3m6Sc0qKI0huGCbXYBK6p1.jpg",
+      "Name": "American Pie"
+    }
+  ],
+  "Links": [],
+  "Intro": "At a high-school party, four friends find that losing their collective virginity isn&#8217;t as easy as they had thought. But they still believe that they need to do so before college. To motivate themselves, they enter a pact to all &#8220;score.&#8221; by their senior prom.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/k40WFAXMRekWEqsjURO3jiWob67-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Sithad108Og?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/american-pie/",
+  "Name": "American Pie"
+}

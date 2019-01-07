@@ -1,0 +1,52 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/m4mpRKR26Huy7xuHsdTG4U6gpJk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/m4mpRKR26Huy7xuHsdTG4U6gpJk.jpg",
+      "Name": "Havoc"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pT5HejJA0ePpnaTPDRXDARvpwhO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pT5HejJA0ePpnaTPDRXDARvpwhO.jpg",
+      "Name": "Havoc"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2MEaw4ohtIRNMZ7SXEwqL90SRQe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2MEaw4ohtIRNMZ7SXEwqL90SRQe.jpg",
+      "Name": "Havoc"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fzpxWNuedqAJHEnh8tgkyjgCBTE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fzpxWNuedqAJHEnh8tgkyjgCBTE.jpg",
+      "Name": "Havoc"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ROV4d1bsdpOebuqBJ9geq1acsk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ROV4d1bsdpOebuqBJ9geq1acsk.jpg",
+      "Name": "Havoc"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oX3wQ8U5TkXbcZXdB8ghxyzwmBU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oX3wQ8U5TkXbcZXdB8ghxyzwmBU.jpg",
+      "Name": "Havoc"
+    }
+  ],
+  "Links": [],
+  "Intro": "A wealthy Los Angeles teen and her superficial friends wants to break out of suburbia and experience Southern California&#8217;s &#8220;gangsta&#8221; lifestyle. But problems arise when the preppies get in over their heads and provoke the wrath of a violent Latino gang. Suddenly, their role-playing seems a little too real.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/zHdmFpNjNxN3Ll6KQKrSt9WOwPp-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/pVy-sO3KHH0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/havoc/",
+  "Name": "Havoc"
+}

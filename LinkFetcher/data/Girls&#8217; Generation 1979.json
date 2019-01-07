@@ -1,0 +1,196 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gLjnyqW8Sgs5rDYfBiQCps8dsMb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gLjnyqW8Sgs5rDYfBiQCps8dsMb.jpg",
+      "Name": "Girls&#8217; Generation 1979"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/j6FrNLzhc54VZrNUu95F4sqSnec.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/j6FrNLzhc54VZrNUu95F4sqSnec.jpg",
+      "Name": "Girls&#8217; Generation 1979"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/girls-generation-1979-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/girls-generation-1979-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/girls-generation-1979-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/girls-generation-1979-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/girls-generation-1979-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/girls-generation-1979-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/girls-generation-1979-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/girls-generation-1979-1x8/",
+      "Name": "Episode 8"
+    }
+  ],
+  "Intro": "Story is set in Daegu, South Korea during the 1970&#8217;s. Lee Jung-Hee is in the 2nd grade of high school. She has a bright personality and is the second daughter of a family who runs a toy factory. She and her friends go through adolescence.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/AnzdJ591Vxqq9jik62edqFW0KQf-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/girls-generation-1979-1x1/",
+          "Name": "Girls' Generation 1979 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/girls-generation-1979-1x2/",
+          "Name": "Girls' Generation 1979 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/girls-generation-1979-1x3/",
+          "Name": "Girls' Generation 1979 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/girls-generation-1979-1x4/",
+          "Name": "Girls' Generation 1979 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/girls-generation-1979-1x5/",
+          "Name": "Girls' Generation 1979 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/girls-generation-1979-1x6/",
+          "Name": "Girls' Generation 1979 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/girls-generation-1979-1x7/",
+          "Name": "Girls' Generation 1979 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/girls-generation-1979-1x8/",
+          "Name": "Girls' Generation 1979 1x8"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Sep. 11, 2017"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/girls-generation-1979/",
+  "Name": "Girls&#8217; Generation 1979"
+}

@@ -1,21 +1,63 @@
 {
   "Id": "movEB4ED6460790",
-  "Url": "https://fsharephim.com/movies/starship-troopers-traitor-mars/",
-  "Name": "Chiến binh vũ trụ: Kẻ phản bội Sao Hỏa",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/u3hiCBwJ2yGCiJb3kOoqXThTQ7Z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/u3hiCBwJ2yGCiJb3kOoqXThTQ7Z.jpg",
+      "Name": "Chiến binh vũ trụ: Kẻ phản bội Sao Hỏa - Starship Troopers: Traitor of Mars"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/27nKWPZFGcCDWYJkCwrJOzjD26q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/27nKWPZFGcCDWYJkCwrJOzjD26q.jpg",
+      "Name": "Chiến binh vũ trụ: Kẻ phản bội Sao Hỏa - Starship Troopers: Traitor of Mars"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nqyORVM3MzHvhWax4QqV4HkZUQh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nqyORVM3MzHvhWax4QqV4HkZUQh.jpg",
+      "Name": "Chiến binh vũ trụ: Kẻ phản bội Sao Hỏa - Starship Troopers: Traitor of Mars"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iIl26f9PTOwjFthNwiODoaMekAM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iIl26f9PTOwjFthNwiODoaMekAM.jpg",
+      "Name": "Chiến binh vũ trụ: Kẻ phản bội Sao Hỏa - Starship Troopers: Traitor of Mars"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/moveb4ed6460790/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/starship-troopers-traitor-of-mars",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/starship-troopers-traitor-of-mars",
+      "Name": "Viet - Subtitle"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/moveb4ed6460790-2/",
-      "Name": "14.Starship.Troopers.Traitor.Of.Mars.2017.720p.WEB-DL.DD5.1.H264-FGT.mkv",
-      "Url": "https://www.fshare.vn/file/6UIRZESHQYCJDXD",
       "Size": "2.7 GB",
-      "FileSize": 2937398373
+      "FileSize": 2937398373,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/6UIRZESHQYCJDXD",
+      "Name": "14.Starship.Troopers.Traitor.Of.Mars.2017.720p.WEB-DL.DD5.1.H264-FGT.mkv"
     }
-  ]
+  ],
+  "Intro": "Lấy mốc thời gian 20 năm sau bản phim điện ảnh năm 1997, Starship Trooper trở lại với cuộc xâm lăng của loài bọ xuống khu dân cư Liên Bang trên sao Hỏa. Tuy nhiên dường như có kẻ đã biết trước về cuộc xâm lăng này. Kẻ phản bội đó là ai, và anh lính bất đắc dĩ Johnny Rico sẽ chống cự lại thế nào?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/08/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/8R0yLRoevnA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/starship-troopers-traitor-mars/",
+  "Name": "Chiến binh vũ trụ: Kẻ phản bội Sao Hỏa"
 }

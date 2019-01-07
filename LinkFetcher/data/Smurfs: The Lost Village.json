@@ -1,35 +1,93 @@
 {
   "Id": "movrLmR9H137116",
-  "Url": "https://fsharephim.com/movies/smurfs-the-lost-village/",
-  "Name": "Smurfs: The Lost Village",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AeMtzbw7shxtLvwKKqeITabpTrD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AeMtzbw7shxtLvwKKqeITabpTrD.jpg",
+      "Name": "Smurfs: The Lost Village"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ckIXqob18cK0pBkaX4nq0PnZtLp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ckIXqob18cK0pBkaX4nq0PnZtLp.jpg",
+      "Name": "Smurfs: The Lost Village"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f4zWozHGQPPag6iOwVGZteOkbX3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f4zWozHGQPPag6iOwVGZteOkbX3.jpg",
+      "Name": "Smurfs: The Lost Village"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sm2u5oDjVXsCAQ6BP7PIZDVIcGj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sm2u5oDjVXsCAQ6BP7PIZDVIcGj.jpg",
+      "Name": "Smurfs: The Lost Village"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o5dcMpInYypyF0Lz0TuJkaPKORI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o5dcMpInYypyF0Lz0TuJkaPKORI.jpg",
+      "Name": "Smurfs: The Lost Village"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sN1sIv6YZTpdBr7D9mQBxGzRnLL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sN1sIv6YZTpdBr7D9mQBxGzRnLL.jpg",
+      "Name": "Smurfs: The Lost Village"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movrlmr9h137116-4/",
-      "Name": "Smurfs.The.Lost.Village.2017.720p.BluRay.x264-DRONES_encoded.mp4",
-      "Url": "https://www.fshare.vn/file/47GDAXM38L4G",
       "Size": "1.5 GB",
-      "FileSize": 1570493140
+      "FileSize": 1570493140,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/47GDAXM38L4G",
+      "Name": "Smurfs.The.Lost.Village.2017.720p.BluRay.x264-DRONES_encoded.mp4"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movrlmr9h137116-3/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/smurfs-the-lost-village",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/smurfs-the-lost-village",
+      "Name": "Subtitle"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movrlmr9h137116-2/",
-      "Name": "1080p",
-      "Url": "http://www.fshare.vn/file/ASVS4SFFKDUU",
       "Size": "4.4 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/ASVS4SFFKDUU",
+      "Name": "1080p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movrlmr9h137116/",
-      "Name": "720p",
-      "Url": "http://www.fshare.vn/file/STGK5R53P2W5",
       "Size": "2.6 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/STGK5R53P2W5",
+      "Name": "720p"
     }
-  ]
+  ],
+  "Intro": "In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/06/diYAZ6CKUuRAqLYMB2AyVutEFm0-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/8LdpyRBE0aA?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/smurfs-the-lost-village/",
+  "Name": "Smurfs: The Lost Village"
 }

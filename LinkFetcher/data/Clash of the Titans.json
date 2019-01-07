@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ipA9SO13E6ha5nL2qSb8RPc38rq.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ipA9SO13E6ha5nL2qSb8RPc38rq.jpg",
+      "Name": "Clash of the Titans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uTJKC24q0KhDtLlC3OSacN1tNbm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uTJKC24q0KhDtLlC3OSacN1tNbm.jpg",
+      "Name": "Clash of the Titans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3JqzKlIljZ8p7tt5YEDWBgEU4Jl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3JqzKlIljZ8p7tt5YEDWBgEU4Jl.jpg",
+      "Name": "Clash of the Titans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/szl4xPiHnEp4FmMbvwZn2YelJ1c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/szl4xPiHnEp4FmMbvwZn2YelJ1c.jpg",
+      "Name": "Clash of the Titans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kd1OU8VJO8W0PRdQ7jRrfUXPGZz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kd1OU8VJO8W0PRdQ7jRrfUXPGZz.jpg",
+      "Name": "Clash of the Titans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/j9LmCJSt29KKtv5M5DBMctPtFAJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/j9LmCJSt29KKtv5M5DBMctPtFAJ.jpg",
+      "Name": "Clash of the Titans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9bPFAMw0G9wPoqjC0SFmDK1QGTn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9bPFAMw0G9wPoqjC0SFmDK1QGTn.jpg",
+      "Name": "Clash of the Titans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yAoe4EnEETV7CfxX582jJphiRLy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yAoe4EnEETV7CfxX582jJphiRLy.jpg",
+      "Name": "Clash of the Titans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5xh0qSAIBnE4RlntpjlVUAWKObn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5xh0qSAIBnE4RlntpjlVUAWKObn.jpg",
+      "Name": "Clash of the Titans"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8GJ9xHjWWYsV4e4TWitFqsy4FVo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8GJ9xHjWWYsV4e4TWitFqsy4FVo.jpg",
+      "Name": "Clash of the Titans"
+    }
+  ],
+  "Links": [],
+  "Intro": "To win the right to marry his love, the beautiful princess Andromeda, and fulfil his destiny, Perseus must complete various tasks including taming Pegasus, capturing Medusa&#8217;s head, and battling the Kraken monster.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/75OBW467vx8ceJMSRK4NhOXk5Rc-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Bdd5OcLOGtQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/clash-of-the-titans/",
+  "Name": "Clash of the Titans"
+}

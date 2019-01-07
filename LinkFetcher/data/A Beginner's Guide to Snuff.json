@@ -1,0 +1,48 @@
+{
+  "Id": "movLvQghF386826",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o9Ka7ef7aM8FH6jM2uqtqQc6XYo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o9Ka7ef7aM8FH6jM2uqtqQc6XYo.jpg",
+      "Name": "A Beginner&#8217;s Guide to Snuff"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movlvqghf386826/",
+      "Size": "4.37 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/QZJGD9U9F54W",
+      "Name": "720p"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movlvqghf386826-2/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/a-beginners-guide-to-snuff",
+      "Name": "Subtitle"
+    }
+  ],
+  "Intro": "Two brothers, desperate to break into the world of television and film, decide to enter a horror movie contest. And what could be more horrifying than the elusive snuff film?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/kv0i6XqUULBcgCHwXedZZulOPyv-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/_BC66vQR-ls?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/a-beginners-guide-to-snuff/",
+  "Name": "A Beginner's Guide to Snuff"
+}

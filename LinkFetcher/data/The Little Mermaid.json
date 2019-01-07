@@ -1,21 +1,89 @@
 {
   "Id": "movWW6Mp910144",
-  "Url": "https://fsharephim.com/movies/the-little-mermaid/",
-  "Name": "The Little Mermaid",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gJBGcnhGhxoOpcqK29kZNq3UR6i.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gJBGcnhGhxoOpcqK29kZNq3UR6i.jpg",
+      "Name": "The Little Mermaid"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6yejoFyuqonTRp9z2VTPEAKKWRp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6yejoFyuqonTRp9z2VTPEAKKWRp.jpg",
+      "Name": "The Little Mermaid"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kIYnPCnaRk5pzWaK8a4SBFYyfU0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kIYnPCnaRk5pzWaK8a4SBFYyfU0.jpg",
+      "Name": "The Little Mermaid"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/thq82A1HZE3gCHtET87AxmVb38y.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/thq82A1HZE3gCHtET87AxmVb38y.jpg",
+      "Name": "The Little Mermaid"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yDmyqO3xHTVxtyM0CuqobSX3Hjr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yDmyqO3xHTVxtyM0CuqobSX3Hjr.jpg",
+      "Name": "The Little Mermaid"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8wl2XTd0EGw5HFGzXpjpxkAbKr6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8wl2XTd0EGw5HFGzXpjpxkAbKr6.jpg",
+      "Name": "The Little Mermaid"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hy6nA2tms4d5L4VX1lc3gEdLdh4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hy6nA2tms4d5L4VX1lc3gEdLdh4.jpg",
+      "Name": "The Little Mermaid"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h62PZCsfuiCD3JvkXmGqrUpnHJL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h62PZCsfuiCD3JvkXmGqrUpnHJL.jpg",
+      "Name": "The Little Mermaid"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/h0ZsCtft2c8ZT5XDm6Fr0Ut380W.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/h0ZsCtft2c8ZT5XDm6Fr0Ut380W.jpg",
+      "Name": "The Little Mermaid"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lfmIHKf3WnyFoRA8BWREWZ8Pixb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lfmIHKf3WnyFoRA8BWREWZ8Pixb.jpg",
+      "Name": "The Little Mermaid"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movww6mp910144/",
-      "Name": "The.Little.Mermaid.1989.720p.HDTV.DD5.1.x264-DON (Thuyet minh - HDVNBITS.ORG).mkv",
-      "Url": "https://www.fshare.vn/file/TVQ6Z003CT",
       "Size": "2.61 GB",
-      "FileSize": 2800350193
+      "FileSize": 2800350193,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/TVQ6Z003CT",
+      "Name": "The.Little.Mermaid.1989.720p.HDTV.DD5.1.x264-DON (Thuyet minh - HDVNBITS.ORG).mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movww6mp910144-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/the-little-mermaid",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/the-little-mermaid",
+      "Name": "Subtitle"
     }
-  ]
+  ],
+  "Intro": "This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters &#8212; including the villainous sea witch Ursula.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/ujlSe3lhp1OKmF2LNu6wRpWbdiU-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/fUTpYsXKJHI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-little-mermaid/",
+  "Name": "The Little Mermaid"
 }

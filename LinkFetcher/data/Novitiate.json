@@ -1,0 +1,33 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nKUM7nl7Ux00tVyfZZaMJ8iS4XH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nKUM7nl7Ux00tVyfZZaMJ8iS4XH.jpg",
+      "Name": "Novitiate"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AfrReKk1WVWAuDRHeMWX3m6TVZ0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AfrReKk1WVWAuDRHeMWX3m6TVZ0.jpg",
+      "Name": "Novitiate"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aRWWWvhllmWXOtoM2g9tAChelJv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aRWWWvhllmWXOtoM2g9tAChelJv.jpg",
+      "Name": "Novitiate"
+    }
+  ],
+  "Links": [],
+  "Intro": "In the early 1960s, during the Vatican II era, a young woman training to become a nun struggles with issues of faith, sexuality and the changing church.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/eZ9BbRy4YGFM1yvx6ZDO7qzILJ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/8kKexutLfE0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/novitiate/",
+  "Name": "Novitiate"
+}

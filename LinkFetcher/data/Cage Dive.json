@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eUGNCnMw78aLFfaAa0oHqyTnNuW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eUGNCnMw78aLFfaAa0oHqyTnNuW.jpg",
+      "Name": "Cage Dive"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/35i09akHKZFYgPa4I6lgtOoPXnU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/35i09akHKZFYgPa4I6lgtOoPXnU.jpg",
+      "Name": "Cage Dive"
+    }
+  ],
+  "Links": [],
+  "Intro": "Three friends from California are filming an audition tape for an extreme reality game show. They document their journey to Australia where they will be doing their most dangerous activity&#8230;. Shark Cage Diving. A catastrophic turn of events leaves them in baited water full of Great White Sharks, turning their recording into a blood chilling diary of survival&#8230; and death.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/3uUO9eDxHeDREIX77BaQiI88ajp-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ECRSsskS1gM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/cage-dive/",
+  "Name": "Cage Dive"
+}

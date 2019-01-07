@@ -1,0 +1,36 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/me5utxTz6hlEgAeQisexKHP27ZU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/me5utxTz6hlEgAeQisexKHP27ZU.jpg",
+      "Name": "The Bride"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xX9jsWC1qkKVMEEjYJsCy3XEQz0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xX9jsWC1qkKVMEEjYJsCy3XEQz0.jpg",
+      "Name": "The Bride"
+    }
+  ],
+  "Links": [],
+  "Intro": "This is a story of a small town girl named Nastya. Her newly married husband Ivan drives her to his hometown to meet his family. Upon their arrival Nastya feels she made a wrong decision: she is surrounded by weird people and she sees creepy photos all around the house. Ivan disappears while his family prepares Nastya for a mysterious traditional Russian wedding ceremony. She struggles to calm herself down hoping all this will end and they will live happily ever after. Only if she stays alive&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/wNZndH4YxYMQFBR9fAd90rGWciH-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/m9SO72sNo1s?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-bride/",
+  "Name": "The Bride"
+}

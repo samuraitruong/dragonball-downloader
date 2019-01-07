@@ -1,21 +1,88 @@
 {
-  "Id": "movJulhDa340357",
-  "Url": "https://fsharephim.com/movies/april-and-the-extraordinary-world/",
-  "Name": "April Và Thế Giới Lạ Thường",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movjulhda340357/",
-      "Name": "April.and.the.Extraordinary.World.2015.mHD.BluRay.DD5.1.x264-TRiM(1).mkv",
-      "Url": "https://www.fshare.vn/file/NYJINH9HGGPW7YX",
-      "Size": "2.39 GB",
-      "FileSize": 2571496029
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movjulhda340357-2/",
-      "Name": "April.and.the.Extraordinary.World.2015.LIMITED.720p.BluRay.x264-GECKOS[EtHD](1).mkv",
-      "Url": "https://www.fshare.vn/file/8GBV8886VK15D5B",
-      "Size": "4.37 GB",
-      "FileSize": 4693885229
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2X1UYATVrQw8oMrJZ1mtHCCcSQY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2X1UYATVrQw8oMrJZ1mtHCCcSQY.jpg",
+      "Name": "April Và Thế Giới Lạ Thường - April and the Extraordinary World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6U2DEYCLdepVJ5NRoHjkvYUw0uh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6U2DEYCLdepVJ5NRoHjkvYUw0uh.jpg",
+      "Name": "April Và Thế Giới Lạ Thường - April and the Extraordinary World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tbSjOXDGc3fBKQ83SmLyVsLfoj3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tbSjOXDGc3fBKQ83SmLyVsLfoj3.jpg",
+      "Name": "April Và Thế Giới Lạ Thường - April and the Extraordinary World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3G3cyl8H0UAqikeqxYFmdz6LnNW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3G3cyl8H0UAqikeqxYFmdz6LnNW.jpg",
+      "Name": "April Và Thế Giới Lạ Thường - April and the Extraordinary World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dcip8BA53fOzLKwaUWGqUYzXeog.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dcip8BA53fOzLKwaUWGqUYzXeog.jpg",
+      "Name": "April Và Thế Giới Lạ Thường - April and the Extraordinary World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lPKqaQbROA1Kn2Uxv7Pg3OmVWXK.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lPKqaQbROA1Kn2Uxv7Pg3OmVWXK.jpg",
+      "Name": "April Và Thế Giới Lạ Thường - April and the Extraordinary World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2292ithSuf6pMhqSbRu05jI0VdZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2292ithSuf6pMhqSbRu05jI0VdZ.jpg",
+      "Name": "April Và Thế Giới Lạ Thường - April and the Extraordinary World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vr57tFw97mkSCtGLKGOKPqq87p1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vr57tFw97mkSCtGLKGOKPqq87p1.jpg",
+      "Name": "April Và Thế Giới Lạ Thường - April and the Extraordinary World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zj7GeQZMVh28ZZFQiM5q3gV7kWH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zj7GeQZMVh28ZZFQiM5q3gV7kWH.jpg",
+      "Name": "April Và Thế Giới Lạ Thường - April and the Extraordinary World"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9l6eOYMgQRHJwg8TaC49J8WRXHp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9l6eOYMgQRHJwg8TaC49J8WRXHp.jpg",
+      "Name": "April Và Thế Giới Lạ Thường - April and the Extraordinary World"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bạn thử tưởng tượng xem, một thế giới khi không có các nhà khoa học, nhà phát minh sẽ như thế nào?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/w5IpcxxQdJI32ivbaldzfopDHrK-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/RC-9eya8Yso?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/april-and-the-extraordinary-world/",
+  "Name": "April Và Thế Giới Lạ Thường"
 }

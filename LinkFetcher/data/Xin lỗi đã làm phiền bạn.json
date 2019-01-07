@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lHecBdFRnW2hh8Qn3wz0vrPIqw2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lHecBdFRnW2hh8Qn3wz0vrPIqw2.jpg",
+      "Name": "Xin lỗi đã làm phiền bạn - Sorry to Bother You"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lirrpGWa3P2pqSQxss2V7PzOx7v.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lirrpGWa3P2pqSQxss2V7PzOx7v.jpg",
+      "Name": "Xin lỗi đã làm phiền bạn - Sorry to Bother You"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oFyI7sXMjbT1nXihugmTORSycGL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oFyI7sXMjbT1nXihugmTORSycGL.jpg",
+      "Name": "Xin lỗi đã làm phiền bạn - Sorry to Bother You"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/x832ykgj3fx0Q0MFKEno77XM47e.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/x832ykgj3fx0Q0MFKEno77XM47e.jpg",
+      "Name": "Xin lỗi đã làm phiền bạn - Sorry to Bother You"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5w2ByAH34ESVBZdL8iTlkfTUdH9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5w2ByAH34ESVBZdL8iTlkfTUdH9.jpg",
+      "Name": "Xin lỗi đã làm phiền bạn - Sorry to Bother You"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kBkcJQm71AYWbMGwGVhc10ElEi8.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kBkcJQm71AYWbMGwGVhc10ElEi8.jpg",
+      "Name": "Xin lỗi đã làm phiền bạn - Sorry to Bother You"
+    }
+  ],
+  "Links": [],
+  "Intro": "Trong một phiên bản thay thế ngày nay của Oakland, nhà tiếp thị điện thoại đen Cassius Green phát hiện ra một chìa khóa kỳ diệu để thành công chuyên nghiệp &#8211; đẩy anh ta vào một vũ trụ rùng rợn.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/10/peTl1V04E9ppvhgvNmSX0r2ALqO-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/enH3xA4mYcY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/sorry-to-bother-you/",
+  "Name": "Xin lỗi đã làm phiền bạn"
+}

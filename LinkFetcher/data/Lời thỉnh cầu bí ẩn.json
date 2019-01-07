@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xXGNyEG2v48q0bVR4AH4Vca2yvy.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xXGNyEG2v48q0bVR4AH4Vca2yvy.jpg",
+      "Name": "Lời thỉnh cầu bí ẩn - A Simple Favor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/l3XRHXsX14cs3mAlHygaUFDFPIQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/l3XRHXsX14cs3mAlHygaUFDFPIQ.jpg",
+      "Name": "Lời thỉnh cầu bí ẩn - A Simple Favor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6tLEYXc08d9cztWgYMW2n3Q9Fr2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6tLEYXc08d9cztWgYMW2n3Q9Fr2.jpg",
+      "Name": "Lời thỉnh cầu bí ẩn - A Simple Favor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9LaKq14Php9JecHRX94ODO9L6So.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9LaKq14Php9JecHRX94ODO9L6So.jpg",
+      "Name": "Lời thỉnh cầu bí ẩn - A Simple Favor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yNxtpiAWynCmWw0utE6AsTus9hG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yNxtpiAWynCmWw0utE6AsTus9hG.jpg",
+      "Name": "Lời thỉnh cầu bí ẩn - A Simple Favor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xRHRTyGt0pceKMTn3EPyRjmHHDt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xRHRTyGt0pceKMTn3EPyRjmHHDt.jpg",
+      "Name": "Lời thỉnh cầu bí ẩn - A Simple Favor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ko7t3jlvvMxPkkYvfDhqC5nKBzr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ko7t3jlvvMxPkkYvfDhqC5nKBzr.jpg",
+      "Name": "Lời thỉnh cầu bí ẩn - A Simple Favor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nb1s8r6MhDcPyMjx3sjw9rFsEP5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nb1s8r6MhDcPyMjx3sjw9rFsEP5.jpg",
+      "Name": "Lời thỉnh cầu bí ẩn - A Simple Favor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4Q1rAjgPvAnYGdrrhclTg1CsP24.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4Q1rAjgPvAnYGdrrhclTg1CsP24.jpg",
+      "Name": "Lời thỉnh cầu bí ẩn - A Simple Favor"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5FNDCIlaRXVhEQayx8yzwZUFqSI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5FNDCIlaRXVhEQayx8yzwZUFqSI.jpg",
+      "Name": "Lời thỉnh cầu bí ẩn - A Simple Favor"
+    }
+  ],
+  "Links": [],
+  "Intro": "Ba nhân vật có mối liên hệ đặc biệt cùng sống ở một thị trấn nhỏ. Stephanie – một blogger làm nghề nội trợ, phát hiện bạn mình là Emily mất tích một cách bí ẩn. Sau vài ngày, Emily được kết luận là đã chết. Trước cái chết đột ngột của người bạn giàu có, Stephanie quyết định tự mình điều tra và đã vô tình cuốn vào mối quan hệ bất chính với Sean – chồng của Emily.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/12/aIYsjQM0piKc0ibPBCTWv3sqshj-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/fbNgGYXNgGM?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/a-simple-favor/",
+  "Name": "Lời thỉnh cầu bí ẩn"
+}

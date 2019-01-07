@@ -1,28 +1,109 @@
 {
   "Id": "moviIWMgF38055",
-  "Url": "https://fsharephim.com/movies/megamind/",
-  "Name": "Kẻ Xấu Đẹp Trai",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o6anuGPog9853CPiaPQEMmdBVT0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o6anuGPog9853CPiaPQEMmdBVT0.jpg",
+      "Name": "Kẻ Xấu Đẹp Trai - Megamind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ixIJRnkjEclMf8ZCYijT84En5Bb.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ixIJRnkjEclMf8ZCYijT84En5Bb.jpg",
+      "Name": "Kẻ Xấu Đẹp Trai - Megamind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2NMbbt8PgSeXG49pm31ibhW8op6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2NMbbt8PgSeXG49pm31ibhW8op6.jpg",
+      "Name": "Kẻ Xấu Đẹp Trai - Megamind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oq4EW492e9gTAQLHFufjXOGLYV7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oq4EW492e9gTAQLHFufjXOGLYV7.jpg",
+      "Name": "Kẻ Xấu Đẹp Trai - Megamind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aXnV0GQC2JDGqWyU8EXxKurOCt0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aXnV0GQC2JDGqWyU8EXxKurOCt0.jpg",
+      "Name": "Kẻ Xấu Đẹp Trai - Megamind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2L45t2NWz9CIakgq3LOKXnyG1j.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2L45t2NWz9CIakgq3LOKXnyG1j.jpg",
+      "Name": "Kẻ Xấu Đẹp Trai - Megamind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wXs3b6gQKdAvtrhs28aMQfUefqZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wXs3b6gQKdAvtrhs28aMQfUefqZ.jpg",
+      "Name": "Kẻ Xấu Đẹp Trai - Megamind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/Psp0Cbc42Wv0DlhdIeduZaZWAt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/Psp0Cbc42Wv0DlhdIeduZaZWAt.jpg",
+      "Name": "Kẻ Xấu Đẹp Trai - Megamind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9kyajXuc0hDuRMOxriiTsb4Emzt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9kyajXuc0hDuRMOxriiTsb4Emzt.jpg",
+      "Name": "Kẻ Xấu Đẹp Trai - Megamind"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zfx37CLAJplZylwyILBJDRJ0x7g.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zfx37CLAJplZylwyILBJDRJ0x7g.jpg",
+      "Name": "Kẻ Xấu Đẹp Trai - Megamind"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/moviiwmgf38055-3/",
-      "Name": "Megamind (2010) 1080p Bluray 3D ViE AVC TrueHD 7.1-MRC VAV.iso",
-      "Url": "https://www.fshare.vn/file/C9WKT62H2KEZ",
       "Size": "39.06 GB",
-      "FileSize": 41939369984
+      "FileSize": 41939369984,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/C9WKT62H2KEZ",
+      "Name": "Megamind (2010) 1080p Bluray 3D ViE AVC TrueHD 7.1-MRC VAV.iso"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/moviiwmgf38055/",
-      "Name": "Megamind (2010) 720p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/HTGJ4NLTZ9ZY",
       "Size": "1.15 GB",
-      "FileSize": 1239528655
+      "FileSize": 1239528655,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/HTGJ4NLTZ9ZY",
+      "Name": "Megamind (2010) 720p BrRip x264.mp4"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/moviiwmgf38055-2/",
-      "Name": "Megamind (2010) 1080p BrRip x264.mp4",
-      "Url": "https://www.fshare.vn/file/8UE2TQW4J2GT",
       "Size": "1.82 GB",
-      "FileSize": 1956313341
+      "FileSize": 1956313341,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/8UE2TQW4J2GT",
+      "Name": "Megamind (2010) 1080p BrRip x264.mp4"
     }
-  ]
+  ],
+  "Intro": "Được phát hành ở định dạng 3-D, Megamind kể về câu chuyện một kẻ ác đến từ hành tinh khác bị rơi xuống Trái Đất sau khi hành tinh quê nhà bị hủy diệt. Đồng hành với hành trình đến Trái Đất của Megamind là người hùng Metroman. Trong khi Metroman rơi vào một gia đình đầm ấm, thì Megamind lại rơi vào khu trại cải tạo và được các tù nhân nuôi nấng. Như một điều tất yếu, kẻ xấu Megamind phải ra sức “kiếm chuyện” với người hùng Metroman, và tìm cách phá hoại thành phố.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/amXAUSAUrnGuLGEyc1ZNhBvgbnF-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/6CJUQr4Vs40?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/megamind/",
+  "Name": "Kẻ Xấu Đẹp Trai"
 }

@@ -1,0 +1,64 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/huyen-bi/",
+      "Name": "Huyền Bí"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/tvQQ1uPyKWn2iMOmFoIC3e1MhxX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/tvQQ1uPyKWn2iMOmFoIC3e1MhxX.jpg",
+      "Name": "I&#8217;m a Killer"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pNIQCNFUHfOwbdwH5yKdr6kZ2CA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pNIQCNFUHfOwbdwH5yKdr6kZ2CA.jpg",
+      "Name": "I&#8217;m a Killer"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vSceleskBLaYfqTVsqTJBkUAUQ1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vSceleskBLaYfqTVsqTJBkUAUQ1.jpg",
+      "Name": "I&#8217;m a Killer"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eVk4xtD1yl3G8QzTQebaaBED7eu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eVk4xtD1yl3G8QzTQebaaBED7eu.jpg",
+      "Name": "I&#8217;m a Killer"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xMcjrUhbXPK8Bm4pwrjubWehzLN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xMcjrUhbXPK8Bm4pwrjubWehzLN.jpg",
+      "Name": "I&#8217;m a Killer"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2UIkSCNGl5dZjR5SMQ1mYKcoPr6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2UIkSCNGl5dZjR5SMQ1mYKcoPr6.jpg",
+      "Name": "I&#8217;m a Killer"
+    }
+  ],
+  "Links": [],
+  "Intro": "Inspired by true events from the 1970s, the story revolves around a young detective who becomes the head of a police unit focused on catching a rampant serial killer of women, nicknamed &#8216;The Silesian Vampire&#8217;.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/gTahmz59BI4zx5cJKZe6sdXw1M1-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Ooj0nNm_cnc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/im-a-killer/",
+  "Name": "I'm a Killer"
+}

@@ -1,0 +1,37 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/21ROQpp8f7VnMYH8itez30amdGe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/21ROQpp8f7VnMYH8itez30amdGe.jpg",
+      "Name": "4 Năm 2 Chàng 1 Tình Yêu"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kIPsM7BLJDwHRtBggPCbUNmS3sX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kIPsM7BLJDwHRtBggPCbUNmS3sX.jpg",
+      "Name": "4 Năm 2 Chàng 1 Tình Yêu"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zOzI5u3dPrs5HWzbUMSMGaNy8o9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zOzI5u3dPrs5HWzbUMSMGaNy8o9.jpg",
+      "Name": "4 Năm 2 Chàng 1 Tình Yêu"
+    }
+  ],
+  "Links": [],
+  "Intro": null,
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/7aB1PvrgP8PRNDySxHFdhs3vgzB-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/4-nam-2-chang-1-tinh-yeu/",
+  "Name": "4 Năm 2 Chàng 1 Tình Yêu"
+}

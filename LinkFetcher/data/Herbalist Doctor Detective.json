@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mSlBFYZbcsW4KfF6888vvIKLDg1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mSlBFYZbcsW4KfF6888vvIKLDg1.jpg",
+      "Name": "Herbalist Doctor Detective"
+    }
+  ],
+  "Links": [],
+  "Intro": "A comedy movies of China",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/zrxWNt9ekcM8fhcMFgu1A5KEa1B-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/herbalist-doctor-detective/",
+  "Name": "Herbalist Doctor Detective"
+}

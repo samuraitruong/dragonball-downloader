@@ -1,21 +1,74 @@
 {
   "Id": "movJqoZQT12429",
-  "Url": "https://fsharephim.com/movies/ponyo/",
-  "Name": "Ponyo",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/akDpPae2zJXZhokzsAPgDyNwiwX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/akDpPae2zJXZhokzsAPgDyNwiwX.jpg",
+      "Name": "Ponyo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vK86ykZTcyMjYkin1zWfTulbU34.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vK86ykZTcyMjYkin1zWfTulbU34.jpg",
+      "Name": "Ponyo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hqfZgpRNeHermIyghf8u0sRuwrO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hqfZgpRNeHermIyghf8u0sRuwrO.jpg",
+      "Name": "Ponyo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nj5ZNfWeCJtVjziEpU1RLlU1P1c.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nj5ZNfWeCJtVjziEpU1RLlU1P1c.jpg",
+      "Name": "Ponyo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4gxJjq0Vg1mqkboYB9f92CTIsRu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4gxJjq0Vg1mqkboYB9f92CTIsRu.jpg",
+      "Name": "Ponyo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/42F7fLB2DR3i8vMgizGjtwKMBIs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/42F7fLB2DR3i8vMgizGjtwKMBIs.jpg",
+      "Name": "Ponyo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zxIEgRsbDDpjoVXvLar3L2y700W.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zxIEgRsbDDpjoVXvLar3L2y700W.jpg",
+      "Name": "Ponyo"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movjqozqt12429/",
-      "Name": "Ponyo_on_the_Cliff_by_the_Sea_(2009)_[720p_BluRay_x264_DTS-ES]_-_THORA.mkv",
-      "Url": "https://www.fshare.vn/file/TYW2Y3XA0T",
       "Size": "5.68 GB",
-      "FileSize": 6097740905
+      "FileSize": 6097740905,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/TYW2Y3XA0T",
+      "Name": "Ponyo_on_the_Cliff_by_the_Sea_(2009)_[720p_BluRay_x264_DTS-ES]_-_THORA.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movjqozqt12429-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/ponyo-on-the-cliff-by-the-sea-gake-no-ue-no-ponyo/vietnamese/1183586",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/ponyo-on-the-cliff-by-the-sea-gake-no-ue-no-ponyo/vietnamese/1183586",
+      "Name": "Viet - Subtitle"
     }
-  ]
+  ],
+  "Intro": "The son of a sailor, 5-year old Sosuke lives a quiet life on an oceanside cliff with his mother Lisa. One fateful day, he finds a beautiful goldfish trapped in a bottle on the beach and upon rescuing her, names her Ponyo. But she is no ordinary goldfish. The daughter of a masterful wizard and a sea goddess, Ponyo uses her father&#8217;s magic to transform herself into a young girl and quickly falls in love with Sosuke, but the use of such powerful sorcery causes a dangerous imbalance in the world. As the moon steadily draws nearer to the earth and Ponyo&#8217;s father sends the ocean&#8217;s mighty waves to find his daughter, the two children embark on an adventure of a lifetime to save the world and fulfill Ponyo&#8217;s dreams of becoming human.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/3s0mpSpLkI7cIhqWGrGbsiyvlsH-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/bskgNOXbdiE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/ponyo/",
+  "Name": "Ponyo"
 }

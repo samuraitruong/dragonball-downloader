@@ -1,0 +1,48 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gEPkCIAy8kHsCsPJNDM3Ml0LJ9l.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gEPkCIAy8kHsCsPJNDM3Ml0LJ9l.jpg ",
+      "Name": "Lion"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/a0cvTQOZ3hIXAGQp9VQq8U5lNXO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/a0cvTQOZ3hIXAGQp9VQq8U5lNXO.jpg ",
+      "Name": "Lion"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/perS5SgTkPXNuWu9aNgzR1t75JT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/perS5SgTkPXNuWu9aNgzR1t75JT.jpg ",
+      "Name": "Lion"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jHy11cpQG33oOuoVxR4kl9Ps1UA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jHy11cpQG33oOuoVxR4kl9Ps1UA.jpg ",
+      "Name": "Lion"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/zhydUurupXNUBi0U44z1l2M2l9K.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/zhydUurupXNUBi0U44z1l2M2l9K.jpg ",
+      "Name": "Lion"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yRcXwAwrcfPNIHDoYkLoLxOSCAg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yRcXwAwrcfPNIHDoYkLoLxOSCAg.jpg ",
+      "Name": "Lion"
+    }
+  ],
+  "Links": [],
+  "Intro": "A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/03/pq4I860JAol0hFXp2H4VFA2lrU6-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ziOLGzKq6oo?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/lion/",
+  "Name": "Lion"
+}

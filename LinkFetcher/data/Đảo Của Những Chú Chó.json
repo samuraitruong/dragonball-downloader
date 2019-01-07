@@ -1,21 +1,63 @@
 {
   "Id": "movky5OuB399174",
-  "Url": "https://fsharephim.com/movies/isle-of-dogs/",
-  "Name": "Đảo Của Những Chú Chó",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5YtXsLG9ncjjFyGZjoeV31CGf01.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5YtXsLG9ncjjFyGZjoeV31CGf01.jpg",
+      "Name": "Đảo Của Những Chú Chó - Isle of Dogs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jB5zHG1eHh0OC1S61itXNApZlLD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jB5zHG1eHh0OC1S61itXNApZlLD.jpg",
+      "Name": "Đảo Của Những Chú Chó - Isle of Dogs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9RqAHrMcGkmwpVJQjh8XXMzxcvZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9RqAHrMcGkmwpVJQjh8XXMzxcvZ.jpg",
+      "Name": "Đảo Của Những Chú Chó - Isle of Dogs"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/i5L0Sb84R0JtYOonfDyjJkx9CJ4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/i5L0Sb84R0JtYOonfDyjJkx9CJ4.jpg",
+      "Name": "Đảo Của Những Chú Chó - Isle of Dogs"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movky5oub399174-2/",
-      "Name": "WEB-DL-1080p",
-      "Url": "http://www.fshare.vn/file/JBMZUZ38LZYK",
       "Size": "3.71 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/JBMZUZ38LZYK",
+      "Name": "WEB-DL-1080p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movky5oub399174/",
-      "Name": "WEB-DL-1080p",
-      "Url": "http://www.fshare.vn/file/SISAPEMMZUXX",
       "Size": "3.56 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "http://www.fshare.vn/file/SISAPEMMZUXX",
+      "Name": "WEB-DL-1080p"
     }
-  ]
+  ],
+  "Intro": "Ở thế giới xã hội giả tưởng đặt bối cảnh tại thành phố Megasaki, Nhật Bản, khi tất cả loài chó bị &#8220;trục xuất&#8221; đến một hòn đảo hoang vì cho rằng chúng mang mầm bệnh nguy hiểm. Câu chuyện của bộ phim mở ra khi cậu bé Atari Kobayashi 12 tuổi vô tình lạc mất chú chó cưng tên Spot và cậu bắt đầu cuộc hành trình đi tìm kiếm người bạn thân này của mình.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/06/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/dt__kig8PVU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/isle-of-dogs/",
+  "Name": "Đảo Của Những Chú Chó"
 }

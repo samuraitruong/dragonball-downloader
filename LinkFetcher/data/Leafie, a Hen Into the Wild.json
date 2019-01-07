@@ -1,21 +1,52 @@
 {
-  "Id": "movEM9Cgh89623",
-  "Url": "https://fsharephim.com/movies/leafie-a-hen-into-the-wild/",
-  "Name": "Leafie, a Hen Into the Wild",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movem9cgh89623/",
-      "Name": "Leafie-A-Hen-Into-The-Wild-2011-phimnhanh.com.mkv",
-      "Url": "https://www.fshare.vn/file/ZO6L4LBKKUDY",
-      "Size": "777.03 MB",
-      "FileSize": 814769890
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movem9cgh89623-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/leafie-a-hen-into-the-wild-madangeul-naon-amtak",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5vvYDbG1HQPDT7jn5XcuqwC1nrQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5vvYDbG1HQPDT7jn5XcuqwC1nrQ.jpg",
+      "Name": "Leafie, a Hen Into the Wild"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gJZRpeYF0PZGjBL1cThGxkRHHm9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gJZRpeYF0PZGjBL1cThGxkRHHm9.jpg",
+      "Name": "Leafie, a Hen Into the Wild"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eNIuS2gcjT5BtSpHhV85LkCkqYf.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eNIuS2gcjT5BtSpHhV85LkCkqYf.jpg",
+      "Name": "Leafie, a Hen Into the Wild"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hZLEwYKWeTopO3H4GEDHJRck21G.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hZLEwYKWeTopO3H4GEDHJRck21G.jpg",
+      "Name": "Leafie, a Hen Into the Wild"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/187jxE2vBbbPyTAz9fQ0zVjPXWs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/187jxE2vBbbPyTAz9fQ0zVjPXWs.jpg",
+      "Name": "Leafie, a Hen Into the Wild"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bDai4SI7cQ3ooBa7epHSvvtRL6T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bDai4SI7cQ3ooBa7epHSvvtRL6T.jpg",
+      "Name": "Leafie, a Hen Into the Wild"
+    }
+  ],
+  "Links": [],
+  "Intro": "Based on a bestselling preteen novel of the same title that has sold more than 1 million copies in Korea, “Leafie, A Hen into the Wild” is about a laying hen named Leafie who is destined to live the “same old” repetitive life confined on the chicken farm. Her fate changes when she escapes from the chicken farm and hatches a duck egg. With the duckling (who believes Leafie to be his mother), sets off on a journey into the wild with her new son to find her freedom.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/8JwK3B4EIa8t5UIyWoOzUDXUxbD-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/wENxx-3jYnI?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/leafie-a-hen-into-the-wild/",
+  "Name": "Leafie, a Hen Into the Wild"
 }

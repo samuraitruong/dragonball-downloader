@@ -1,0 +1,76 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jc3qQh8FV2YOJc8z7JQlXmv33Zs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jc3qQh8FV2YOJc8z7JQlXmv33Zs.jpg",
+      "Name": "Hugo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/AdYjc68mGCXCbXOk7jLnLvYxgIe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/AdYjc68mGCXCbXOk7jLnLvYxgIe.jpg",
+      "Name": "Hugo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ehtX3oZaDdYPMVqfeXiZ7P9Iqu2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ehtX3oZaDdYPMVqfeXiZ7P9Iqu2.jpg",
+      "Name": "Hugo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2xWZobgjr6SI6hHA5sz0neFBQV3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2xWZobgjr6SI6hHA5sz0neFBQV3.jpg",
+      "Name": "Hugo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oxBg2YxjgZAEie7nWMXFn1daePC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oxBg2YxjgZAEie7nWMXFn1daePC.jpg",
+      "Name": "Hugo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gcuTuh4aya3XBqry03Tfr1PGgap.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gcuTuh4aya3XBqry03Tfr1PGgap.jpg",
+      "Name": "Hugo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/enCdiSLfSTRpeoOIXDBSQPMzL6z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/enCdiSLfSTRpeoOIXDBSQPMzL6z.jpg",
+      "Name": "Hugo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8n6xU5lgaI7HDZVXJWSjmN8j1d1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8n6xU5lgaI7HDZVXJWSjmN8j1d1.jpg",
+      "Name": "Hugo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cZ2CfYdFgqZoGy39D5Jp7doDXUH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cZ2CfYdFgqZoGy39D5Jp7doDXUH.jpg",
+      "Name": "Hugo"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gMfDUtaVOG3J9qAf9DmB2cft3Hs.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gMfDUtaVOG3J9qAf9DmB2cft3Hs.jpg",
+      "Name": "Hugo"
+    }
+  ],
+  "Links": [],
+  "Intro": "Hugo is an orphan boy living in the walls of a train station in 1930s Paris. He learned to fix clocks and other gadgets from his father and uncle which he puts to use keeping the train station clocks running. The only thing that he has left that connects him to his dead father is an automaton (mechanical man) that doesn&#8217;t work without a special key which Hugo needs to find to unlock the secret he believes it contains. On his adventures, he meets with a shopkeeper, George Melies, who works in the train station and his adventure-seeking god-daughter. Hugo finds that they have a surprising connection to his father and the automaton, and he discovers it unlocks some memories the old man has buried inside regarding his past.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/fkeaJr29ypea1n24gzspsc7qK44-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/Hv3obL9HqyY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/hugo/",
+  "Name": "Hugo"
+}

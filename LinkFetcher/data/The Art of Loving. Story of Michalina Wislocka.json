@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vqy9VW3V120N6vHsZgepvy2gzaj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vqy9VW3V120N6vHsZgepvy2gzaj.jpg",
+      "Name": "The Art of Loving. Story of Michalina Wislocka"
+    }
+  ],
+  "Links": [],
+  "Intro": "Michalina Wislocka, the most famous and recognized sexologist of communist Poland, fights for the right to publish her book, which will change the sex life of Polish people forever.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/tZ9yE8zutovEcXwARSv3RBugo6T-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-art-of-loving-story-of-michalina-wislocka/",
+  "Name": "The Art of Loving. Story of Michalina Wislocka"
+}

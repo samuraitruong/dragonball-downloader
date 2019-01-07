@@ -1,0 +1,62 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mJ6wHYJUw44hTLIWz5d4K6nauQh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mJ6wHYJUw44hTLIWz5d4K6nauQh.jpg ",
+      "Name": "451 Độ F - Fahrenheit 451"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nB9FcVkOX8qSRawZWaDDMPIfCCS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nB9FcVkOX8qSRawZWaDDMPIfCCS.jpg ",
+      "Name": "451 Độ F - Fahrenheit 451"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ahYq6wm0XI8tkhC99VQyNvmGLsW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ahYq6wm0XI8tkhC99VQyNvmGLsW.jpg ",
+      "Name": "451 Độ F - Fahrenheit 451"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ynAkcG2Qt4eogXXG8e4hMTsBjMv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ynAkcG2Qt4eogXXG8e4hMTsBjMv.jpg ",
+      "Name": "451 Độ F - Fahrenheit 451"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7oy4miyq4WYYy0xtX6lbNVPrEsr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7oy4miyq4WYYy0xtX6lbNVPrEsr.jpg ",
+      "Name": "451 Độ F - Fahrenheit 451"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hzVCHroqeBnP5tZBqcKCc38NrCr.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hzVCHroqeBnP5tZBqcKCc38NrCr.jpg ",
+      "Name": "451 Độ F - Fahrenheit 451"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hwkDfpFjDM8GarZ01tOzLqujo06.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hwkDfpFjDM8GarZ01tOzLqujo06.jpg ",
+      "Name": "451 Độ F - Fahrenheit 451"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/Ae1YIPccZWsZzmymXj02DMWL1Uh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/Ae1YIPccZWsZzmymXj02DMWL1Uh.jpg ",
+      "Name": "451 Độ F - Fahrenheit 451"
+    }
+  ],
+  "Links": [],
+  "Intro": "Phim Fahrenheit 451: Fahrenheit 451 kể về câu chuyện của Guy Montag, một lính cứu hỏa làm việc trong một tương lai không xác định được điều khiển bởi một chính quyền áp bức đã đặt một lệnh cấm sách. Thay vì hoàn thành công việc đốt sách nhưng Montag lại thấy anh ta mơ hồ đang đi theo tiếng gọi của sự khao khát muốn tìm đọc và bảo vệ những trang sách, một động thái hoàn toàn đi trái lại với pháp luật. Từ đó anh phải tìm và ghi lại nhữn quyển sách. Sau khi ăn cắp một cuốn sách cho riêng mình trên một chuyến viếng thăm, cuộc sống Montag dần sáng tỏ",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/urH9H50gKbUK8U6qTVd89SLQPjx-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/gwHA7d1OkAY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/fahrenheit-451/",
+  "Name": "451 Độ F"
+}

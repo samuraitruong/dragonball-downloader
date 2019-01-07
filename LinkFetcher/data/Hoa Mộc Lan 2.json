@@ -1,21 +1,65 @@
 {
-  "Id": "movGZC3cC12242",
-  "Url": "https://fsharephim.com/movies/mulan-ii/",
-  "Name": "Hoa Mộc Lan 2",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movgzc3cc12242/",
-      "Name": "Mulan.II.2004.mkv",
-      "Url": "https://www.fshare.vn/file/TRXRRVYN6T",
-      "Size": "1.54 GB",
-      "FileSize": 1657768421
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movgzc3cc12242-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/mulan-ii",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7qzlrqvvXvl4SYbjTErZ0x8uZxA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7qzlrqvvXvl4SYbjTErZ0x8uZxA.jpg",
+      "Name": "Hoa Mộc Lan 2 - Mulan II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nq6MoDjVlgYszeE8Zthitdr7hPe.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nq6MoDjVlgYszeE8Zthitdr7hPe.jpg",
+      "Name": "Hoa Mộc Lan 2 - Mulan II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yp8bmscuXTocgYvL66QLtu9ONnz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yp8bmscuXTocgYvL66QLtu9ONnz.jpg",
+      "Name": "Hoa Mộc Lan 2 - Mulan II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/53DEXCMmpI3NEYE4kfuROG4b3uR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/53DEXCMmpI3NEYE4kfuROG4b3uR.jpg",
+      "Name": "Hoa Mộc Lan 2 - Mulan II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nm6n3CvhoLEtTfEYzwSceUjtkbH.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nm6n3CvhoLEtTfEYzwSceUjtkbH.jpg",
+      "Name": "Hoa Mộc Lan 2 - Mulan II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uVURePnN5VDuZ8Zc2TC9PKxVJte.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uVURePnN5VDuZ8Zc2TC9PKxVJte.jpg",
+      "Name": "Hoa Mộc Lan 2 - Mulan II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f8BobrxGnAFObYRSN1BTIzQbEMW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f8BobrxGnAFObYRSN1BTIzQbEMW.jpg",
+      "Name": "Hoa Mộc Lan 2 - Mulan II"
+    }
+  ],
+  "Links": [],
+  "Intro": "Là một bộ phim hoạt hình vào năm 2005 của hãng Walt Disney, được quay trực tiếp lên video, và là phần tiếp theo sau phần đầu Hoa Mộc Lan. Mời các bạn đón xem các bộ phim hoạt hình mới nhất tại website chúng tôi, chúc các bạn thật vui vẻ nhé !",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/ebuRP7g3tJlLxeejylu4Wx4Qsjv-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/gWf2Cg00kD0?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/mulan-ii/",
+  "Name": "Hoa Mộc Lan 2"
 }

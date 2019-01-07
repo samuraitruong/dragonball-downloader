@@ -1,0 +1,66 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dQCTuhrP8bgsctRYeHSX21ceNX1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dQCTuhrP8bgsctRYeHSX21ceNX1.jpg",
+      "Name": "Hotel Rwanda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/btmNp8zN4G4S4F12ZTKpXEbgdqw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/btmNp8zN4G4S4F12ZTKpXEbgdqw.jpg",
+      "Name": "Hotel Rwanda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/66sa4CLENp2gDrJIrrXdQ3ZbK7G.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/66sa4CLENp2gDrJIrrXdQ3ZbK7G.jpg",
+      "Name": "Hotel Rwanda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1Rn2BKnMHEdhi7h00nsosXcuoFa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1Rn2BKnMHEdhi7h00nsosXcuoFa.jpg",
+      "Name": "Hotel Rwanda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4aRQIrQ4LLu7TOPag131R9wqJN4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4aRQIrQ4LLu7TOPag131R9wqJN4.jpg",
+      "Name": "Hotel Rwanda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4RcPmstq2TAUxK21KSumigrKuGS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4RcPmstq2TAUxK21KSumigrKuGS.jpg",
+      "Name": "Hotel Rwanda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bt6KpGk8jCHR35dqWQfQyqUfExV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bt6KpGk8jCHR35dqWQfQyqUfExV.jpg",
+      "Name": "Hotel Rwanda"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f0wGvzZW8E68dxjcxP7EQLdVGHY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f0wGvzZW8E68dxjcxP7EQLdVGHY.jpg",
+      "Name": "Hotel Rwanda"
+    }
+  ],
+  "Links": [],
+  "Intro": "Inspired by true events, this film takes place in Rwanda in the 1990s when more than a million Tutsis were killed in a genocide that went mostly unnoticed by the rest of the world. Hotel owner Paul Rusesabagina houses over a thousand refuges in his hotel in attempt to save their lives.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/ux6TRpqIOv6h8VJAiDVQBy2LBBH-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/j2vMvyQeb1U?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/hotel-rwanda/",
+  "Name": "Hotel Rwanda"
+}

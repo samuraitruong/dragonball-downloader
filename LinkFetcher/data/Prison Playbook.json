@@ -1,0 +1,497 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kdsvRpXal5Xa1Ldq7m2qzQmYsBa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kdsvRpXal5Xa1Ldq7m2qzQmYsBa.jpg",
+      "Name": "Prison Playbook"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ygkVlkL0vSWH7c2BvZHtqN3jxyA.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ygkVlkL0vSWH7c2BvZHtqN3jxyA.jpg",
+      "Name": "Prison Playbook"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mhUkBuZ8rR1Idl1p0u6XrK82Raa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mhUkBuZ8rR1Idl1p0u6XrK82Raa.jpg",
+      "Name": "Prison Playbook"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/prison-playbook-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/prison-playbook-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/prison-playbook-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/prison-playbook-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/prison-playbook-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/prison-playbook-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/prison-playbook-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/prison-playbook-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/prison-playbook-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/prison-playbook-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/prison-playbook-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/prison-playbook-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/prison-playbook-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/prison-playbook-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/prison-playbook-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/prison-playbook-1x16/",
+      "Name": "Episode 16"
+    }
+  ],
+  "Intro": "With his major league baseball debut right around the corner, a star pitcher lands in prison and must learn to navigate his new world.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/2kK5H4k8qJDS0SSqQ25xKV3DZvB-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": "tvWgguCH1387900",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvwgguch1387900/",
+              "Size": "2.3 GB",
+              "FileSize": 2428311717,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/MN6K3FKCSLCO5C2",
+              "Name": "Wise Prison Life E01.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/prison-playbook-1x1/",
+          "Name": "Prison Playbook 1x1"
+        },
+        {
+          "Id": "tvWgguCH1399649",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvwgguch1399649/",
+              "Size": "2.1 GB",
+              "FileSize": 2249600875,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/GOQFNO7PMPGUL5N",
+              "Name": "Wise Prison Life E10.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/prison-playbook-1x10/",
+          "Name": "Prison Playbook 1x10"
+        },
+        {
+          "Id": "tvWgguCH1399650",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvwgguch1399650/",
+              "Size": "2.3 GB",
+              "FileSize": 2480467387,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/QUUDZN1TUGGLG67",
+              "Name": "Wise Prison Life E11.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/prison-playbook-1x11/",
+          "Name": "Prison Playbook 1x11"
+        },
+        {
+          "Id": "tvWgguCH1399651",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvwgguch1399651/",
+              "Size": "2.3 GB",
+              "FileSize": 2425035304,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/AHD1TS8F7FAVCRK",
+              "Name": "Wise Prison Life E12.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/prison-playbook-1x12/",
+          "Name": "Prison Playbook 1x12"
+        },
+        {
+          "Id": "tvWgguCH1399652",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvwgguch1399652/",
+              "Size": "2.3 GB",
+              "FileSize": 2459382484,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/BHAN8VE6AN7RX7S",
+              "Name": "Wise Prison Life E13.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/prison-playbook-1x13/",
+          "Name": "Prison Playbook 1x13"
+        },
+        {
+          "Id": "tvWgguCH1399653",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvwgguch1399653/",
+              "Size": "1.9 GB",
+              "FileSize": 2008837491,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/7CTS9KT4WUBPEKC",
+              "Name": "Wise Prison Life E14.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/prison-playbook-1x14/",
+          "Name": "Prison Playbook 1x14"
+        },
+        {
+          "Id": "tvWgguCH1399654",
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/prison-playbook-1x15/",
+          "Name": "Prison Playbook 1x15"
+        },
+        {
+          "Id": "tvWgguCH1399655",
+          "Genres": [],
+          "Images": [
+            {
+              "Thumbnail": "https://image.tmdb.org/t/p/w300/svTPkHe9K4RDmDJ934i4R992sb3.jpg",
+              "Url": "https://image.tmdb.org/t/p/original/svTPkHe9K4RDmDJ934i4R992sb3.jpg",
+              "Name": "Prison Playbook 1&#215;16"
+            }
+          ],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/prison-playbook-1x16/",
+          "Name": "Prison Playbook 1x16"
+        },
+        {
+          "Id": "tvWgguCH1387901",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvwgguch1387901/",
+              "Size": "2.1 GB",
+              "FileSize": 2276310615,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/W4HR8IL5PVYWF42",
+              "Name": "Wise Prison Life E02.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/prison-playbook-1x2/",
+          "Name": "Prison Playbook 1x2"
+        },
+        {
+          "Id": "tvWgguCH1387902",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvwgguch1387902/",
+              "Size": "2.1 GB",
+              "FileSize": 2274924135,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/YERGMH9JPOYLSUM",
+              "Name": "Wise Prison Life E03.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/prison-playbook-1x3/",
+          "Name": "Prison Playbook 1x3"
+        },
+        {
+          "Id": "tvWgguCH1387903",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvwgguch1387903/",
+              "Size": "2.5 GB",
+              "FileSize": 2633332728,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/BH4UOLN8WKT64Q6",
+              "Name": "Wise Prison Life E04.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/prison-playbook-1x4/",
+          "Name": "Prison Playbook 1x4"
+        },
+        {
+          "Id": "tvWgguCH1387904",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvwgguch1387904/",
+              "Size": "2.3 GB",
+              "FileSize": 2506023872,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/APDGVT78873J72F",
+              "Name": "Wise Prison Life E05.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/prison-playbook-1x5/",
+          "Name": "Prison Playbook 1x5"
+        },
+        {
+          "Id": "tvWgguCH1387905",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvwgguch1387905/",
+              "Size": "2.3 GB",
+              "FileSize": 2515050358,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/NRLG68BLSZ8XQNP",
+              "Name": "Wise Prison Life E06.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/prison-playbook-1x6/",
+          "Name": "Prison Playbook 1x6"
+        },
+        {
+          "Id": "tvWgguCH1399646",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvwgguch1399646/",
+              "Size": "2.3 GB",
+              "FileSize": 2465961642,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/B6LACMU3MKQQ59J",
+              "Name": "Wise Prison Life E07.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/prison-playbook-1x7/",
+          "Name": "Prison Playbook 1x7"
+        },
+        {
+          "Id": "tvWgguCH1399647",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvwgguch1399647/",
+              "Size": "2.1 GB",
+              "FileSize": 2295029674,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/MBGYAA83GR7F8M6",
+              "Name": "Wise Prison Life E08.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/prison-playbook-1x8/",
+          "Name": "Prison Playbook 1x8"
+        },
+        {
+          "Id": "tvWgguCH1399648",
+          "Genres": [],
+          "Images": [],
+          "Links": [
+            {
+              "OriginalLink": "https://fsharephim.com/links/tvwgguch1399648/",
+              "Size": "2.2 GB",
+              "FileSize": 2360501412,
+              "IsAlive": true,
+              "Url": "https://www.fshare.vn/file/KKYU1B93B244Y6Q",
+              "Name": "Wise Prison Life E09.mkv"
+            }
+          ],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/prison-playbook-1x9/",
+          "Name": "Prison Playbook 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Nov. 22, 2017"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/prison-playbook/",
+  "Name": "Prison Playbook"
+}

@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cJbD05kmKK6dBoqffnaKquuEodm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cJbD05kmKK6dBoqffnaKquuEodm.jpg",
+      "Name": "The Lowlife"
+    }
+  ],
+  "Links": [],
+  "Intro": "Based on a 2016 novel by Mana Sakura, “The Lowlife” shows the stories of three women who work in Japan’s adult video industry .",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/yoAto9LMjYFmdgrKvnSdgsRtHRv-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/IuE3-D1AfDE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-lowlife/",
+  "Name": "The Lowlife"
+}

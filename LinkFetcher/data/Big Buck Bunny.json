@@ -1,14 +1,66 @@
 {
   "Id": "movjpFQtJ10378",
-  "Url": "https://fsharephim.com/movies/big-buck-bunny/",
-  "Name": "Big Buck Bunny",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/aHLST0g8sOE1ixCxRDgM35SKwwp.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/aHLST0g8sOE1ixCxRDgM35SKwwp.jpg",
+      "Name": "Big Buck Bunny"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1O3tFuQsVgmjwx47xGKBjkSUiU6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1O3tFuQsVgmjwx47xGKBjkSUiU6.jpg",
+      "Name": "Big Buck Bunny"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rIK10zkOKfJ1j6W0nhYjQR5skBg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rIK10zkOKfJ1j6W0nhYjQR5skBg.jpg",
+      "Name": "Big Buck Bunny"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rjB4V9dBuepG7gnHS1Exm1llbSS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rjB4V9dBuepG7gnHS1Exm1llbSS.jpg",
+      "Name": "Big Buck Bunny"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/oYdqt7nyP18JZIhNtQSvLXeSVGL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/oYdqt7nyP18JZIhNtQSvLXeSVGL.jpg",
+      "Name": "Big Buck Bunny"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nuQGw5xmkNg0sz3eEUPmCc2cWFM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nuQGw5xmkNg0sz3eEUPmCc2cWFM.jpg",
+      "Name": "Big Buck Bunny"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jR4RmWQRq2BP1SGBUXjroU963HP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jR4RmWQRq2BP1SGBUXjroU963HP.jpg",
+      "Name": "Big Buck Bunny"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movjpfqtj10378/",
-      "Name": "2008 ★★★ Big Buck Bunny.mkv",
-      "Url": "https://www.fshare.vn/file/CBA8YVAHAPGVPOY",
       "Size": "1.56 GB",
-      "FileSize": 1671062208
+      "FileSize": 1671062208,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/CBA8YVAHAPGVPOY",
+      "Name": "2008 ★★★ Big Buck Bunny.mkv"
     }
-  ]
+  ],
+  "Intro": "Follow a day of the life of Big Buck Bunny when he meets three bullying rodents: Frank, Rinky, and Gamera. The rodents amuse themselves by harassing helpless creatures by throwing fruits, nuts and rocks at them. After the deaths of two of Bunny&#8217;s favorite butterflies, and an offensive attack on Bunny himself, Bunny sets aside his gentle nature and orchestrates a complex plan for revenge.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/05/uVEFQvFMMsg4e6yb03xOfVsDz4o-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/yUQM7H4Swgw?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/big-buck-bunny/",
+  "Name": "Big Buck Bunny"
 }

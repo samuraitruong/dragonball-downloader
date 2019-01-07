@@ -1,0 +1,72 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gLbBRyS7MBrmVUNce91Hmx9vzqI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gLbBRyS7MBrmVUNce91Hmx9vzqI.jpg",
+      "Name": "The Godfather: Part II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9qTnj9MHAkNojW1Rlv3GAGfQJo7.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9qTnj9MHAkNojW1Rlv3GAGfQJo7.jpg",
+      "Name": "The Godfather: Part II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jWDegvAE8XO2XDUHP9eQYlepJv1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jWDegvAE8XO2XDUHP9eQYlepJv1.jpg",
+      "Name": "The Godfather: Part II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/79bTeIO4tDMpXuAq8BidMK0KVE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/79bTeIO4tDMpXuAq8BidMK0KVE.jpg",
+      "Name": "The Godfather: Part II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xUU1melxrkb7IXl1F7PXrtZAWWl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xUU1melxrkb7IXl1F7PXrtZAWWl.jpg",
+      "Name": "The Godfather: Part II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qkCqTVOwSZ5kVusMCRgjM68DxbF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qkCqTVOwSZ5kVusMCRgjM68DxbF.jpg",
+      "Name": "The Godfather: Part II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3ggZWEoa2aegF6AYyjyNRm8noM5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3ggZWEoa2aegF6AYyjyNRm8noM5.jpg",
+      "Name": "The Godfather: Part II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fvU65tvL4pDINvYYD3wRNLMwPa3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fvU65tvL4pDINvYYD3wRNLMwPa3.jpg",
+      "Name": "The Godfather: Part II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b6eUlMXtBwKVA2NVrYYDceol7Uo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b6eUlMXtBwKVA2NVrYYDceol7Uo.jpg",
+      "Name": "The Godfather: Part II"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5n7kacILQzUU1OT4RjPPY2VVu8z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5n7kacILQzUU1OT4RjPPY2VVu8z.jpg",
+      "Name": "The Godfather: Part II"
+    }
+  ],
+  "Links": [],
+  "Intro": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/bVq65huQ8vHDd1a4Z37QtuyEvpA-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/9O1Iy9od7-A?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-godfather-part-ii/",
+  "Name": "The Godfather: Part II"
+}

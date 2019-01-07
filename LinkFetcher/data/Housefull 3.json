@@ -1,0 +1,42 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pZPJnyegV1NNNIorz1GblzqQcr9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pZPJnyegV1NNNIorz1GblzqQcr9.jpg",
+      "Name": "Housefull 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xVhQNXBtP0VC8Z46X7527qXTN7H.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xVhQNXBtP0VC8Z46X7527qXTN7H.jpg",
+      "Name": "Housefull 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uRzoyucAkiMVBRObPFs6VtOrDUt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uRzoyucAkiMVBRObPFs6VtOrDUt.jpg",
+      "Name": "Housefull 3"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yvxJbQ6p9ssyTGfJv8gNkPdlefR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yvxJbQ6p9ssyTGfJv8gNkPdlefR.jpg",
+      "Name": "Housefull 3"
+    }
+  ],
+  "Links": [],
+  "Intro": "A father doesn&#8217;t want his three daughters to get married. Now, it&#8217;s up to three men to try to and convince the father that they&#8217;re a good fit for his daughters.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/09/6Udose5F7a9SdNf8HlNMovtDMM9-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/TlZM9kuqw38?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/housefull-3/",
+  "Name": "Housefull 3"
+}

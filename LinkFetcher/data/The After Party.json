@@ -1,0 +1,37 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/nhac/",
+      "Name": "Nhạc"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6GyzqGMUMmSTcCdkOoEFEq2FUWD.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6GyzqGMUMmSTcCdkOoEFEq2FUWD.jpg ",
+      "Name": "The After Party"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7tGLqxYjjdE7JaYKhgfHiUpZS3S.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7tGLqxYjjdE7JaYKhgfHiUpZS3S.jpg ",
+      "Name": "The After Party"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/puVUOzkvzxgvbH670FAafDExHin.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/puVUOzkvzxgvbH670FAafDExHin.jpg ",
+      "Name": "The After Party"
+    }
+  ],
+  "Links": [],
+  "Intro": "When an aspiring rapper goes viral for the wrong reasons, he thinks his career is sunk. But a wild party gives him one more chance to make it right.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/08/wFPGheX6X4bt1ZqP1870MPlUvGu-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/coG5LwaHp3c?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-after-party/",
+  "Name": "The After Party"
+}

@@ -1,0 +1,80 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/khoa-hoc-vien-tuong/",
+      "Name": "Khoa Học Viễn Tưởng"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/pkX4ytzAXswpMhea0JKxgA5Vmqo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/pkX4ytzAXswpMhea0JKxgA5Vmqo.jpg",
+      "Name": "Siêu Nhân Trở Lại - Superman Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uAVdwu4vEx0TwuC4ewp9RqplKEV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uAVdwu4vEx0TwuC4ewp9RqplKEV.jpg",
+      "Name": "Siêu Nhân Trở Lại - Superman Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sLryw6Quq6s8KDJOb22x5we8Cyj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sLryw6Quq6s8KDJOb22x5we8Cyj.jpg",
+      "Name": "Siêu Nhân Trở Lại - Superman Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3Naz1Cv0rN0r2nCTCmEDHb4Nq4m.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3Naz1Cv0rN0r2nCTCmEDHb4Nq4m.jpg",
+      "Name": "Siêu Nhân Trở Lại - Superman Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vBcBjFcDozCFJKRY6ARqKF0Kv9Q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vBcBjFcDozCFJKRY6ARqKF0Kv9Q.jpg",
+      "Name": "Siêu Nhân Trở Lại - Superman Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/o5No74qimMR0IktThAhLhsC2BfC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/o5No74qimMR0IktThAhLhsC2BfC.jpg",
+      "Name": "Siêu Nhân Trở Lại - Superman Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/x11LXSWNQl9wpOBxFtt1uorQGmn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/x11LXSWNQl9wpOBxFtt1uorQGmn.jpg",
+      "Name": "Siêu Nhân Trở Lại - Superman Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sAxOqVx2g8iLaDyxowzNphl0D2T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sAxOqVx2g8iLaDyxowzNphl0D2T.jpg",
+      "Name": "Siêu Nhân Trở Lại - Superman Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iPnlRv61Dd6wRzh3LAylTr7Ew4k.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iPnlRv61Dd6wRzh3LAylTr7Ew4k.jpg",
+      "Name": "Siêu Nhân Trở Lại - Superman Returns"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/1lFBy9kMTuYenjULIy1I3KFg8VF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/1lFBy9kMTuYenjULIy1I3KFg8VF.jpg",
+      "Name": "Siêu Nhân Trở Lại - Superman Returns"
+    }
+  ],
+  "Links": [],
+  "Intro": "Đến với trái đất từ khi còn nhỏ, Kal-el được ông bà Kent nuôi dưỡng và đổi tên thành Clark, lớn lên như bao đứa trẻ bình thường khác. Nhưng anh chẳng thể nào giống những người xung quanh. Clark mang trong mình sức mạnh phi thường của dân tộc Krypton, khả năng chỉ xuất hiện trong những giấc mơ hoang đường nhất của loài người. Anh phải sống 2 cuộc đời: khi là chàng phóng viên Clark Kent, khi là Người Thép mang trên mình sứ mệnh bảo vệ cả địa cầu&#8230;",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/e3aLTaD5ppxo3en0GAGceekEPAe-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/zVCozSQj8TQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/superman-returns/",
+  "Name": "Siêu Nhân Trở Lại"
+}

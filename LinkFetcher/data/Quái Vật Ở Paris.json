@@ -1,21 +1,84 @@
 {
-  "Id": "movLVHif177459",
-  "Url": "https://fsharephim.com/movies/a-monster-in-paris/",
-  "Name": "Quái Vật Ở Paris",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movlvhif177459/",
-      "Name": "mHD - Thuyết Minh",
-      "Url": "https://www.fshare.vn/file/JDYFX8YWDW4I",
-      "Size": "2.19 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movlvhif177459-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/a-monster-in-paris-un-monstre-paris-2011",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fCZKEiiE3cCIqeWf2WSAiMCvDwN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fCZKEiiE3cCIqeWf2WSAiMCvDwN.jpg",
+      "Name": "Quái Vật Ở Paris - A Monster in Paris"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/37AMRvL7NGw1tIJnEuAyvSqi5Uk.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/37AMRvL7NGw1tIJnEuAyvSqi5Uk.jpg",
+      "Name": "Quái Vật Ở Paris - A Monster in Paris"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jfxuuUYrWwr359RUy5NZbNpxwM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jfxuuUYrWwr359RUy5NZbNpxwM.jpg",
+      "Name": "Quái Vật Ở Paris - A Monster in Paris"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jiMSfK6AKhRvy1xRgXEhIlDNm3t.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jiMSfK6AKhRvy1xRgXEhIlDNm3t.jpg",
+      "Name": "Quái Vật Ở Paris - A Monster in Paris"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xYYVSFszgthyT6zR2NLefHMplqE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xYYVSFszgthyT6zR2NLefHMplqE.jpg",
+      "Name": "Quái Vật Ở Paris - A Monster in Paris"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7FdEavilSoesxG80c91EidP9xmm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7FdEavilSoesxG80c91EidP9xmm.jpg",
+      "Name": "Quái Vật Ở Paris - A Monster in Paris"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/45CuRR61ImjSv9GxEuUUm4xFj8f.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/45CuRR61ImjSv9GxEuUUm4xFj8f.jpg",
+      "Name": "Quái Vật Ở Paris - A Monster in Paris"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yyP3CNy6FZQ8uV2lli3cYxk7V7T.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yyP3CNy6FZQ8uV2lli3cYxk7V7T.jpg",
+      "Name": "Quái Vật Ở Paris - A Monster in Paris"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/evsKcjP4F3BKeqPfKg89hDFmwoo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/evsKcjP4F3BKeqPfKg89hDFmwoo.jpg",
+      "Name": "Quái Vật Ở Paris - A Monster in Paris"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k1BJiDAQXeEFBl6XYVmYYlni8iI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k1BJiDAQXeEFBl6XYVmYYlni8iI.jpg",
+      "Name": "Quái Vật Ở Paris - A Monster in Paris"
+    }
+  ],
+  "Links": [],
+  "Intro": "Bộ phim hoạt hình lấy bối cảnh tại Paris vào năm 1910 và nói về một con quái vật đang sống trong một khu vườn và tình yêu của nó dành cho một ca sĩ trẻ xinh đẹp.Tại Paris vào năm 1910, Emile là một cô bé điều khiển máy chiếu nhút nhát ở một ráp chiếu phim, và Raoul là một nhà phát minh màu sắc, cùng nhau săn lùng một con quái vật đang khiến người dân kinh sợ. Họ tham gia lực lượng với Lucille, một ngôi sao lớn của quán rượu Bird of Paradise, một nhà khoa học lập dị và chú khỉ cáu kỉnh để cứu con quái vật vốn chỉ là người hóa ra là một con vật quá cỡ nhưng vô hại thoát khỏi cảnh sát trưởng tàn nhẫn đầy tham vọng của thành phố.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/bEqkbV0bYIDWpu2dMc1Zy3aFHhT-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/yMfnFgDcVrQ?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/a-monster-in-paris/",
+  "Name": "Quái Vật Ở Paris"
 }

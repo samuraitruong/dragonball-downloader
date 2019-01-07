@@ -1,0 +1,56 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/93N1ShuTWxG8e8tkXTr6d2XLOwu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/93N1ShuTWxG8e8tkXTr6d2XLOwu.jpg",
+      "Name": "Before the Devil Knows You&#8217;re Dead"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sJrGGdReb8w6GcnsLIBIopZExrW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sJrGGdReb8w6GcnsLIBIopZExrW.jpg",
+      "Name": "Before the Devil Knows You&#8217;re Dead"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/vbtIjW1F2nuErp97bx8FB2erNMV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/vbtIjW1F2nuErp97bx8FB2erNMV.jpg",
+      "Name": "Before the Devil Knows You&#8217;re Dead"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2xWpM9qROPGsOT5nCv0OmhcGQSg.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2xWpM9qROPGsOT5nCv0OmhcGQSg.jpg",
+      "Name": "Before the Devil Knows You&#8217;re Dead"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hSznqTaUTZIK3KiJY7xkLZl6NlE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hSznqTaUTZIK3KiJY7xkLZl6NlE.jpg",
+      "Name": "Before the Devil Knows You&#8217;re Dead"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lpSfZSHAt9L0edp0DNBrHv2EXSX.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lpSfZSHAt9L0edp0DNBrHv2EXSX.jpg",
+      "Name": "Before the Devil Knows You&#8217;re Dead"
+    }
+  ],
+  "Links": [],
+  "Intro": "When two brothers organize the robbery of their parents&#8217; jewelry store, the job goes horribly wrong, triggering a series of events that send them and their family hurtling towards a shattering climax.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/7p3Yx1kXIc9UfnmsCsKWlWVCnhS-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/8Jhrxn7QVDc?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/before-the-devil-knows-youre-dead/",
+  "Name": "Before the Devil Knows You're Dead"
+}

@@ -1,0 +1,385 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/r9fsjPQqVgnqku12goT6VoghT87.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/r9fsjPQqVgnqku12goT6VoghT87.jpg",
+      "Name": "Witch Yoo Hee"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7z0Kc01lzSWsFix1VNbHsmeKRjV.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7z0Kc01lzSWsFix1VNbHsmeKRjV.jpg",
+      "Name": "Witch Yoo Hee"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kuVLJBuzaPogpWkg1xhZiO7i08S.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kuVLJBuzaPogpWkg1xhZiO7i08S.jpg",
+      "Name": "Witch Yoo Hee"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qB0rxYSxqzOxERkRkW9Lyu3zgzo.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qB0rxYSxqzOxERkRkW9Lyu3zgzo.jpg",
+      "Name": "Witch Yoo Hee"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sw2BISYYfxHf8audzYw12jIvJmC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sw2BISYYfxHf8audzYw12jIvJmC.jpg",
+      "Name": "Witch Yoo Hee"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ixSSByvoJ231BOA8YTg5dNemXS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ixSSByvoJ231BOA8YTg5dNemXS.jpg",
+      "Name": "Witch Yoo Hee"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/f0Aks5sfwbr5rtavVv94MWscBKh.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/f0Aks5sfwbr5rtavVv94MWscBKh.jpg",
+      "Name": "Witch Yoo Hee"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x1/",
+      "Name": "Episode 1"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x2/",
+      "Name": "Episode 2"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x3/",
+      "Name": "Episode 3"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x4/",
+      "Name": "Episode 4"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x5/",
+      "Name": "Episode 5"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x6/",
+      "Name": "Episode 6"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x7/",
+      "Name": "Episode 7"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x8/",
+      "Name": "Episode 8"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x9/",
+      "Name": "Episode 9"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x10/",
+      "Name": "Episode 10"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x11/",
+      "Name": "Episode 11"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x12/",
+      "Name": "Episode 12"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x13/",
+      "Name": "Episode 13"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x14/",
+      "Name": "Episode 14"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x15/",
+      "Name": "Episode 15"
+    },
+    {
+      "OriginalLink": null,
+      "Size": null,
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x16/",
+      "Name": "Episode 16"
+    }
+  ],
+  "Intro": "As the director of her father&#8217;s advertising company, Ma Yoo Hee is known as a witch for her ruthless, no nonsense character. After a string of failed attempts to hire a housekeeper, she (literally) runs into Chae Moo Ryong, ex-medical student turned aspiring chef. As a way to work off his debt for crashing into her car, he agrees to become her housekeeper and personal love affairs coach for one month. Gladly, he gives her a makeover that attracts both her old friend Johnny Kruger and her first love Joon Ha. Despite having a girlfriend, Sung Mi, Moo Ryong eventually finds himself falling for Yoo Hee.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/z99VO2Mq60M3PTCrcZMlH6X05TM-185x278.jpg",
+  "Trailer": null,
+  "Seasons": [
+    {
+      "Episodes": [
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x1/",
+          "Name": "Witch Yoo Hee 1x1"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x10/",
+          "Name": "Witch Yoo Hee 1x10"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x11/",
+          "Name": "Witch Yoo Hee 1x11"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x12/",
+          "Name": "Witch Yoo Hee 1x12"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x13/",
+          "Name": "Witch Yoo Hee 1x13"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x14/",
+          "Name": "Witch Yoo Hee 1x14"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x15/",
+          "Name": "Witch Yoo Hee 1x15"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x16/",
+          "Name": "Witch Yoo Hee 1x16"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x2/",
+          "Name": "Witch Yoo Hee 1x2"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x3/",
+          "Name": "Witch Yoo Hee 1x3"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x4/",
+          "Name": "Witch Yoo Hee 1x4"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x5/",
+          "Name": "Witch Yoo Hee 1x5"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x6/",
+          "Name": "Witch Yoo Hee 1x6"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x7/",
+          "Name": "Witch Yoo Hee 1x7"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x8/",
+          "Name": "Witch Yoo Hee 1x8"
+        },
+        {
+          "Id": null,
+          "Genres": [],
+          "Images": [],
+          "Links": [],
+          "Intro": null,
+          "Poster": null,
+          "Trailer": null,
+          "Seasons": null,
+          "Url": "https://fsharephim.com/episodes/witch-yoo-hee-1x9/",
+          "Name": "Witch Yoo Hee 1x9"
+        }
+      ],
+      "Url": null,
+      "Name": "Season 1 Mar. 21, 2007"
+    }
+  ],
+  "Url": "https://fsharephim.com/tv-shows/witch-yoo-hee/",
+  "Name": "Witch Yoo Hee"
+}

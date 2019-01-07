@@ -1,21 +1,80 @@
 {
-  "Id": "mov6y6lE5129",
-  "Url": "https://fsharephim.com/movies/spirited-away/",
-  "Name": "Spirited Away",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/mov6y6le5129-2/",
-      "Name": "Sen.to.Chihiro.no.kamikakushi.2001.1080p.BluRay.x264-CtrlHD.srt",
-      "Url": "https://www.fshare.vn/file/QMN23YCIBPEJ",
-      "Size": "162.5 KB",
-      "FileSize": 166426
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/mov6y6le5129/",
-      "Name": "Sen.to.Chihiro.no.kamikakushi.2001.1080p.BluRay.x264-CtrlHD.mkv",
-      "Url": "https://www.fshare.vn/file/3EHWWKT4SEC8",
-      "Size": "10.3 GB",
-      "FileSize": 11024497899
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mnpRKVSXBX6jb56nabvmGKA0Wig.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mnpRKVSXBX6jb56nabvmGKA0Wig.jpg",
+      "Name": "Spirited Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/djgM2d3e42p9GFQObg6lwK2SVw2.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/djgM2d3e42p9GFQObg6lwK2SVw2.jpg",
+      "Name": "Spirited Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g05ZFUUrJM8KsmpsGj8NnF5IyHv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g05ZFUUrJM8KsmpsGj8NnF5IyHv.jpg",
+      "Name": "Spirited Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/dUoGxrlUWDwjpzNggKt33uWlOvM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/dUoGxrlUWDwjpzNggKt33uWlOvM.jpg",
+      "Name": "Spirited Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/xvUABSNLKsnOrEXZfZtZk3gYeLM.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/xvUABSNLKsnOrEXZfZtZk3gYeLM.jpg",
+      "Name": "Spirited Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iti9sHasN7x71TKIvNFIwPfimpI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iti9sHasN7x71TKIvNFIwPfimpI.jpg",
+      "Name": "Spirited Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/i7XIqVb1rfdaHOnVofoCwpBITlt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/i7XIqVb1rfdaHOnVofoCwpBITlt.jpg",
+      "Name": "Spirited Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eK2JNUPCCTgwhBPaFdgmSPuEAIn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eK2JNUPCCTgwhBPaFdgmSPuEAIn.jpg",
+      "Name": "Spirited Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jrrwiLbxbWrRyRHJe0R6DZTITQj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jrrwiLbxbWrRyRHJe0R6DZTITQj.jpg",
+      "Name": "Spirited Away"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gCRduJf7RfE84vXp53ahAxuymm0.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gCRduJf7RfE84vXp53ahAxuymm0.jpg",
+      "Name": "Spirited Away"
+    }
+  ],
+  "Links": [],
+  "Intro": "A ten year old girl who wanders away from her parents along a path that leads to a world ruled by strange and unusual monster-like animals. Her parents have been changed into pigs along with others inside a bathhouse full of these creatures. Will she ever see the world how it once was?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/ynXoOxmDHNQ4UAy0oU6avW71HVW-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ByXuk9QqQkk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/spirited-away/",
+  "Name": "Spirited Away"
 }

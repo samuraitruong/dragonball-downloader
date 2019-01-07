@@ -1,28 +1,90 @@
 {
   "Id": "mov47B0lz10948",
-  "Url": "https://fsharephim.com/movies/the-fox-and-the-hound/",
-  "Name": "Cáo Và Chó Săn",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wJiejeVjnLjIlDZySlnSKMiU3em.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wJiejeVjnLjIlDZySlnSKMiU3em.jpg",
+      "Name": "Cáo Và Chó Săn - The Fox and the Hound"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/i6JYzuTiCDLF1gC3oufEalwJAQ9.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/i6JYzuTiCDLF1gC3oufEalwJAQ9.jpg",
+      "Name": "Cáo Và Chó Săn - The Fox and the Hound"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gNkT1AatDg0uaa8YmbNaUr1oOuN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gNkT1AatDg0uaa8YmbNaUr1oOuN.jpg",
+      "Name": "Cáo Và Chó Săn - The Fox and the Hound"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iKk2uO2YKJ7VIgOFd1bIwiicV9Q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iKk2uO2YKJ7VIgOFd1bIwiicV9Q.jpg",
+      "Name": "Cáo Và Chó Săn - The Fox and the Hound"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6tCoRlpbYbrgH1btntOihbDKyJO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6tCoRlpbYbrgH1btntOihbDKyJO.jpg",
+      "Name": "Cáo Và Chó Săn - The Fox and the Hound"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/ob7Smp0qu9BqQ14XSczod9i66h1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/ob7Smp0qu9BqQ14XSczod9i66h1.jpg",
+      "Name": "Cáo Và Chó Săn - The Fox and the Hound"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/87uShMszqPxwA034GsskGdzJOgN.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/87uShMszqPxwA034GsskGdzJOgN.jpg",
+      "Name": "Cáo Và Chó Săn - The Fox and the Hound"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/mov47b0lz10948-3/",
-      "Name": "The Fox and The Hound 1981 ViE 1080p Blu-ray Remux AVC  DTS-HD MA 5.1.iso",
-      "Url": "https://www.fshare.vn/file/61DH2HZA6PRGMLR",
       "Size": "25.24 GB",
-      "FileSize": 27106017280
+      "FileSize": 27106017280,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/61DH2HZA6PRGMLR",
+      "Name": "The Fox and The Hound 1981 ViE 1080p Blu-ray Remux AVC  DTS-HD MA 5.1.iso"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/mov47b0lz10948/",
-      "Name": "The-Fox-And-The-Hound-1981-phimnhanh.com.mkv",
-      "Url": "https://www.fshare.vn/file/8DXACMRPXCLP",
       "Size": "691.96 MB",
-      "FileSize": 725576151
+      "FileSize": 725576151,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/8DXACMRPXCLP",
+      "Name": "The-Fox-And-The-Hound-1981-phimnhanh.com.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/mov47b0lz10948-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/the-fox-and-the-hound",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/the-fox-and-the-hound",
+      "Name": "Subtitle"
     }
-  ]
+  ],
+  "Intro": "Nội dung phim nói về con cáo Tod và con chó săn Copper. Chúng đã là đôi bạn tốt, cho đến mùa săn bắn, vì số phận, lại trở thành đối thủ của nhau&#8230; Một trong những bộ phim hoạt hình hiếm hoi mang lại cảm giác buồn và sâu lắng của Walt Disney.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/hDXg3U4eCxuqvrb7BEDXj2tAsdK-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/LhV6BBvt8Vs?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-fox-and-the-hound/",
+  "Name": "Cáo Và Chó Săn"
 }

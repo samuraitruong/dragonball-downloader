@@ -1,0 +1,44 @@
+{
+  "Id": "movd2s3gj381032",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9xe0c5cgkjyZC06vujkfcO1pwLU.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9xe0c5cgkjyZC06vujkfcO1pwLU.jpg",
+      "Name": "Another Evil"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movd2s3gj381032/",
+      "Size": "4.4 GB",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/6PO343P44ZDJDZLP",
+      "Name": "720p"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movd2s3gj381032-2/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/another-evil",
+      "Name": "Subtitle"
+    }
+  ],
+  "Intro": "After encountering a ghost in his family&#8217;s vacation home, Dan and his wife Mary hire an &#8220;industrial-grade exorcist&#8221; named Os to get rid of the beings.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/fC73oC0xwssWc7ty6dspPvgqfyz-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/5g35dDAXRi8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/another-evil/",
+  "Name": "Another Evil"
+}

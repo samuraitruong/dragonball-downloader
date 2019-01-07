@@ -1,28 +1,92 @@
 {
   "Id": "movagHes6339877",
-  "Url": "https://fsharephim.com/movies/loving-vincent/",
-  "Name": "Loving Vincent",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/adFgBkl35kdI0bSrWZO2xury1JB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/adFgBkl35kdI0bSrWZO2xury1JB.jpg",
+      "Name": "Loving Vincent"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mffWnrVVK9hl6g3E0xPV0sE97HL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mffWnrVVK9hl6g3E0xPV0sE97HL.jpg",
+      "Name": "Loving Vincent"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/diwcbtecMHIi1zPRm2PbibEixph.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/diwcbtecMHIi1zPRm2PbibEixph.jpg",
+      "Name": "Loving Vincent"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/qScpPBM2gUugrI9CzPdN4bR6JEx.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/qScpPBM2gUugrI9CzPdN4bR6JEx.jpg",
+      "Name": "Loving Vincent"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lYRBGBk4UsNitE0vJCAnaCREsnd.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lYRBGBk4UsNitE0vJCAnaCREsnd.jpg",
+      "Name": "Loving Vincent"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5mHUFZzKjxuilwGHiVtmYBWuaIJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5mHUFZzKjxuilwGHiVtmYBWuaIJ.jpg",
+      "Name": "Loving Vincent"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7Prdggn75Oqp3R9ytjIRCfIDZRn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7Prdggn75Oqp3R9ytjIRCfIDZRn.jpg",
+      "Name": "Loving Vincent"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hDq26T0MEg5LCP6cQWRjCy43zGW.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hDq26T0MEg5LCP6cQWRjCy43zGW.jpg",
+      "Name": "Loving Vincent"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jAswfATTFCPFTfVwLkGKUPOk3hY.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jAswfATTFCPFTfVwLkGKUPOk3hY.jpg",
+      "Name": "Loving Vincent"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/movaghes6339877/",
-      "Name": "Loving.Vincent.2017.720p.BluRay.x264-GECKOS.mkv",
-      "Url": "https://www.fshare.vn/file/QJ5SCZPB4C5FEI3",
       "Size": "2.6 GB",
-      "FileSize": 2838335896
+      "FileSize": 2838335896,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/QJ5SCZPB4C5FEI3",
+      "Name": "Loving.Vincent.2017.720p.BluRay.x264-GECKOS.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movaghes6339877-2/",
-      "Name": "Loving.Vincent.2017.1080p.BluRay.x264-GECKOS.mkv",
-      "Url": "https://www.fshare.vn/file/FEGSEB11RJ2DGWX",
       "Size": "4.4 GB",
-      "FileSize": 4691792208
+      "FileSize": 4691792208,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/FEGSEB11RJ2DGWX",
+      "Name": "Loving.Vincent.2017.1080p.BluRay.x264-GECKOS.mkv"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/movaghes6339877-3/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/loving-vincent/vietnamese",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/loving-vincent/vietnamese",
+      "Name": "Viet - Subtitle"
     }
-  ]
+  ],
+  "Intro": "The film brings the paintings of Vincent van Gogh to life to tell his remarkable story. Every one of the 65,000 frames of the film is an oil-painting hand-painted by 125 professional oil-painters who travelled from all across the world to the Loving Vincent studios in Poland and Greece to be a part of the production. As remarkable as Vincent’s brilliant paintings are his passionate and ill-fated life and mysterious death.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/01/qlrhwUDe7YOZujAYanK6ij2vbY5-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/47h6pQ6StCk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/loving-vincent/",
+  "Name": "Loving Vincent"
 }

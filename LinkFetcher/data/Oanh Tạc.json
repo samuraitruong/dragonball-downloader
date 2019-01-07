@@ -1,0 +1,45 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8Rn4RNhZW88X5LlxTD7ldv8Q7QL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8Rn4RNhZW88X5LlxTD7ldv8Q7QL.jpg ",
+      "Name": "Oanh Tạc - The Bombing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eXv13O8hKcyEMrzDLvizZntMT9o.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eXv13O8hKcyEMrzDLvizZntMT9o.jpg ",
+      "Name": "Oanh Tạc - The Bombing"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5GnpkqCvXxhXYfubWyGsFiyapLj.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5GnpkqCvXxhXYfubWyGsFiyapLj.jpg ",
+      "Name": "Oanh Tạc - The Bombing"
+    }
+  ],
+  "Links": [],
+  "Intro": "Lấy bối cảnh lịch sử thời kỳ Thế chiến thứ II &#8211; từ năm 1937, &#8220;The Bombing&#8221; kể lại cuộc đánh bom không kích vào thành phố Trùng Khánh của quân đội Nhật Bản trong suốt 5 năm. Đây là nơi mà lực lượng chủ lực của tướng Tưởng Giới Thạch đóng quân. Cuộc đánh bom đã gây ra thương vong cho hơn mười ngàn người dân Trùng Khánh. Khu dân cư, trường học, bệnh viện đều hứng chịu ném bom, trở thành một trong bốn cuộc oanh tạc thảm khốc nhất lịch sử: “Đại oanh tạc Trùng Khánh”.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/10/uzcqkLNCI2Tjqscc9dr1TxURzAn-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/BgIJfoo0n9Q?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-bombing/",
+  "Name": "Oanh Tạc"
+}

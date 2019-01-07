@@ -1,0 +1,57 @@
+{
+  "Id": "movQ1O1dp469186",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/kinh-di/",
+      "Name": "Kinh Dị"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/thriller/",
+      "Name": "Thriller"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lVDgu2kfjvyREbwYB2rJeLJqBTu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lVDgu2kfjvyREbwYB2rJeLJqBTu.jpg",
+      "Name": "Net I Die"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/wfiTHyZnacbOY2KhVQ9xOAanIv5.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/wfiTHyZnacbOY2KhVQ9xOAanIv5.jpg",
+      "Name": "Net I Die"
+    }
+  ],
+  "Links": [
+    {
+      "OriginalLink": "https://fsharephim.com/links/movq1o1dp469186/",
+      "Size": "4.37 GB",
+      "FileSize": 4693804597,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/XHFC7MCKIJWP",
+      "Name": "Net.I.Die.2017.720p.BluRay.x264-WiKi.mkv"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movq1o1dp469186-2/",
+      "Size": "7.95 GB",
+      "FileSize": 8536427434,
+      "IsAlive": true,
+      "Url": "https://www.fshare.vn/file/2X83EHX1YJIP",
+      "Name": "Net.I.Die.2017.1080p.BluRay.x264-WiKi.mkv"
+    },
+    {
+      "OriginalLink": "https://fsharephim.com/links/movq1o1dp469186-3/",
+      "Size": "--",
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/net-i-die",
+      "Name": "Subtitle"
+    }
+  ],
+  "Intro": null,
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/w9jNKQSa99o7Cf6ScGxT5agRtMY-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/CCLP6-oRP5o?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/net-i-die/",
+  "Name": "Net I Die"
+}

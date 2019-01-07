@@ -1,0 +1,46 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hai-huoc/",
+      "Name": "Hài Hước"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/toi-pham/",
+      "Name": "Tội Phạm"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/8bRIfPGDnmWgdy65LO8xtdcFmFP.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/8bRIfPGDnmWgdy65LO8xtdcFmFP.jpg ",
+      "Name": "Lão Già Và Khẩu Súng - The Old Man &#038; the Gun"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6onhSX3TyHyQJBlVYKjFkpARld6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6onhSX3TyHyQJBlVYKjFkpARld6.jpg ",
+      "Name": "Lão Già Và Khẩu Súng - The Old Man &#038; the Gun"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/6X2YjjYcs8XyZRDmJAHNDlls7L4.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/6X2YjjYcs8XyZRDmJAHNDlls7L4.jpg ",
+      "Name": "Lão Già Và Khẩu Súng - The Old Man &#038; the Gun"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gJT8MuzVeJ4neKD8TJuNchi1aQc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gJT8MuzVeJ4neKD8TJuNchi1aQc.jpg ",
+      "Name": "Lão Già Và Khẩu Súng - The Old Man &#038; the Gun"
+    }
+  ],
+  "Links": [],
+  "Intro": "Một câu chuyện có thật về Forrest Tucker, từ việc trốn thoát cực kỳ mạo của anh ta khỏi San Quentin ở tuổi 70 cho đến một chuỗi những vụ trộm chưa từng có, đã khiến chính quyền bối rối và sự của mê hoặc công chúng. \u001dLà một thám tử bị cuốn vào cuộc truy đuổi và  miệt mài với cam kết của Forrest, với nghề của anh ta, và một người phụ nữ, người yêu anh ta bất chấp nghề nghiệp mà hắn ta chọn.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2019/01/6ra3UlOwcPwj5euC2jbhga7IH5i-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/d7rlUe-Thvk?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/the-old-man-the-gun/",
+  "Name": "Lão Già Và Khẩu Súng"
+}

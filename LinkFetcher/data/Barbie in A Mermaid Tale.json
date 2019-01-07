@@ -1,14 +1,56 @@
 {
-  "Id": "movv2Apvo34134",
-  "Url": "https://fsharephim.com/movies/barbie-in-a-mermaid-tale/",
-  "Name": "Barbie in A Mermaid Tale",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movv2apvo34134/",
-      "Name": "Barbie.In.A.Mermaid.Tale.2010.VIE.DVD9.Remux.mkv",
-      "Url": "https://www.fshare.vn/file/TJF8511BMT",
-      "Size": "3.93 GB",
-      "FileSize": 4224470981
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/5x3hj0mBo2KrAVaA5Ix0FGixMsu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/5x3hj0mBo2KrAVaA5Ix0FGixMsu.jpg",
+      "Name": "Barbie in A Mermaid Tale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iVob7xqubXJSCStBLN3rjKsnStG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iVob7xqubXJSCStBLN3rjKsnStG.jpg",
+      "Name": "Barbie in A Mermaid Tale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eihAeWx2qtea5uIlwPgDE4Wspwm.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eihAeWx2qtea5uIlwPgDE4Wspwm.jpg",
+      "Name": "Barbie in A Mermaid Tale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/iqQq575lK5GBGHN6Qlk9q8s1BFZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/iqQq575lK5GBGHN6Qlk9q8s1BFZ.jpg",
+      "Name": "Barbie in A Mermaid Tale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t3bZHRoynXfCp5NWKPrdHuYmhJw.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t3bZHRoynXfCp5NWKPrdHuYmhJw.jpg",
+      "Name": "Barbie in A Mermaid Tale"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/sv64xBeLU4GRmOmca1EkyxC7xAi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/sv64xBeLU4GRmOmca1EkyxC7xAi.jpg",
+      "Name": "Barbie in A Mermaid Tale"
+    }
+  ],
+  "Links": [],
+  "Intro": "Barbie stars as Merliah, a surfing champion from Malibu. One minute she’s a normal teenager and the next she learns a shocking family secret: she’s a mermaid! Merliah and her dolphin friend Zuma set off on an undersea adventure to rescue her mother, the queen of Oceana. With help from her new mermaid friends, Merliah saves the ocean kingdom.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/jtOlo3AaXVBnqfMeKGFrZUMPFui-185x278.jpg",
+  "Trailer": null,
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/barbie-in-a-mermaid-tale/",
+  "Name": "Barbie in A Mermaid Tale"
 }

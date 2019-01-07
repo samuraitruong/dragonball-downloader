@@ -1,0 +1,55 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chien-tranh/",
+      "Name": "Chiến Tranh"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lich-su/",
+      "Name": "Lịch Sử"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/gP9C1wmbF2CV4SZkPbVvfawRuTv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/gP9C1wmbF2CV4SZkPbVvfawRuTv.jpg",
+      "Name": "Windtalkers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/k820a0EWc8POO6StP5kxmtEmuKI.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/k820a0EWc8POO6StP5kxmtEmuKI.jpg",
+      "Name": "Windtalkers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hKYKBzThePteb1A8K1KbMVku1kl.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hKYKBzThePteb1A8K1KbMVku1kl.jpg",
+      "Name": "Windtalkers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/jWebi5CQZrfvcoFXm5QxQYYvdgn.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/jWebi5CQZrfvcoFXm5QxQYYvdgn.jpg",
+      "Name": "Windtalkers"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/hyB5JAq0f12H01SI2i6046Xwk0Q.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/hyB5JAq0f12H01SI2i6046Xwk0Q.jpg",
+      "Name": "Windtalkers"
+    }
+  ],
+  "Links": [],
+  "Intro": "Joe Enders is a gung-ho Marine assigned to protect a &#8220;windtalker&#8221; &#8211; one of several Navajo Indians who were used to relay messages during World War II because their spoken language was indecipherable to Japanese code breakers.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/04/siWpVZlD3pahKXNnV9M52yCMZJG-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/86QB_WXYcqE?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/windtalkers/",
+  "Name": "Windtalkers"
+}

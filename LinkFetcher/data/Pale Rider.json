@@ -1,0 +1,67 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/mien-tay/",
+      "Name": "Miền Tây"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/2Sjgpf8XLtphbfCTPS8ZU96b2J1.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/2Sjgpf8XLtphbfCTPS8ZU96b2J1.jpg",
+      "Name": "Pale Rider"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lSH1j2uChyuxKmslXRf1AGyi43p.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lSH1j2uChyuxKmslXRf1AGyi43p.jpg",
+      "Name": "Pale Rider"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/eLy5yIp8isWcXjunGV69Nd6zNAz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/eLy5yIp8isWcXjunGV69Nd6zNAz.jpg",
+      "Name": "Pale Rider"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/urL7ps4Hhg8xg2FnYOaQoSw4jHa.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/urL7ps4Hhg8xg2FnYOaQoSw4jHa.jpg",
+      "Name": "Pale Rider"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/QO3QAUmSWUUpR8yFdfejNHVJSR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/QO3QAUmSWUUpR8yFdfejNHVJSR.jpg",
+      "Name": "Pale Rider"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7zC9vpt0UPZ8SES4EL43LK6ad6G.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7zC9vpt0UPZ8SES4EL43LK6ad6G.jpg",
+      "Name": "Pale Rider"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/trzERKnMxNFYsyFbsfO7a8EL1Bi.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/trzERKnMxNFYsyFbsfO7a8EL1Bi.jpg",
+      "Name": "Pale Rider"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/3jXQ9HgKNq3TmjNbkTfFaFQour.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/3jXQ9HgKNq3TmjNbkTfFaFQour.jpg",
+      "Name": "Pale Rider"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/4va5D4PJ3gdD3PmZpEAoUVZpQ0R.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/4va5D4PJ3gdD3PmZpEAoUVZpQ0R.jpg",
+      "Name": "Pale Rider"
+    }
+  ],
+  "Links": [],
+  "Intro": "A small gold mining camp is terrorised by a ruthless land owner wanting to take their land. Clint Eastwood arrives riding a pale horse just as a young girl is praying to God to help the miners. He is revealed to be a preacher with mysterious and possible otherworldly origins who teams up with the miners to defeat the land owner and the corrupt sheriff.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/03/kuW0c9bdxjeQ52O5AzXmR3LVRbZ-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ePlyWlhobDU?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/pale-rider/",
+  "Name": "Pale Rider"
+}

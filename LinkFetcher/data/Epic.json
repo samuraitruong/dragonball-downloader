@@ -1,49 +1,80 @@
 {
-  "Id": "movayXzYQ116711",
-  "Url": "https://fsharephim.com/movies/epic/",
-  "Name": "Epic",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movayxzyq116711-6/",
-      "Name": "1080p - Thuyết Minh",
-      "Url": "http://www.fshare.vn/file/TJRW2GSDAT",
-      "Size": "8.68 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movayxzyq116711-4/",
-      "Name": "720p - Thuyết Minh",
-      "Url": "http://www.fshare.vn/file/9NJRCX7C71",
-      "Size": "4.6 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movayxzyq116711-5/",
-      "Name": "Viet - Subtitle",
-      "Url": "http://www.fshare.vn/file/2B4PESA9GV/",
-      "Size": "106.9 KB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/ky-ao/",
+      "Name": "Kỳ Ảo"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movayxzyq116711/",
-      "Name": "WEB-DL-720p",
-      "Url": "http://www.fshare.vn/file/81L1BJ9LF7",
-      "Size": "3.1 GB",
-      "FileSize": 0
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movayxzyq116711-2/",
-      "Name": "WEB-DL-1080p",
-      "Url": "http://www.fshare.vn/file/XWN1BXK76O",
-      "Size": "3.7 GB",
-      "FileSize": 0
-    },
-    {
-      "OriginalLink": "https://fsharephim.com/links/movayxzyq116711-3/",
-      "Name": "1080p",
-      "Url": "http://www.fshare.vn/file/Q6AK2DOMM6/",
-      "Size": "7.9 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/v6w2o3ji8aVLph6zNgR5yDGQfmS.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/v6w2o3ji8aVLph6zNgR5yDGQfmS.jpg",
+      "Name": "Epic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/24bn4SsjJrNv0J9ylTZUo2YNUGO.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/24bn4SsjJrNv0J9ylTZUo2YNUGO.jpg",
+      "Name": "Epic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nBDzW20MPF0sic3MicKynjhANxC.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nBDzW20MPF0sic3MicKynjhANxC.jpg",
+      "Name": "Epic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7mxDk6y0aL3vgr09chF1MaltzxE.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7mxDk6y0aL3vgr09chF1MaltzxE.jpg",
+      "Name": "Epic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/28f5hHPX5EsrepxTal9FH13l6O.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/28f5hHPX5EsrepxTal9FH13l6O.jpg",
+      "Name": "Epic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/366pgjH1WkC2A1vfeIt1efJC3Gc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/366pgjH1WkC2A1vfeIt1efJC3Gc.jpg",
+      "Name": "Epic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/b2stm7QeGj1mgzG3Q2hGP1UScVL.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/b2stm7QeGj1mgzG3Q2hGP1UScVL.jpg",
+      "Name": "Epic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uaOfk9abqgt8aeTedVOOy6zT8h.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uaOfk9abqgt8aeTedVOOy6zT8h.jpg",
+      "Name": "Epic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yRCtJwcUzPknmFByK0wcBnuPRBz.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yRCtJwcUzPknmFByK0wcBnuPRBz.jpg",
+      "Name": "Epic"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nQy8XORE8TYDzTPc2cNG063sODc.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nQy8XORE8TYDzTPc2cNG063sODc.jpg",
+      "Name": "Epic"
+    }
+  ],
+  "Links": [],
+  "Intro": "A teenager finds herself transported to a deep forest setting where a battle between the forces of good and the forces of evil is taking place. She bands together with a rag-tag group characters in order to save their world &#8212; and ours.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/11/dUeXOJCpfWmZd9KaPkq2122J1ji-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/_KqNCnd8AN4?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/epic/",
+  "Name": "Epic"
 }

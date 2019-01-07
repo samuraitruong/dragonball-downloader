@@ -1,0 +1,27 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/lang-man/",
+      "Name": "Lãng Mạn"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/r3IJLWkORZWJD7v9yT4yFzp2XQ6.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/r3IJLWkORZWJD7v9yT4yFzp2XQ6.jpg",
+      "Name": "Yi Yi"
+    }
+  ],
+  "Links": [],
+  "Intro": "Each member of a family in Taipei asks hard questions about life&#8217;s meaning as they live through everyday quandaries.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/10/hhsYCYVPy1V0eTjkGNGdvpDO2qk-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/EbwNZGrRfF8?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/yi-yi/",
+  "Name": "Yi Yi"
+}

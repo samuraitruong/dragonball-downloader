@@ -1,21 +1,78 @@
 {
   "Id": "mov6OYHkr45162",
-  "Url": "https://fsharephim.com/movies/supermanbatman-apocalypse/",
-  "Name": "Siêu Nhân/ Người Dơi Đại Chiến : Khải Huyền",
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/bMNEElThWSUgzFUOn5SYU4eHYXG.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/bMNEElThWSUgzFUOn5SYU4eHYXG.jpg",
+      "Name": "Siêu Nhân/ Người Dơi Đại Chiến : Khải Huyền - Superman/Batman: Apocalypse"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/9f9SQJRvZaXrAM3nJFAhZF5x3BR.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/9f9SQJRvZaXrAM3nJFAhZF5x3BR.jpg",
+      "Name": "Siêu Nhân/ Người Dơi Đại Chiến : Khải Huyền - Superman/Batman: Apocalypse"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/74H4XXU0q22TSrkPmlqkcWoX5ZZ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/74H4XXU0q22TSrkPmlqkcWoX5ZZ.jpg",
+      "Name": "Siêu Nhân/ Người Dơi Đại Chiến : Khải Huyền - Superman/Batman: Apocalypse"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/uGxJYvHi6iWJFIeYYt4oIUP8O4v.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/uGxJYvHi6iWJFIeYYt4oIUP8O4v.jpg",
+      "Name": "Siêu Nhân/ Người Dơi Đại Chiến : Khải Huyền - Superman/Batman: Apocalypse"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7vlA6irpMMWLhA4qx7KBScU9Pnu.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7vlA6irpMMWLhA4qx7KBScU9Pnu.jpg",
+      "Name": "Siêu Nhân/ Người Dơi Đại Chiến : Khải Huyền - Superman/Batman: Apocalypse"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/nYEr8hyJErYv3XU013a5hEUeGsQ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/nYEr8hyJErYv3XU013a5hEUeGsQ.jpg",
+      "Name": "Siêu Nhân/ Người Dơi Đại Chiến : Khải Huyền - Superman/Batman: Apocalypse"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/7hHRlPorraGDIiy4ZQEoksJpK4Z.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/7hHRlPorraGDIiy4ZQEoksJpK4Z.jpg",
+      "Name": "Siêu Nhân/ Người Dơi Đại Chiến : Khải Huyền - Superman/Batman: Apocalypse"
+    }
+  ],
   "Links": [
     {
       "OriginalLink": "https://fsharephim.com/links/mov6oyhkr45162/",
-      "Name": "720p",
-      "Url": "https://www.fshare.vn/file/G663LHEAYN5G",
       "Size": "2.43 GB",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://www.fshare.vn/file/G663LHEAYN5G",
+      "Name": "720p"
     },
     {
       "OriginalLink": "https://fsharephim.com/links/mov6oyhkr45162-2/",
-      "Name": "Viet - Subtitle",
-      "Url": "https://subscene.com/subtitles/supermanbatman-apocalypse/swedish/369597",
       "Size": "--",
-      "FileSize": 0
+      "FileSize": 0,
+      "IsAlive": false,
+      "Url": "https://subscene.com/subtitles/supermanbatman-apocalypse/swedish/369597",
+      "Name": "Viet - Subtitle"
     }
-  ]
+  ],
+  "Intro": "Trong phần này, Batman phát hiện ra một cô gái bí ẩn có năng lực siêu phàm và có mối liên hệ với Supper Man. Khi cô gái rơi vào tầm ngắm của Darkseid, chúa tể của Apocolips thì vô vàn nguy hiểm cũng đến với cô&#8230; Bằng lòng quả cảm của mình, liệu Batman có thể cứu cô gái thoát khỏi nguy hiểm hay không?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/02/wNtrbql45NqvomsYKr3uHXgFj2D-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/VoW0m4Li2Bg?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/supermanbatman-apocalypse/",
+  "Name": "Siêu Nhân/ Người Dơi Đại Chiến : Khải Huyền"
 }

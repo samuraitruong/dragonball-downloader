@@ -1,28 +1,80 @@
 {
-  "Id": "movITROSv260513",
-  "Url": "https://fsharephim.com/movies/incredibles-2/",
-  "Name": "Gia Đình Siêu Nhân 2",
-  "Links": [
+  "Id": null,
+  "Genres": [
     {
-      "OriginalLink": "https://fsharephim.com/links/movitrosv260513-3/",
-      "Name": "1080p",
-      "Url": "http://www.fshare.vn/file/9CMTY5ITBTY1",
-      "Size": "5.47 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/gia-dinh/",
+      "Name": "Gia Đình"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movitrosv260513-2/",
-      "Name": "Subtitle",
-      "Url": "https://subscene.com/subtitles/incredibles-2",
-      "Size": "--",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hanh-dong/",
+      "Name": "Hành Động"
     },
     {
-      "OriginalLink": "https://fsharephim.com/links/movitrosv260513/",
-      "Name": "WEB-DL-1080p",
-      "Url": "http://www.fshare.vn/file/85PV3EHWVE2U",
-      "Size": "4.02 GB",
-      "FileSize": 0
+      "Url": "https://fsharephim.com/genre/hoat-hinh/",
+      "Name": "Hoạt Hình"
+    },
+    {
+      "Url": "https://fsharephim.com/genre/phieu-luu/",
+      "Name": "Phiêu Lưu"
     }
-  ]
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg ",
+      "Name": "Gia Đình Siêu Nhân 2 - Incredibles 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/kqoBtMmiycbbhGLXGkKhL8SdaWB.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/kqoBtMmiycbbhGLXGkKhL8SdaWB.jpg ",
+      "Name": "Gia Đình Siêu Nhân 2 - Incredibles 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/icJMUsqMD2MPnePHinWdqYgkywt.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/icJMUsqMD2MPnePHinWdqYgkywt.jpg ",
+      "Name": "Gia Đình Siêu Nhân 2 - Incredibles 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/fWTZdK1hJnNklNWT0kzbYLiJgWv.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/fWTZdK1hJnNklNWT0kzbYLiJgWv.jpg ",
+      "Name": "Gia Đình Siêu Nhân 2 - Incredibles 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/t2ro9DhNN83dH4y3cKpmpPFybqF.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/t2ro9DhNN83dH4y3cKpmpPFybqF.jpg ",
+      "Name": "Gia Đình Siêu Nhân 2 - Incredibles 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/yrALKf6ntKJPofImuIHFehGfwdJ.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/yrALKf6ntKJPofImuIHFehGfwdJ.jpg ",
+      "Name": "Gia Đình Siêu Nhân 2 - Incredibles 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/rOi9B6dsQOhXVvzolL2UVRhTFu3.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/rOi9B6dsQOhXVvzolL2UVRhTFu3.jpg ",
+      "Name": "Gia Đình Siêu Nhân 2 - Incredibles 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/coYYp9v52nWxohWCP8IGxerDm65.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/coYYp9v52nWxohWCP8IGxerDm65.jpg ",
+      "Name": "Gia Đình Siêu Nhân 2 - Incredibles 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/g1RA3pSKwjb3ZAvm3a3H7LxAwat.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/g1RA3pSKwjb3ZAvm3a3H7LxAwat.jpg ",
+      "Name": "Gia Đình Siêu Nhân 2 - Incredibles 2"
+    },
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/cYA94llTdnBG5LazDf3Ez4zU87H.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/cYA94llTdnBG5LazDf3Ez4zU87H.jpg ",
+      "Name": "Gia Đình Siêu Nhân 2 - Incredibles 2"
+    }
+  ],
+  "Links": [],
+  "Intro": "Gia Đình Siêu Nhân 2 đánh dấu những chuyến phiêu lưu anh hùng đầy hấp dẫn với sự đổi vai đầy táo bạo. Lần này, mẹ dẻo Helen (Elastigirl) sẽ đi thực chiến giải cứu thế giới trong khi bố khỏe Bob (Mr. Incredible) lùi về hậu phương trông nom những đứa con siêu nhân láu lỉnh gồm: con gái Violet ( siêu năng lực tàng hình và tạo ra từ trường làm chắn bảo vệ), con trai Dash (chạy siêu nhanh) và cậu út Jack-Jack với sức mạnh chưa được khám phá. Một ác nhân bí ẩn xuất hiện với một âm mưu đáng sợ khiến cho gia đình siêu nhân phải “tái xuất giang hồ”. Liệu gia đình siêu nhân sẽ vượt qua khó khăn này như thế nào?",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2018/10/x1txcDXkcM65gl7w20PwYSxAYah-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/ZJDMWVZta3M?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/incredibles-2/",
+  "Name": "Gia Đình Siêu Nhân 2"
 }

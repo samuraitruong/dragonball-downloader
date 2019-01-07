@@ -1,0 +1,23 @@
+{
+  "Id": null,
+  "Genres": [
+    {
+      "Url": "https://fsharephim.com/genre/chinh-kich/",
+      "Name": "Chính Kịch"
+    }
+  ],
+  "Images": [
+    {
+      "Thumbnail": "https://image.tmdb.org/t/p/w300/lZn6CKwvLEIc2mty2ao717I1FxT.jpg",
+      "Url": "https://image.tmdb.org/t/p/original/lZn6CKwvLEIc2mty2ao717I1FxT.jpg ",
+      "Name": "Rebel in the Rye"
+    }
+  ],
+  "Links": [],
+  "Intro": "The life of celebrated but reclusive author, J.D. Salinger, who gained worldwide fame with the publication of his novel, The Catcher in the Rye.",
+  "Poster": "https://fsharephim.com/wp-content/uploads/2017/12/fjmMtBIqg65MPOJXOtoLCKYjVUn-185x278.jpg",
+  "Trailer": "https://www.youtube.com/embed/VWRhXMMb7CY?rel=0&amp;controls=1&amp;showinfo=0&autoplay=0",
+  "Seasons": null,
+  "Url": "https://fsharephim.com/movies/rebel-in-the-rye/",
+  "Name": "Rebel in the Rye"
+}
