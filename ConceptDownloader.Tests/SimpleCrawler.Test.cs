@@ -63,5 +63,21 @@ namespace ConceptDownloader.Tests
             Assert.Equal(2028884531, item.Size);
         }
 
+        [Fact]
+        public async Task ExtractLinks_Should_Return_3Links()
+        {
+            var list = await this.crawler.ExtractLinks("https://gist.githubusercontent.com/samuraitruong/9fe07328a067a27bfd13d9ba01a5c80f/raw/e6403a8d7756c2ab7db2bb390d1401e627fe0930/legomovie4k.txt");
+            Assert.NotEmpty(list);
+            Assert.Equal(3, list.Count);
+        }
+
+        [Fact]
+        public async Task ExtractLinks_WithFilter_Should_Return_3Links()
+        {
+            var list = await this.crawler.ExtractLinks("https://gist.githubusercontent.com/samuraitruong/9fe07328a067a27bfd13d9ba01a5c80f/raw/e6403a8d7756c2ab7db2bb390d1401e627fe0930/legomovie4k.txt", "SBWAF2P6C1TQ", "WZ2W7YXJM6R4");
+            Assert.NotEmpty(list);
+            Assert.Equal(2, list.Count);
+        }
+
     }
 }

@@ -499,7 +499,7 @@ namespace ConceptDownloader
             }
             return null;
         }
-        public static void Run(ApplicationArguments inputOptions)
+        public static async Task Run(ApplicationArguments inputOptions)
         {
             totalItems = 0;
             indexCount = 0;
@@ -525,13 +525,13 @@ namespace ConceptDownloader
             if (fs.IsFShareFolder(options.Url))
             {
                 Console.WriteLine("Wating to read fshare folder content: " + options.Url);
-                var folderContents = fs.GetFilesInFolder(options.Url).Result;
+                var folderContents = await fs.GetFilesInFolder(options.Url);
                 if (folderContents != null)
                 {
                     var listItem = folderContents.Items.Select(x => new DownloadableItem(x.Url)
                     {
                         Name = x.Name,
-                        Size = x.Size,
+                        Size = x.Size.Value,
                         ShortName = x.Name.ToMovieShortName()
                     }).ToList();
                     if (!options.DownloadAll)
@@ -560,11 +560,17 @@ namespace ConceptDownloader
 
                 urlsToDownload.AddRange(urlsFile.Select(x => new DownloadableItem(x)));
             }
+            if (!String.IsNullOrEmpty(options.Url) && options.ExtractLinkMode)
+            {
+                Console.WriteLine("Wating to fetch content from : " + options.Url);
+                var urls = await crawler.ExtractLinks(options.Url);
+                urlsToDownload.AddRange(urls);
+            }
 
             if (!String.IsNullOrEmpty(options.Url) && options.CrawlMode)
             {
                 Console.WriteLine("Wating to fetch content....");
-                var urls = crawler.GetLinks(options.Url, options.Recursive).Result;
+                var urls = await crawler.GetLinks(options.Url, options.Recursive);
                 urlsToDownload.AddRange(urls);
             }
             if (urlsToDownload.Count == 0)
@@ -599,7 +605,7 @@ namespace ConceptDownloader
                 {
                     if (string.IsNullOrEmpty(item.Name))
                     {
-                        item.Name = fs.GetFileName(item.Url).Result;
+                        item.Name = (await fs.GetFShareFileInfo(item.Url)).Name;
                     }
                     //check existing here 
                     var filename = Path.Combine(options.Output, item.Name);

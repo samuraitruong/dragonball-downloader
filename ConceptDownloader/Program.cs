@@ -17,6 +17,10 @@ namespace ConceptDownloader
         public string Url { get; set; }
         [Option('c', "crawl-mode", Default = false, Required = false, HelpText = "Download in crawl mode that collect links from html page and download em all")]
         public bool CrawlMode { get; set; }
+
+        [Option( "extract-link-mode", Default = false, Required = false, HelpText = "Extract link from webpage or gist file")]
+        public bool ExtractLinkMode { get; set; }
+
         [Option('f', "filter", Required = false, HelpText = "Filter the link to download in crawl mode (ex :.mkv)")]
         public string Filter { get; set; }
 
@@ -78,7 +82,7 @@ namespace ConceptDownloader
                   .WithParsed<ApplicationArguments>(o =>
                   {
                       // read from file
-                      SimpleDownloader.Run(o);
+                      SimpleDownloader.Run(o).Wait();
                   });
         }
 

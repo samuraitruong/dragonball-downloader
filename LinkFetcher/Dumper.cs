@@ -16,7 +16,7 @@ static class ObjectHelper
         {
             string json = JsonConvert.SerializeObject(x, Formatting.Indented);
             var path = Path.GetDirectoryName(filename);
-            if(!Directory.Exists(path)) { 
+            if(!Directory.Exists(path) && !string.IsNullOrEmpty(path)) { 
             Directory.CreateDirectory(path);
             }
 

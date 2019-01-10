@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using OpenQA.Selenium;
@@ -15,6 +16,20 @@ namespace LinkFetcher
         }
         static async Task Run()
         {
+            var dhvn = new HDVietNam("samuraitruong", "250538804");
+            var logged = await dhvn.Login();
+            Console.WriteLine("Logged successfull....");
+            var l250 = await dhvn.GetLinksIntContent("http://www.hdvietnam.com/threads/collection-top-250-best-movies-of-imdb-720p-1080p-remux-250-phim-xep-hang-cao-nhat-theo-imdb.1406130/");
+            l250.Dump();
+            var all2050links = dhvn.GetMovieLinks(l250);
+            //var links1 = await dhvn.GetMovieLinks("http://www.hdvietnam.com/threads/hanh-dong-chinh-kich-fight-club-1999-1080p-edt-bluray-dts-x264-d-z0n3-cau-lac-bo-chien-dau.1413883/");
+            //links1.Dump();
+            var csvData = all2050links.SelectMany(x => x.Links.Where(y => y.FileSize > 0).Select(link => $"{x.Name},{link.Url}, {link.Name}, {link.Size}")).ToList();
+            File.WriteAllLines("IMDB250.csv", csvData);
+            all2050links.WriteTo("imdb250.json");
+
+            return;
+
             var t = new TaiPhimHD("samuraitruong@hotmail.com", "@Abc123$");
             var l = await t.Login();
             var links = await t.GetTopicPosts("https://taiphimhd.com/forums/phim-hoat-hinh.15/");

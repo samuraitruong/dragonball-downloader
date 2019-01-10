@@ -59,7 +59,44 @@ namespace ConceptDownloader.Tests
             Assert.NotNull(result);
             Assert.Contains("Skyscraper.2018.1080p.BluRay.DD5.1.x264-TayTO Vietnamese.srt", result.Url);
         }
+        [Fact]
+        public async Task GetMyFiles_Should_Success()
+        {
+            var fs = new Fshare(username, password);
 
+            var result = await fs.GetMyFiles();
+            Assert.NotNull(result);
+            Assert.NotEmpty(result);
+        }
+
+        [Fact]
+        public async Task CloneFile_UnSecure_Success()
+        {
+            var fs = new Fshare(username, password);
+
+            var result = await fs.CloneFile("https://www.fshare.vn/file/LU62I2KCO7MC");
+
+            Assert.NotNull(result);
+            Assert.NotNull(result.Linkcode);
+        }
+
+        [Fact]
+        public async Task Delete_Should_Success()
+        {
+            var fs = new Fshare(username, password);
+
+            var result = await fs.CloneFile("https://www.fshare.vn/file/LU62I2KCO7MC");
+
+            Assert.NotNull(result);
+            Assert.NotNull(result.Linkcode);
+
+            var file = await fs.GetFShareFileInfo("https://www.fshare.vn/file/" + result.Linkcode);
+            Assert.NotNull(file);
+            await fs.DeleteFile("https://www.fshare.vn/file/" + result.Linkcode);
+
+            file = await fs.GetFShareFileInfo("https://www.fshare.vn/file/" + result.Linkcode);
+            Assert.Null(file);
+        }
 
     }
 }

@@ -73,7 +73,7 @@ namespace ConceptDownloader.Models
         public long? Pid { get; set; }
 
         [JsonProperty("size")]
-        public long Size { get; set; }
+        public long? Size { get; set; }
 
         [JsonProperty("mimetype")]
         public string Mimetype { get; set; }
@@ -85,22 +85,22 @@ namespace ConceptDownloader.Models
         public string Description { get; set; }
 
         [JsonProperty("created")]
-        public long Created { get; set; }
+        public long? Created { get; set; }
 
         [JsonProperty("lastdownload")]
-        public long Lastdownload { get; set; }
+        public long? Lastdownload { get; set; }
 
         [JsonProperty("pwd")]
-        public long Pwd { get; set; }
+        public long? Pwd { get; set; }
 
         [JsonProperty("modified")]
-        public long Modified { get; set; }
+        public long? Modified { get; set; }
 
         [JsonProperty("follow")]
-        public long Follow { get; set; }
+        public long? Follow { get; set; }
 
         [JsonProperty("canFollow")]
-        public long CanFollow { get; set; }
+        public long? CanFollow { get; set; }
         public string Url => "https://www.fshare.vn/file/" + this.LinkCode;
     }
 

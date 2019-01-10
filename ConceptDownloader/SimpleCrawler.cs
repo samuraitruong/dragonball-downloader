@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using System.Web;
 using Console = Colorful.Console;
 using ConceptDownloader.Models;
+using System.Net.Http;
 
 namespace ConceptDownloader
 {
@@ -94,6 +95,31 @@ namespace ConceptDownloader
             pageItems.Reverse();
             pageItems.ForEach(x => results.Add(x));
             return results.ToList();
+        }
+
+        public async Task<List<DownloadableItem>> ExtractLinks(string url, params string[] filters)
+        {
+            var result = new List<DownloadableItem>();
+
+            using (var client = new HttpClient())
+            {
+                var html = await client.GetStringAsync(url);
+
+                var matches = Regex.Matches(html, "https?:\\/\\/(www.)?([a-zA-Z0-9-_]*.[a-z-0-9]{2,5})(\\/.*)?");
+                if(matches != null)
+                {
+                    result = matches.Cast<Match>()
+                        .Select(x => new DownloadableItem() { Url = x.Value })
+                        .ToList();
+                }
+            }
+            //filter
+            if(filters.Length >0)
+            {
+                result = result.Where(x => filters.Any(x.Url.Contains))
+                .ToList();
+            }
+            return result;
         }
     }
 }
