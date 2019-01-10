@@ -33,6 +33,7 @@ namespace System
             replacedInput = replacedInput.Replace("-", ".");
             replacedInput = replacedInput.Replace("_", ".");
             replacedInput = replacedInput.Replace("4k", "");
+            replacedInput = replacedInput.Replace("remastered", "");
             replacedInput = replacedInput.Replace("mastered.in", "");
             replacedInput = Regex.Replace(replacedInput, "\\.{2,}", ".");
             replacedInput = Regex.Replace(replacedInput, "\\d{3,}p", "|");

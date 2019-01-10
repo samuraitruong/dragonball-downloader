@@ -586,8 +586,10 @@ namespace ConceptDownloader
                 indexCount++;
                 var downloadableItem = item;
                 if (!continueAlready &&
-                !string.IsNullOrEmpty(options.ContinueFrom) &&
-                    !item.Url.ToLower().Contains(options.ContinueFrom.ToLower()))
+                !string.IsNullOrEmpty(options.ContinueFrom) && (
+                    !item.Url.ToLower().Contains(options.ContinueFrom.ToLower()) || (
+                        !string.IsNullOrEmpty(item.Name) && !item.Name.ToLower().Contains(options.ContinueFrom.ToLower())
+                    )))
                 {
                     continue;
                 }
@@ -624,6 +626,7 @@ namespace ConceptDownloader
                     downloadableItem = fi;
                     downloadableItem.Name = downloadableItem.Name != null ? downloadableItem.Name : item.Name;
                 }
+
                 UpdateConsoleTitle();
                 Console.Clear();
                 int retry = 0;
