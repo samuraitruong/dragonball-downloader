@@ -13,6 +13,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="004.mp4" />
+    <None Remove="output\Asia 260 - Dan Nguyen - Nhung loi nay cho em%281%29.rar.chunks" />
+    <None Remove="output\Asia 260 - Dan Nguyen - Nhung loi nay cho em%281%29.rar.log" />
+    <None Remove="output\Asia 260 - Dan Nguyen - Nhung loi nay cho em%281%29.rar.chunks" />
+    <None Remove="output\Skyscraper.2018.1080p.BluRay.DD5.1.x264-TayTO Vietnamese.srt" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />

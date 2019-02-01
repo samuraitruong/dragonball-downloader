@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -211,11 +212,13 @@ namespace ConceptDownloader.Services
             return null;
         }
 
-        //Get link of 1 file
 
-        public async Task<FShareFolderResponse> GetFilesInFolder(string url)
+        public async Task<FShareFolderResponse> GetFilesInFolder(string url, int page = 1)
         {
+            Dictionary<int, FShareFolderResponse> allPageResult = new Dictionary<int, FShareFolderResponse>();
+
             string urlToDownload = "";
+
             if(url.Contains("v3/files"))
             {
                 urlToDownload = "https://www.fshare.vn/api" + url;
@@ -224,7 +227,7 @@ namespace ConceptDownloader.Services
             {
                 string splitUrl = url.Split('?')[0];
                 var folderCode = splitUrl.Split("/").Last();
-                urlToDownload = "https://www.fshare.vn/api/v3/files/folder?linkcode=" + folderCode + "&sort=type,name";
+                urlToDownload = "https://www.fshare.vn/api/v3/files/folder?linkcode=" + folderCode + "&sort=type,name&page=" + page +"&per-page=50";
             }
             try
             {
@@ -241,17 +244,42 @@ namespace ConceptDownloader.Services
                 request.AddHeader("pragma", "no-cache");
                 var response = await client.ExecuteTaskAsync<FShareFolderResponse>(request);
                 var result = FShareFolderResponse.FromJson(response.Content);
-                Console.WriteLine($"Found {result.Items.Count} items ...", ConsoleColor.DarkGreen);
-                if (result.Links.Next != null)
+                allPageResult.Add(page, result);
+                Console.WriteLine($"Reading Fshare folder: {url}, Page = {page}, Found {result.Items.Count} items ...", ConsoleColor.DarkGreen);
+                if (result.Links.Last!= null && page ==1)
                 {
-                    var nextResults = await GetFilesInFolder(result.Links.Next);
-                    if(nextResults != null && nextResults.Items != null)
-                    result.Items.AddRange(nextResults.Items);
+                    var match = Regex.Match(result.Links.Last, "page=(\\d*)");
+                    if (match.Success)
+                    {
+                        var totalPage = Convert.ToInt32(match.Groups[1].Value);
+                        Parallel.ForEach(Enumerable.Range(2, totalPage - 1), new ParallelOptions() {  MaxDegreeOfParallelism = 5}, pageNumber =>
+                         {
+                            var nextResults = GetFilesInFolder(url, pageNumber).Result;
+                             allPageResult.Add(pageNumber, nextResults);
+
+                         });
+                        //append it to result and return
+                        for(var i =2; i<= totalPage; i++)
+                        {
+                            if(allPageResult[i] != null)
+                            result.Items.AddRange(allPageResult[i].Items);
+                        }
+}
+                }
+
+                var folder = result.Items.Where(x => x.Type == 0).ToList();
+
+                result.Items = result.Items.Where(x => x.Type == 1).ToList();
+                foreach (var subFolder in folder)
+                {
+                    var subFolderContent = await GetFilesInFolder(subFolder.LinkCode);
+                    result.Items.AddRange(subFolderContent.Items);
                 }
                 return result;
             }
             catch(Exception ex)
             {
+                Console.WriteLine("err" + ex.Message);
 
             }
             return null;
@@ -308,7 +336,7 @@ namespace ConceptDownloader.Services
             };
         }
 
-        public async Task<FShareFile> GetFShareFileInfo(string url, bool userAccount= false)
+        public async Task<FShareFile> GetFShareFileInfo(string url, bool userAccount= false, int retry =0)
         {
             string fshareApi = url.Replace("https://www.fshare.vn/file/", "https://www.fshare.vn/api/v3/files/folder?linkcode=");
             if (fshareApi == url) return null;
@@ -317,7 +345,7 @@ namespace ConceptDownloader.Services
                 string json = "";
                 if (userAccount)
                 {
-                    json = await Get(fshareApi, true);
+                    json = await Get(fshareApi, true );
                 }
                 else
                 {
@@ -332,6 +360,7 @@ namespace ConceptDownloader.Services
             catch (Exception ex)
             {
                 Console.WriteLine("GetFShareFileInfo " + ex.Message);
+                if (retry < 3) return await GetFShareFileInfo(url, userAccount, retry + 1);
                 return null;
             }
         }
@@ -354,7 +383,7 @@ namespace ConceptDownloader.Services
                 logged = await Login();
             }
             string vipUrl = "";
-            vipUrl = await GetDownloadLink(url);
+            // vipUrl = await GetDownloadLink(url);
             if (string.IsNullOrEmpty(vipUrl))  {
                 var html = await Get(url);
                 var token = ExtractToken(html);
@@ -367,13 +396,19 @@ namespace ConceptDownloader.Services
                 {"fcode",string.Empty},
             });
                 var response = FShareGetLinkResponse.FromJson(json);
+                vipUrl = response.Url;
             }
+            if (string.IsNullOrEmpty(vipUrl)) return null;
             var fi = await GetFShareFileInfo(url);
+            if(fi == null)
+            {
+
+            }
 
             return new DownloadableItem()
             {
-                Name = fi.Name,
-                Size = fi.Size.Value,
+                Name = fi != null? fi.Name : Path.GetFileName(vipUrl),
+                Size = fi != null ? fi.Size.Value : 0,
                 Url = vipUrl
             };
 

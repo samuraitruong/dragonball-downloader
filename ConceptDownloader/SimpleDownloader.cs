@@ -142,6 +142,7 @@ namespace ConceptDownloader
             {
                 token.ThrowIfCancellationRequested();
                 await Task.Delay(1500, token);
+                token.ThrowIfCancellationRequested();
                 if ((DateTime.Now - lastStatusUpdate).TotalMilliseconds > 1000)
                 {
                     WriteStatus(getList(), 0, toggleBlink: flag);
@@ -159,14 +160,15 @@ namespace ConceptDownloader
             foreach (var target in folderToCheck)
             {
                 var fullpath = Path.Combine(target, filename);
-                if (File.Exists(fullpath)) return true;
+                var fi = new FileInfo(fullpath);
+
+                if (fi.Exists && fi.Length >0) return true;
             }
             return false;
         }
 
         static string DownloadFileWithMultipleThread(string url, string ouputFilename, string folder, List<string> checkFolders = null, int thread = 10, long chunkSize = 1024000)
         {
-
             string filename = Path.GetFileName(HttpUtility.UrlDecode(url));
             if (!string.IsNullOrEmpty(ouputFilename))
             {
@@ -326,6 +328,7 @@ namespace ConceptDownloader
 
                 if(!lResult.IsCompleted)
                 {
+                    cts.Cancel();
                     throw new DownloadException("File download not completed");
                 }
             }
@@ -346,6 +349,11 @@ namespace ConceptDownloader
                 //{
                 File.Move(tempFile, output);
                 File.Delete(logFile);
+                var fi = new FileInfo(output);
+                if(fi.Length < totalSizeBytes) {
+                    throw new DownloadException($"File size check it not pass. expected: {totalSizeBytes} , actual: {fi.Length}");
+                }
+                //string line = $"{}"
                 //});
             }
             return output;
@@ -481,7 +489,7 @@ namespace ConceptDownloader
             string title = $"{indexCount} | {totalItems} | {threadsCount} | {currentUrl} ==> {options.Output}";
             Console.Title = title;
         }
-        private static DownloadableItem GetDownloadableItem(string url, string preferServiceName = null)
+        private static async Task<DownloadableItem> GetDownloadableItem(string url, string preferServiceName = null)
         {
             foreach (var service in supportedServices)
             {
@@ -490,7 +498,7 @@ namespace ConceptDownloader
                     var attributes = service.GetType().GetCustomAttributes(true).Cast<ServiceAttribute>().ToList();
                     if (attributes.Count > 0 && attributes[0].Name != preferServiceName) continue;
                 }
-                var output = service.GetLink(url).Result;
+                var output = await service.GetLink(url);
                 if (output != null)
                 {
                     output.Name = HttpUtility.UrlDecode(output.Name);
@@ -501,10 +509,26 @@ namespace ConceptDownloader
         }
         public static async Task Run(ApplicationArguments inputOptions)
         {
+            options = inputOptions;
+
+            var list = inputOptions.Url.Split(",;".ToCharArray(), StringSplitOptions.RemoveEmptyEntries);
+            var historyItems = new List<string>();
+            if(File.Exists(inputOptions.HistoryFile))
+            {
+                historyItems = File.ReadAllLines(options.HistoryFile).ToList();
+            }
+            if (list.Length > 1)
+            {
+                foreach (var item in list)
+                {
+                    inputOptions.Url = item;
+                    await Run(inputOptions);
+                }
+                return;
+            }
             totalItems = 0;
             indexCount = 0;
             threadsCount = 0;
-            options = inputOptions;
             List<DownloadableItem> urlsToDownload = new List<DownloadableItem>();
             //TODO refactore to better code because it gonna messup if more site .
             var fs = new Fshare(options.LinkServiceUsername, options.LinkServicePassword);
@@ -544,7 +568,7 @@ namespace ConceptDownloader
                                 .FirstOrDefault();
                         });
 
-
+                        Console.WriteLine("Total file to download" +  listItem.Count);
                         urlsToDownload.AddRange(filtered.Where(x => x != null));
                     }
                     else
@@ -582,71 +606,93 @@ namespace ConceptDownloader
             bool continueAlready = false;
             foreach (var item in urlsToDownload)
             {
-                currentUrl = item.Url;
-                indexCount++;
-                var downloadableItem = item;
-                if (!continueAlready &&
-                !string.IsNullOrEmpty(options.ContinueFrom) && (
-                    !item.Url.ToLower().Contains(options.ContinueFrom.ToLower()) || (
-                        !string.IsNullOrEmpty(item.Name) && !item.Name.ToLower().Contains(options.ContinueFrom.ToLower())
-                    )))
-                {
-                    continue;
-                }
-                continueAlready = true;
-                if (!string.IsNullOrEmpty(options.Filter) &&
-                !item.Name.ToLower().Contains(options.Filter.ToLower())) continue;
-
-                if (options.Excludes.Exists(x => item.Url.ToLower().Contains(x.ToLower(), StringComparison.CurrentCulture)) || 
-                (!string.IsNullOrEmpty(item.Name) && options.Excludes.Exists(x => item.Name.ToLower().Contains(x.ToLower(), StringComparison.CurrentCulture))))
-                {
-                    continue;
-                }
-                Console.Clear();
-                if (fs.IsFShareFile(item.Url))
-                {
-                    if (string.IsNullOrEmpty(item.Name))
+                try {
+                    currentUrl = item.Url;
+                    indexCount++;
+                    var downloadableItem = item;
+                    if (historyItems.Any(x => x == currentUrl)) continue;
+                    if (!continueAlready &&
+                    !string.IsNullOrEmpty(options.ContinueFrom) && (
+                        !item.Url.ToLower().Contains(options.ContinueFrom.ToLower()) || (
+                            !string.IsNullOrEmpty(item.Name) && !item.Name.ToLower().Contains(options.ContinueFrom.ToLower())
+                        )))
                     {
-                        item.Name = (await fs.GetFShareFileInfo(item.Url)).Name;
+                        continue;
                     }
-                    //check existing here 
-                    var filename = Path.Combine(options.Output, item.Name);
-                    if (File.Exists(filename)) continue;
-                    waitingQueue.Enqueue(true);
-                    Console.WriteLine("Fetching fshare file information: " + item.Url, Color.DarkMagenta);
-                    Console.Write("Please wait......", Color.DarkOrange);
+                    continueAlready = true;
+                    if (!string.IsNullOrEmpty(options.Filter) &&
+                    !item.Name.ToLower().Contains(options.Filter.ToLower())) continue;
+
+                    if (options.Excludes.Exists(x => item.Url.ToLower().Contains(x.ToLower(), StringComparison.CurrentCulture)) ||
+                    (!string.IsNullOrEmpty(item.Name) && options.Excludes.Exists(x => item.Name.ToLower().Contains(x.ToLower(), StringComparison.CurrentCulture))))
+                    {
+                        continue;
+                    }
+                    Console.Clear();
+                    if (fs.IsFShareFile(item.Url))
+                    {
+                        if (string.IsNullOrEmpty(item.Name))
+                        {
+                            item.Name = (await fs.GetFShareFileInfo(item.Url)).Name;
+                        }
+                        //check existing here 
+                        var filename = Path.Combine(options.Output, item.Name);
+                        if (File.Exists(filename) || historyItems.Contains(item.Name))
+                        {
+                            if (!string.IsNullOrEmpty(options.HistoryFile))
+                            {
+                                File.AppendAllLines(options.HistoryFile, new List<string> { currentUrl });
+                            }
+                            continue;
+
+                        }
+                        waitingQueue.Enqueue(true);
+                        Console.WriteLine("Fetching fshare file information: " + item.Url, Color.DarkMagenta);
+                        Console.Write("Please wait......", Color.DarkOrange);
 #pragma warning disable CS4014 // Because this call is not awaited, execution of the current method continues before the call is completed
-                    WriteWaiting();
+                        WriteWaiting();
 #pragma warning restore CS4014 // Because this call is not awaited, execution of the current method continues before the call is completed
 
-                    var fi = GetDownloadableItem(downloadableItem.Url, options.GetLinkService);
-                    waitingQueue.Clear();
+                        var fi = await GetDownloadableItem(downloadableItem.Url, options.GetLinkService);
+                        waitingQueue.Clear();
 
-                    if (fi == null) continue;
-                    downloadableItem = fi;
-                    downloadableItem.Name = downloadableItem.Name != null ? downloadableItem.Name : item.Name;
+                        if (fi == null) continue;
+                        downloadableItem = fi;
+                        downloadableItem.Name = downloadableItem.Name != null ? downloadableItem.Name : item.Name;
+                    }
+
+                    UpdateConsoleTitle();
+                    Console.Clear();
+                    int retry = 0;
+                    bool hasError = false;
+                    threadsCount = 0;
+                    do
+                    {
+                        try
+                        {
+                            hasError = false;
+                            if (!string.IsNullOrEmpty(options.RenameTo)) downloadableItem.Name = options.RenameTo;
+                            // Console.WriteLine(item.Url);
+                            DownloadFileWithMultipleThread(downloadableItem.Url, downloadableItem.Name, options.Output, options.AlternativeOutputs, options.Thread, options.Buffer);
+                        }
+                        catch (DownloadException dle)
+                        {
+                            hasError = true;
+                            Console.WriteLine(dle.Message);
+                        }
+                        if(!hasError && !string.IsNullOrEmpty(options.HistoryFile))
+                        {
+                            File.AppendAllLines(options.HistoryFile, new List<string> { currentUrl, item.Name });
+                        }
+                    } while (retry < options.Retry && hasError);
                 }
-
-                UpdateConsoleTitle();
-                Console.Clear();
-                int retry = 0;
-                bool hasError = false;
-                do
+                catch(Exception ex)
                 {
-                    try
-                    {
-                        hasError = false;
-                        if (!string.IsNullOrEmpty(options.RenameTo)) downloadableItem.Name = options.RenameTo;
-                        // Console.WriteLine(item.Url);
-                        DownloadFileWithMultipleThread(downloadableItem.Url, downloadableItem.Name, options.Output, options.AlternativeOutputs, options.Thread, options.Buffer);
-                    }
-                    catch (DownloadException dle)
-                    {
-                        hasError = true;
-                        Console.WriteLine(dle.Message);
-                    }
-                } while (retry < options.Retry && hasError);
+
+                }
             }
+
+            Console.WriteLine("Download process finished. Good bye!!!", Color.Magenta);
         }
     }
 }

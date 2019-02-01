@@ -18,7 +18,7 @@ namespace ConceptDownloader
         [Option('c', "crawl-mode", Default = false, Required = false, HelpText = "Download in crawl mode that collect links from html page and download em all")]
         public bool CrawlMode { get; set; }
 
-        [Option( "extract-link-mode", Default = false, Required = false, HelpText = "Extract link from webpage or gist file")]
+        [Option("extract-link-mode", Default = false, Required = false, HelpText = "Extract link from webpage or gist file")]
         public bool ExtractLinkMode { get; set; }
 
         [Option('f', "filter", Required = false, HelpText = "Filter the link to download in crawl mode (ex :.mkv)")]
@@ -49,7 +49,8 @@ namespace ConceptDownloader
         public string LinkServicePassword { get; set; }
         [Option("link-service-re-login", Default = false, HelpText = "For link service to relogin account instead of using cookies", Required = false)]
         public bool GetLinkServiceReLogin { get; set; }
-
+        [Option('h', "history-file", Default = "download.log", HelpText = "File to keep track all the url and filename that program has successful download", Required = false)]
+        public string HistoryFile { get; set; }
         public List<string> Excludes
         {
             get

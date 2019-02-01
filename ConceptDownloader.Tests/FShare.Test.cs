@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Threading.Tasks;
 using ConceptDownloader.Services;
 using Xunit;
@@ -40,7 +41,18 @@ namespace ConceptDownloader.Tests
             Assert.NotNull(result);
             Assert.NotEmpty(result.Items);
             Assert.Equal(131, result.Items.Count);
+            Assert.Equal("Dragon Ball Super - 125 [1080p].mp4", result.Items.First().Name);
+            Assert.Equal("[Son Goku Fanpage] Dragon Ball Super - 131v2 END [1080p].mp4", result.Items.Last().Name);
             //Assert.Equal("Nan.bei.Shao.Lin.1986.1080p.BluRay.x264-WiKi.srt", result);
+        }
+
+        [Fact]
+        public async Task GetFileInFolder_Has_SubFolder_Should_Success()
+        {
+            var fs = new Fshare(username, password);
+            var result = await fs.GetFilesInFolder("https://www.fshare.vn/folder/75VPKIITBSQ2");
+            Assert.NotNull(result);
+            Assert.NotEmpty(result.Items);
         }
         [Fact]
         public async Task Login_Should_Success()
