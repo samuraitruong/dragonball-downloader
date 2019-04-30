@@ -20,7 +20,9 @@ namespace LinkFetcher
             //RunFshareInfo();
             // MakeCSV();
             //HDVietNameTopic("").Wait();
-            ExtractFshareFolder();
+            // ExtractFshareFolder();
+
+            GetImdb250FshareLink().Wait();
         }
         static void MakeCSV()
         {
@@ -112,6 +114,30 @@ namespace LinkFetcher
 
             });
         }
+
+        static async Task GetImdb250FshareLink()
+        {
+            var dhvn = new HDVietNam("samuraitruong", "250538804");
+            var logged = await dhvn.Login();
+            Console.WriteLine("Logged successfull....");
+
+            var l250 = await dhvn.GetLinksIntContent("http://www.hdvietnam.com/threads/collection-top-250-best-movies-of-imdb-720p-1080p-remux-250-phim-xep-hang-cao-nhat-theo-imdb.1406130/", 1);
+            l250.WriteTo("dd.json");
+            Console.WriteLine("found" + l250.Count.ToString());
+
+            l250.Dump();
+            var all2050links = dhvn.GetMovieLinks(l250);
+
+
+            var links1 = await dhvn.GetMovieLinks("http://www.hdvietnam.com/threads/hanh-dong-chinh-kich-fight-club-1999-1080p-edt-bluray-dts-x264-d-z0n3-cau-lac-bo-chien-dau.1413883/");
+            //links1.Dump();
+            var csvData = all2050links.SelectMany(x => x.Links.Where(y => y.FileSize > 0).Select(link => $"{x.Name},{link.Url}, {link.Name}, {link.Size}")).ToList();
+            var nolinks = all2050links.Where(x => x.Links.Count == 0).Select(y => y.Url).ToList();
+            nolinks.WriteTo("IMDB_250_NOLINK.json");
+            File.WriteAllLines("IMDB250_1.csv", csvData);
+            all2050links.WriteTo("imdb250_1.json");
+
+        }
         static async Task Run()
         {
             var dhvn = new HDVietNam("samuraitruong", "250538804");
@@ -160,16 +186,7 @@ namespace LinkFetcher
             fshareLinks.Dump();
             fshareLinks.WriteTo("haha.json");
             return;
-            var l250 = await dhvn.GetLinksIntContent("http://www.hdvietnam.com/threads/collection-top-250-best-movies-of-imdb-720p-1080p-remux-250-phim-xep-hang-cao-nhat-theo-imdb.1406130/");
-            l250.Dump();
-            var all2050links = dhvn.GetMovieLinks(l250);
-            //var links1 = await dhvn.GetMovieLinks("http://www.hdvietnam.com/threads/hanh-dong-chinh-kich-fight-club-1999-1080p-edt-bluray-dts-x264-d-z0n3-cau-lac-bo-chien-dau.1413883/");
-            //links1.Dump();
-            var csvData = all2050links.SelectMany(x => x.Links.Where(y => y.FileSize > 0).Select(link => $"{x.Name},{link.Url}, {link.Name}, {link.Size}")).ToList();
-            File.WriteAllLines("IMDB250.csv", csvData);
-            all2050links.WriteTo("imdb250.json");
 
-            return;
 
             var t = new TaiPhimHD("samuraitruong@hotmail.com", "@Abc123$");
             var l = await t.Login();

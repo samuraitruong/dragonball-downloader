@@ -61,7 +61,7 @@ namespace LinkFetcher
             {
                 Console.WriteLine("Get content: " + url + "\tRetrying #" + retry);
                 Console.WriteLine(ex.Message);
-                await Task.Delay(1000 * (retry +1));
+                await Task.Delay(1000 * (retry + 1));
                 if (retry < 5) return await Get(url, retry + 1);
             }
             return null;
@@ -70,24 +70,33 @@ namespace LinkFetcher
         public List<MovieItem> GetMovieLinks(List<Item> list)
         {
             ConcurrentBag<MovieItem> movieItems = new ConcurrentBag<MovieItem>();
-            Parallel.ForEach(list, new ParallelOptions() { MaxDegreeOfParallelism = 5 }, topic =>
-           {
-               try
-               {
-                   var movie = GetMovieLinks(topic.Url).Result;
-                   if (movie != null)
-                   {
-                       movieItems.Add(movie);
-                       movie.Dump();
-                   }
-               }
-               catch (Exception ex)
-               {
-                   Console.WriteLine("********************  ERROR  ************");
-                   Console.Write(topic.Url);
-                   throw ex;
-               }
-           });
+            Parallel.ForEach(list.Where(x => x != null), new ParallelOptions() { MaxDegreeOfParallelism = 5 }, topic =>
+            {
+                if (topic == null || topic.Url == null) return;
+                try
+                {
+                    var movie = GetMovieLinks(topic.Url).Result;
+                    if (movie != null)
+                    {
+                        movieItems.Add(movie);
+                        movie.Dump();
+                        if (movie.Links.Count == 0 || movie.Links.Where(x => x.FileSize > 0).Count() == 0)
+                        {
+                            Console.WriteLine("****** No Link found " + topic.Url, ConsoleColor.Yellow);
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("### Movie not found " + topic.Url);
+                    };
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("********************  ERROR  ************" + ex.Message + ex.StackTrace);
+                    Console.WriteLine(topic.Url);
+                    throw ex;
+                }
+            });
 
             return movieItems.ToList();
         }
@@ -179,36 +188,58 @@ namespace LinkFetcher
                     if (!string.IsNullOrEmpty(match.Value))
                     {
                         var totalPage = Convert.ToInt32(match.Groups[1].Value);
-                        Parallel.ForEach(Enumerable.Range(2, totalPage - 1), new ParallelOptions() { MaxDegreeOfParallelism = 8 } , pn =>
-                         {
-                             var subList = GetLinks(url, pn).Result;
-                             subList.ForEach(x => items.Add(x));
-                         });
+                        Parallel.ForEach(Enumerable.Range(2, totalPage - 1), new ParallelOptions() { MaxDegreeOfParallelism = 8 }, pn =>
+                        {
+                            var subList = GetLinks(url, pn).Result;
+                            subList.ForEach(x => items.Add(x));
+                        });
 
                     }
                 }
                 return items.ToList();
             }
-            catch(Exception ex) { }
+            catch (Exception ex) { }
             return new List<Item>();
         }
-        public async Task<List<Item>> GetLinksIntContent(string url)
+        public async Task<List<Item>> GetLinksIntContent(string url, int page = 0)
         {
-            var requestUrl = url;
+            var requestUrl = url.Trim('/');
+            if (page > 1)
+            {
+                requestUrl += "/page-" + page;
+            }
+
             Console.WriteLine("--- Reading list content from " + requestUrl);
             var html = await Get(requestUrl);
             var doc = new HtmlDocument();
             doc.LoadHtml(html);
             ConcurrentBag<Item> items = new ConcurrentBag<Item>();
             var nodes = doc.DocumentNode.SelectNodes("//*[@class='messageContent']//a");
-            var result = nodes.Cast<HtmlNode>().Select(x => new Item()
+            if (nodes != null)
             {
-                Name = x.InnerText.Trim(),
-                Url = x.GetAttributeValue("href", "")
-            }).ToList();
+                var result = nodes.Cast<HtmlNode>().Select(x => new Item()
+                {
+                    Name = x.InnerText.Trim(),
+                    Url = x.GetAttributeValue("href", "")
+                }).ToList();
+                result.ForEach(x => items.Add(x));
+            }
+            if (page == 0)
+            {
+                var match = Regex.Match(html, "Trang 1 của (\\d*) trang");
+                if (!string.IsNullOrEmpty(match.Value))
+                {
+                    var totalPage = Convert.ToInt32(match.Groups[1].Value);
+                    Parallel.ForEach(Enumerable.Range(2, totalPage - 1), new ParallelOptions() { MaxDegreeOfParallelism = 8 }, pn =>
+                    {
+                        var subList = GetLinksIntContent(url, pn).Result;
+                        subList.ForEach(x => items.Add(x));
+                    });
 
+                }
+            }
 
-            return result.Where(x => x.Url.Contains("/threads/"))
+            return items.Where(x => x.Url.Contains("/threads/"))
             .GroupBy(x => x.Url, (key, groupedItems) => groupedItems.FirstOrDefault())
             .ToList();
         }
@@ -219,7 +250,7 @@ namespace LinkFetcher
             {
                 Console.WriteLine("*** Reading topic  details: " + url);
                 var html = await Get(url);
-                if(string.IsNullOrEmpty(html)) throw new Exception("HTTP_ERROR");
+                if (string.IsNullOrEmpty(html)) throw new Exception("HTTP_ERROR");
                 var doc = new HtmlDocument();
                 doc.LoadHtml(html);
                 // find the thanks button
@@ -236,44 +267,42 @@ namespace LinkFetcher
                 var links = new List<string>();
                 var pageNumberMatch = Regex.Match(html, "Trang 1 của (\\d*) trang");
                 int totalPage = 1;
-                if(pageNumberMatch.Success)
+                if (pageNumberMatch.Success)
                 {
                     totalPage = Convert.ToInt32(pageNumberMatch.Groups[1].Value);
                 };
                 var allLikeNode = likeNode.Cast<HtmlNode>();
 
-            
+
                 if (likeNode != null)
                 {
-                    Parallel.ForEach(totalPage >5? allLikeNode: allLikeNode.Take(2), new ParallelOptions() { MaxDegreeOfParallelism = 10}, item =>
-                    {
+                    Parallel.ForEach(totalPage > 5 ? allLikeNode : allLikeNode.Take(2), new ParallelOptions() { MaxDegreeOfParallelism = 10 }, item =>
                         {
-                            if (item.HasClass("unlike")) return;
+                            {
+                                if (item.HasClass("unlike")) return;
 
-                            var dataContainer = item.GetAttributeValue("data-container", "");
-                            var postId = dataContainer.Replace("#likes-post-", "");
-                            likeCount.Enqueue(postId);
-                            var data = new Dictionary<string, string>()
-                                {
+                                var dataContainer = item.GetAttributeValue("data-container", "");
+                                var postId = dataContainer.Replace("#likes-post-", "");
+                                likeCount.Enqueue(postId);
+                                var data = new Dictionary<string, string>()
+                                    {
                                     {"_xfNoRedirect","1"},
                                     {"_xfToken",token},
                                     {"_xfResponseType","json"},
                                     {"_xfRequestUri",url.Replace("http://www.hdvietnam.com/", string.Empty)},
 
-                                };
+                                    };
 
-                            // Console.WriteLine("Like post " + postId);
+                                // Console.WriteLine("Like post " + postId);
 
-                            var json1 = Post($"http://www.hdvietnam.com/posts/{postId}/like", data).Result;
+                                var json1 = Post($"http://www.hdvietnam.com/posts/{postId}/like", data).Result;
 
-                        }
-                    });
+                            }
+                        });
                     if (likeCount.Count > 0)
                     {
-                        // Console.WriteLine("Getting secured content after like all post : " + url);
-                        //var json = await Post($"http://www.hdvietnam.com/posts/{movies.Id}/like-hide-check", data);
                         html = await Get(url);
-if(string.IsNullOrEmpty(html)) throw new Exception("HTTP_ERROR");
+                        if (string.IsNullOrEmpty(html)) throw new Exception("HTTP_ERROR");
                     }
 
                     var pattern = "https?:\\/\\/w?w?w?\\.?fshare\\.vn\\/(file|folder)\\/([A-Z0-9]*)";
@@ -282,17 +311,13 @@ if(string.IsNullOrEmpty(html)) throw new Exception("HTTP_ERROR");
 
                 }
 
-                //fetch folder
-                //pattern = "https?:\\/\\/w?w?w?\\.?fshare\\.vn\\/folder\\/([A-Z0-9]*)";
-                //matches = Regex.Matches(html, pattern);
-
-
                 ConcurrentBag<string> results = new ConcurrentBag<string>();
                 if (page == 1)
                 {
                     if (!string.IsNullOrEmpty(pageNumberMatch.Value) && pageNumberMatch.Success)
                     {
-                        if (totalPage > 5) { 
+                        if (totalPage > 5)
+                        {
                             Parallel.ForEach(Enumerable.Range(2, totalPage - 1), new ParallelOptions() { MaxDegreeOfParallelism = 5 }, pn =>
                              {
                                  var subList = GetFshareLink(sourceUrl, pn).Result;
@@ -310,7 +335,7 @@ if(string.IsNullOrEmpty(html)) throw new Exception("HTTP_ERROR");
             {
                 Console.WriteLine("#### ERROR ####" + url);
                 Console.WriteLine(ex.Message + ex.StackTrace);
-                if(ex.Message == "HTTP_ERROR") throw ex;
+                if (ex.Message == "HTTP_ERROR") throw ex;
             }
             return new List<string>();
 
@@ -349,13 +374,9 @@ if(string.IsNullOrEmpty(html)) throw new Exception("HTTP_ERROR");
                     Console.WriteLine("Liking topic post...");
 
                     var json1 = await Post($"http://www.hdvietnam.com/posts/{movies.Id}/like", data);
+                    Console.WriteLine("... Getting secured content");
+                    html = await Get(url);
                 }
-
-                Console.Write("... Getting secured content");
-
-
-                //var json = await Post($"http://www.hdvietnam.com/posts/{movies.Id}/like-hide-check", data);
-                html = await Get(url);
 
                 var pattern = "https?:\\/\\/w?w?w?\\.?fshare\\.vn\\/file\\/([A-Z0-9]*)";
                 var matches = Regex.Matches(html, pattern);
@@ -383,8 +404,13 @@ if(string.IsNullOrEmpty(html)) throw new Exception("HTTP_ERROR");
                         }));
                     }
                 }
+                // should distinct before fetch
+                var ht = new ConcurrentBag<string>();
+
                 Parallel.ForEach(movies.Links.Where(x => x.FileSize == 0), link =>
                 {
+                    if (ht.Contains(link.Url)) return;
+                    ht.Add(link.Url);
                     var li = FShare.GetFShareFileInfo(link.Url).Result;
                     if (li != null)
                     {
